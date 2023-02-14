@@ -1,0 +1,237 @@
+[
+  {
+    "Id": "66e24039-d751-49ba-b625-9a8cfde2b23b",
+    "ToolName": "GPT3 Playground",
+    "ToolDescription": "Enter an instruction or select a preset, and watch the API respond with a completion that attempts to match the context or pattern you provided.\nYou can control which model completes your request by changing the model.",
+    "ToolShortDescription": "OpenAI's GPT3 Playground",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-06T00:00:00",
+    "FavCount": 68,
+    "TagsIndex": [
+      "writing-assistant",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "API",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://platform.openai.com/playground?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/07088feeaaadb9261ff821d59aed40b1fe16acf2-1898x961.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "b3f9af1c-61a6-4159-8c71-5cce25cc7c58",
+    "ToolName": "WTF Does This Company Do?",
+    "ToolDescription": "Explains landing pages by just entering the domain. This world needs better copywriters for landing pages but till then we have good ol’ gpt-3 to help us out.\n",
+    "ToolShortDescription": "Explains a landing page using just the domain.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-06T00:00:00",
+    "FavCount": 136,
+    "TagsIndex": [
+      "life-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://wtfdoesthiscompanydo.vercel.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4f427a8c1cbc84941feb896bd956fa418e4b8b3f-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "ccefc3e6-969f-48d7-a938-48a98fd4c602",
+    "ToolName": "Humata AI",
+    "ToolDescription": "Upload a PDF and get answers from it. \nCreate Reports 100X Faster. Understand Technical Documents 100X Faster. Analyze Legal Documents 100X Faster",
+    "ToolShortDescription": "ChatGPT for your files.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-06T00:00:00",
+    "FavCount": 287,
+    "TagsIndex": [
+      "research-assistant",
+      "legal-assistant",
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "research",
+      "legal assistant",
+      "education assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.humata.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7693139299ce48f707146e71a920a890771ccc72-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "c54ba7da-b750-402b-b775-e252a6f58c84",
+    "ToolName": "Brain.fm",
+    "ToolDescription": "Brain.fm’s focus music is made to help you work better, by blending into the background so you can focus distraction-free. All while stimulating the brain with gentle rhythmic pulses in the music that support sustained attention.",
+    "ToolShortDescription": "AI Music to improve focus, meditation and sleep.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-02-04T00:00:00",
+    "FavCount": 33,
+    "TagsIndex": [
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "music"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://my.brain.fm/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/040133d60dddf4e73549bfe947ac8def9bec6ca3-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "656d04e2-5f01-48f9-9b59-43e97538e3ea",
+    "ToolName": "Maps GPT",
+    "ToolDescription": "Helps users quickly find and explore interesting places near them using AI. Type in what you're looking for, where you're looking for it, and your email. The app will send you a custom map with what you're looking for. The map is curated from aggregated data.",
+    "ToolShortDescription": "Quickly find and explore interesting places near them",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-03T00:00:00",
+    "FavCount": 147,
+    "TagsIndex": [
+      "life-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.mapsgpt.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0a6652819ee8b78e384fd308a80c1a2e8f59374e-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "791cbe22-8da1-48b9-aa83-872a2fd8d89e",
+    "ToolName": "Deep Nostalgia",
+    "ToolDescription": "Animate the faces in your family photos with an incredible technology. The tool has  done over 106 million animations and counting!\nThe remarkable technology for animating photos was licensed by MyHeritage from D-ID, a company specializing in video reenactment using deep learning. Deep Nostalgia™ can very accurately apply the drivers to a face in your still photo, creating a short video that you can share with your friends and family.\n\n",
+    "ToolShortDescription": "Animate the faces in your family photos with an incredible technology",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-03T00:00:00",
+    "FavCount": 96,
+    "TagsIndex": [
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "fun tools"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://www.myheritage.fr/deep-nostalgia?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/126629c8ac5066ac009e1c5635578e3dcd5b72cb-1628x895.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c08bc78d-e883-44ba-8598-806fcf3b143c",
+    "ToolName": "Yoodli AI",
+    "ToolDescription": "Improve your communication skills with personalized and private feedback from their AI speech coach.",
+    "ToolShortDescription": "AI speech coach helps you improve your communication skills with feedback",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-03T00:00:00",
+    "FavCount": 105,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://app.yoodli.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4c0871d865b637a4b8483ce768b1c65c80285eb4-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "5efe1de9-44d6-4bc3-956b-fece127f037d",
+    "ToolName": "Pebblely",
+    "ToolDescription": "Pebblely is an AI tool that turns boring product images into beautiful marketing assets in just seconds. The AI creates backgrounds based on your uploaded images and adds shadows and reflections accordingly.",
+    "ToolShortDescription": "Create Instagram-worthy snapshots of any product with the click of a button!",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-02-01T00:00:00",
+    "FavCount": 94,
+    "TagsIndex": [
+      "image-generator",
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "image editing"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://app.pebblely.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6f9a81457df2df9a668be051dedfc56ac0abaea5-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "6722fde9-29b9-477d-b4d3-a69ce5da83d4",
+    "ToolName": "Cron AI",
+    "ToolDescription": "Generate cron jobs by just describing how often you want them to run.",
+    "ToolShortDescription": "Words to cron expression",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-01T00:00:00",
+    "FavCount": 86,
+    "TagsIndex": [
+      "code-assistant",
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "code assistant",
+      "developer tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required",
+      "Open Source"
+    ],
+    "WebsiteUrl": "https://cron-ai.vercel.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/955053e9e3f9eee0d95c9e4663528f0741469e91-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

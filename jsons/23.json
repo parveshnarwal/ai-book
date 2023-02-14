@@ -1,0 +1,221 @@
+[
+  {
+    "Id": "8e9a9659-8312-467f-bb47-54ece4441bfc",
+    "ToolName": "fireflies.ai",
+    "ToolDescription": "AI assistant for your meetings\nRecord, transcribe, and search across your voice conversations.",
+    "ToolShortDescription": "AI assistant to record, transcribe, and search your meetings.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-05T00:00:00",
+    "FavCount": 201,
+    "TagsIndex": [
+      "transcriber",
+      "productivity",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "transcriber",
+      "productivity",
+      "search engine"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://fireflies.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f064956df0d06b6462e58753a7c4b8d435d503af-1846x913.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "8dd167c5-f20a-4b43-ae39-10238f9d5ae0",
+    "ToolName": "StoriesForKids",
+    "ToolDescription": "Read & Create Together.\nTurn real-life situations into fun stories & illustrations in seconds on your phone.",
+    "ToolShortDescription": "Create stories & illustrations from real-life situations on your phone.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-01T00:00:00",
+    "FavCount": 137,
+    "TagsIndex": [
+      "storyteller"
+    ],
+    "ToolCategories": [
+      "story teller"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.storiesforkids.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/08b490567178c2b52fcd6277c25a04fa4548a9c9-1452x945.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "8bcc7b61-1f6a-4ff0-8501-551bdf776eb9",
+    "ToolName": "CandyIcons",
+    "ToolDescription": "Find beautiful app icons for your product.\nAccess our massive collection of stunning app icons and choose the ones you like best.\nYou get full copyright ownership and unique high-quality icons that support iOS, macOS, and Android projects. There is also a customized favicon generator.",
+    "ToolShortDescription": "Get full copyright ownership of unique, high-quality app icons",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-05T00:00:00",
+    "FavCount": 63,
+    "TagsIndex": [
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.candyicons.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/89a50fefaf0d1977970a4e71799dc1add49b9c1c-1878x920.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "7521f2a9-129a-4c34-98a0-e5d1620c5cf9",
+    "ToolName": "DoNotPay",
+    "ToolDescription": "The World's First Robot Lawyer.\nThe DoNotPay app is the home of the world's first robot lawyer. Fight corporations, beat bureaucracy and sue anyone at the press of a button.",
+    "ToolShortDescription": "Robot lawyer helps fight corporations and beat bureaucracy",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-17T00:00:00",
+    "FavCount": 314,
+    "TagsIndex": [
+      "legal-assistant"
+    ],
+    "ToolCategories": [
+      "legal assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://donotpay.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ed355954c171b37d7b0b7213b1a2d8afcca3aaae-1772x932.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "6e62c6cc-1498-41f4-b9ae-25a3ace842ce",
+    "ToolName": "Alfred",
+    "ToolDescription": "Alfred is a GPT Chat Assistant for iOS. It is a new AI-powered search and content creation engine, combining ads-free search and content creation into one easy-to-use app experience. Powered by OpenAI's groundbreaking GPT-3, Alfred understands your natural language and provides accurate and relevant answers. With Alfred, searching and finding information has never been easier or more convenient. Try it now and experience the future of search and content creation.",
+    "ToolShortDescription": "Alfred is an AI-powered search & content creation app",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-24T00:00:00",
+    "FavCount": 174,
+    "TagsIndex": [
+      "productivity"
+    ],
+    "ToolCategories": [
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://www.alfredsearch.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/55e8c3b1a821ef319b52b82db6deec5b6902b6f1-1865x941.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "6b27dd64-9403-4e51-a144-ddf02492c839",
+    "ToolName": "Brancher AI",
+    "ToolDescription": "Making AI accessible to all by giving users the ability connect AI models together and produce unique AI-powered app. Monetize & share your creations with the world.",
+    "ToolShortDescription": "Create & monetize AI-powered apps by connecting AI models",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-26T00:00:00",
+    "FavCount": 211,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.brancher.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e10493c747bdc06ef2285ee582d24b3ef424616a-1835x960.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "68f81721-09dc-42f7-aefd-0b1e52e1de57",
+    "ToolName": "Detect GPT",
+    "ToolDescription": "Find out if the pages you browse contain AI-generated content.\nDetect GPT scans the content of the webpage you are viewing and analyzes it to identify if any of the content has been generated using the GPT language model.",
+    "ToolShortDescription": "Detect if webpage content is AI-generated",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-23T00:00:00",
+    "FavCount": 510,
+    "TagsIndex": [
+      "writing-assistant",
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "SEO"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg/related?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/93eb6b72d3ffdfc6e58686fb54ec77a60cf62959-640x400.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "6514410e-d545-4c34-a87b-418c89ed7397",
+    "ToolName": "MarbleFlows",
+    "ToolDescription": "AI-generated forms to convert more leads. ",
+    "ToolShortDescription": "AI-generated forms to convert more leads.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-24T00:00:00",
+    "FavCount": 309,
+    "TagsIndex": [
+      "sales-assistant"
+    ],
+    "ToolCategories": [
+      "sales"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://app.marbleflows.com/ai-generator?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/906d6179936ee594c56b9edaf442019dd051a3c3-1820x941.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "5e4e368f-042b-450c-a8b1-9aa93d1f541c",
+    "ToolName": "Penelope AI",
+    "ToolDescription": "A sophisticated AI writing assistant. Speed up your writing effortlessly - Paraphrase, Summarize, Generate a story or AI autocomplete.",
+    "ToolShortDescription": "Speed up writing with paraphrasing, summarizing and story generation",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-23T00:00:00",
+    "FavCount": 124,
+    "TagsIndex": [
+      "writing-assistant",
+      "paraphraser",
+      "summarizer"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "paraphraser",
+      "summarizer"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://penelope-ai.vercel.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6035412e77adc7099760235be6b6bb96f5628963-1856x827.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

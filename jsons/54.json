@@ -1,0 +1,236 @@
+[
+  {
+    "Id": "bd921139-dd92-41aa-a997-3c11aa2f575c",
+    "ToolName": "InstaNovel AI",
+    "ToolDescription": "InstaNovel.ai uses GPT-3 and Dall-E 2 to generate the contents of the book. All you need to do is enter a prompt and choose a visual style a whole mini-novel will be generated for you. It's free to use with a limit of 1 book per person. Currently, it is only available in English, however, more languages will be added in the future.",
+    "ToolShortDescription": "InstaNovel.ai generates mini-novels from prompts, free with 1 book/person",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-18T00:00:00",
+    "FavCount": 200,
+    "TagsIndex": [
+      "storyteller",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "story teller",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://instanovel.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/69623539f84c38876e341109cb3643ead11bf61a-1450x861.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "289348db-aa6e-4ba1-8f50-7d8e6d6cef9f",
+    "ToolName": "Waverly",
+    "ToolDescription": "Waverly helps you focus on the content you need without distraction. Our AI understands what you care about and surfaces only relevant content that won't waste your time. Get a customized feed that lets you track industries, trends and markets",
+    "ToolShortDescription": "Track industries, trends & markets w/ AI-driven feed, no distractions.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-18T00:00:00",
+    "FavCount": 41,
+    "TagsIndex": [
+      "life-assistant",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://mywaverly.com/?utm_source=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1fe91c72a5cdcecc85f272fa980eef7e128758dc-1617x930.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "0e4b589e-1502-402f-bdd1-26ecaa4f7ead",
+    "ToolName": "QuizGrowth",
+    "ToolDescription": "Turn your content into engaging quizzes instantly. With just a few clicks, automatically generate quizzes from your existing content to increase user engagement and drive sales!",
+    "ToolShortDescription": "Create quizzes from existing content to engage users & drive sales.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-01-18T00:00:00",
+    "FavCount": 85,
+    "TagsIndex": [
+      "sales-assistant",
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "sales",
+      "education assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://quizgrowth.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/27f7a61e4eabf99e15596384ee1e899c4a6a22cc-1853x890.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "725f5bd0-0665-4f54-a0fc-91b2c9a2a046",
+    "ToolName": "NSFW Checker",
+    "ToolDescription": "Stable Diffusion includes a (poorly-documented) safety checker. With a few changes, it can be used with arbitrary images, not just AI-generated ones. It takes a few minutes to finish checking the image. ",
+    "ToolShortDescription": "Checks if image is NSFW or not",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-18T00:00:00",
+    "FavCount": 22,
+    "TagsIndex": [
+      "experiments"
+    ],
+    "ToolCategories": [
+      "experiments"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://nsfw.m1guelpf.me/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/93a0f34da524d7c013e86f4682e8c5ad906337f4-1195x937.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "8f11555d-d703-4e5b-8e82-b587f48afe88",
+    "ToolName": "Ghostwrite",
+    "ToolDescription": "GhostWrite is an AI that writes your emails utilizing ChatGPT & other AI technologies. Reply, compose, and write emails instantly from just a few words. GhostWrite AI uses artificial intelligence to automate the writing process, so you can spend more time on the things that matter.",
+    "ToolShortDescription": "Automates email writing with AI, so you can focus on what matters.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-18T00:00:00",
+    "FavCount": 60,
+    "TagsIndex": [
+      "email-assistant",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "email assistant",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://chrome.google.com/webstore/detail/ghostwrite-chatgpt-email/fbjnnjochaopepfjpngghafgnafebkjh?hl=en&authuser=0?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8ab138185b5be956d3b8b2965c5f99f19b59eccc-1446x810.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "1c9c3c3c-706d-4c9e-bc1a-9feff37b0ab5",
+    "ToolName": "Operand AI",
+    "ToolDescription": "Operand adds extra results to Google by searching through the apps your team uses for work. It's purpose-built for modern, product-focused teams and integrates with software like Linear, Github, Slack, Discord, and Notion.",
+    "ToolShortDescription": "Operand helps teams find info in their apps with Google-like search.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-17T00:00:00",
+    "FavCount": 7,
+    "TagsIndex": [
+      "productivity"
+    ],
+    "ToolCategories": [
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://operand.ai/teams?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ec1b7426e07a94fb7f1999dc311dde1eb9bd68d8-1448x819.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "7b47d3d6-1b11-48fb-8281-bb9ea2314b41",
+    "ToolName": "Sketch",
+    "ToolDescription": "Sketch is an AI code-writing assistant for pandas users that understands the context of your data, greatly improving the relevance of suggestions. Sketch is usable in seconds and doesn't require adding a plugin to your IDE.",
+    "ToolShortDescription": "Sketch is an AI code-writing assistant for pandas users that requires no setup.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-17T00:00:00",
+    "FavCount": 58,
+    "TagsIndex": [
+      "code-assistant"
+    ],
+    "ToolCategories": [
+      "code assistant"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "No Signup Required",
+      "API"
+    ],
+    "WebsiteUrl": "https://github.com/approximatelabs/sketch?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f2a46d4fbc7d5c8d65d4ba1c346a085c3d7a0121-1829x849.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d0f1203a-3db1-4bb7-a58b-ee9caa7d1c6a",
+    "ToolName": "move.ai",
+    "ToolDescription": "Capture high-quality motion data from video in any environment using mobile phones. Their patented software extracts natural human motion from video using advanced AI, computer vision, biomechanics and physics, automatically retargeting the data to your character rig. Capture motion anywhere and export directly into any game engine or digital environment.\n\n",
+    "ToolShortDescription": "Capture motion data from video using AI",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-01-17T00:00:00",
+    "FavCount": 31,
+    "TagsIndex": [
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "developer tools"
+    ],
+    "NewFeatures": [
+      "Waitlist",
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://www.move.ai/?utm_source=futurepedia&utm_campaign=futurepedia&utm_medium=marketplace",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/be82d880b39167850387e3cb3fa6b685c3492d41-1877x853.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "2747831b-8c3e-4275-abd9-1a54cac36b02",
+    "ToolName": "GPT for Sheets",
+    "ToolDescription": "Like ChatGPT, but from Google Sheets. Get help with inspiration, categorization, translation, correction, summarization with the GPT function.",
+    "ToolShortDescription": "Get help with inspiration, categorization, translation, correction, summarization.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-17T00:00:00",
+    "FavCount": 146,
+    "TagsIndex": [
+      "spreadsheet-assistant"
+    ],
+    "ToolCategories": [
+      "spreadsheets"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://workspace.google.com/marketplace/app/gpt_for_sheets/677318054654?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/99d9e73533dbb8b0058672873e016d1bd06ff799-1890x930.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

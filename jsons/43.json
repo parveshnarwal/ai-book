@@ -1,0 +1,213 @@
+[
+  {
+    "Id": "a35e2961-7482-4243-8152-62a0d94ca08f",
+    "ToolName": "Wave AI",
+    "ToolDescription": "Wave Grow is a coaching website that provides infinite coaching and growth opportunities to professionals, executives, and managers. It is powered by an automated coaching intelligence and provides personalized coaching experiences. It has been used by over 500 professionals and provides 24/7 listening and support. Additionally, it provides flexible prices and a safe space that protects confidentiality.",
+    "ToolShortDescription": "A personalized coach fed by experts in specific fields.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-30T00:00:00",
+    "FavCount": 41,
+    "TagsIndex": [
+      "human-resources"
+    ],
+    "ToolCategories": [
+      "human resources"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.wave.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f479cb3bd33c9ea7e485cae5806e44bd63be62f9-1830x971.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "1c5762d2-248d-4bfe-9c57-344249439280",
+    "ToolName": "Dreamhouse AI",
+    "ToolDescription": "An AI interior design tool that re-designs your home, places virtual furniture, and renders beauty into your spaces.",
+    "ToolShortDescription": " Interior design inspirations from your original space using AI",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-30T00:00:00",
+    "FavCount": 44,
+    "TagsIndex": [
+      "real-estate"
+    ],
+    "ToolCategories": [
+      "real estate"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://dreamhouseai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/18fec327a799205868bc6eb5fb984e279276c3e9-1890x947.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "68598e56-9a34-4e8e-b526-f11465b95db0",
+    "ToolName": "Copypage",
+    "ToolDescription": "AI content generator where you can generate blogs, resumes, emails, sales copies, digital ad copies, startup ideas, questions, and answers.",
+    "ToolShortDescription": "AI Generating content & sales copies.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-30T00:00:00",
+    "FavCount": 37,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://www.copypage.online/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/40073c6e9f39191e347089a4366c2152ab9e6c74-1886x875.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "2f9b20ed-35d2-4ba9-ad35-1114599b2ac7",
+    "ToolName": "Landr",
+    "ToolDescription": "Create and release your music in one place. Landr has over $3000 worth of plugins, samples and essentials tools. Upload a track and let their AI-driven mastering engine do the rest.",
+    "ToolShortDescription": "Create and release your music in one place. ",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-29T00:00:00",
+    "FavCount": 12,
+    "TagsIndex": [
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "music"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://www.landr.com/en/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/34e3a7486a3882e8cd2453637b7c6be8eaa1975e-3783x1801.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "244d01c5-d850-4c70-9fc8-7e7d11ab127b",
+    "ToolName": "PromptExtend",
+    "ToolDescription": "Extend/Generate better AI Art Prompts for MidJourney and others to elaborate the base starting prompt into more detailed one for better AI arts.",
+    "ToolShortDescription": "Extend/Generate better AI Art Prompts",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-29T00:00:00",
+    "FavCount": 56,
+    "TagsIndex": [
+      "prompts-assistant"
+    ],
+    "ToolCategories": [
+      "prompts"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.promptextend.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/eed525317e01d8624a7182da8cf8d0eb31cf15f2-1920x892.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "30225c8f-9592-4502-bf93-89d5a9909e58",
+    "ToolName": "Flying Dog",
+    "ToolDescription": "Add DALLE 2 and Stable Diffusion to Adobe Photoshop. Has several features like Text to Image, Image to Image, Inpainting, and a new server for Outpainting. \nYou also get a proven workflow to preview and adjust images",
+    "ToolShortDescription": "A plugin that adds DALLE-2 and Stable Diffusion models inside Adobe Photoshop ",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-29T00:00:00",
+    "FavCount": 13,
+    "TagsIndex": [
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "image editing"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.flyingdog.de/sd/AI-for-Photoshop.html?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2f5d079c069f0c37c5760364f5409c25cf264036-1880x948.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "2cd19b94-19aa-4e5a-9447-6e1ac3aff2ed",
+    "ToolName": "Beautiful.ai",
+    "ToolDescription": "A convenient way to create stunning presentations quickly and easily. Has a variety of templates, designs, and features to help you create professional presentations. Offers integrations with Slack, Dropbox, and PowerPoint.",
+    "ToolShortDescription": "Presentation software that designs for you.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-29T00:00:00",
+    "FavCount": 39,
+    "TagsIndex": [
+      "presentations"
+    ],
+    "ToolCategories": [
+      "presentations"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.beautiful.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/23be392867265f37c2c53078fda075b3963e04ba-1862x885.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c03c2308-ce99-4a53-a4c9-fbe17de3b8c6",
+    "ToolName": "Lalal.ai",
+    "ToolDescription": "A next-generation vocal remover and music source separation service for fast, easy and precise stem extraction. Remove vocal, instrumental, drums, bass, piano, electric guitar, acoustic guitar, and synthesizer tracks without quality loss.",
+    "ToolShortDescription": "Extract vocal, accompaniment and various instruments from any audio and video.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-29T00:00:00",
+    "FavCount": 30,
+    "TagsIndex": [
+      "audio-editing"
+    ],
+    "ToolCategories": [
+      "audio editing"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://www.lalal.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b727745da8f65949159dd8bbdd447cc789cea3cb-1871x932.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "716d0a14-82c4-4bad-94bc-716e630cdfd9",
+    "ToolName": "Imagine Me",
+    "ToolDescription": "Generate stunning AI art of yourself from a text description. Use it for personalized art and avatars, virtual try-on and personalized marketing.",
+    "ToolShortDescription": "Generate stunning AI art of yourself from a text description ",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-29T00:00:00",
+    "FavCount": 23,
+    "TagsIndex": [
+      "avatar-generator",
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "avatars",
+      "art"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://imagineme.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/94845615ec6f1345e698708c65134cb39af921c7-1871x942.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

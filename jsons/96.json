@@ -1,0 +1,225 @@
+[
+  {
+    "Id": "529bb3f2-1c8e-459b-8b71-528b08d39ac5",
+    "ToolName": "AI Careers",
+    "ToolDescription": "AI Job Search Made Easy.\nUnlocking the potential of data to drive innovation.",
+    "ToolShortDescription": "AI-powered job search to drive innovation through data.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-12T00:00:00",
+    "FavCount": 65,
+    "TagsIndex": [
+      "human-resources",
+      "gaming"
+    ],
+    "ToolCategories": [
+      "human resources",
+      "gaming"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://aicareers.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/bf728c45495d859fbc1e7146c28d9a7ea69eca61-1742x833.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "523b1f65-79ed-4d71-9f47-fb7300e467f8",
+    "ToolName": "Kafkai",
+    "ToolDescription": "Kafkai is a machine-learning algorithm that can write articles from scratch. Cutting-edge technology for marketers and SEOs.",
+    "ToolShortDescription": "ML-generated articles for marketers & SEOs.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 48,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://kafkai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/70d6867bb8e89aed751bb95ba499e1376f561f9a-1665x945.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "506db031-1cf6-4c33-a759-832e3ff3dba7",
+    "ToolName": "Imagine 3D",
+    "ToolDescription": "Imagine 3D is an early experiment to prototype 3D with text.\nWe will expand access to generation as the quality and usability improves",
+    "ToolShortDescription": "Early 3D prototyping with text, expanding access as quality improves.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-12-16T00:00:00",
+    "FavCount": 58,
+    "TagsIndex": [
+      "3D-generator"
+    ],
+    "ToolCategories": [
+      "3D"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://captures.lumalabs.ai/imagine?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7ac8dd5e356f6da49ff57b066bad9305a8ac25e9-1683x898.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "50644c4a-056f-419a-801c-58b742aec763",
+    "ToolName": "Monitaur",
+    "ToolDescription": "Get documented, ethical AI that scales for your business.\nMonitaur helps you audit, track, and record real-time outcomes of your AI and algorithms for optimal performance and compliance. Our platform is designed to integrate with every team that touches your AI. ",
+    "ToolShortDescription": "Audit, track, and record AI for optimal performance and compliance.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-17T00:00:00",
+    "FavCount": 17,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://monitaur.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/cbfd3f576c2cee7c90e2829866d8b937601f471c-3759x1715.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "4e6ac51d-df43-4390-bddd-79b84cc6742d",
+    "ToolName": "Pinegraph",
+    "ToolDescription": "Become an artist with Pinegraph. Bring your imaginations to life with the power of the Pinecasso AI. Just describe what you want, and Pinecasso will do the rest.",
+    "ToolShortDescription": "Create art with Pinegraph & Pinecasso AI - just describe & it'll do the rest!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-22T00:00:00",
+    "FavCount": 48,
+    "TagsIndex": [
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://pinegraph.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4787acd0e88771063ce0eb2467947f697e63015f-3625x1797.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "4d7450f9-8e0a-4eeb-a1fb-5280edeae5ef",
+    "ToolName": "Closers Copy",
+    "ToolDescription": "Boost Your Sales with SEO Optimized Blogs and Irresistible Marketing Copy.\nLeverage the secrets of the most powerful copy in the world ...and let your copywriting robot bring them to life!",
+    "ToolShortDescription": "Unlock the power of SEO & copywriting to boost sales with irresistible content.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 41,
+    "TagsIndex": [
+      "seo-assistant",
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "SEO",
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.closerscopy.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3b45717a6ce0753b7c56f4cbb9f1eb8b511829d2-1665x945.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "4d0e10d6-2ef1-40f6-a69e-706454c08639",
+    "ToolName": "Masterpiece Studio ",
+    "ToolDescription": "Simplifying 3D Creation with AI. Traditional 3D creation tools are too complex. \nModern creators just want to create, not get lost in the details. \nGenerate. Edit. Deploy.",
+    "ToolShortDescription": "Create 3D with AI: Generate, Edit, Deploy - no complexity.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-16T00:00:00",
+    "FavCount": 49,
+    "TagsIndex": [
+      "3D-generator"
+    ],
+    "ToolCategories": [
+      "3D"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://masterpiecestudio.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a5e8f9fc7b5d2e3ab9b30a513fd0052091bd6fd1-1480x952.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "4c9f6f0b-5c7b-4cb0-8535-7b6bc24e9dbb",
+    "ToolName": "Waymark",
+    "ToolDescription": "Waymark’s AI video creator makes it easy to create spec creative for any prospect. Now, you can walk into every meeting with fully customized sample commercials.",
+    "ToolShortDescription": "Create custom video commercials quickly with Waymark's AI video creator.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 50,
+    "TagsIndex": [
+      "sales-assistant",
+      "video-generator"
+    ],
+    "ToolCategories": [
+      "sales",
+      "video generator"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://waymark.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dba17204be5cf7d545fe39f56b37561a4608ee3a-1806x907.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "4c545543-0ded-4b96-a912-fcc1e7a9ba3b",
+    "ToolName": "Designs AI",
+    "ToolDescription": "Create logos, videos, banners, mockups with A.I. in 2 minutes.",
+    "ToolShortDescription": "Design with A.I. in 2 mins: logos, videos, banners, mockups.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 278,
+    "TagsIndex": [
+      "design-assistant",
+      "logo-generator",
+      "video-generator"
+    ],
+    "ToolCategories": [
+      "design assistant",
+      "logo generator",
+      "video generator"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://designs.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/255dd9f5e50f1b43391c97dd242c3de98f63d230-1680x945.webp",
+    "ImageFormat": ".webp"
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "Id": "gkg6Y3H4GHQvepsGumzG4F",
+    "ToolName": "Yip",
+    "ToolDescription": "Enter your Notes and Yip will generate questions automatically from them.",
+    "ToolShortDescription": "Generate questions from notes with Yip",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-05T00:00:00",
+    "FavCount": 294,
+    "TagsIndex": [
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "education assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://yippity.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6ef071183aa9d00404d722f734929ff74409548b-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "gT9csKgwmr8ebUawBnmiyC",
+    "ToolName": "Kaedim",
+    "ToolDescription": "2D image to 3D model. Automatically convert 2D to 3D online with AI.",
+    "ToolShortDescription": "Convert 2D to 3D with AI online.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 112,
+    "TagsIndex": [
+      "3D-generator"
+    ],
+    "ToolCategories": [
+      "3D"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.kaedim3d.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/37acfd917f0f789eb42b15d1410c1fd243e30928-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "ff9802be-1ffd-440f-b2dd-bcbe3231a8ca",
+    "ToolName": "Nijijourney",
+    "ToolDescription": "NijiJourney AI for the anime fans. The new niji model is tuned with a fine eye to produce anime and illustrative styles. It has vastly more knowledge of anime, anime styles, and anime aesthetics. It's great at dynamic and action shots, and character-focused compositions in general.",
+    "ToolShortDescription": "Produce anime and illustrative styles",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-28T00:00:00",
+    "FavCount": 52,
+    "TagsIndex": [
+      "image-generator",
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "art"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://nijijourney.com/en/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/5ee4211de80a470d5477b1b0482225b05abcde6e-1832x952.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "ff794868-100f-40bd-8f77-ccdb2a9ab4d4",
+    "ToolName": "Make Logo AI",
+    "ToolDescription": "Designer-quality logos for less than a coffee.\nHD + transparent background. Delivered in less than 24 hours. Commercial rights included.\n",
+    "ToolShortDescription": "Designer logos for cheap, fast, & with commercial rights.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-12T00:00:00",
+    "FavCount": 87,
+    "TagsIndex": [
+      "logo-generator"
+    ],
+    "ToolCategories": [
+      "logo generator"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://makelogoai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/de027b517a2373de6ed6f0398fa38c9d134d14de-1804x928.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "fe9f09ac-7650-4fb8-9466-4a893e31e98c",
+    "ToolName": "Cresta",
+    "ToolDescription": "Self-service, live coaching, and post call insights. AI that uncovers expertise so teams can make every customer conversation count.",
+    "ToolShortDescription": "AI-powered customer service:",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 24,
+    "TagsIndex": [
+      "sales-assistant"
+    ],
+    "ToolCategories": [
+      "sales"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://cresta.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/827ed4206fec0625a40c7a4fa23d5da06c443dff-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "fd90c42e-8b57-48cb-b43a-420b7ff1660d",
+    "ToolName": "Regie",
+    "ToolDescription": "Regie helps sales, marketing, and success teams write engaging content faster using AI",
+    "ToolShortDescription": "Regie helps teams write content faster with AI-powered automation.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 65,
+    "TagsIndex": [
+      "customer-support",
+      "sales-assistant",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "customer support",
+      "sales",
+      "email assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.regie.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/83ed1f217501efbfbee82e204168a1e57416e27e-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "fce40969-efa8-4905-b7ea-f1e3059d06af",
+    "ToolName": "Article.Audio",
+    "ToolDescription": "Too lazy to read an article? no problem, listen to it!\nConvert Articles To Audio",
+    "ToolShortDescription": "Listen to articles instead of reading them",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-25T00:00:00",
+    "FavCount": 81,
+    "TagsIndex": [
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "text to speech"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://article.audio/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0ded074efad77a2d260a90e8b9c65cc83f633a15-1880x971.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "fb3a13cf-1969-498e-a056-dccdf3ba278d",
+    "ToolName": "Spellbox",
+    "ToolDescription": "AI coding assistant for busy programmers. Solve any programming or engineering problem with A.I in seconds\n",
+    "ToolShortDescription": "Coding assistant for busy programmers.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 142,
+    "TagsIndex": [
+      "code-assistant"
+    ],
+    "ToolCategories": [
+      "code assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://spellbox.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/828064e54faed7d49632d7aa1ad75b3326c93435-1859x960.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f940ac14-d625-4f28-b303-abc2653fc130",
+    "ToolName": "Maester.app",
+    "ToolDescription": "Unlock the full potential of GPT-3 with our intuitive Template Engine.\nQuickly generate custom output tailored to your repeated needs and share them with the world. It can help you out in content management, university & work, and software development.",
+    "ToolShortDescription": "Unlock GPT-3 potential with their Template Engine for custom output",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-13T00:00:00",
+    "FavCount": 331,
+    "TagsIndex": [
+      "writing-assistant",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://maester.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1b3b2e40824b9e97f7aa024afcf0c9000c795600-1906x921.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

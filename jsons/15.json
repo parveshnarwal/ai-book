@@ -1,0 +1,227 @@
+[
+  {
+    "Id": "b69c5f7f-9aea-4bc6-9424-964c8e330ba6",
+    "ToolName": "Palette.fm",
+    "ToolDescription": "Colorize Black and White Pictures\nAutomatic, no sign-up, and Free!",
+    "ToolShortDescription": "Colorize B&W pics automatically",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-17T00:00:00",
+    "FavCount": 669,
+    "TagsIndex": [
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "image editing"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://palette.fm/",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1667d98352c37ae7d207a2e6fe99811f2845a535-1811x888.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "b66da25a-cee4-4e09-94d5-e7668f426fd0",
+    "ToolName": "Build AI",
+    "ToolDescription": "Build AI helps you build AI apps in minutes. You will be able to build an app and publish it completely by yourself. You will be able to update it as you see fit, including improving and refining your prompts to make your app the best it can be.",
+    "ToolShortDescription": "Build AI helps you quickly create and publish AI apps, with the ability to update and refine.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-12-28T00:00:00",
+    "FavCount": 372,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [
+      "Waitlist",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.buildai.space/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7b28c160f1e507cebb762ad245ead3453ccd2628-1386x868.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "b23965f4-ba27-4177-a10e-630dba4ae448",
+    "ToolName": "Rewind AI",
+    "ToolDescription": "Rewind is the search engine for your life. It’s a macOS app that’s private by design and allows you to find anything you’ve seen, said, or heard.",
+    "ToolShortDescription": "MacOS app to find anything you've seen, said, or heard, private by design.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-28T00:00:00",
+    "FavCount": 218,
+    "TagsIndex": [
+      "life-assistant",
+      "productivity",
+      "memory-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "productivity",
+      "memory"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.rewind.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/36b62a5d8ef5124c9766bb5c4bf16116f31bd956-1728x951.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "aeaa6c1e-4f2c-47ab-8cfc-c561e717997e",
+    "ToolName": "Quillbot Paraphraser",
+    "ToolDescription": "Quillbot will rewrite your text. Start for free by writing or pasting something and then clicking Paraphrase.",
+    "ToolShortDescription": "Rewrite text for free.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 677,
+    "TagsIndex": [
+      "paraphraser"
+    ],
+    "ToolCategories": [
+      "paraphraser"
+    ],
+    "NewFeatures": [
+      "Browser Extension",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://try.quillbot.com/futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/99b7b85e99e4ebf00e4bccfdbfefe40e14472ce3-1791x939.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "a22ab7ba-15c0-4142-ac82-98325381dc7c",
+    "ToolName": "Craiyon",
+    "ToolDescription": "AI model drawing images from any prompt!",
+    "ToolShortDescription": "Generate images from any prompt",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 574,
+    "TagsIndex": [
+      "image-generator"
+    ],
+    "ToolCategories": [
+      "image generator"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.craiyon.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4641b1c91d2a40dae7309200f23a9f411f8349ab-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "9e169d13-9172-47b2-aae0-a04e2030e7f3",
+    "ToolName": "Autodraw",
+    "ToolDescription": "Autodraw is an AI tool that allows you to draw faster by guessing what object or shape you intend on drawing. \n",
+    "ToolShortDescription": "AI-powered drawing tool to help you draw faster.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-27T00:00:00",
+    "FavCount": 633,
+    "TagsIndex": [
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://autodraw.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6a3646a778f3fd6982b81c03cd054e1fb2c8f597-3719x1707.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "973115d4-919c-43dc-a4c8-e230e88f1b02",
+    "ToolName": "AI Trip Planner",
+    "ToolDescription": "AI Trip Planner is a global travel planning app that automatically creates a detailed, day-by-day itinerary for users' trips to any destination in the world. All users need to do is specify the length of their trip and their desired destination, and the app will handle the rest",
+    "ToolShortDescription": "Create detailed, day-by-day itineraries for any destination.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-01T00:00:00",
+    "FavCount": 383,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.buildai.space/app/dae3da25-888e-448f-b15c-5a20ca4ca961?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fbf4835dea0b3cc5ce3355838a9f4b87ec8b2177-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "95c18d62-963b-4554-8f1f-9b523aeacc1a",
+    "ToolName": "Lookup",
+    "ToolDescription": "Get answers from your data in seconds.\nLookup is the AI-powered analytics platform that helps you get from data to insight 10X faster. Import your data, ask questions, get results instantly.",
+    "ToolShortDescription": "AI-powered analytics platform to get from data to insight 10X faster.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-28T00:00:00",
+    "FavCount": 166,
+    "TagsIndex": [
+      "code-assistant",
+      "sql-assistant"
+    ],
+    "ToolCategories": [
+      "code assistant",
+      "SQL"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://app.uselookup.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/57b265a7510ea1eb4775648fe1e09f4355c97df7-1566x1175.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "92e89cca-54c2-48fa-88a8-bd907f2e99be",
+    "ToolName": "Ai2sql",
+    "ToolDescription": "With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.",
+    "ToolShortDescription": "Enable non-engineers to write efficient SQL queries without knowing SQL.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 220,
+    "TagsIndex": [
+      "sql-assistant"
+    ],
+    "ToolCategories": [
+      "SQL"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.ai2sql.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/de2580317762a7dec6dd374082fcf540a2beb9e3-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

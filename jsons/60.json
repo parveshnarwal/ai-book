@@ -1,0 +1,223 @@
+[
+  {
+    "Id": "dc835399-bfdc-4ba5-b35b-79b976fa4cd6",
+    "ToolName": "AnimeAI",
+    "ToolDescription": "AnimeAI generates you as the main hero from top-rated anime! You become characters from Attack On Titans, Naruto, Evangelion, Cyberpunk and Demon Slayer anime from your own photos. Get 120 personalized unique arts!",
+    "ToolShortDescription": "Generate yourself as a hero from top anime & get 120 personalized arts!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-12T00:00:00",
+    "FavCount": 22,
+    "TagsIndex": [
+      "avatar-generator",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "avatars",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.animeai.lol/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ab0ba5b43eaad6b06e0946857d51b9f1526f1adc-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "5af128d3-05dd-4ed6-aaf6-e0d0c60d8567",
+    "ToolName": "Kodezi ai",
+    "ToolDescription": "Kodezi is the AI developer tool assistant that auto-corrects your code. Improve your code instantly using AI, get your bugs removed using Kodezi.",
+    "ToolShortDescription": "AI developer tool assistant that auto-corrects your code",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-12T00:00:00",
+    "FavCount": 31,
+    "TagsIndex": [
+      "code-assistant"
+    ],
+    "ToolCategories": [
+      "code assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://kodezi.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e2478e2cdb5413b842f554235ad5a8e9988dd4ea-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "d580e086-fe8c-464d-a18a-1bd948d70d96",
+    "ToolName": "Bardeen AI",
+    "ToolDescription": "Bardeen uses AI to automate manual workflows, save you time, and empower your creativity.\nSome examples of automations include: \n- Get action items from the last meeting and add them to Notion.\n- Summarize any website and save it to Notion.\n- Respond to a question from the current page's content.\n- Create an image using AI with OpenAI's Dall-E.",
+    "ToolShortDescription": "Automate manual workflows with AI to save time and unleash creativity.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-12T00:00:00",
+    "FavCount": 123,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://bardeen.ai/ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6da2c569c50862eb764d7bbd63cb8d9419d75fe6-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "1a57393f-353a-4202-aada-fd9d0eb156d6",
+    "ToolName": "Avatarify",
+    "ToolDescription": "Create personalized avatars using artificial intelligence. Their technology allows you to generate lifelike representations of people, animals, and even fictional characters. Just pay for the GPUs you rent. If you don't like it, they re-render the avatars.",
+    "ToolShortDescription": "Create lifelike avatars using AI. Pay only for the GPUs, re-render if needed.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-11T00:00:00",
+    "FavCount": 21,
+    "TagsIndex": [
+      "avatar-generator"
+    ],
+    "ToolCategories": [
+      "avatars"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://avatarify.art/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0c11a5a146046bc47dbe3dd4130454c370581670-1714x859.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "9382d1c3-d782-4d71-8c3a-71c00013efbb",
+    "ToolName": "Neural Canvas",
+    "ToolDescription": "Neural Canvas is a digital illustration generator service able to generate unique illustrations for your comic, blogpost, e-book, story, collections, and more. Create your own AI-generated comic using it.",
+    "ToolShortDescription": "Create AI-generated comics with a digital illustration generator service.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-11T00:00:00",
+    "FavCount": 41,
+    "TagsIndex": [
+      "storyteller",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "story teller",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://neuralcanvas.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a54de1a5668303b04c9b26871d18897dc6fd13fb-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "ac44c81c-2241-4484-938a-12f451837106",
+    "ToolName": "Retune",
+    "ToolDescription": "The ultimate tool for creating and monetizing fine-tuned language models using GPT-3. With re:tune, you can easily train and customize your own AI assistant for any industry or use case, and generate an API to integrate it into your own applications.",
+    "ToolShortDescription": "Create & monetize GPT-3 language models with re:tune",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-11T00:00:00",
+    "FavCount": 60,
+    "TagsIndex": [
+      "developer-tools",
+      "no-code"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://retune.so/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/67391b9d4170df74d098cf7bf7994477a80aa8cf-1639x891.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "82dc6e78-199f-4f66-bfb8-41a3744e6afa",
+    "ToolName": "Illustroke",
+    "ToolDescription": "Stunning SVG illustrations from text prompts\nCreate something unique with ours text to SVG AI tool.",
+    "ToolShortDescription": "Generate unique SVG illustrations from text prompts",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-11T00:00:00",
+    "FavCount": 80,
+    "TagsIndex": [
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://illustroke.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dc23236f820dec5fe671c2d290fa61e1af6263d5-1884x920.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "cf83ef49-6fc0-40b4-b888-54b8ab27a1cd",
+    "ToolName": "AI Roguelite",
+    "ToolDescription": "World's first RPG in which all entities are AI-generated and all game mechanics are AI-detected. It has AI-generated entities, crafting recipes, combat and illustrations.\n",
+    "ToolShortDescription": "AI-generated entities, crafting, combat, illustrations in world's first AI-detected RPG.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-11T00:00:00",
+    "FavCount": 14,
+    "TagsIndex": [
+      "avatar-generator",
+      "gaming"
+    ],
+    "ToolCategories": [
+      "avatars",
+      "gaming"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://store.steampowered.com/app/1889620/AI_Roguelite/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/66cf003d659d06035bdd7fc080e6c1a705787901-1527x707.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "ac067dbc-b9c2-4eec-a0b7-21fd8fd751d4",
+    "ToolName": "SlidesAI",
+    "ToolDescription": "Create Presentation Slides with AI in seconds\nSay goodbye to tedious, manual slides creation. Let the AI write the outline and presentation content for you. With their tool, you can easily create professional, engaging slides from any text in no time. Works with Google Slides. Coming soon for Microsoft Powerpoint.",
+    "ToolShortDescription": "Create professional slides with AI in seconds.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-11T00:00:00",
+    "FavCount": 187,
+    "TagsIndex": [
+      "presentations"
+    ],
+    "ToolCategories": [
+      "presentations"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.slidesai.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/990223f9d10e57ca5849fe14944101a0728838d6-1882x873.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

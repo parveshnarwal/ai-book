@@ -1,0 +1,230 @@
+[
+  {
+    "Id": "0b26f7f5-79c0-488d-8593-a05a9aad3ecf",
+    "ToolName": "Natural Language Playlist",
+    "ToolDescription": "AI generated mixtapes and playlists. Enter a sentence as a prompt and get back a list of songs curated by AI!",
+    "ToolShortDescription": "AI creates custom playlists from your prompts!",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-16T00:00:00",
+    "FavCount": 307,
+    "TagsIndex": [
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "music"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.naturallanguageplaylist.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dbe3303e5a91d37c3c02cfb7605a123f7b0c7bd6-1588x918.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "00f91247-b0fe-46ea-bb80-997647b479dc",
+    "ToolName": "Replika",
+    "ToolDescription": "The AI companion who cares.\nAlways here to listen and talk.\nAlways on your side.",
+    "ToolShortDescription": "AI companion who listens, talks & cares, always on your side.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-02T00:00:00",
+    "FavCount": 177,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://replika.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/522e075fe76fafba6aa54f62ae710893169652e6-1846x937.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "b8db03fb-48ce-4ee2-9d49-04fea76f3353",
+    "ToolName": "ELI5",
+    "ToolDescription": "Explain Like I'm Five (ELI5) is a website that simplifies complex topics using AI so that even a child can understand them. Users can select a specific topic and choose how dumbed-down they want the explanation to be, ranging from \"really dumb\" to \"really smart\". Some examples are - \"How do computers work?\" and \"What is the meaning of life?\"",
+    "ToolShortDescription": "Simplifies complex topics using AI for all levels of understanding",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-11T00:00:00",
+    "FavCount": 366,
+    "TagsIndex": [
+      "education-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "education assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://explainlikeimfive.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d17ebe5611a229038e220d39df884a085a5a1aaf-1574x932.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "8fd75a19-3f70-4fe3-ad22-cbaf8fce0604",
+    "ToolName": "GetFloorPlan",
+    "ToolDescription": "Convert your 2D floor plan in to the modern and fully furnished 3D layout with 360 virtual tour with capacity up to thousands per day using AI.",
+    "ToolShortDescription": "Convert 2D floor plan to 3D layout w/ 360 virtual tour & AI",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-02T00:00:00",
+    "FavCount": 169,
+    "TagsIndex": [
+      "3D-generator",
+      "real-estate"
+    ],
+    "ToolCategories": [
+      "3D",
+      "real estate"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://getfloorplan.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c8d1e6a072443fbf8bb38e79de0e25bd8c19b226-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "4431eac0-2a8a-421c-bf95-3d3a47365f18",
+    "ToolName": "SheetAI.app",
+    "ToolDescription": "Available for Google Sheets. Use AI to transform your text instructions into a Google Sheet formula quickly. Has use cases in generating programmatic SEO content, personalized emails and many more.",
+    "ToolShortDescription": "AI-powered tool to quickly generate formulas for Google Sheets.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium",
+      "Deals"
+    ],
+    "PublishedAt": "2022-11-25T00:00:00",
+    "FavCount": 351,
+    "TagsIndex": [
+      "seo-assistant",
+      "spreadsheet-assistant"
+    ],
+    "ToolCategories": [
+      "SEO",
+      "spreadsheets"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://sheetai.app/",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e1267955992d7579abcf3ceb21dc79df3349e613-1870x957.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "8b11b129-be8e-4dad-a164-dd9d24d44595",
+    "ToolName": "Canva Text to Image",
+    "ToolDescription": "Brand-new technology that generates whatever image you describe. ",
+    "ToolShortDescription": "AI-generated images from verbal descriptions.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-19T00:00:00",
+    "FavCount": 423,
+    "TagsIndex": [
+      "image-generator",
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.canva.com/your-apps/text-to-image?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4089491bdcb0b06dc6d8f5ac9b96bee0bee30e4e-1805x934.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "63c0f2de-7ff5-45fc-9a50-ca30bc8c0b2a",
+    "ToolName": "Public Prompts",
+    "ToolDescription": "Collection of ‎ High Quality and Open Source Prompts for Image generation",
+    "ToolShortDescription": "High Quality Open Source Image Generation Prompts",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-12T00:00:00",
+    "FavCount": 615,
+    "TagsIndex": [
+      "prompts-assistant"
+    ],
+    "ToolCategories": [
+      "prompts"
+    ],
+    "NewFeatures": [
+      "Open Source"
+    ],
+    "WebsiteUrl": "https://publicprompts.art/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/187cf3ff5fa2284cb2b9ed6e107a7bfd8ad93388-1793x970.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "5fd1c244-2504-4151-ad91-573e605bf1e7",
+    "ToolName": "Grammarly",
+    "ToolDescription": "Write confidently with Grammarly's new AI-powered application. Go beyond grammer and spelling to style and tone with auto suggestions. Works with emails, documents, social media and almost everything.",
+    "ToolShortDescription": "Grammarly's new AI-powered application provides suggestions too",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-02T00:00:00",
+    "FavCount": 147,
+    "TagsIndex": [
+      "writing-assistant"
+    ],
+    "ToolCategories": [
+      "general writing"
+    ],
+    "NewFeatures": [
+      "Mobile App",
+      "Browser Extension",
+      "API"
+    ],
+    "WebsiteUrl": "https://app.grammarly.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d6f4e998a67e59c64c41682e0d4085590b47d8aa-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "ff78d5cb-583b-4ae5-8d1c-a581f07acb41",
+    "ToolName": "Lensa",
+    "ToolDescription": "Lensa is a picture editor for selfies and photo retouching. The app has many filters for pictures to get a sweet selfie, remove any blur background or do any other necessary editing. With its simple features and photo-effects, you can make every photo perfect 365 days a year. Capture memorable moments and do the necessary photo editing to freeze each moment in time. You don't need a photo lab or dark room because within seconds your peachy selfie is ready.",
+    "ToolShortDescription": "Selfie & photo editor with filters, effects & blur remover for perfect pics",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-15T00:00:00",
+    "FavCount": 88,
+    "TagsIndex": [
+      "avatar-generator"
+    ],
+    "ToolCategories": [
+      "avatars"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://play.google.com/store/apps/details?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a8b80335484567f792efe980177d5fa618f9eb9c-1768x860.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

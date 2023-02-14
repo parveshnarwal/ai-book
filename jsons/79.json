@@ -1,0 +1,227 @@
+[
+  {
+    "Id": "bf321001-902a-4e91-bb79-303d16553539",
+    "ToolName": "Avanty",
+    "ToolDescription": "Never waste precious data analyst time on writing boring SQL queries again. Avanty is an AI-powered data query + Business Intelligence tool that allows everybody to get insights from data quicker and at less cost.",
+    "ToolShortDescription": "AI-powered data query + BI tool to get insights faster & cheaper.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-19T00:00:00",
+    "FavCount": 35,
+    "TagsIndex": [
+      "sql-assistant"
+    ],
+    "ToolCategories": [
+      "SQL"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://avanty.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/5de1b26288756c395010682bdba9fba82b875ea7-1363x725.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "bd812d17-f7c0-4953-beb5-9eebb2df0eca",
+    "ToolName": "JustLearn",
+    "ToolDescription": "You can create AI friends using Justlearn and speak to them. \n \n",
+    "ToolShortDescription": "Create AI friends and chat with them",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-11T00:00:00",
+    "FavCount": 28,
+    "TagsIndex": [
+      "life-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.justlearn.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ad8760756d873cae6c50eb43fc6909e4b0db3215-1890x969.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "bbf95758-f696-407d-86d8-c47a44845b97",
+    "ToolName": "Adept",
+    "ToolDescription": "Adept is an ML research and product lab building general intelligence by enabling humans and computers to work together creatively.",
+    "ToolShortDescription": "Adept: ML research lab building general intelligence through human-computer collaboration.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 48,
+    "TagsIndex": [
+      "research-assistant"
+    ],
+    "ToolCategories": [
+      "research"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://www.adept.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f84726c437891f9a317a3d456f73c56cd6fc23dd-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "bb9129a8-59ac-4b69-8417-9ebd73881083",
+    "ToolName": "Caktus",
+    "ToolDescription": "AI solutions for students to write essays, discuss questions, general coding help and professional job application help.",
+    "ToolShortDescription": "AI-based student help for essays, coding, Q&A, job apps.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-31T00:00:00",
+    "FavCount": 103,
+    "TagsIndex": [
+      "life-assistant",
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "education assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.caktus.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/96a48443e32409d40d0217c7d5bc9d1d47c1e4ce-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "bb237787-3039-4bc2-b4e4-1daa5f7983e2",
+    "ToolName": "CrawlQ.ai",
+    "ToolDescription": "Create \"Brand Love\" with Your Audience. CrawlQ delivers high-emotional, high-empathy, high-ROI, audience-centric creative work with global reach.",
+    "ToolShortDescription": "Create \"Brand Love\" with global audience-centric creative work.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-11T00:00:00",
+    "FavCount": 52,
+    "TagsIndex": [
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://crawlq.ai/?_get=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b528bbe4fb090435ea82e7e0fbecc1d954f3418b-1871x904.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "bWAAMk4RsX5LQ3qWEqYinu",
+    "ToolName": "Alethea",
+    "ToolDescription": "Alethea AI is working towards enabling the creation of interactive and intelligent NFTs (iNFTs).",
+    "ToolShortDescription": "Create interactive, intelligent NFTs (iNFTs).",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 118,
+    "TagsIndex": [
+      "experiments"
+    ],
+    "ToolCategories": [
+      "experiments"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://alethea.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9fed5a9c6592ad5552a4ad7dad606dadc83b2fef-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "bK6LPoYUqoYSqahu8h2NEs",
+    "ToolName": "Forethought",
+    "ToolDescription": "Forethought's AI platform automates and optimizes the entire support ticket lifecycle. Lowers support costs while providing top-tier service in every customer interaction.",
+    "ToolShortDescription": "AI platform automates & optimizes support ticket lifecycle",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 12,
+    "TagsIndex": [
+      "customer-support"
+    ],
+    "ToolCategories": [
+      "customer support"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://forethought.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/db719dfee1b7f7ecbf0e36e0bf9b82ae3a3f5a06-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "b96e48d7-9635-4d68-8721-47526c20b318",
+    "ToolName": "Hourone",
+    "ToolDescription": "Welcome to Hour One - the world's fastest growing AI video maker. We turn text to video to make learning & development more fun & effective. Try now!",
+    "ToolShortDescription": "Create AI videos from text to for better learning & development",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 111,
+    "TagsIndex": [
+      "video-generator"
+    ],
+    "ToolCategories": [
+      "video generator"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://hourone.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d23c9556e1de791c5079c3bc75b867101e2dfe45-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "b8ddd9d5-1cd2-42cc-9acc-37066a570a1a",
+    "ToolName": "Openart",
+    "ToolDescription": "Search 10M+ of AI art and prompts generated by DALL·E 2, Midjourney, Stable Diffusion",
+    "ToolShortDescription": "Explore 10M+ AI art & prompts from DALL·E 2, Midjourney, Stable Diffusion.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 253,
+    "TagsIndex": [
+      "prompts-assistant",
+      "art-generator",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "prompts",
+      "art",
+      "search engine"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://openart.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/18d1c37ec0289832a4069976a0409d820757053e-1920x1080.png",
+    "ImageFormat": ".png"
+  }
+]

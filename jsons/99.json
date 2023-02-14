@@ -1,0 +1,224 @@
+[
+  {
+    "Id": "3c9c5a72-8727-495e-8032-19849a824c96",
+    "ToolName": "Looria",
+    "ToolDescription": "Looria finds the best products that fit your needs and budget.\nThey gather reviews from the most trusted sources, filter out the fake ones, and summarize the findings so you can make more informed purchase decisions.",
+    "ToolShortDescription": "Looria helps you find the best products for your needs and budget.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-28T00:00:00",
+    "FavCount": 203,
+    "TagsIndex": [
+      "life-assistant",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "search engine"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://looria.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2fd1b6d5fe6418698dda2de93ac92c6bf3ede13b-1870x968.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "3bcf63c7-d7ed-4244-8808-eee60f7a59ed",
+    "ToolName": "Replicastudios",
+    "ToolDescription": "Synthesize AI voice for your creative projects. Create naturally expressive voice performances with a Replica Voice.",
+    "ToolShortDescription": "Create expressive AI voices for your projects with Replica Voice.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 53,
+    "TagsIndex": [
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "text to speech"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://www.replicastudios.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/be994f4c103d37c1b3e95cc8bcce1c7f04cf9791-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "3abe2f2b-5fee-4dee-ae97-fe761f6e4dbc",
+    "ToolName": "Upword",
+    "ToolDescription": "Easily Summarize Your Content with Upword. Combine their powerful AI tools with your own notes to create faster, more efficient summaries that you can read or listen to. ",
+    "ToolShortDescription": "Create summaries faster with Upword's AI tools.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial",
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-28T00:00:00",
+    "FavCount": 50,
+    "TagsIndex": [
+      "summarizer"
+    ],
+    "ToolCategories": [
+      "summarizer"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://www.upword.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/cbab8f7179b7611d3dd3577f9f1a9a15d949e104-3777x1787.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "3a5aec6b-efb9-4b84-b712-05ef6a939649",
+    "ToolName": "Enzyme",
+    "ToolDescription": "Enzyme QMS software includes modules for all stages of the product development life cycle from Design Control to CAPA. Our in-house experts are here to back you up! We can guide you through the quality challenges and regulatory submission process. Sign up for a Demo today.",
+    "ToolShortDescription": "Enzyme QMS software for product development life cycle.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 9,
+    "TagsIndex": [
+      "productivity"
+    ],
+    "ToolCategories": [
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.enzyme.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/930f31e49b5ac66d0195c5c3999d5da560a23078-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "3a51e9b1-3d79-4bdc-8953-4be05d7dbd3b",
+    "ToolName": "The AI Times",
+    "ToolDescription": "Stay In The Know with The AI Times. Subscribe to get The AI Times issues sent straight to your inbox right off the digital press.",
+    "ToolShortDescription": "Stay informed with The AI Times. Get issues sent to your inbox.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-26T00:00:00",
+    "FavCount": 110,
+    "TagsIndex": [
+      "resources"
+    ],
+    "ToolCategories": [
+      "resources"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.aitimespage.com/ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ec8137669da8e076f29c201ba60f2201a82cfca8-3623x1693.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "3a4ce8a8-d9a4-44a9-8150-e4e5e0c0939f",
+    "ToolName": "VEG3",
+    "ToolDescription": "Join the beta test for the world's first vegan artificial intelligence marketing assistant.",
+    "ToolShortDescription": "Test the world's first vegan AI marketing assistant!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-14T00:00:00",
+    "FavCount": 30,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://veg3.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f9b83fd9bd629843d0a7ce28867e6230d10847fc-1868x958.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "3SE45AtFbuS6YccuazPLaU",
+    "ToolName": "Ready Player Me",
+    "ToolDescription": "Cross-game Avatar Platform for the Metaverse. One avatar, many worlds to explore.",
+    "ToolShortDescription": "One avatar, many worlds: Cross-game Avatar Platform for the Metaverse.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 65,
+    "TagsIndex": [
+      "avatar-generator",
+      "gaming"
+    ],
+    "ToolCategories": [
+      "avatars",
+      "gaming"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://readyplayer.me/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/86dd26188d3eb8b45c8855b867f00d9f56015a62-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "39c8c726-691a-4cf5-8768-44b94130baea",
+    "ToolName": "Botowski",
+    "ToolDescription": "Botowski is your new personal AI copywriter.",
+    "ToolShortDescription": "AI copywriter to help you write better.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-10T00:00:00",
+    "FavCount": 265,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.botowski.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3f9ca85ae845139a3b748b2b426b0d35d6df3c66-1866x953.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "39974adc-2bb5-4299-8594-fdee8da7348e",
+    "ToolName": "Shumai (Meta)",
+    "ToolDescription": "Shumai is an open-source, fast, network-connected, differentiable tensor library for TypeScript (and JavaScript). Built with bun + flashlight for software engineers and researchers alike.\n\n",
+    "ToolShortDescription": "Fast, network-connected, differentiable tensor library for TypeScript/JS.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 62,
+    "TagsIndex": [
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "developer tools"
+    ],
+    "NewFeatures": [
+      "Open Source"
+    ],
+    "WebsiteUrl": "https://github.com/facebookresearch/shumai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d8f05395a83e92c99a0cb4eceb9baf48be7654fb-980x559.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

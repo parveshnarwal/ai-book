@@ -1,0 +1,229 @@
+[
+  {
+    "Id": "tEUvMG356jKAvaghGzEsDs",
+    "ToolName": "typly",
+    "ToolDescription": "Answer all your messages with a single click using our keyboard! Typly automatically generates sentences that match the context of the conversation. Allows you to answer questions or continue the thread with a single click.",
+    "ToolShortDescription": "Auto-generates messages with one click",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-05T00:00:00",
+    "FavCount": 111,
+    "TagsIndex": [
+      "writing-assistant",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://typly.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/26f6d131d34b3add8e412c1edf3df76d413dc8c8-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "stGC8SGLQJbe8pFC3qniYZ",
+    "ToolName": "GGPredict",
+    "ToolDescription": "Raise your CS:GO skills with the power of AI-generated training with less than 30 minutes daily.Train smarter. Rank up faster.",
+    "ToolShortDescription": "Train smarter & rank up faster with AI-generated CS:GO training",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 22,
+    "TagsIndex": [
+      "gaming"
+    ],
+    "ToolCategories": [
+      "gaming"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://ggpredict.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f5f6d1dfa49da6ee0838fb5d06b6d17c19d2b02f-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "sVMrk9RELbM2RpzZW16keu",
+    "ToolName": "Super Prompt",
+    "ToolDescription": "Create a beautiful gallery for your AI art without leaving Twitter.",
+    "ToolShortDescription": "Create a Twitter AI art gallery.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-13T00:00:00",
+    "FavCount": 21,
+    "TagsIndex": [
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "art"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://superprompts.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0f30e21f295ad5f5deda6f7aec3f6391bc5a407b-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "qocmeeTocvaU9TEWokXvSo",
+    "ToolName": "Wonder Dynamics",
+    "ToolDescription": "At Wonder Dynamics, we combine AI technology with first-class storytelling.",
+    "ToolShortDescription": "At Wonder Dynamics, AI + storytelling = 🤩",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 138,
+    "TagsIndex": [
+      "video-generator"
+    ],
+    "ToolCategories": [
+      "video generator"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://www.wonderdynamics.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e069e998aa845022caf2db21b4bfd1c694331b29-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "o8QW4w4kja6rNkzrQzWvCR",
+    "ToolName": "Poly",
+    "ToolDescription": "Generate Textures in Seconds with AI. Create unlimited high-resolution, fully-custom, commercially-licensed textures with just a text prompt.",
+    "ToolShortDescription": "Generate high-res textures with AI in seconds,",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 101,
+    "TagsIndex": [
+      "3D-generator"
+    ],
+    "ToolCategories": [
+      "3D"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://withpoly.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/cf7a0c61d12561c5b714ab94696406a9a0b5329e-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "nNzwDfcvyLqDJF6Lchmtk8",
+    "ToolName": "ArtHub",
+    "ToolDescription": "Crowdsourced AI art. Explore AI generated designs, images, art and prompts by top community artists and designers.",
+    "ToolShortDescription": "AI art created by the community. Explore designs, images, art & prompts.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-10T00:00:00",
+    "FavCount": 240,
+    "TagsIndex": [
+      "art-generator",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "art",
+      "search engine"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://arthub.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/78907ae224ea9f1507aa6a7cac55eb8285820817-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "mx6VGRsKSRcGK52jBRqs56",
+    "ToolName": "What on earth?",
+    "ToolDescription": "A fun way to learn something new. Generate stories with just an one-word prompt.",
+    "ToolShortDescription": "Create stories with one-word prompts for fun learning.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-05T00:00:00",
+    "FavCount": 240,
+    "TagsIndex": [
+      "storyteller"
+    ],
+    "ToolCategories": [
+      "story teller"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.whatonearth.xyz/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/cffe0cd6191b1979e397a786185cd7722a39ced9-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "mVfdXBpGy2sCX8hTe17aEM",
+    "ToolName": "Circle Labs",
+    "ToolDescription": "We make AI that you would actually want to spend time talking to. AI with personality, edges, and corners.",
+    "ToolShortDescription": "AI with personality, humor, and depth.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 57,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://circle.isyourshadowyou.com/Home.html?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/5333948c47798ea1d5be9ceadb5cad584a1bb671-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "kwMDqgbRz2q1MQkgJvSs53",
+    "ToolName": "BHuman",
+    "ToolDescription": "Produce a single video and personalize it for thousands of recipients. Deliver over any channel and measure results instantly. You can do this by recording your template, connecting your data and then generating personalized videos.",
+    "ToolShortDescription": "Create personalized videos from a single template, measure results instantly.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-27T00:00:00",
+    "FavCount": 105,
+    "TagsIndex": [
+      "personalized-videos"
+    ],
+    "ToolCategories": [
+      "personalized videos"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://www.bhuman.ai//?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d95a7996a48061094b92c0658c5cc7ccb52c8fea-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

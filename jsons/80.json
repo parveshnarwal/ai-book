@@ -1,0 +1,229 @@
+[
+  {
+    "Id": "b882a7da-8985-4ade-bda5-131e187db4fe",
+    "ToolName": "Ponzu",
+    "ToolDescription": "Seasoning 3D assets with AI-generated textures.",
+    "ToolShortDescription": "AI-generated textures used to enhance 3D assets.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 107,
+    "TagsIndex": [
+      "3D-generator"
+    ],
+    "ToolCategories": [
+      "3D"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.ponzu.gg/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d6d553ecd4efc564d33c77b84ea4ebb389d34b49-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "b872c2b8-6962-41df-8873-485c6ca8c713",
+    "ToolName": "Story Path",
+    "ToolDescription": "Book Planning App Powered by AI\nPlan your story or cure your writer's block in minutes\nStuck on where your plot will go next, or have a story idea you need to flesh out?\n\nFrom only a brief description, Story Path will generate branching options for your plot. Expand and explore your favourite paths and customize the details to your liking.",
+    "ToolShortDescription": "AI-powered app helps plan stories & cure writer's block quickly.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-09T00:00:00",
+    "FavCount": 70,
+    "TagsIndex": [
+      "storyteller"
+    ],
+    "ToolCategories": [
+      "story teller"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://storypath.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4bbf82cb4b48061fc5a29ce1d1a88b7f05a9a9b3-1861x865.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "b6aef0dd-7314-46ff-9e32-4c76b7e24ac0",
+    "ToolName": "PromptHero",
+    "ToolDescription": "Search millions of art images by AI models like DALL-E, Stable Diffusion, Midjourney...",
+    "ToolShortDescription": "Search art images with AI models like DALL-E, Stable Diffusion, Midjourney.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-09T00:00:00",
+    "FavCount": 213,
+    "TagsIndex": [
+      "prompts-assistant",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "prompts",
+      "search engine"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://prompthero.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/813b501a3a0685e999367002cb8b67490fb8e564-1870x634.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "b6ad6e60-0ccd-420a-aa1f-1a0680dfcf45",
+    "ToolName": "Copysmith",
+    "ToolDescription": "The chosen AI Copywriting Software for eCommerce teams & agencies. Generate more revenue than ever before. Sign up for your free trial today.",
+    "ToolShortDescription": "AI Copywriting Software for eCommerce teams & agencies.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 46,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://copysmith.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c31731a963cea2bfbafc3988a114657b354fbdef-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "b69f5716-d49b-41e8-b925-7ed387358dd1",
+    "ToolName": "Quickchat",
+    "ToolDescription": "Quickchat automates processes such as sales, customer support, onboarding or online booking.",
+    "ToolShortDescription": "Quickchat automates sales, customer support, onboarding & online booking.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 40,
+    "TagsIndex": [
+      "customer-support",
+      "sales-assistant"
+    ],
+    "ToolCategories": [
+      "customer support",
+      "sales"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.quickchat.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/bb6f7dac7e363a0e7fb3fd1fccca1f82723bc8cd-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "b66fefe1-b628-4b24-930d-62b8fffd8c7d",
+    "ToolName": "Typli",
+    "ToolDescription": "The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant.\n",
+    "ToolShortDescription": "Writing & SEO Assistant tool.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial",
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-22T00:00:00",
+    "FavCount": 59,
+    "TagsIndex": [
+      "seo-assistant",
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "SEO",
+      "copywriting"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://typli.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/adc2188bf66fa5420ee8d56afcc6f2137b9764a5-1861x951.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "b5163b2b-0fa1-4f7c-b4c5-d62c9b1ffe2f",
+    "ToolName": "StoryWizard",
+    "ToolDescription": "Create incredible children's stories by using AI to help you generate unique and beautiful children's stories with vivid images and enjoyable plots.",
+    "ToolShortDescription": "Create unique children's stories with AI, vivid images, and enjoyable plots.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-02T00:00:00",
+    "FavCount": 117,
+    "TagsIndex": [
+      "storyteller"
+    ],
+    "ToolCategories": [
+      "story teller"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.storywizard.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/da81370569ad64b0a8b720d44dd812c6e68c4383-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "b3ab5aac-702d-4b66-853c-a490ae968382",
+    "ToolName": "Dimensions",
+    "ToolDescription": "Dimensions helps you turn rough sketches, photos, or even plain text into high-detailed concepts in a few clicks. Focus on creativity, not on endless routine.",
+    "ToolShortDescription": "Create high-detailed concepts from sketches, photos, or text",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-26T00:00:00",
+    "FavCount": 233,
+    "TagsIndex": [
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.dimensions.ink/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1f1263f9527b81c5301626876c07c8550a0b337b-3757x1815.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "b35b622b-1267-4baf-9637-ff1b606bbcb2",
+    "ToolName": "Programminghelper",
+    "ToolDescription": "Code faster with the help of AI.\nGenerate code just by typing a text description. AI will create the code for you. Test it now.",
+    "ToolShortDescription": "Code faster with AI: type a description & AI will generate the code.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-28T00:00:00",
+    "FavCount": 272,
+    "TagsIndex": [
+      "code-assistant"
+    ],
+    "ToolCategories": [
+      "code assistant"
+    ],
+    "NewFeatures": [
+      "API",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.programming-helper.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/923c099df9482e369672112b1a9df73d2378c5ae-1860x878.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

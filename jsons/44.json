@@ -1,0 +1,228 @@
+[
+  {
+    "Id": "8fd2c134-dcba-4026-b181-7011be1955b8",
+    "ToolName": "Recipes By AI",
+    "ToolDescription": "Enter a list of ingredients (with or without quantities) and your personal AI chef will come up with a tailor-made recipe using just those ingredients",
+    "ToolShortDescription": "Get a tailored recipe based on a list of ingredients, powered by AI. ",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-29T00:00:00",
+    "FavCount": 126,
+    "TagsIndex": [
+      "life-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://letsfoodie.com/ai-recipe-generator/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/00f53ced5ad6dd1d40a8f05f11f113a6657ae6f5-1697x862.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c28fe60e-a5ed-43b0-987f-c96e8b4e5dad",
+    "ToolName": "WebChatGPT",
+    "ToolDescription": "This extension adds relevant web results to your prompts to ChatGPT for more accurate and up-to-date conversations.",
+    "ToolShortDescription": "Augment your ChatGPT prompts with relevant results from the web.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-28T00:00:00",
+    "FavCount": 79,
+    "TagsIndex": [
+      "productivity"
+    ],
+    "ToolCategories": [
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://chrome.google.com/webstore/detail/webchatgpt/lpfemeioodjbpieminkklglpmhlngfcn?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b3957b65ef873a319515cf46bd9dc36aec2bf313-640x400.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "57ac9855-fb0b-4458-b2ab-ebea6c97cb56",
+    "ToolName": "Whelp",
+    "ToolDescription": "Whelp is an AI-powered omnichannel customer service automation tool that serves a wide range of features to cover all sides of customer service processes for SMEs. You can serve your customers 24/7 without any human interaction. ChatGPT, Google AI and Amazon Lex are also integrated for better results.",
+    "ToolShortDescription": "AI-powered omnichannel customer service automation tool",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-28T00:00:00",
+    "FavCount": 17,
+    "TagsIndex": [
+      "customer-support"
+    ],
+    "ToolCategories": [
+      "customer support"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://whelp.co/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/94d5c1701ef03cb2e8610c61fea5d07e4e79ffd2-1861x930.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d12ed5ba-75d4-4017-8023-32ce6a980e90",
+    "ToolName": "Finding Words ",
+    "ToolDescription": "AI obituary maker by Empathy. Creating a meaningful tribute to your loved one can be a difficult and emotional task. With Empathy’s Finding Words, you can simply answer a series of questions and our AI will draft an obituary in their honor.",
+    "ToolShortDescription": "Obituary maker that creates a meaningful tribute for your loved one",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-28T00:00:00",
+    "FavCount": 40,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://words.empathy.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0b6d658b400fa46c0704dfe260a2fead53048a56-1847x882.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "a453f219-fb2b-4894-8c13-3d043d396b96",
+    "ToolName": "Blakify",
+    "ToolDescription": "Text-to-speech software with over 800+ voices and 90 Languages. Bring static content, like ebooks, PDFs, and other training documents, to life.",
+    "ToolShortDescription": "Text to speech software with over 800+ voices and 90 Languages.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-23T00:00:00",
+    "FavCount": 15,
+    "TagsIndex": [
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "text to speech"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://blakify.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/bb13a6b0702b576a2aaee5a4ddc073d7b147b3ab-1742x935.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "b731864c-7fa1-473b-b72a-2d1e4dde57fa",
+    "ToolName": "Wand AI",
+    "ToolDescription": "Wand enables everyone, regardless of their technical skills, to solve complex business problems and create AI-driven business impact quickly and intuitively.\n\nWand delivers the simplest approach to designing, building, and managing AI-based business solutions, streamlining the full AI solutions’ lifecycle, thus reducing time-to-value, spending, and the needed workforce.\n\nUsing Wand, organizations can extend their AI powers from the technical departments to the business units and bring advanced data science capabilities to the business teams. ",
+    "ToolShortDescription": "Solve complex business problems and create AI-driven business impact",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-28T00:00:00",
+    "FavCount": 39,
+    "TagsIndex": [
+      "no-code",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "low-code/no-code",
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://wand.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/27d92feff4f766b3a6b9c561cfee9467ae79ea7b-1881x923.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "5a75d14c-6f35-4e56-8edf-f255fe2406cc",
+    "ToolName": "Pixelz AI",
+    "ToolDescription": "Create incredible avatars, unique images from text, paint or modify your existing images using AI. Get new credits daily.",
+    "ToolShortDescription": "Browse several images on the website.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-28T00:00:00",
+    "FavCount": 43,
+    "TagsIndex": [
+      "avatar-generator",
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "avatars",
+      "art"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://pixelz.ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/57542cfafdac71cc28fdc778bbc2cd5e79a8cd33-1872x877.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "71e5dcb6-d7d9-4f55-a446-89e2db1a5961",
+    "ToolName": "Generative BI",
+    "ToolDescription": "Make data-driven decision faster than ever. Get valuable insights without technical knowledge in minutes.",
+    "ToolShortDescription": "No-code AI reporting platform for e-commerce",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-28T00:00:00",
+    "FavCount": 23,
+    "TagsIndex": [
+      "no-code",
+      "sql-assistant"
+    ],
+    "ToolCategories": [
+      "low-code/no-code",
+      "SQL"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://generativebi.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7b321bc80a92f5e418190aa81575986db87ec621-1763x926.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "041f445f-98cd-42ca-ae21-61a091b21b51",
+    "ToolName": "Interflexion",
+    "ToolDescription": "AI-powered role-play that helps professionals become better versions of themselves. Develops leadership and interpersonal skills through guided practice and personalized feedback.",
+    "ToolShortDescription": "An AI /NLP driven platform /app for conversational skills coaching.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-01-28T00:00:00",
+    "FavCount": 19,
+    "TagsIndex": [
+      "human-resources"
+    ],
+    "ToolCategories": [
+      "human resources"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://www.interflexion.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/efe7e0de5ac68fedeb0a663db6d0a4af0a8e4a3a-1878x950.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

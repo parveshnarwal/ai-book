@@ -1,0 +1,230 @@
+[
+  {
+    "Id": "f0366ef0-ae5d-428f-bc14-49243713e195",
+    "ToolName": "MarketingBlocks AI",
+    "ToolDescription": "All-In-One AI Marketing Assistant that writes, creates & designs all your landing pages, promo videos, ads, marketing copy, graphics, email swipes, voiceovers, blog posts, articles, art & more in minutes.",
+    "ToolShortDescription": "AI powered marketing assistant",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-02T00:00:00",
+    "FavCount": 48,
+    "TagsIndex": [
+      "design-assistant",
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant",
+      "copywriting"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://www.marketingblocks.ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/70e86da240ce81f924b4742f1f4637dbb02e083d-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "b187719f-2eb6-4d18-b4a9-af889e9fcfc2",
+    "ToolName": "Ask YC",
+    "ToolDescription": "Get answers from YC's content library using semantic search. Great for aspiring and curious entrepreneurs",
+    "ToolShortDescription": "Ask anything to get answers from Y Combinator’s content library.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-02T00:00:00",
+    "FavCount": 25,
+    "TagsIndex": [
+      "startup-assistant"
+    ],
+    "ToolCategories": [
+      "startup tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://askyc.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/673b126b59bc548828d3de2881487d4a850ec66d-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "32c64402-aa78-4b10-96ce-88dbd467e22a",
+    "ToolName": "Paint By Text",
+    "ToolDescription": "You can easily edit photos using this tool by just entering the object you want to be added or removed to the image.",
+    "ToolShortDescription": "Edit your photos using written instructions, with the help of an AI.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-02T00:00:00",
+    "FavCount": 63,
+    "TagsIndex": [
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "image editing"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://paintbytext.chat/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f6337d179ffef3255d32839a27fb64a6f01347e1-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "0a028995-8487-439c-bc92-2d0402fd9e90",
+    "ToolName": "Nolej",
+    "ToolDescription": "With @nolej_app, upload anything you are trying to learn - YouTube video, web URL, document, etc. It creates various ways to learn: summaries, flashcards, and quizzes. Now learners pick the method they want rather than the method given to them.",
+    "ToolShortDescription": "Automatically create interactive courseware and assessment at scale",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-02-02T00:00:00",
+    "FavCount": 40,
+    "TagsIndex": [
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "education assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://nolej.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b66dfeac6647c2aa135884d6f6228af86476023f-1840x858.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "97ef4641-7e4f-44aa-b60c-6345f5e6424c",
+    "ToolName": "Hidden Door",
+    "ToolDescription": "A new kind of social roleplaying experience, powered by narrative AI. Play to create new stories, go on a virtual adventure with friends, collect, share and remix.",
+    "ToolShortDescription": "A new kind of social roleplaying experience",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-02-02T00:00:00",
+    "FavCount": 20,
+    "TagsIndex": [
+      "gaming"
+    ],
+    "ToolCategories": [
+      "gaming"
+    ],
+    "NewFeatures": [
+      "Waitlist",
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://www.hiddendoor.co/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b5501d3a4459fb3cf3f73ba5d4cb439347629357-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "d5d37067-a80d-49b0-be8f-c207d0ad924a",
+    "ToolName": "AI Puzzles",
+    "ToolDescription": "Ever wanted to build a puzzle of Vincent Van Gogh drawing of New York City? Now you can!",
+    "ToolShortDescription": "Puzzles Made From AI You Can Actually Build At Home",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-02-02T00:00:00",
+    "FavCount": 7,
+    "TagsIndex": [
+      "fun-tools",
+      "gaming"
+    ],
+    "ToolCategories": [
+      "fun tools",
+      "gaming"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://aipuzzle.myshopify.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a43cc1d6c33eaadfe2352fe2819e63c607e9c490-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "34edf535-b27b-4583-8d5f-6fdc9b757902",
+    "ToolName": "Postwise",
+    "ToolDescription": "AI Twitter tool to help users go viral on Twitter. Features tools to write, schedule and grow on Twitter with ease. Also provides helpdesk and tutorials to help users write better tweets threads using AI.",
+    "ToolShortDescription": "Go viral on Twitter using AI",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-02-02T00:00:00",
+    "FavCount": 13,
+    "TagsIndex": [
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://postwise.ai?_get=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/07f0a4fd414344d32d119994f677f06a93713c05-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "8cbf6c4d-7637-46c0-aa9e-8c14c36f55ce",
+    "ToolName": "SEOmatic AI",
+    "ToolDescription": "SEOmatic helps you automate and scale your content marketing with Programmatic SEO and AI. Set up a website for SEO in 10 minutes. No coding or design skills required.",
+    "ToolShortDescription": "Nocode tool for Programmatic SEO",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-02-02T00:00:00",
+    "FavCount": 30,
+    "TagsIndex": [
+      "seo-assistant",
+      "startup-assistant"
+    ],
+    "ToolCategories": [
+      "SEO",
+      "startup tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://seomatic.ai",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1e02fd42d40c119ec95e5e886de6557ba5cafcf0-1897x972.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "a9680af3-5891-4d04-b4f7-bd8b9369385f",
+    "ToolName": "Contlo.ai",
+    "ToolDescription": "Contlo.ai is a one of its kind AI marketer that provides a conversational UI for controlling all marketing activities via chat. It assists in end-to-end campaign management, offers simple customer segmentation, provides deep insights, enables ad management and social media posting, and facilitates writing of SEO-optimized blogs and marketing copies.",
+    "ToolShortDescription": "Get your marketing done, by talking to AI",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-02T00:00:00",
+    "FavCount": 24,
+    "TagsIndex": [
+      "email-assistant",
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "email assistant",
+      "social media assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://contlo.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/602cc3c5e9139e2b868a11cd2dda0661eb7ee165-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

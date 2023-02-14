@@ -1,0 +1,226 @@
+[
+  {
+    "Id": "b6749238-a869-461b-b47e-34c810e4e92d",
+    "ToolName": "Sheet+",
+    "ToolDescription": "Generate Google Sheets & Excel formulas from text, convert formulas into simple explanations, debug formulas, and more.",
+    "ToolShortDescription": "Generate, convert, debug formulas from text for Sheets & Excel.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-07T00:00:00",
+    "FavCount": 57,
+    "TagsIndex": [
+      "spreadsheet-assistant"
+    ],
+    "ToolCategories": [
+      "spreadsheets"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://sheetplus.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f2173d1955b58a5ab2de1e8ec19788b96c31c7a4-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "e790d4ab-9e3e-41d3-9fdc-9d1488a0e584",
+    "ToolName": "Supernormal",
+    "ToolDescription": "SuperNormal is a platform that enables teammates to send asynchronous video updates throughout the day. Quick video updates with AI-powered summaries help keep teams updated and connected without scheduling meetings or cross time zone syncs.",
+    "ToolShortDescription": "Platform for asynchronous video updates to keep teams connected.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-07T00:00:00",
+    "FavCount": 34,
+    "TagsIndex": [
+      "productivity"
+    ],
+    "ToolCategories": [
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://supernormal.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1771e073eaf8d1f7ea966545b9b2fac7ba485bf6-1760x909.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "845409fc-f20e-479e-b915-63be17ab00fa",
+    "ToolName": "Detangle.ai",
+    "ToolDescription": "Detangle gives you AI-generated summaries of your legal docs so you can actually understand them.",
+    "ToolShortDescription": "AI-generated summaries of legal docs to help you understand them.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-07T00:00:00",
+    "FavCount": 47,
+    "TagsIndex": [
+      "legal-assistant"
+    ],
+    "ToolCategories": [
+      "legal assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://detangle.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d51b13e213e4ba3a3ef652f4275771521553a741-1877x975.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "9438e708-a467-475a-b257-4685a6f10ba9",
+    "ToolName": "Beatoven.ai",
+    "ToolDescription": "Beatoven.ai uses advanced AI music generation techniques to compose unique mood-based music to suit every part of your video or podcast.",
+    "ToolShortDescription": "Create AI-generated music for videos & podcasts based on mood.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-06T00:00:00",
+    "FavCount": 103,
+    "TagsIndex": [
+      "audio-editing",
+      "music-generator",
+      "video-editing"
+    ],
+    "ToolCategories": [
+      "audio editing",
+      "music",
+      "video editing"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.beatoven.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/af5d9f58f03b6a43d2c0f7e5609bc33158c439ec-1806x877.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "e837d675-12d5-4c24-b2b5-155db4d26d9d",
+    "ToolName": "Reply.io ",
+    "ToolDescription": "Generate human-like sales emails in seconds at scale with Reply’s AI Sales Email Assistant. Powered by the GPT-3 language prediction model, your cold and follow-up emails will always be hyper-relevant and personalized, boosting your open & reply rates! ",
+    "ToolShortDescription": "Generate personalized sales emails at scale",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-06T00:00:00",
+    "FavCount": 80,
+    "TagsIndex": [
+      "sales-assistant",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "sales",
+      "email assistant"
+    ],
+    "NewFeatures": [
+      "Browser Extension",
+      "API"
+    ],
+    "WebsiteUrl": "https://reply.io/sales-email-assistant/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/bff3f440b78e9224d81b2b3f2ffdbc691f5fa41c-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "ae8176b2-9e2c-40c1-87f1-31c0f8ef5caa",
+    "ToolName": "BlackBox AI",
+    "ToolDescription": "BlackBox AI is a AI powered coding assistant so you can code 10x faster. It enables you to turn any question into code and features like extract code from any video and code autocompletion.",
+    "ToolShortDescription": "Coding assistant to code 10x faster, extract code from videos, & autocomplete.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-06T00:00:00",
+    "FavCount": 56,
+    "TagsIndex": [
+      "code-assistant"
+    ],
+    "ToolCategories": [
+      "code assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.useblackbox.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8f4872ad9418afb169028f51f442e39bc6722d4b-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "4c1cf37e-c0f4-406e-82d3-8f7d13093658",
+    "ToolName": "Find Your Next Book",
+    "ToolDescription": "Find Your Next Book is a book recommendation service for people struggling to decide what to read. Simply describe your desired read in terms of character, setting and/or plot and we'll recommend the best option from our database of thousands of books.",
+    "ToolShortDescription": "Get personalized book recommendations from thousands of titles.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-06T00:00:00",
+    "FavCount": 118,
+    "TagsIndex": [
+      "life-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.findyournextbook.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/798e64f77f685fba401ddd4fa1c77cc64bf4f795-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "6d40098b-aed6-4d37-910f-05ed16b3e581",
+    "ToolName": "Spatial",
+    "ToolDescription": "Predict and influence customer behavior with a real-time social media segmentation system. It provides segmentation of people based on their social, mobile and web activity and also of places describing the type and velocity of social activity in proximity to a location.",
+    "ToolShortDescription": "Segment people & places based on social, mobile & web activity",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-06T00:00:00",
+    "FavCount": 55,
+    "TagsIndex": [
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.spatial.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f04610b7836b09cd92b41b1cdb6e10089237a9cb-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "16383dc2-6dd5-4c38-8648-a06063164ed4",
+    "ToolName": "Ipso AI",
+    "ToolDescription": "An AI assistant that uses your calendar to draft email responses for scheduling meetings, powered by GPT3.",
+    "ToolShortDescription": "AI assistant drafts emails for scheduling meetings, powered by GPT3.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-01-05T00:00:00",
+    "FavCount": 41,
+    "TagsIndex": [
+      "email-assistant",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "email assistant",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://ipso.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/882716c9ffd48e49b396d2717792eed980c033ab-1920x977.png",
+    "ImageFormat": ".png"
+  }
+]

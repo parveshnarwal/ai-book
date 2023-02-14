@@ -1,0 +1,227 @@
+[
+  {
+    "Id": "45413819-9299-4be6-8d55-aa5fef5e506a",
+    "ToolName": "Radiant Photo",
+    "ToolDescription": "Your photos deserve to be radiant.\nGet superior quality finished photos with perfect color rendition, delivered to you in record time. Your photos — simply RADIANT. The way they are meant to be.",
+    "ToolShortDescription": "Photos made radiant: perfect color, fast delivery.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-08T00:00:00",
+    "FavCount": 18,
+    "TagsIndex": [
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "image editing"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://radiantimaginglabs.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3f2a660ebc7bd22eefc86a1705fe04d9e4a0b271-1867x892.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "44874325-9a4b-4377-81ad-61a76f9f4bf8",
+    "ToolName": "Reggi",
+    "ToolDescription": "Reggi helps you keep track of your purchases and budget in real-time store, applying the correct taxes and fees to your subtotal as you shop. An overally stress free shopping experience.",
+    "ToolShortDescription": "Reggi helps you shop stress-free with real-time budget tracking.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium",
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-01T00:00:00",
+    "FavCount": 35,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://www.yfj.social/reggi-app?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c0da5189531389506ac4cac757feaf8d07d70203-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "42a3ea8f-f948-405f-b6f8-49c59e464fd9",
+    "ToolName": "Delve",
+    "ToolDescription": "Create personas automatically for your business and for your competitor businesses",
+    "ToolShortDescription": "Automate persona creation for your & competitor biz.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-30T00:00:00",
+    "FavCount": 43,
+    "TagsIndex": [
+      "customer-support",
+      "sales-assistant"
+    ],
+    "ToolCategories": [
+      "customer support",
+      "sales"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.delve.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c3b5901cc710f9657f9529351064df38d6d582df-1776x942.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "42160a01-ffc3-4731-99e9-4dc4859159e5",
+    "ToolName": "CTRify",
+    "ToolDescription": "First AI-Powered SEO Action Platform\nCreate websites that rank on Google by just giving one keyword to our Artificial Intelligence. Boost your SERPs rankings, organic CTR, Dwell time and Pogo Sticking thanks to our organic traffic from millions of real Desktop and Mobile devices connected from residential IPs of top Mobile Carriers from all locations of the World.",
+    "ToolShortDescription": "AI-Powered SEO Platform to boost SERPs rankings & organic CTR",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 83,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.ctrify.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/293bb86b62fe51e0d1c1430132df2da285c6f714-1665x945.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "4213b653-93a5-4852-bbcf-54889d4e9a25",
+    "ToolName": "LanguageTool",
+    "ToolDescription": "LanguageTool corrects spelling mistakes, but it also offers a full writing analysis of all possible texts. In addition to spelling, grammar, and word choice, language style is also corrected. It masters more than 30 languages and dialects, and its main languages are English, Spanish, German, French, Dutch, and Portuguese. In its English version, you can choose between six standard varieties. LanguageTool also offers an A.I.-based rephrasing function in addition to correction. This can help you to rewrite entire sentences to make them simpler, shorter, or more formal.",
+    "ToolShortDescription": "Corrects spelling, grammar, word choice & style in 30+ languages",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-17T00:00:00",
+    "FavCount": 54,
+    "TagsIndex": [
+      "writing-assistant",
+      "paraphraser"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "paraphraser"
+    ],
+    "NewFeatures": [
+      "Browser Extension",
+      "API"
+    ],
+    "WebsiteUrl": "https://languagetool.org/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c29ca43d874592a5cf70a0b9afe285c672fd5b9f-3793x1713.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "41a72890-bd13-418c-bc1a-e9b664dc1a8c",
+    "ToolName": "BlogNLP",
+    "ToolDescription": "BlogNLP is a free AI blog writing tool that helps you break your writer's block to create original content in a fraction of a time.",
+    "ToolShortDescription": "Free AI blog writing tool to create original content quickly & easily.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 233,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.blognlp.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/61d6d5390446e7ccc440f5ef55f5f6b76512c89b-1665x945.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "4010cd4f-53fb-4010-b104-0d31937214ee",
+    "ToolName": "Usetwain",
+    "ToolDescription": "World-class selling skills at your fingertips. Use Twain for free to see what your sales pitch is missing.",
+    "ToolShortDescription": "Improve sales pitch with free Twain tool.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 224,
+    "TagsIndex": [
+      "sales-assistant"
+    ],
+    "ToolCategories": [
+      "sales"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://www.usetwain.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4f4901f086b863f5a8b2db24ae90bdc2073d1368-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "3tffA82fpkqAS8GrDz9Q21",
+    "ToolName": "Gemsouls",
+    "ToolDescription": "Meet, befriend, and create virtual characters. On a mission to bring gem-like virtual humans to life.",
+    "ToolShortDescription": "Create virtual humans on a mission to bring joy.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 37,
+    "TagsIndex": [
+      "avatar-generator"
+    ],
+    "ToolCategories": [
+      "avatars"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://www.mygemsouls.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1c848937142c540883cb934db704870e8c732787-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "3f8e33f2-ae95-4917-ab5c-5c67f68903c1",
+    "ToolName": "Remove.bg",
+    "ToolDescription": "Remove backgrounds 100% automatically in 5 seconds with one click. Thanks to remove.bg's clever AI, you can slash editing time - and have more fun! ",
+    "ToolShortDescription": "Remove backgrounds in 5 secs with one click",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-17T00:00:00",
+    "FavCount": 51,
+    "TagsIndex": [
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "image editing"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://www.remove.bg/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2ac0ebb2528b59e6cc7c0e0d9b1c2ad383a6d3d6-3283x1697.png",
+    "ImageFormat": ".png"
+  }
+]

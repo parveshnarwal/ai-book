@@ -1,0 +1,225 @@
+[
+  {
+    "Id": "kVCni71hgPJvJ8MWVWgr7k",
+    "ToolName": "Kinetix",
+    "ToolDescription": "The no-code platform for creating 3D animations for free. Take yourself to the metaverse. No skills required.",
+    "ToolShortDescription": "Create 3D animations for free. No code, no skills needed. Explore the metaverse.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 478,
+    "TagsIndex": [
+      "no-code",
+      "3D-generator"
+    ],
+    "ToolCategories": [
+      "low-code/no-code",
+      "3D"
+    ],
+    "NewFeatures": [
+      "Discord Community",
+      "API"
+    ],
+    "WebsiteUrl": "https://www.kinetix.tech/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6601753f95955f7a3d8fa6bd9c290873c9f9f8b2-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "jer4JaALpEmNbjBYWrqyq4",
+    "ToolName": "Let's Enhance",
+    "ToolDescription": "Image enhancer & upscaler. Automatic AI editor to increase image resolution without losing quality. Make your photos look their best in one click",
+    "ToolShortDescription": "AI editor to enhance & upscale images without losing quality.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-14T00:00:00",
+    "FavCount": 86,
+    "TagsIndex": [
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "image editing"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://letsenhance.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/bab8596df97b565ec980a00bc929d0a0de7e7cc9-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "jE26DyeV9eJ1Teu3NxYf97",
+    "ToolName": "DaVinciFace",
+    "ToolDescription": "The only AI that creates a DaVinci-styled portrait from your photo.",
+    "ToolShortDescription": "AI creates DaVinci-style portraits from photos.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-12T00:00:00",
+    "FavCount": 65,
+    "TagsIndex": [
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "art"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.davinciface.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dbd000f182c96ffbac751eb6f74ee052dea674cb-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "iw4JkC8DAveHCAE95EQ9vx",
+    "ToolName": "Hexagram",
+    "ToolDescription": "We Make Ambient Experiences using Artificial Intelligence. Games that use chat, story, and data to blend fiction and reality.",
+    "ToolShortDescription": "AI-powered games that blend fiction and reality through chat, story, and data.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 44,
+    "TagsIndex": [
+      "gaming"
+    ],
+    "ToolCategories": [
+      "gaming"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.hexagram.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1a2a1f8e76aad6b62528d65315c555bb7ad0b3f9-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "iWaznEzZ1jdjVN9fi3zSu3",
+    "ToolName": "Convai",
+    "ToolDescription": "Easy to use, Conversational AI APIs for Speech Recognition, Language Understanding and generation, and Text to Speech. Design your games and speech enabled applications. Design your conversation based Characters and Speech based games.",
+    "ToolShortDescription": "Design speech-enabled apps & games with AI APIs",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 47,
+    "TagsIndex": [
+      "developer-tools",
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "text to speech"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://www.convai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/52b1903d8785d7c626bebc6621bc94de88f42d0f-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "hvQ6QQjUGR8qTZDR46jy56",
+    "ToolName": "QuickTools by Picsart",
+    "ToolDescription": "With Picsart Quicktools, you have access to a wide range of tools that make it easy to convert file types, create custom calendars, enhance images, and more. All of these tools are conveniently located in one place.",
+    "ToolShortDescription": "Access a wide range of tools in one place with Picsart Quicktools.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-14T00:00:00",
+    "FavCount": 62,
+    "TagsIndex": [
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "image editing"
+    ],
+    "NewFeatures": [
+      "Mobile App",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://tools.picsart.com/image//?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/72480289bd7cef7b8f3e5bfab209e520eb2163cd-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "hpxE2ScEhCgT14sfLR6Bjg",
+    "ToolName": "AIGraphics",
+    "ToolDescription": "Create Beautiful, Bespoke Graphics in Seconds with AI.\nYou can use it to create social images, youtube thumbnails, logo ideas, photographs and illustrations.",
+    "ToolShortDescription": "Create stunning visuals quickly with AI-powered tools.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-05T00:00:00",
+    "FavCount": 153,
+    "TagsIndex": [
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://aigraphics.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/23ffcb7f24f10710afb5819915d8cfe21f1ed8f6-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "hmYD1YMd9xbt1zfTJiDSyp",
+    "ToolName": "Writey AI",
+    "ToolDescription": "Changing the way content is created. Create content faster with artificial intelligence. Most advanced language A.I. First true free plagiarism A.I with original and researched content, check Writey A.I in action",
+    "ToolShortDescription": "Create content faster with A.I. - Writey A.I. for original, researched content.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-06T00:00:00",
+    "FavCount": 82,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://writey.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a8c749584a4f86dd4ae1f9e5b4dd64826aca055d-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "hZm82eKEfQ8rVR2qVDpLSG",
+    "ToolName": "HairstyleAI",
+    "ToolDescription": "Use our powerful AI technology to generate different hairstyles. See which one suits you best. Works for male and female haircuts.",
+    "ToolShortDescription": "Try AI-generated hairstyles to find the perfect look for you.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-14T00:00:00",
+    "FavCount": 60,
+    "TagsIndex": [
+      "avatar-generator",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "avatars",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.hairstyleai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6c6056f599392c738f8b5a617d1b02a2dbf2cf35-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

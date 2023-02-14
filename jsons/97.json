@@ -1,0 +1,224 @@
+[
+  {
+    "Id": "4c4f8215-8a73-444c-b015-fb1a75e7826c",
+    "ToolName": "Aragon AI",
+    "ToolDescription": "Create HD professional headshots of yourself with AI. Our AI-generated photos look exactly like you and are indistinguishable from real photos. Look your best and increase the chances of recruiters reaching out to you on LinkedIn!",
+    "ToolShortDescription": "Create stunning art 10X faster with AI.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-22T00:00:00",
+    "FavCount": 46,
+    "TagsIndex": [
+      "avatar-generator"
+    ],
+    "ToolCategories": [
+      "avatars"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.aragon.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1e5e2ff457a6c6aefa6d4f884d4ee1111c6abd14-1384x745.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "4b4206a3-e0ef-4e47-b5f8-eccb18b06d47",
+    "ToolName": "Tweet Hunter",
+    "ToolDescription": "Build and monetize your twitter audience. \nGet sales, growth, and new networks. Faster than what you're currently trying.",
+    "ToolShortDescription": "Grow your Twitter audience and monetize it",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-23T00:00:00",
+    "FavCount": 66,
+    "TagsIndex": [
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://tweethunter.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d34768d5e718cc84c100889dc5c332b9d7301f1a-1859x927.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "4a921f65-cc46-4783-9855-3dc999e99552",
+    "ToolName": "Wombo",
+    "ToolDescription": "Create beautiful artwork using the power of AI. Enter a prompt, pick an art style and watch WOMBO Dream turn your idea into an AI-powered painting in seconds.",
+    "ToolShortDescription": "Create AI-powered art in seconds with WOMBO Dream.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 56,
+    "TagsIndex": [
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "art"
+    ],
+    "NewFeatures": [
+      "Waitlist",
+      "Mobile App",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.wombo.art/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/494c60102276e2c2e6c5ef9123c5d242417ec496-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "4a7f6c70-af6d-41df-94ad-21d87eab3bb1",
+    "ToolName": "Topaz Video AI",
+    "ToolDescription": "Unlimited access to the world’s leading production-grade neural networks for video upscaling, deinterlacing, motion interpolation, and shake stabilization - all optimized for your local workstation.",
+    "ToolShortDescription": "Unlimited access to production-grade neural networks for video optimization.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 77,
+    "TagsIndex": [
+      "video-editing"
+    ],
+    "ToolCategories": [
+      "video editing"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.topazlabs.com/topaz-video-ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/df86f830ea204ee4df2dded3b09c4d079b5bddb2-3053x1385.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "497393e6-182a-448d-8de0-9ba8aa333c2d",
+    "ToolName": "NovelAI",
+    "ToolDescription": "GPT-powered AI Storyteller. Driven by AI, construct unique stories, thrilling tales, seductive romances, or just fool around. Anything goes!!",
+    "ToolShortDescription": "AI-driven storyteller creates unique stories, romances and more",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 170,
+    "TagsIndex": [
+      "storyteller"
+    ],
+    "ToolCategories": [
+      "story teller"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://novelai.net/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3357919cabc8d37bc9c0126de53a5b4646c60c2b-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "48f808c0-ad26-485d-806c-67f322caf536",
+    "ToolName": "GPT-Prompter",
+    "ToolDescription": "Chrome extension to get fast explanation of the selected text. ",
+    "ToolShortDescription": "Extension to explain text quickly in Chrome.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-10T00:00:00",
+    "FavCount": 205,
+    "TagsIndex": [
+      "summarizer"
+    ],
+    "ToolCategories": [
+      "summarizer"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://gptprompter.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0b44b1a3454695908606f4f238dd87e1c11c4644-1850x732.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "47d2076b-1eb0-4605-a800-82e4b3d73407",
+    "ToolName": "FakeYou",
+    "ToolDescription": "Use FakeYou to convert text to speech and say stuff with your favorite characters. Also get your own voice clone to use with music, videos, twitch rewards and whatever you want.",
+    "ToolShortDescription": "Create your own voice clone to use in music, videos, twitch rewards and more.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-31T00:00:00",
+    "FavCount": 104,
+    "TagsIndex": [
+      "text-to-speech",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "text to speech",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "API",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://fakeyou.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/bb322c7b925bcedaf6796d50d7ab846b29c9c32e-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "47b46e5e-76e8-4a9e-a34c-15cfb5f0da88",
+    "ToolName": "growthbar",
+    "ToolDescription": "Write perfect SEO-friendly content for blog posts, website pages, and articles… with AI.",
+    "ToolShortDescription": "Create SEO-friendly content with AI for blogs, websites, and articles.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 40,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.growthbarseo.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/311623229a88e2effb011d5852834c7a505e8f99-1665x945.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "45a494b3-351b-43d1-b3c0-a4ad6c36e0b1",
+    "ToolName": "PicSo",
+    "ToolDescription": "Text to AI art maker. Turn your words into incredible and high-quality artwork.",
+    "ToolShortDescription": "Create art from text with AI-powered generator.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-02T00:00:00",
+    "FavCount": 34,
+    "TagsIndex": [
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "art"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://picso.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ce66d466fbc0df0001aaaa215f7cea91651609df-1882x946.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

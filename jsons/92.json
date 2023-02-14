@@ -1,0 +1,220 @@
+[
+  {
+    "Id": "6ac47c55-c25f-47be-b377-9e2f67ce17fe",
+    "ToolName": "Daft Art",
+    "ToolDescription": "AI album art generator. \nCreate the album cover you've always dreamed of! \n",
+    "ToolShortDescription": "Design your own album art with AI-powered generator.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-27T00:00:00",
+    "FavCount": 45,
+    "TagsIndex": [
+      "music-generator",
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "music",
+      "art"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://daftart.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ad5ceb7cbc7099685c78b745d18ac27799ce401c-1858x946.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "6WkSdGQJoMxxToTRxcT7ux",
+    "ToolName": "Pattern Maker AI",
+    "ToolDescription": "Generate seamless vector patterns using artificial intelligence. You can also browse other generated patterns that have been made public.",
+    "ToolShortDescription": "Generate vector patterns w/ AI; browse public patterns.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-13T00:00:00",
+    "FavCount": 45,
+    "TagsIndex": [
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://patternmakerai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/95ec41172144adb79ca9e9e3604c9e3fc678de78-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "6JXhp4xsdCDjD9h3YXmHmU",
+    "ToolName": "texti",
+    "ToolDescription": "AI that lives in your browser! It will cooperate with you to boost  your content quality!",
+    "ToolShortDescription": "AI that helps you create better content in your browser!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-05T00:00:00",
+    "FavCount": 172,
+    "TagsIndex": [
+      "copywriting-assistant",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "copywriting",
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://texti.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/bf1d48a0dd1f38f57be8c43e712f582703491d36-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "69412191-5d55-4f8d-919b-0f07843e191e",
+    "ToolName": "AI Room Planner",
+    "ToolDescription": "Interior Design by AI. Get hundreds of interior design ideas for your room - free with no limit.",
+    "ToolShortDescription": "Get free, unlimited interior design ideas for your room with AI.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 124,
+    "TagsIndex": [
+      "real-estate"
+    ],
+    "ToolCategories": [
+      "real estate"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://airoomplanner.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/26999a7bd0091848ba7927a2d10a780caf1fdaa7-3591x1657.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "68a5deb5-8064-453e-b1e6-7b75abb75238",
+    "ToolName": "10Web",
+    "ToolDescription": "AI - Powered WordPress Platform.\nAutomated Website Builder, Hosting, and PageSpeed Booster, to say the least.",
+    "ToolShortDescription": "AI-powered WordPress platform for automated website building",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-23T00:00:00",
+    "FavCount": 139,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://10web.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8e81b82ea9a4065a813365394c101396cd503394-1887x847.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "66fc1d0a-11f6-435a-94bb-48a1c4f944d4",
+    "ToolName": "GETitOUT",
+    "ToolDescription": "GETitOUT is an AI Persona & Text Generator.\nMarketing works better with personas. But creating them for every project and client? Not fun, at least until now.\n \nMeet GETitOUT’s Persona Generator: Extract personas from competitors. Generate professional texts. Then paste them into all your websites, emails, and marketing tools.",
+    "ToolShortDescription": "Get personas & texts from competitors",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial",
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-29T00:00:00",
+    "FavCount": 57,
+    "TagsIndex": [
+      "sales-assistant",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "sales",
+      "email assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://getitout.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/df1f635f57ddf3f2d687cac8a64bba5e4f5859ff-1706x870.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "6554aa41-2c59-4d2d-849b-a4427fb951de",
+    "ToolName": "Goodlookup",
+    "ToolDescription": "Goodlookup is a smart function for spreadsheet users. It delivers the benefits of AI language models to regular people. ",
+    "ToolShortDescription": "Goodlookup uses AI to make spreadsheets easier for everyone.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-18T00:00:00",
+    "FavCount": 30,
+    "TagsIndex": [
+      "spreadsheet-assistant"
+    ],
+    "ToolCategories": [
+      "spreadsheets"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.goodlookup.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8f57c9cbcaea735ed4de969617c10488dd465e99-1818x664.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "64a99db7-4ee8-44af-be92-ffa3c43af0a3",
+    "ToolName": "Mage",
+    "ToolDescription": "Free, fast & unfiltered Stable Diffusion, the text-to-image AI🔥\n",
+    "ToolShortDescription": "Free, fast text-to-image AI with stable diffusion🔥",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 464,
+    "TagsIndex": [
+      "art-generator",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "art",
+      "search engine"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.mage.space/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/be8d488a6219efe7162fe213194d31c017e403be-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "649307d1-6e26-4eb8-8b64-ccf64a89c2be",
+    "ToolName": "Descript",
+    "ToolDescription": "Create a text to speech model of your voice. Try a live demo.",
+    "ToolShortDescription": "Create a text-to-speech model of your voice; try a live demo.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 134,
+    "TagsIndex": [
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "text to speech"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.descript.com?lmref=wVa-qw",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a97f42c40eba97dd27dd2ade73bf198a92cf990b-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

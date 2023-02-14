@@ -1,0 +1,217 @@
+[
+  {
+    "Id": "e79f7fe9-7e74-41ce-a823-a033c857be59",
+    "ToolName": "Jokelub",
+    "ToolDescription": "Turn your writing into a joke at the click of your hand. Make people smile.",
+    "ToolShortDescription": "Generate jokes instantly",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 277,
+    "TagsIndex": [
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "Browser Extension",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://jokelub.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7cdb9a2c46701189f378b6be28a71b6b5e5f2508-1680x889.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "e72d1fec-ae00-43e5-bf2c-ecda9160bc7a",
+    "ToolName": "Supermeme.ai",
+    "ToolDescription": "Generate original memes powered by AI in 110+ languages.\nStep up your meme marketing game with our AI meme generator.",
+    "ToolShortDescription": "Meme generator in 110+ languages. Step up your meme marketing game!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-30T00:00:00",
+    "FavCount": 124,
+    "TagsIndex": [
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://supermeme.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a2ebe04468996caea354760491355a53cbbbb984-1855x936.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "e6bd0ab7-ffcb-4f7d-b97e-63e27c4e9860",
+    "ToolName": "Contents",
+    "ToolDescription": "Power up your content strategy. The Generative AI platform makes content creation easy and built for performance.",
+    "ToolShortDescription": "Easy content creation for better performance.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 50,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://contents.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/046332f648dfbc45bbc5912693a00fd6f80dabf9-3787x1735.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "e50fb101-8d0d-4811-964c-b2aeadfd7457",
+    "ToolName": "Audio Strip",
+    "ToolDescription": "Near Perfect Instrumental and Vocal Isolation for Free!",
+    "ToolShortDescription": "Isolate vocals/instruments for free!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-15T00:00:00",
+    "FavCount": 175,
+    "TagsIndex": [
+      "audio-editing"
+    ],
+    "ToolCategories": [
+      "audio editing"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.audiostrip.co.uk/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fbeb4cbe4dc0834082bac3e4f8b7f26221faeede-1553x858.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "e4f51c21-782b-4a8d-8a8d-7e5a51343f10",
+    "ToolName": "Patterned AI",
+    "ToolDescription": "AI-generated seamless patterns. Generate customised designs for your product or service using our AI model. You can also search thousands of royalty-free stock images to use immediately for your own designs.",
+    "ToolShortDescription": "AI-generated seamless patterns",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-26T00:00:00",
+    "FavCount": 98,
+    "TagsIndex": [
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "http://patterned.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1c6875db9d53c0b289a3b9da3b59c1eead0056d0-1677x947.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "e4f09ad1-ea54-4e46-95cc-37fc7201b301",
+    "ToolName": "BrameWork",
+    "ToolDescription": "Write Blog Posts 5X Faster. Bramework is an easy-to-use AI writer that helps bloggers, freelancers, and agencies save hours per blog post.",
+    "ToolShortDescription": "AI writer helps bloggers save hours/post; faster, easier blog writing.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial",
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-28T00:00:00",
+    "FavCount": 36,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://bramework.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fdcba947d840a9ac034b3c1695636cd8393f3f89-3679x1657.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "e3e166d1-f105-4147-8f5b-89298ced4910",
+    "ToolName": "ArticleForge",
+    "ToolDescription": "From product descriptions to whole blog posts, Article Forge delivers unique, SEO optimized, high-quality content about any topic with a single click.",
+    "ToolShortDescription": "Creates unique, SEO-optimized content with one click.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 58,
+    "TagsIndex": [
+      "seo-assistant",
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "SEO",
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.articleforge.com/?ref=f29ac7",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/74e8eae59f1d1b42f248b78f43046e36116b18eb-1665x945.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "e349c987-49d4-4b48-95e9-040e15ec432a",
+    "ToolName": "Cala",
+    "ToolDescription": "CALA makes it easy to design, produce, and deliver your own fully-custom fashion products. CALA provides everything you could need. Design assistance. Material sourcing. Sampling. With powerful features like in-app notifications, task management, and real-time commenting — so you can maximize productivity in the studio or on the go.",
+    "ToolShortDescription": "Design, produce, and deliver custom fashion products",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 70,
+    "TagsIndex": [
+      "fashion-assistant"
+    ],
+    "ToolCategories": [
+      "fashion"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://ca.la/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7131ff8f71cbb24a834abe1c842ca138aa9330ef-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "e32cce8a-b13d-486c-b787-27fe3432aac0",
+    "ToolName": "Mintlify",
+    "ToolDescription": "Build the documentation you've always wanted. Beautiful out of the box, easy to maintain, and optimized for user engagement.",
+    "ToolShortDescription": "Build beautiful, easy-to-maintain docs optimized for user engagement.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 62,
+    "TagsIndex": [
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "developer tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://mintlify.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8238249bc09c31442ed324d3838c8630ca4c36fc-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

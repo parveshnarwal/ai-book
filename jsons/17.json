@@ -1,0 +1,232 @@
+[
+  {
+    "Id": "62aa3b65-8e41-4976-9a1d-6d02a01a1531",
+    "ToolName": "Peppertype.ai",
+    "ToolDescription": "Your virtual content assistant that helps you generate quality content within seconds.",
+    "ToolShortDescription": "Virtual assistant for quick content creation.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 429,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.peppertype.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/35f6e13827cb64f1cbc1edd6229a99c0feb5dbe6-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "5f463c88-004f-44b5-a488-cf726c3fa3d7",
+    "ToolName": "InteriorAI",
+    "ToolDescription": "Get interior design ideas using Artificial Intelligence and virtually stage interiors for real estate listings with different interior styles.",
+    "ToolShortDescription": "Interior design ideas using Artificial Intelligence",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 579,
+    "TagsIndex": [
+      "real-estate"
+    ],
+    "ToolCategories": [
+      "real estate"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://interiorai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2665051c99630d44acb91eb3d780d4f2df27b5ca-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "5cb5e0a7-c14c-4156-a84a-ff08621fa1b9",
+    "ToolName": "Pollinations",
+    "ToolDescription": "Pollinations wants to diversify creativity and spread it through digital ecosystems. Whether in image, video or audio, we invite people to imagine new worlds with the help of AI.\n\nFor companies, our developers write code on top of the latest AI models, providing customized outcomes and specific aesthetics.\nWith the API , AI creation can be integrated directly within websites and social media platforms.\nCreating gets easy, fast, and fun.",
+    "ToolShortDescription": "Create, explore, and share AI-generated content with Pollinations' API.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-29T00:00:00",
+    "FavCount": 540,
+    "TagsIndex": [
+      "image-generator",
+      "music-generator",
+      "video-generator"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "music",
+      "video generator"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "Discord Community",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://pollinations.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2967f509eed7805ce03f23a33e24862de83c2a9d-1828x968.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "53c60bbc-9d62-4ca6-9e0a-a0de026c0cdd",
+    "ToolName": "Teachable Machine",
+    "ToolDescription": "Teachable Machine is a web-based tool that makes creating machine learning models fast, easy, and accessible to everyone. It's meant to be used by educators, artists, students, innovators, makers of all kinds – really, anyone who has an idea they want to explore. No prerequisite machine learning knowledge required.\n\n",
+    "ToolShortDescription": "Teachable Machine: fast, easy ML models for everyone",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-25T00:00:00",
+    "FavCount": 478,
+    "TagsIndex": [
+      "developer-tools",
+      "no-code"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://teachablemachine.withgoogle.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/73e6a63a4a7b18f50b3910d33a3ea82610b85652-1860x911.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "4aeb4f82-ec29-4bf8-b27b-f3e814a8db36",
+    "ToolName": "Getimg.ai",
+    "ToolDescription": "Everything you need to create images with AI.\nMagical AI art tools. Generate orginal images, modify existing ones, expand pictures beyond its orginal borders, and more.\n",
+    "ToolShortDescription": "AI-powered tools to create, modify, and expand images.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-12T00:00:00",
+    "FavCount": 48,
+    "TagsIndex": [
+      "image-generator",
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "image editing"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://getimg.ai/",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/17dfde3dbaf675a0d760499104b47fa69acb6aff-1870x904.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "4519bf53-df02-4fce-80f5-8beb395582f3",
+    "ToolName": "Creative Reality Studio (D-ID)",
+    "ToolDescription": "The world’s first platform to combine GPT-3, Stable Diffusion, and D-ID’s unique face animation technology. Our generative AI will turn your vision into a talking avatar within seconds. ",
+    "ToolShortDescription": "AI-powered platform to create talking avatars from your vision in seconds.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 482,
+    "TagsIndex": [
+      "video-generator"
+    ],
+    "ToolCategories": [
+      "video generator"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://studio.d-id.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c970c91999e4cce358e5b86b585782a9a3db3e29-1861x940.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "3aaaf8cc-3ebb-4757-bb98-4907f6f8cb72",
+    "ToolName": "Frase",
+    "ToolDescription": "Frase offers several useful AI writing tools in categories of copywriting, summarizing, paraphrasing and advertising.",
+    "ToolShortDescription": "AI writing tools for copywriting, summarizing and paraphrasing.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 75,
+    "TagsIndex": [
+      "writing-assistant"
+    ],
+    "ToolCategories": [
+      "general writing"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.frase.io/tools/",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f3a2290230d80a4c9e455934fcae1ec09573d39e-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "32d1b0d0-17b3-4f3e-b8e2-82d17d7654f7",
+    "ToolName": "Stable Diffusion",
+    "ToolDescription": "Stable Diffusion is a deep learning, text-to-image model released in 2022. It is primarily used to generate detailed images conditioned on text descriptions, though it can also be applied to other tasks such as inpainting, outpainting, and generating image-to-image translations guided by a text prompt.",
+    "ToolShortDescription": "Deep learning text-to-image model for generating detailed images from text descriptions.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-29T00:00:00",
+    "FavCount": 357,
+    "TagsIndex": [
+      "image-generator",
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "developer tools"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "API"
+    ],
+    "WebsiteUrl": "https://stability.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1b125922694c3b880bb317d62e364edc463fa9cf-1342x776.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "303adc3f-0cc5-498a-a4d7-5b29e9220b05",
+    "ToolName": "Microsoft Designer",
+    "ToolDescription": "Stunning designs in a flash with Microsoft Designer. Start with a simple text description and create images for your design!",
+    "ToolShortDescription": "Create stunning designs quickly",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-22T00:00:00",
+    "FavCount": 327,
+    "TagsIndex": [
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://designer.microsoft.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c7e28ae20f48896ca8563a895f562111e62f7aa6-1849x964.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

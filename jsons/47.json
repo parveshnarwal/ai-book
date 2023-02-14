@@ -1,0 +1,213 @@
+[
+  {
+    "Id": "6227a9cd-aa30-41db-b977-9f650dd28c97",
+    "ToolName": "Bookabout",
+    "ToolDescription": "AI powered book search engine. Search for the idea of a book, not just the keywords.",
+    "ToolShortDescription": "AI powered book search engine.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-25T00:00:00",
+    "FavCount": 71,
+    "TagsIndex": [
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "search engine"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://bookabout.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/359bf17880c13faad191c4e6c116f3e13fcac6b1-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "f0297d79-4a18-49f2-8a00-7dca7bc0b659",
+    "ToolName": "Seenapse",
+    "ToolDescription": "Seenapse helps creative teams at marketing and advertising agencies to come up with more, better ideas faster. It generates hundreds of interesting ideas in minutes, through a unique combination of human lateral thinking and AI. ",
+    "ToolShortDescription": "Come up with more, better ideas faster for marketing and advertising.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-25T00:00:00",
+    "FavCount": 21,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://seenapse.ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f81d21dc12fb73ba585ab5b6fee67828c8eb12a9-1842x873.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "a70e5973-7cf9-46e3-af78-b2c18dc7f244",
+    "ToolName": "Vacation & Travel Chat (GPT)",
+    "ToolDescription": "This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions.",
+    "ToolShortDescription": "Design a custom trip using AI",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-25T00:00:00",
+    "FavCount": 107,
+    "TagsIndex": [
+      "life-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.usevacay.com/chatbot?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8ae64beae62307e1a683a2f29d0f21dea1809056-1767x840.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "757c8011-fef7-49e9-bc55-c70fb260d61e",
+    "ToolName": "Mental Models AI",
+    "ToolDescription": "Easily understand mental models with AI.\nNavigate the complexities of life with greater clarity and purpose. Upgrade your understanding with mental models.",
+    "ToolShortDescription": "Easily understand mental models with AI.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-25T00:00:00",
+    "FavCount": 52,
+    "TagsIndex": [
+      "life-assistant",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://learnmentalmodels.co/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/529c011687cdfc57caee324ba150fe628d1431f2-1830x857.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "04bffff4-181c-42f2-a2d3-7130cb1143ee",
+    "ToolName": "LessonPlans.ai",
+    "ToolDescription": "LessonPlans is an AI-powered lesson plan generator developed by teachers to help teachers create high-quality lesson plans in a fraction of the time. \nThe AI-generated lesson plans include a step-by-step guide for each lesson, making it easy for teachers to follow and implement the plan in their classrooms. It also allows teachers to customize the lesson plans to fit their teaching style and students’ needs. ",
+    "ToolShortDescription": "AI generated lessson plans for teachers.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-25T00:00:00",
+    "FavCount": 72,
+    "TagsIndex": [
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "education assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.lessonplans.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/af37f6c836f8ffea4e62f338d9928db6a948b08b-1868x847.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "1ccefd69-8229-4187-ab1b-19cd30ef7c65",
+    "ToolName": "InstantArt.io",
+    "ToolDescription": "InstantArt is a revolutionary new platform for AI-generated art. Their stable diffusion technology ensures that every image generated is of the highest quality, making it the perfect tool for artists, designers, and creators of all levels. Whether you're a professional looking for inspiration or a hobbyist looking to experiment, InstantArt has something for everyone.",
+    "ToolShortDescription": "Revolutionary new platform for AI-generated art",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-25T00:00:00",
+    "FavCount": 141,
+    "TagsIndex": [
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "art"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://instantart.io?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a567ec3147ad5e6ef9c0c9775bfe9de6f9e07344-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "2e2adfd5-1c0b-4701-9ee6-e6df055d9c1e",
+    "ToolName": "Intelli Gift",
+    "ToolDescription": "Intelli.gift is an AI-powered gift advisor that uses advanced algorithms to suggest the perfect gift for any occasion. It takes into account the recipient's preferences, interests, and personality to recommend the best options, saving time, money, and energy for the gift-giver.",
+    "ToolShortDescription": "Gift smarter with intelli.gift - The AI-powered gift advisor",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-25T00:00:00",
+    "FavCount": 43,
+    "TagsIndex": [
+      "gift-ideas"
+    ],
+    "ToolCategories": [
+      "gift ideas"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://intelli.gift/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f28dd359cfe3515263d467ab1358eae74aae4bbe-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "614da434-156a-42fd-a409-24007d59aa48",
+    "ToolName": "Begone Spammer",
+    "ToolDescription": "Generate personalized snappy replies to uninvited emails. You can paste the unsolicited message and choose a reply flavor to generate a reply, though personal information should be edited out. Begone Spammer does not process or save email content, and users should proceed with caution when using the platform. Donations are accepted to help keep the project alive.",
+    "ToolShortDescription": "Generate personalized snappy replies to uninvited emails",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-25T00:00:00",
+    "FavCount": 40,
+    "TagsIndex": [
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "email assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://begonespammer.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6307bec8e619cef12006fd7f156cdba0540bdc65-1427x937.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "835aa394-d23c-41d1-b109-9af01b2d5e8a",
+    "ToolName": "Rephraser AI",
+    "ToolDescription": "Rephrase text using AI, with multiple options for the tone and style of the text.  Also offers users the ability to get revisions to improve their text.",
+    "ToolShortDescription": "Rephrase text using AI with multiple options for tone and style ",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-25T00:00:00",
+    "FavCount": 140,
+    "TagsIndex": [
+      "paraphraser"
+    ],
+    "ToolCategories": [
+      "paraphraser"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://rephraser.vercel.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f83b2ed13c9aeb5e3c74619e2950af21fb7cfead-1397x871.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

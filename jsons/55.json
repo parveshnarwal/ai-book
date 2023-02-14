@@ -1,0 +1,229 @@
+[
+  {
+    "Id": "b8c5b67f-a754-447c-adbd-ca188f4a8d55",
+    "ToolName": "TableTalk",
+    "ToolDescription": "Utilize artificial intelligence to better map out your database in a way that feels like you're talking to a human. It's a natural language interface that allows you to ask questions about your database and get answers back in a way that feels familiar.",
+    "ToolShortDescription": "AI-powered natural language interface to ask questions & get answers about your database.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-01-17T00:00:00",
+    "FavCount": 23,
+    "TagsIndex": [
+      "sql-assistant"
+    ],
+    "ToolCategories": [
+      "SQL"
+    ],
+    "NewFeatures": [
+      "Waitlist",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.tabletalk.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8f1c63b1dca3deb328263912f7dc3655b6c0ab16-1552x900.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "4f43703e-8570-4144-88bc-eb91575f2227",
+    "ToolName": "Revive",
+    "ToolDescription": " A platform where you can generate business ideas with AI, share them with the world and validate before you build. Just type in your idea, let the AI visualise it for you, share it with the community and get your business plan all under a minute!",
+    "ToolShortDescription": "Generate, visualise, share & validate business ideas with AI in a minute.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-16T00:00:00",
+    "FavCount": 52,
+    "TagsIndex": [
+      "startup-assistant"
+    ],
+    "ToolCategories": [
+      "startup tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://letsrevive.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1ec50a6e7eac9a6a990001eb3e9ed241a7121088-1840x942.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "dd8d0da0-f56d-46e1-98cc-7f330cbdd9af",
+    "ToolName": "Lablab.ai",
+    "ToolDescription": "Community of Makers, building with state-of-the-art, modern Artificial Intelligence. Lablab.ai hosts regular Hackathons teaching how to build and use different AI technologies.",
+    "ToolShortDescription": "Community of Makers building AI tech with hosted hackathons",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-17T00:00:00",
+    "FavCount": 64,
+    "TagsIndex": [
+      "resources",
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "resources",
+      "education assistant"
+    ],
+    "NewFeatures": [
+      "Discord Community",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://lablab.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2e063052e8216a2174f7a11c2e7b45aedc619003-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "4c0dc7ff-bcb4-49c5-b978-df74dd0e464b",
+    "ToolName": "Airbrush",
+    "ToolDescription": "Generate AI-powered images - in 1 click. With Airbrush's AI technology, you can create original stock photos, NFTs, art, and more - in just seconds.",
+    "ToolShortDescription": "Create original images with Airbrush's AI in seconds.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-17T00:00:00",
+    "FavCount": 41,
+    "TagsIndex": [
+      "image-generator"
+    ],
+    "ToolCategories": [
+      "image generator"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.airbrush.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c781f0280773630298d4b95e3b78d96b62c5fd7d-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "4b320400-6afa-4e54-a160-dd1a6376513b",
+    "ToolName": "Onesta",
+    "ToolDescription": "Ask their AI any questions about finance, investing, budgeting, taxes, and more.\nAlso allows you to uncover important info about professionals who provide financial services and you can browse their advisor database too.",
+    "ToolShortDescription": "Ask AI financial questions & browse advisor database to uncover info.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-17T00:00:00",
+    "FavCount": 329,
+    "TagsIndex": [
+      "finance",
+      "life-assistant",
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "finance",
+      "life assistant",
+      "education assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.onestafinance.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2d53950c282262570b4f022cea407b5ee491148b-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "a0210e76-7255-464f-9eb5-31891f9e2dac",
+    "ToolName": "MagicThumbnails",
+    "ToolDescription": "Enter a video title and describe what happens in it and the AI will generate YouTube thumbnails for you. ",
+    "ToolShortDescription": "Generate YouTube thumbnails from video title & description.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-16T00:00:00",
+    "FavCount": 47,
+    "TagsIndex": [
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://magicthumbnails.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fffbb47d8bdea952be5e58add9709277c60eb0f9-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "2a1901f4-806b-4698-bf37-9700f242319c",
+    "ToolName": "ExamCram",
+    "ToolDescription": "With ExamCram, students can convert any type of media, such as lectures or textbook passages, into personalized study materials, including flashcards and practice tests. The app's AI algorithms automatically identify key concepts and create questions based on them, making it easy for students to focus on the most important information.\n\n",
+    "ToolShortDescription": "Create personalized study materials from any media with AI-generated questions.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-16T00:00:00",
+    "FavCount": 84,
+    "TagsIndex": [
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "education assistant"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://apps.apple.com/us/app/examcram-ai-for-students/id1595934993/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9df3af2f443e4b2086cfbd32588ab6aea0343090-1305x897.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f0b796a4-683c-4db9-9282-602ca2777da4",
+    "ToolName": "Texture Lab",
+    "ToolDescription": "Generate 3D textures for your game in seconds, thanks to AI. Also provides a database of ready-to-use, free textures generated on the site.",
+    "ToolShortDescription": "Generate 3D textures w/ AI in seconds; free database of ready-to-use textures.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-16T00:00:00",
+    "FavCount": 22,
+    "TagsIndex": [
+      "3D-generator"
+    ],
+    "ToolCategories": [
+      "3D"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.texturelab.xyz/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/77c861d1ea4648b60fa563cea9921ae2c18fa99b-1451x768.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "4b661f32-ef3b-418a-ac0c-55c8561532de",
+    "ToolName": "HowToReplyTo",
+    "ToolDescription": "Find a creative and unique replies to any messages using AI. Supports use cases like replying to family, friends, a tinder date and everyone!",
+    "ToolShortDescription": "AI helps craft creative, unique replies to any message.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-16T00:00:00",
+    "FavCount": 157,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://howtoreplyto.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0c7a52a46586b4c3f5a7107cc3a54a7127b78c36-1808x946.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

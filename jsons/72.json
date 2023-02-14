@@ -1,0 +1,226 @@
+[
+  {
+    "Id": "ed340a20-ef48-41d7-9758-182839a9caad",
+    "ToolName": "You",
+    "ToolDescription": "The search engine you  can control.",
+    "ToolShortDescription": "Search engine with customizable results.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 281,
+    "TagsIndex": [
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "search engine"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://you.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/eb88a11678eaef6b5a000bba8c8ca7d216eda678-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "ec8ccade-01b5-4d5d-8168-66d7ca0ff3f4",
+    "ToolName": "Designify",
+    "ToolDescription": "Create automatic designs using your favorite photos. Pick any image to create AI-powered designs by automatically removing backgrounds, enhancing colors, adjusting smart shadows, and so much more. Save, download, or share your designs right away.",
+    "ToolShortDescription": "Create designs from photos with AI-powered tools.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-17T00:00:00",
+    "FavCount": 119,
+    "TagsIndex": [
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant"
+    ],
+    "NewFeatures": [
+      "API",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.designify.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2c5c84677d1b7d0bcc1e10f84eeb71c716f6c989-3757x1707.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "ec33f74b-89ad-475f-9cb0-7034af48e0fa",
+    "ToolName": "Lexica",
+    "ToolDescription": "The Stable Diffusion search engine.",
+    "ToolShortDescription": "Search engine for Stable Diffusion generated images",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 220,
+    "TagsIndex": [
+      "art-generator",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "art",
+      "search engine"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://lexica.art/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3b25373c8764758897e37dd4e7a8291ced00e2c0-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "ebe194b2-0ecb-4c05-ae5b-6c430aa3fdb5",
+    "ToolName": "AI Social Bio",
+    "ToolDescription": "Your social media bio, created by artificial intelligence.",
+    "ToolShortDescription": "Automatically generate your social media bio",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 349,
+    "TagsIndex": [
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://aisocialbio.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ee4c3e2583aaff10425b3cd87c7d932121a6d795-1665x945.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "ebbb5e49-3897-4512-96c7-9c7bb639e6d5",
+    "ToolName": "Othersideai",
+    "ToolDescription": "Your Personal Writing Assistant.\nHyperWrite/OthersideAI provides suggestions and sentence completions to improve your writing, wherever you write.",
+    "ToolShortDescription": "AI-powered writing assistant to improve your writing, wherever you write.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 187,
+    "TagsIndex": [
+      "writing-assistant"
+    ],
+    "ToolCategories": [
+      "general writing"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://www.othersideai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/338a5f2db652f38cbe65cf64d57c554def9c6df6-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "eb52cf6a-4db7-4f35-9fdb-f69ec61a4570",
+    "ToolName": "Mutiny",
+    "ToolDescription": "Mutiny is a no-code AI platform that helps marketers convert their top of funnel demand into revenue, without engineers.",
+    "ToolShortDescription": "Mutiny helps marketers convert demand into revenue, no engineers needed.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 61,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.mutinyhq.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ba6b96a67d3e43b1dac3cc08d6b9bcee9b1524b4-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "ea5f6b4e-05d9-4427-839c-218594d493d3",
+    "ToolName": "Magicreach",
+    "ToolDescription": "Reach is an outreach personalization and sales enablement tool that generates hyper personalized icebreakers for cold outreach. Faster email personalization that gets replies.",
+    "ToolShortDescription": "Hyper-personalized icebreakers for faster email personalization & replies.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 40,
+    "TagsIndex": [
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "email assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.magicreach.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/43adc1008062542267448ab47c0778ecf3a807c5-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "e97d5e04-8bb4-4036-bcb2-3c3cf9a79f50",
+    "ToolName": "Aiva",
+    "ToolDescription": "AIVA, the Artificial Intelligence music composer that creates original & personalized music for your projects.",
+    "ToolShortDescription": "Create original music for your projects",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 134,
+    "TagsIndex": [
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "text to speech"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.aiva.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/47b4e4047d799b16bdc7b02177ea9f883e574062-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "e882bf30-f02b-48b7-834b-03dac571aa06",
+    "ToolName": "Symanto Text Insights",
+    "ToolDescription": "Market Leading NLP API. Leverage text data for better business insights with real-time analysis and simple system integration. \n",
+    "ToolShortDescription": "NLP API for real-time text data analysis to gain business insights.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 9,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://www.symanto.com/get-in-touch/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1b4d6e4158f897d1c9cc37ad2d80e4ee57c39ee1-1714x891.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

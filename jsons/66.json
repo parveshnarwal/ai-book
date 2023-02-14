@@ -1,0 +1,220 @@
+[
+  {
+    "Id": "xvw6iJmFk21cZsmqRgvvJg",
+    "ToolName": "In3D",
+    "ToolDescription": "Turn people into realistic avatars! Realistic and customizable avatars created with a phone camera within a minute for your metaverse, game, or app.",
+    "ToolShortDescription": "Create realistic avatars with a phone in a minute.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 125,
+    "TagsIndex": [
+      "avatar-generator",
+      "gaming"
+    ],
+    "ToolCategories": [
+      "avatars",
+      "gaming"
+    ],
+    "NewFeatures": [
+      "Mobile App",
+      "API",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://in3d.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a08569d627200099d433f587e80054d179c8cfab-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "xqmN6vh9ANCUywMHJsSnKp",
+    "ToolName": "DeepMotion",
+    "ToolDescription": "Animate 3D lets you turn videos into 3D animations by using real-time body tracking for use in games, augmented/virtual reality, and other applications.",
+    "ToolShortDescription": "Create 3D animations from videos using body tracking for games and AR/VR",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 195,
+    "TagsIndex": [
+      "3D-generator"
+    ],
+    "ToolCategories": [
+      "3D"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.deepmotion.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/295e58de3bc023c1e1b55b1e9bb7be494d08a234-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "x1h5oC3sUiVUtpC4ZmTy2b",
+    "ToolName": "Supertranslate",
+    "ToolDescription": "Add accurate English subtitles to any language video in one click. You can upload videos in 100+ languages and Supertranslate automatically generates English subtitles. Supertranslate is powered by OpenAI’s Whisper, which is the most accurate speech-to-text system in the world. It is robust to background noise, language mixing, and accents.",
+    "ToolShortDescription": "Add English subtitles to any language video in one click",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial",
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-27T00:00:00",
+    "FavCount": 103,
+    "TagsIndex": [
+      "transcriber"
+    ],
+    "ToolCategories": [
+      "transcriber"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.supertranslate.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3498b5389053a1c0e8caa5617444054b0381f50e-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "wjUATXqCySNMe7g8zewEHv",
+    "ToolName": "Roll Art Die",
+    "ToolDescription": "StableDiffusion on your Apple Silicon Devices.\nGenerate AI Artworks using only text. Make your dream artworks into reality.\nNo cloud subscription required.",
+    "ToolShortDescription": "Generate AI Artworks from text on Apple Silicon Devices, no cloud subscription needed.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-13T00:00:00",
+    "FavCount": 95,
+    "TagsIndex": [
+      "image-generator"
+    ],
+    "ToolCategories": [
+      "image generator"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.roll-art-die.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/18c1c35f6a6317ab663da90d04e802a5875e831e-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "wSsGQgmr4jVqceGNqCiXo5",
+    "ToolName": "Elephas",
+    "ToolDescription": "The only AI writer that integrates with your Mac. Works across applications.",
+    "ToolShortDescription": "AI writer for Mac that works across apps.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-03T00:00:00",
+    "FavCount": 48,
+    "TagsIndex": [
+      "writing-assistant"
+    ],
+    "ToolCategories": [
+      "general writing"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://elephas.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f031768865e03332da7f72404a3ee3187b9fd529-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "vYkk1RwNd23UiiagwrtUFQ",
+    "ToolName": "WiziShop",
+    "ToolDescription": "Use WiziShop's Artificial Intelligence to write your e-commerce product descriptions, find inspiration for your future articles, easily go international, and generate more traffic to your store!",
+    "ToolShortDescription": "Write better product descriptions and get more traffic.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-06T00:00:00",
+    "FavCount": 72,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://wizishop.com/ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3c81e59ca6fb19b04bf526baa057defba082463e-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "uWbcguiqaavhBM7AtU4mBD",
+    "ToolName": "Ocoya",
+    "ToolDescription": "A platform to create, auto-generate and schedule content quicker. Content marketing, copywriting and social media in minutes!",
+    "ToolShortDescription": "Create content faster with auto-generation & scheduling.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-03T00:00:00",
+    "FavCount": 127,
+    "TagsIndex": [
+      "copywriting-assistant",
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting",
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.ocoya.net/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/12e920fe63df49ea7410fcfb660825b5ed77c2fd-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "u9g6DtE1E35MgXs6NGzhG5",
+    "ToolName": "AI-Writer",
+    "ToolDescription": "AI-Writer is the most accurate content generation platform. Uses state-of-the-art AI writing models to generate articles from just a headline.",
+    "ToolShortDescription": "Accurate content generation with state-of-the-art AI models",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 88,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://ai-writer.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/36d74a28286a5511f60c457091fd47f38b47f782-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "ttaRjkCu2ywNmiXJStAghr",
+    "ToolName": "Eye for AI",
+    "ToolDescription": "Save your favorite prompts as templates, and use them to quickly generate images in the future. Templates can work on uploaded images, or on text prompts.",
+    "ToolShortDescription": "Save templates for quick image gen. from text/uploaded images.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-14T00:00:00",
+    "FavCount": 53,
+    "TagsIndex": [
+      "prompts-assistant"
+    ],
+    "ToolCategories": [
+      "prompts"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://eyeforai.xyz/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9177758dc3cf74024fb3d60df381eaff70b24381-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

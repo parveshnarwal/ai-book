@@ -1,0 +1,232 @@
+[
+  {
+    "Id": "952c1ce7-2b40-43e0-aa0c-113e10dbe028",
+    "ToolName": "NeuralStudio",
+    "ToolDescription": "Neural Studio is an all in one Photo & Art Studio, powered by the latest AI technologies, that empowers creators to reach their creative goals easily.\n\n",
+    "ToolShortDescription": "AI-powered Photo & Art Studio for easy creative goal achievement.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 81,
+    "TagsIndex": [
+      "avatar-generator"
+    ],
+    "ToolCategories": [
+      "avatars"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://neural.cam/studio/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8d80027cd5b89c8b6be0f24f208a160a7ea9a66a-1665x930.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "9415fd2c-4f8c-4e87-9997-2c031c718539",
+    "ToolName": "TweetEmote",
+    "ToolDescription": "AI powered tweet assistant that helps users write expressive and engaging tweets. Also create smart replies to any tweet you want by writing a prompt and picking an emotion. ",
+    "ToolShortDescription": "AI tweet assistant to write expressive tweets & create smart replies",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-02T00:00:00",
+    "FavCount": 133,
+    "TagsIndex": [
+      "social-media-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "social media assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://tweetemote.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/58ba72afbfc5ecb2f4f8b7e914ca8e81a9506e4e-1181x770.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "93248fc1-62ac-47ff-9477-5753ee89724b",
+    "ToolName": "Reclaim AI",
+    "ToolDescription": "AI for task management and scheduling for Google calendar. Reclaim creates the perfect schedule for your team's priorities, and saves up to 40% of the workweek with intelligent, flexible and adaptive time orchestration.",
+    "ToolShortDescription": "AI-powered task management & scheduling for Google Calendar",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-22T00:00:00",
+    "FavCount": 80,
+    "TagsIndex": [
+      "productivity"
+    ],
+    "ToolCategories": [
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://reclaim.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4203b790464ce84d3fa203cbea2772542a5abfc4-1796x897.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "92981109-efb7-4dab-8186-505b1981e817",
+    "ToolName": "Krea",
+    "ToolDescription": "Explore millions of AI generated images and create collections of prompts. Featuring Stable Diffusion generations.",
+    "ToolShortDescription": "Explore AI-generated images & create collections",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 167,
+    "TagsIndex": [
+      "prompts-assistant",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "prompts",
+      "search engine"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.krea.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c623c68ca85e7607da81a70981da66111f6e9718-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "92525ceb-1ce6-4195-9fb5-23f848f31649",
+    "ToolName": "Opus",
+    "ToolDescription": "Turn text into movies and games.",
+    "ToolShortDescription": "Create movies & games from text.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 168,
+    "TagsIndex": [
+      "video-generator",
+      "gaming"
+    ],
+    "ToolCategories": [
+      "video generator",
+      "gaming"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://opus.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/35b50e7848831d15765d9118df9344f292793113-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "91fa7bee-7ce7-45ba-b5ce-db75cfe3b6c2",
+    "ToolName": "Mem.ai",
+    "ToolDescription": "Let AI organize your team’s work—from meeting notes, projects, to knowledge bases. All instantly searchable and readily discoverable.",
+    "ToolShortDescription": "AI organizes team work, notes, projects, & knowledge bases",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 72,
+    "TagsIndex": [
+      "productivity",
+      "memory-assistant"
+    ],
+    "ToolCategories": [
+      "productivity",
+      "memory"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://mem.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/723cd7df5c11b4664fcf1934c940032b9e080990-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "91f2704e-ca1c-4e3d-86f0-134505022748",
+    "ToolName": "Nanonets",
+    "ToolDescription": "Automate Manual Data Entry Using AI!\nCapture data from documents, text, images, and emails instantly. Reduce turnaround times and the manual effort required. OCR (Optical Character Recognition)-based AI platform.",
+    "ToolShortDescription": "Automate data entry using AI-based OCR platform",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-16T00:00:00",
+    "FavCount": 97,
+    "TagsIndex": [
+      "no-code",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "low-code/no-code",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://nanonets.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/44e9614523bc5b2b26029a3254a1062b9c1f213f-1871x942.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "916acd57-6596-4e55-aa32-b2dd27601827",
+    "ToolName": "Lavender",
+    "ToolDescription": "Lavender is a complete suite of tools to help you get more replies in less time. Write better emails, personalize faster, and coach your team with Email AI.",
+    "ToolShortDescription": "Write better emails, personalize faster, and coach your team",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 34,
+    "TagsIndex": [
+      "sales-assistant",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "sales",
+      "email assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.lavender.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7e696b35aad64de220df16c424db9486e7fd6baa-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "908f2d19-4c01-492c-a3fd-e2c29f84910e",
+    "ToolName": "Topicmojo",
+    "ToolDescription": "Topic mojo is an AI tool for content research. \nGet analysis features that will help you grow your online business. \n",
+    "ToolShortDescription": "Get AI-powered content research to help grow your business.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial",
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-02T00:00:00",
+    "FavCount": 72,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://topicmojo.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d284b9f868063b3a6b034e6490b8fb20fe1758a9-1871x881.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

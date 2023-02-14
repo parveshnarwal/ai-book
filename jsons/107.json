@@ -1,0 +1,235 @@
+[
+  {
+    "Id": "1178150d-16e3-4727-afcc-1ef39de77647",
+    "ToolName": "Photoroom",
+    "ToolDescription": "Create product and portrait pictures using only your phone. Remove background, change background and showcase products.",
+    "ToolShortDescription": "Create product & portrait pics with your phone.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 69,
+    "TagsIndex": [
+      "image-editing",
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "image editing",
+      "design assistant"
+    ],
+    "NewFeatures": [
+      "Mobile App",
+      "API"
+    ],
+    "WebsiteUrl": "https://www.photoroom.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3372f0af5e57d2582dd923b74fb2f1b2f6043597-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "113d9a7e-7870-46b8-85de-2986612940ac",
+    "ToolName": "Resume Worded",
+    "ToolDescription": "Improve your resume and LinkedIn profile.\nDesigned by top recruiters, our AI-powered platform instantly gives tailored feedback on your resume and LinkedIn profile.\nLand 5x more interviews, opportunities, and job offers.",
+    "ToolShortDescription": "Get tailored feedback on your resume and LinkedIn profile.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-30T00:00:00",
+    "FavCount": 213,
+    "TagsIndex": [
+      "life-assistant",
+      "human-resources"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "human resources"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://resumeworded.com/index.php?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b27e1cf4b099ab280d5dce5c185d13839885adfa-1888x908.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "10fd369d-7e06-419d-b559-5884e3949598",
+    "ToolName": "Wordhero",
+    "ToolDescription": "With WordHero's AI technology, you can create original blog posts, social media content, emails, and more - in just seconds.",
+    "ToolShortDescription": "Create original content in seconds with WordHero's AI technology.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-23T00:00:00",
+    "FavCount": 52,
+    "TagsIndex": [
+      "seo-assistant",
+      "email-assistant",
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "SEO",
+      "email assistant",
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://wordhero.co/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/58ae1962e989446ea7b7d56a21ad18029c376294-1559x964.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "10caef43-18dc-4ed0-b691-a94021ad820e",
+    "ToolName": "DeepL",
+    "ToolDescription": "DeepL is the world's most accurate and nuanced machine translation. It is over 3x more accurate than its closest competitors by combining Advanced AI technology and unbeatable translation accuracy.",
+    "ToolShortDescription": "3x more accurate machine translation with Advanced AI technology.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 129,
+    "TagsIndex": [
+      "productivity"
+    ],
+    "ToolCategories": [
+      "productivity"
+    ],
+    "NewFeatures": [
+      "API",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://deepl.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f1e4699b383a4fb64351be1aeb65506417a767c4-3687x1721.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "10aac775-01c7-4d41-a151-e2f1065e071a",
+    "ToolName": "Ellie",
+    "ToolDescription": "Ellie learns from your writing style and crafts replies as if they were written by you.\n",
+    "ToolShortDescription": "Ellie mimics your writing style to craft personalized replies.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-18T00:00:00",
+    "FavCount": 46,
+    "TagsIndex": [
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "email assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://ellieai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/34688218c38ad11299d07dc83200b75140165293-1097x871.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "0fbbf485-465b-48e8-940d-a2fcedd46130",
+    "ToolName": "Lex",
+    "ToolDescription": "Unlock your best writing",
+    "ToolShortDescription": "Unlock your creativity & unleash your best writing!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 72,
+    "TagsIndex": [
+      "writing-assistant"
+    ],
+    "ToolCategories": [
+      "general writing"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://lex.page/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/5d81cdce4b5fc31747852977ab57f54aabb15239-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "0e6ae30b-cd51-41de-a35a-77b5be5b4633",
+    "ToolName": "AI Surge Cloud",
+    "ToolDescription": "AI Surge is a no-code Decision Intelligence platform that helps businesses to build production-first ModelOps pipelines that bring data science to life without writing a single line of code.\n \nIt's like Data science without data scientists. \n\nWe are helping businesses to deliver data 10x faster and cutting down costs by 90%.",
+    "ToolShortDescription": "Build ModelOps pipelines quickly and cost-effectively.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-03T00:00:00",
+    "FavCount": 37,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://ai-surge.cloud/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/088a2c98a43145e1563decc303750949d6f6b3f9-1743x945.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "0dd2a3a8-1951-42c9-b18e-6b2ef4788333",
+    "ToolName": "Vana Portrait",
+    "ToolDescription": "You are a work of art.\n“Portrait” by Vana is a generative art studio that can create self-portraits of you in infinite styles.",
+    "ToolShortDescription": "Create a unique self-portrait.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-29T00:00:00",
+    "FavCount": 247,
+    "TagsIndex": [
+      "avatar-generator",
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "avatars",
+      "art"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://portrait.vana.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/55e53c60b2560a9e809c4ad75cd717fb030bd630-1127x860.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "0d924f01-bd74-4eeb-82e3-3044e6eb218f",
+    "ToolName": "Quasi",
+    "ToolDescription": "Use AI To Create Art, Code, Music etc.\n ",
+    "ToolShortDescription": "AI creates art, code, music, etc.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-10T00:00:00",
+    "FavCount": 156,
+    "TagsIndex": [
+      "writing-assistant",
+      "music-generator",
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "music",
+      "art"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://quasi.market/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9c9ab05504069c1c0d8a195d5bea93741a9bb103-1845x917.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

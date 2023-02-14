@@ -1,0 +1,224 @@
+[
+  {
+    "Id": "d2fa7c5e-8c5b-4869-ab75-8be69b365c78",
+    "ToolName": "Santa AI",
+    "ToolDescription": "Wanna add some extra magic to the holiday season? Check out the world's first customizable talking Santa - For the first time you can create your own unique Santa video greeting and sharing it with your loved ones!",
+    "ToolShortDescription": "Create your own unique Santa video greeting",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-17T00:00:00",
+    "FavCount": 47,
+    "TagsIndex": [
+      "gift-ideas",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "gift ideas",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.santa.artflow.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2b7bc44c817a3d5f81e04b474d4e7c18034229e9-1817x972.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d25a2ffe-08b3-412c-99e2-1616752bc8c9",
+    "ToolName": "Pop2Piano",
+    "ToolDescription": "Plays pop audio based piano cover from any song you want. Change the song and style of piano cover by selecting items from list.",
+    "ToolShortDescription": "Piano covers of any song in pop style, customizable with list of options.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-01T00:00:00",
+    "FavCount": 73,
+    "TagsIndex": [
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "music"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://sweetcocoa.github.io/pop2piano_samples?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/15f8f22719c517023be19cc92c53a10a89f34dcf-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "d0b3149e-8be7-4ecf-933b-cf69189c8aa2",
+    "ToolName": "Lightning AI",
+    "ToolDescription": "Build models and full-stack AI apps, lightning fast. Build models and AI-powered cloud applications using Lightning App templates without DIY infrastructure, cost management, scaling, and other headaches.",
+    "ToolShortDescription": "Build AI models and apps quickly with Lightning App templates.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 88,
+    "TagsIndex": [
+      "developer-tools",
+      "no-code"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "low-code/no-code"
+    ],
+    "NewFeatures": [
+      "Open Source"
+    ],
+    "WebsiteUrl": "https://lightning.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c1b107cc6d91e5c5e411f873d403d0c18784d3da-3759x1729.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "d020a1b0-9fe4-4085-b7cf-8762513da54a",
+    "ToolName": "Xno.ai",
+    "ToolDescription": "Explore 19 top text to image AIs with 39 GPUs.",
+    "ToolShortDescription": "Explore 19 models with 39 GPUs for text-to-image conversion.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial",
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-23T00:00:00",
+    "FavCount": 22,
+    "TagsIndex": [
+      "image-generator"
+    ],
+    "ToolCategories": [
+      "image generator"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://xno.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/02bb3a2e831d9063a0d458c51c3eea62a6d4d3eb-1681x953.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "cpmLYxoqRb2sxapt8gfhLy",
+    "ToolName": "DiffusionBee",
+    "ToolDescription": "The easiest way to generate AI art on your computer with Stable Diffusion.",
+    "ToolShortDescription": "Generate AI art on your computer with Stable Diffusion.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-12T00:00:00",
+    "FavCount": 107,
+    "TagsIndex": [
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "art"
+    ],
+    "NewFeatures": [
+      "Discord Community",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://diffusionbee.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/08ec6a289ac08a341166dea0b51fe9391203f7c5-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "cf8bd78f-4857-4a6a-ab80-59526cd3ff78",
+    "ToolName": "Thundercontent",
+    "ToolDescription": "Generate Content with AI.\nThundercontent uses artificial intelligence to help you write unique articles on any topic at the speed of light. Scale your content strategy. Overcome writer's block. You can also generate audio using Thundercontent.",
+    "ToolShortDescription": "Generate unique content & audio with AI, quickly & easily.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-25T00:00:00",
+    "FavCount": 70,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://thundercontent.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/233ca9f594c73f9ad43e1b7f0ddd088150e1a413-1867x972.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "ce462c5a-0b52-447e-9f04-3dc1330927c4",
+    "ToolName": "Graham AI",
+    "ToolDescription": "Tweet like a genius tech influencer, generated by AI.",
+    "ToolShortDescription": "AI-generated tweets to make you a tech genius influencer. #AI #Tech #Influencer",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-28T00:00:00",
+    "FavCount": 220,
+    "TagsIndex": [
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.grahamai.co/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ece2ea4651946c9b80bd44d61edad1067d1448fa-1695x911.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "ce17854b-1267-4f98-a3ba-f703c9f45f32",
+    "ToolName": "Katteb",
+    "ToolDescription": "Katteb AI makes it fast & easy to create content for your blog and online store.",
+    "ToolShortDescription": "Katteb AI simplifies content creation for blogs & online stores.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 39,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://katteb.com/en/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/df63f8bd816a912fec1872945bb828828a8a5862-1665x945.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "cca4dc7b-240f-4f5b-9497-3e9231b729e8",
+    "ToolName": "Evoto AI",
+    "ToolDescription": "Evoto, a next-generation photo editor that releases you from tedious work, sets you up to get thousands of photos processed at a 10x speed with remarkable quality, and helps you make your imaginations real.",
+    "ToolShortDescription": "10x faster photo editing with remarkable quality, making imaginations real.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 22,
+    "TagsIndex": [
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "image editing"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.evoto.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4a966dd1d5872f07eadcf61b1d27e157c7b046a6-1814x920.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

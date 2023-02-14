@@ -1,0 +1,226 @@
+[
+  {
+    "Id": "5d7719a6-7d4d-4357-8c16-3f1bf378f164",
+    "ToolName": "SwagAI",
+    "ToolDescription": "SwagAI is an AI tool that helps you come up with ridiculous company swag. Just tell us what you’re looking for, and our algorithms will recommend crazy (but sometimes practical) options.",
+    "ToolShortDescription": "SwagAI helps you find creative company swag with AI algorithms.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-19T00:00:00",
+    "FavCount": 231,
+    "TagsIndex": [
+      "human-resources"
+    ],
+    "ToolCategories": [
+      "human resources"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.useslingshot.com/swagai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8cd8aa04ad1cb242511d083534d8d205671f0965-1852x925.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "4ac3bae8-5794-4c85-bfb2-c23d11004026",
+    "ToolName": "Unreal Meal",
+    "ToolDescription": "A collection of AI-generated images of meals that don't exist. You can use these images for a variety of purposes, such as in the development of new recipes or as part of a creative project.\n",
+    "ToolShortDescription": "AI-generated images of non-existent meals for recipes & creative projects.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-15T00:00:00",
+    "FavCount": 226,
+    "TagsIndex": [
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://unrealmeal.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/28359b7086ca2d1384b20472d079f5f6754e32ba-1913x977.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "46b84718-9d3d-4678-a675-82366972f509",
+    "ToolName": "Jenni",
+    "ToolDescription": "You Write, Jenni Completes\nSupercharge your writing with the most advanced AI writing assistant.",
+    "ToolShortDescription": "AI-powered writing assistant to supercharge your writing.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-05T00:00:00",
+    "FavCount": 125,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://jenni.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9b194ba2758388bf58ee30ca338287e73cca2df4-1757x972.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "44f3b526-d99e-4932-b26c-097b8e4aa2d7",
+    "ToolName": "Albus",
+    "ToolDescription": "Albus is an AI assistant inside Slack.\nYou can ask Albus questions directly by messaging the application. Some examples include marketeers using Albus to create personalized and engaging content for their target audience, or designers could use Albus to generate ideas for new designs and to create unique and engaging visual content.",
+    "ToolShortDescription": "AI assistant Albus helps create personalized content & designs in Slack.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-22T00:00:00",
+    "FavCount": 38,
+    "TagsIndex": [
+      "productivity"
+    ],
+    "ToolCategories": [
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.springworks.in/albus/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4efab9b6e06b6006c933bf7f8010f1bf00417bbc-1146x874.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "44a4363d-dfb2-46c0-bfe4-8b5f516b9c6f",
+    "ToolName": "Vidyo",
+    "ToolDescription": "Make short videos from long ones instantly.\nUse powerful AI to create short clips from your existing videos ✨ Save 90% time and effort.",
+    "ToolShortDescription": "Create short clips from long videos with AI, save 90% time and effort.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-18T00:00:00",
+    "FavCount": 224,
+    "TagsIndex": [
+      "personalized-videos"
+    ],
+    "ToolCategories": [
+      "personalized videos"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://vidyo.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/46fb03cfa4c8e8959f813a67a12c73ecfdecf841-1791x935.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "3f103c15-8ee7-4f4f-bd64-d775645109e6",
+    "ToolName": "ChatGPT Chrome Extension",
+    "ToolDescription": "Display ChatGPT response alongside Google, Bing, DuckDuckGo search results. It gives you surprisingly detailed solutions to your queries - from writing a prom proposal to fixing your code.  ",
+    "ToolShortDescription": "Display ChatGPT response alongside search results.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-29T00:00:00",
+    "FavCount": 517,
+    "TagsIndex": [
+      "productivity",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "productivity",
+      "search engine"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/02af6f785e1d18b1ec59f605d5aa5f16e33646f6-1074x849.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "3eb50796-22d4-4e20-9731-0c7441be1fa1",
+    "ToolName": "Once Upon A Bot",
+    "ToolDescription": "Create original stories with AI.\nTell OnceUponABot your story idea, and the robot will write a story from scratch using AI.",
+    "ToolShortDescription": "AI writes stories from scratch with your ideas: OnceUponABot.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-19T00:00:00",
+    "FavCount": 112,
+    "TagsIndex": [
+      "storyteller"
+    ],
+    "ToolCategories": [
+      "story teller"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://onceuponabot.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dce86ffd12dcd696f34235907d173700ecfe97cb-1879x942.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "3cbd7aa3-4e59-4195-8c85-f60164ba683c",
+    "ToolName": "Ad Auris",
+    "ToolDescription": "Listen to articles on the go!\nCreate a playlist of articles and listen to them on Spotify, Apple Podcasts, and Google Podcasts.",
+    "ToolShortDescription": "Listen to articles on the go with Spotify, Apple Podcasts, and Google Podcasts.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-15T00:00:00",
+    "FavCount": 58,
+    "TagsIndex": [
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "text to speech"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://play.ad-auris.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ecfeb6c92a9b8717caff238a2dd55bf35843e819-1788x801.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "3854b2eb-3c1a-44c3-9582-14ada9acc6dc",
+    "ToolName": "Astria",
+    "ToolDescription": "Tailor-made AI image generation. Start creating your unique images.",
+    "ToolShortDescription": "Create unique images with AI tailored to you.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-27T00:00:00",
+    "FavCount": 67,
+    "TagsIndex": [
+      "image-editing",
+      "art-generator",
+      "video-generator"
+    ],
+    "ToolCategories": [
+      "image editing",
+      "art",
+      "video generator"
+    ],
+    "NewFeatures": [
+      "API",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.astria.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/734d7c085d0b991dc18ea66b291ac6104a2c9b4d-3693x1739.png",
+    "ImageFormat": ".png"
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "Id": "8a5aed60-d049-46da-a9db-f6f07d64545b",
+    "ToolName": "HelloScribe",
+    "ToolDescription": "BETTER WRITING.\nBIG IDEAS. MADE EASY.\nSay Hello to 10x faster writing and brainstorming without creative blocks or wasted time. HelloScribe's easy-to-use AI tools help PR and Marketing Professionals work smarter.",
+    "ToolShortDescription": "AI tools to help PR & Marketing Professionals write & brainstorm faster",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-10T00:00:00",
+    "FavCount": 63,
+    "TagsIndex": [
+      "writing-assistant",
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://helloscribe.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6de3c0829c0c5e10f40f7153ca1a7fd8e1d46e85-1849x961.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "8a2eccb1-1cd9-4957-a864-51f22e9c1f09",
+    "ToolName": "Theoasis",
+    "ToolDescription": "Create a photorealistic avatar that you can use on every video platform.",
+    "ToolShortDescription": "Create photorealistic avatar for use on all video platforms.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 42,
+    "TagsIndex": [
+      "avatar-generator"
+    ],
+    "ToolCategories": [
+      "avatars"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://theoasis.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/39a6ad30017e24e9c572317375a55c4e8b882a9e-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "8a178d10-3c62-47c6-9cfe-7d1800fb18b5",
+    "ToolName": "InVideo",
+    "ToolDescription": "Unlock the power of video.\nWith InVideo, everyone can create great-looking pro videos that engage better, deliver more leads and save time. Our library of 5000+ templates, transitions, and effects is here to help you create videos easily, quickly, and efficiently.No download is required.",
+    "ToolShortDescription": "Create pro videos quickly & easily",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-04T00:00:00",
+    "FavCount": 113,
+    "TagsIndex": [
+      "video-generator",
+      "personalized-videos"
+    ],
+    "ToolCategories": [
+      "video generator",
+      "personalized videos"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://invideo.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/10da382bd3874b6ccc9c0f08925f55da23b1c395-1872x927.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "89cefc01-c13e-4083-a5a5-c61f8ce54bfb",
+    "ToolName": "Enterpix",
+    "ToolDescription": "AI-Generated Image Search Engine.\n\n\n",
+    "ToolShortDescription": "AI-powered image search engine.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-15T00:00:00",
+    "FavCount": 164,
+    "TagsIndex": [
+      "image-generator",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "search engine"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://enterpix.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/36435ef20f9ed98ff95dee1e7557b78e2e402b78-1186x628.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "8898771f-ee63-4bd8-adc0-f37fd8d2d1af",
+    "ToolName": "Otter AI",
+    "ToolDescription": "Capture and share insights from your meetings.\nOtter records meetings, take notes in real-time, and generates an automated summary to share with everyone and to help you remember everything.",
+    "ToolShortDescription": "Automated meeting summaries to capture and share insights.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-15T00:00:00",
+    "FavCount": 77,
+    "TagsIndex": [
+      "summarizer",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "summarizer",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://otter.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/72ca900e967072012f1a5e600fb9f1e7d4734f5d-1867x897.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "886fe047-a08d-4ef8-925f-a873a3388ad5",
+    "ToolName": "CaliberAI",
+    "ToolDescription": "CaliberAI helps minimise your risk of defamation with AI. \nIt flags high-risk content in near real-time and is designed specifically to assist editors and augment human oversight. An API with custom thresholds tailored to your organisation's risk tolerance.",
+    "ToolShortDescription": "Reduce defamation risk with AI-powered content flagging and custom thresholds.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-24T00:00:00",
+    "FavCount": 24,
+    "TagsIndex": [
+      "writing-assistant"
+    ],
+    "ToolCategories": [
+      "general writing"
+    ],
+    "NewFeatures": [
+      "Browser Extension",
+      "API"
+    ],
+    "WebsiteUrl": "https://caliberai.net/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c5d8fb8f5cb6db8cf63e956bf153d7ac18777302-1833x891.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "873287ae-896f-4ca4-92bf-fd0c621144b8",
+    "ToolName": "Puzzle",
+    "ToolDescription": "The AI-powered glossary for your community and customers. Bring clarity to your product, service, and community with a superpowered glossary.",
+    "ToolShortDescription": "AI-powered glossary for product, service, & community clarity.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-15T00:00:00",
+    "FavCount": 44,
+    "TagsIndex": [
+      "customer-support",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "customer support",
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.puzzlelabs.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/286e52ee72b43a328aec20ac865d45466060646a-1858x787.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "865297e3-f040-42f6-bafd-e87d756e8ce2",
+    "ToolName": "Colourlab",
+    "ToolDescription": "Hollywood meets AI.\nColourlab AI makes color grading fast, easy and simple by automating color-matching and balancing thanks to new and groundbreaking Artificial Intelligence-powered tools.",
+    "ToolShortDescription": "Hollywood gets AI-powered color grading with Colourlab AI.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 76,
+    "TagsIndex": [
+      "video-editing"
+    ],
+    "ToolCategories": [
+      "video editing"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.colourlab.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/613cd1a13dcc44cae002eb96c87242e3839d08f0-1589x843.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "861411e9-30e2-453f-84b8-ed55ea9a9126",
+    "ToolName": "Smartwriter",
+    "ToolDescription": "Use AI to create highly personalised cold emails or Linkedin messages that convert readers to customers. No experience needed. Find leads, create tailored personalised copy and make sales. AI Cold Emails",
+    "ToolShortDescription": "AI creates personalised cold emails/Linkedin messages",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 43,
+    "TagsIndex": [
+      "sales-assistant",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "sales",
+      "email assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.smartwriter.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a76740d81140f128335e8679213b4745a70edb74-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "Id": "d8ec7f3f-61c3-414e-a596-93066e3bb472",
+    "ToolName": "Ask My Book",
+    "ToolDescription": "Ask My Book is an AI experiment by Sahil Lavingia, the founder of Gumroad to make his book more accessible. You can use Ask My Book to ask a question and get an answer in his voice.",
+    "ToolShortDescription": "An experiment by Sahil Lavingia to answer questions in his voice.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-15T00:00:00",
+    "FavCount": 132,
+    "TagsIndex": [
+      "text-to-speech",
+      "experiments"
+    ],
+    "ToolCategories": [
+      "text to speech",
+      "experiments"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://askmybook.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/510734b07c356e79ac43462fde07ac28bfa37dc6-1148x847.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d83c0150-0870-4007-b8ec-a35c31eca5ad",
+    "ToolName": "Harvey",
+    "ToolDescription": "The AI Sidekick that makes teams more productive",
+    "ToolShortDescription": "AI Sidekick boosts team productivity.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 31,
+    "TagsIndex": [
+      "customer-support",
+      "sales-assistant"
+    ],
+    "ToolCategories": [
+      "customer support",
+      "sales"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://hiverhq.com/harvey-ai-customer-support?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dae4ca76cd77451214dda2cf9c5fbab4ce73fcf4-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "d813c824-8eb4-41c9-8b31-b76d9d8bc251",
+    "ToolName": "Algolia",
+    "ToolDescription": "The best Search and Discovery Platform for your business\nAlgolia empowers Builders with Search and Recommendation services to create world-class digital experiences.",
+    "ToolShortDescription": "Search & Recommendation services for world-class digital experiences.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial",
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-01T00:00:00",
+    "FavCount": 32,
+    "TagsIndex": [
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "search engine"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.algolia.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/80524cac1d39aab35aaad94a6ceebb5884d66e6b-1778x925.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d7e2bb0f-0ae2-473d-b6e7-6969326f00e2",
+    "ToolName": "BlackInk",
+    "ToolDescription": "Create your own unique flash tattoo in seconds.\nStop spending months searching Pinterest for your next tattoo. Generate custom, unique tattoos in seconds with BlackInk's AI, designed to create tattoo-like designs just for you.",
+    "ToolShortDescription": "Create custom tattoos in seconds",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-03T00:00:00",
+    "FavCount": 63,
+    "TagsIndex": [
+      "life-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://blackink.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/797035b3ad436ff29fe4e4ba7cd18c80b9a9e320-1846x937.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d7d90b39-592a-4819-ad6f-9a1728e9d176",
+    "ToolName": "GPUX.AI",
+    "ToolDescription": "GPU Everything. Run anything Dockerized. Run autoscale Inference.\nSave costs 50-90%.",
+    "ToolShortDescription": "Run anything dockerized with GPU, autoscale Inference for cost savings.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-18T00:00:00",
+    "FavCount": 28,
+    "TagsIndex": [
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "developer tools"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://gpux.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7c7d69695f10b5bb75925ab4d371b8e9a85c8d84-1843x955.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d7ccecbc-942b-40a1-abe0-f1fe146a3c17",
+    "ToolName": "Movio",
+    "ToolDescription": "Why pay a spokesperson when you can use an AI video editor to create one? MOVIO is a top-shelf synthetic media that can turn your text to video.",
+    "ToolShortDescription": "Create videos from text with MOVIO's top-shelf synthetic media.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 164,
+    "TagsIndex": [
+      "video-generator"
+    ],
+    "ToolCategories": [
+      "video generator"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.movio.la/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/da928a514e0b6cdedb8bdfce578f127d218b133a-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "d71c0cc2-0918-4ff7-a91d-f7a8a9c59f57",
+    "ToolName": "PhotoAI",
+    "ToolDescription": "Create AI photos of yourself. Generate 30 photos of yourself in our best artistic styles. ",
+    "ToolShortDescription": "Generate 30 AI photos of yourself in our best styles.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-17T00:00:00",
+    "FavCount": 24,
+    "TagsIndex": [
+      "avatar-generator"
+    ],
+    "ToolCategories": [
+      "avatars"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://photoai.me/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e11366ccd1c4d09e63a0bec783db82e1f80d85e7-3321x1715.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "d3b5a15a-0a03-4e7e-820e-d6a3c22e9c02",
+    "ToolName": "Summarize Tech",
+    "ToolDescription": "AI-powered video summaries. Get a summary of any long YouTube video, like a lecture, live event or a government meeting.",
+    "ToolShortDescription": "AI-generated summaries of long YouTube videos, lectures and events.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 337,
+    "TagsIndex": [
+      "summarizer"
+    ],
+    "ToolCategories": [
+      "summarizer"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.summarize.tech/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9bcb6e71342e2a81c371bb68d7c7928d1a0e9671-3453x1567.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "d300a9e7-472d-4a8d-9c8c-28b66b008bf1",
+    "ToolName": "Voicemod",
+    "ToolDescription": "Download now - Voicemod a funny & scary voice changer app. A voice transformer and modifier with effects that makes you sound like a girl or a robot",
+    "ToolShortDescription": "A voice changer with funny & scary effects.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 370,
+    "TagsIndex": [
+      "audio-editing",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "audio editing",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.voicemod.net/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6323fc071b36e5edf2220b870d2bd57af9fb1851-1920x1080.png",
+    "ImageFormat": ".png"
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "Id": "15bc4e91-1bd1-4ec1-85fa-b7c2e9be5e02",
+    "ToolName": "ChatGPT For Search Engines",
+    "ToolDescription": "Access the ChatGPT language model directly from your search engine results to ask any question and get a natural language response.",
+    "ToolShortDescription": "Display ChatGPT response alongside Google, Bing, DuckDuckGo Search results",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-10T00:00:00",
+    "FavCount": 40,
+    "TagsIndex": [
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "search engine"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://chatonai.org/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e9f78b96987fbe25cb445946c9b12cd439e68ba0-1692x946.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "9e89c412-55fc-4bd1-90e6-b4f0c80e1346",
+    "ToolName": "Tweet Monk",
+    "ToolDescription": "AI-powered Twitter thread editor that makes writing threads for Twitter fun and easy. They've made it easy to automate and grow your twitter accounts with Tweetmonk. All the tools you need are accessible at your fingertips. ",
+    "ToolShortDescription": "Write and schedule tweets & threads that engage your audience",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-09T00:00:00",
+    "FavCount": 8,
+    "TagsIndex": [
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://tweetmonk.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ec7fe79a8e19ddd63a4745dcecec5fb38b34541f-1859x919.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c9245f89-bdd5-4b17-899c-cf67ec13eaa3",
+    "ToolName": "Polymath",
+    "ToolDescription": "Polymath uses machine learning to convert any music library (e.g from Hard-Drive or YouTube) into a music production sample-library. The tool automatically separates songs into stems (beats, bass, etc.), quantizes them to the same tempo and beat-grid (e.g. 120bpm) and analyzes musical structure (e.g. verse, chorus, etc.), key (e.g C4, E3, etc.) and other infos (timbre, loudness, etc.). The result is a searchable sample library that streamlines the workflow for music producers, DJs, and ML audio developers.",
+    "ToolShortDescription": " Convert any music library into a music production sample-library with ML",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-09T00:00:00",
+    "FavCount": 28,
+    "TagsIndex": [
+      "developer-tools",
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "music"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://github.com/samim23/polymath?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/03ce8e3d66744714247fa60b7c40b996b3a53237-921x597.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "065bddb8-2ae9-48c4-97cb-d01a94c9a6f1",
+    "ToolName": "Cargo",
+    "ToolDescription": "An automated platform that helps businesses make the most of their data. Its features include advanced analytics,  automated reports, machine learning, A/B testing, and integrations. It helps sales and marketing teams align and build custom workflows to drive revenue faster.",
+    "ToolShortDescription": "Revenue orchestration on-top of your data warehouse",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-02-09T00:00:00",
+    "FavCount": 9,
+    "TagsIndex": [
+      "sales-assistant"
+    ],
+    "ToolCategories": [
+      "sales"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://www.getcargo.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/33facf68b87d0c6bd0ebea16a346ff6b9c9e2d67-1551x860.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "72e8b373-5893-4ba6-9fee-6a418fd65be7",
+    "ToolName": "Duino Code Generator",
+    "ToolDescription": "Automatically generate code for any Arduino compatible board with a single click. Let AI do the hard work so you can spend more time tinkering!",
+    "ToolShortDescription": "Automate Arduino coding with AI, freeing up time for tinkering.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-13T00:00:00",
+    "FavCount": 82,
+    "TagsIndex": [
+      "code-assistant"
+    ],
+    "ToolCategories": [
+      "code assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.duinocodegenerator.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/16e36c17b04b042dfe04afe6fb5cc702f290f2be-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "fb7a24f0-fa9c-41ff-b2ce-b76ca3275668",
+    "ToolName": "Tiny storie",
+    "ToolDescription": "Personalized audio storytelling for children build using AI. The aim of TinyStorie is to help parents in their daily lives by providing them with a tool that allows them to customize the context of something as wonderful as a story, once we saw that the idea could make sense and having tested it with more than a thousand real registered users in just two weeks that have given us feedback, we want to continue helping and for that we are working to present the app to organisations that support children's causes, because this type of causes \"are not a story\", we want TinyStorie to serve as a tool to raise awareness and funds for such causes, so that when someone buys the subscription or a pack of stories a part of it goes to one of these charitable causes.",
+    "ToolShortDescription": "Personalized audio storytelling for children build using AI",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-09T00:00:00",
+    "FavCount": 15,
+    "TagsIndex": [
+      "storyteller",
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "story teller",
+      "education assistant"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://tinystorie.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f663e49704357d874256e93977510c473811580a-1349x717.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "bab75d56-e8ed-48ea-940b-b1025470a94f",
+    "ToolName": "Embra",
+    "ToolDescription": "Your personal, intelligent AI — always one second away! Embra can pull in contextual data from Chrome and other apps to speed up and unlock creativity across Q&A, brainstorming, writing, reading, and coding.",
+    "ToolShortDescription": "A fast, ChatGPT-like assistant for your mac. ",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-02-09T00:00:00",
+    "FavCount": 11,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://embra.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/acc9211a96c47f132d9a377024aa6ff680442027-1752x957.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "a3a50af8-f5fe-489e-9e2c-f561cadd99bd",
+    "ToolName": "MindsDB",
+    "ToolDescription": "Apply the power of OpenAI's GPT-3 and Hugging Face models to the text data in your database in just a few SQL lines. Use simple SQL commands to automatically classify & label text columns, create messages, summarize, translate & more!",
+    "ToolShortDescription": "NLP inside your database",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-02-09T00:00:00",
+    "FavCount": 6,
+    "TagsIndex": [
+      "sql-assistant"
+    ],
+    "ToolCategories": [
+      "SQL"
+    ],
+    "NewFeatures": [
+      "Open Source"
+    ],
+    "WebsiteUrl": "https://mindsdb.com/natural-language-processing-in-databases?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3bc5827a8384f1ac0c45e605fa89ee8dc4b6bac3-1826x895.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "13a9ef36-c486-437d-9336-fe5987d39890",
+    "ToolName": "Corpora",
+    "ToolDescription": "Dont just organize your documents. Understand it.\nWe uses AI language models to help you automate research workflows, like parts of document review. We can search for relevant documents without perfect keyword match, summarize takeaways from the document specific to your question, and extract key information from the document.\nWe can help with brainstorming and summarization.",
+    "ToolShortDescription": "ChatGPT for documents.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-09T00:00:00",
+    "FavCount": 54,
+    "TagsIndex": [
+      "productivity"
+    ],
+    "ToolCategories": [
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.askcorpora.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8500a565fcdff96cacf3e1ad41d04e8a9aa8b788-1781x900.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

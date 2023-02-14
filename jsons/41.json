@@ -1,0 +1,230 @@
+[
+  {
+    "Id": "0d0a250e-cd4e-4ceb-bfb4-4fbb006ca106",
+    "ToolName": "This Resume Does Not Exist",
+    "ToolDescription": "Stand out among the competition with over 1000 AI-inspired resume examples. See what works for the resumes of the world’s most successful people, and create a resume that’s just as good.",
+    "ToolShortDescription": "1000 AI-inspired resume examples",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-01T00:00:00",
+    "FavCount": 54,
+    "TagsIndex": [
+      "human-resources",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "human resources",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://thisresumedoesnotexist.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/39ba278df118a07990578fbc11b2a6b4056e6d07-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "4e3648cd-84b3-4ffe-afc3-a6394bef5eb2",
+    "ToolName": "CrowdView",
+    "ToolDescription": "AI search engine that searches through various forums and communities such as Reddit, HackerNews and more.",
+    "ToolShortDescription": "A search engine for niche forums and message boards",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-01T00:00:00",
+    "FavCount": 63,
+    "TagsIndex": [
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "search engine"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://crowdview.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/601406df1924a54e635b5d85aff45bfeefe8f35f-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "7f6ae31c-9b72-42da-beb9-fc89dd63dab5",
+    "ToolName": "5-Out",
+    "ToolDescription": "5-Out automatically ingests data from internal (POS, labor scheduling, reservations, events) and external (weather, traffic, events) sources and uses next-gen machine learning to accurately predict upcoming sales (revenue, covers/guests, items), and provides guidance on labor scheduling and purchasing budgets.",
+    "ToolShortDescription": "Maximize the profitability of your restaurant",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-02-01T00:00:00",
+    "FavCount": 11,
+    "TagsIndex": [
+      "finance",
+      "startup-assistant"
+    ],
+    "ToolCategories": [
+      "finance",
+      "startup tools"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://www.5out.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7aaa25252c15322d9a78024b5ae42197c46fbd44-1872x937.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "ae91011b-a53c-4836-8e5a-69082091f91f",
+    "ToolName": "Writers Brew",
+    "ToolDescription": "One AI writing assistant that works across all browsers, native apps & electron apps.\nCost effective - 10x-100x cheaper than any other service (by using your own OpenAI key).",
+    "ToolShortDescription": "Meet the AI assistant that accelerates your reading & writing 2x faster and better",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-02-01T00:00:00",
+    "FavCount": 14,
+    "TagsIndex": [
+      "writing-assistant",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "email assistant"
+    ],
+    "NewFeatures": [
+      "Mobile App",
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://writersbrew.app?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ec6bfb5bb81bc68a28b283327782bdc10c30b644-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "4ab2828e-3355-498a-80d9-1636ce1f2a1e",
+    "ToolName": "Lumen5 ",
+    "ToolDescription": "Lumen5 combines powerful A.I. with a simple drag-and-drop interface to help you create professional video content in minutes.",
+    "ToolShortDescription": "Video creation platform designed for brands and businesses",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-31T00:00:00",
+    "FavCount": 28,
+    "TagsIndex": [
+      "video-generator"
+    ],
+    "ToolCategories": [
+      "video generator"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://lumen5.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e134c384d20422e866b6c1949df2a32be87837ee-1801x933.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "27118f98-3905-4dc9-a684-f14610088274",
+    "ToolName": "Akkio",
+    "ToolDescription": "Akkio is a no-code machine learning platform that enables businesses to quickly and easily leverage AI to make data-driven decisions and grow their business. The platform enables users to combine columns, summarize records, reformat dates, clean data and remove outliers, and make predictions from historic data. ",
+    "ToolShortDescription": "Modern Business Runs on AI",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-31T00:00:00",
+    "FavCount": 9,
+    "TagsIndex": [
+      "sql-assistant"
+    ],
+    "ToolCategories": [
+      "SQL"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://www.akkio.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/23f89ed8eb7cf62fdae802ecd5a03a1b17b06185-1871x947.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "99c21992-22c7-4b18-a62c-f45d71d37512",
+    "ToolName": "Stableboost",
+    "ToolDescription": "Upload a few photos of yourself, a loved one, a pet, a product, or a style you like, and we will automatically train an AI model to generate portraits of you in hundreds of different styles.",
+    "ToolShortDescription": "Create personalized images with AI",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-31T00:00:00",
+    "FavCount": 17,
+    "TagsIndex": [
+      "image-generator",
+      "avatar-generator"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "avatars"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://stableboost.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/89ef677a35436e7a69fc8c309b099241dff9f3db-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "34110201-9807-4025-bc4c-13b8a4b191f5",
+    "ToolName": "Parentivity",
+    "ToolDescription": "Personalized advice, activities & learning modules. Integrating GPT-3 for real-time feedback. Chat feature for seamless use. Privacy-focused, secure & confidential. ",
+    "ToolShortDescription": "Transform parenting with personalized and AI-powered guidance",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-31T00:00:00",
+    "FavCount": 41,
+    "TagsIndex": [
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "education assistant"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://www.smartivity.in/pages/parentivity_bot?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f0b945046af3d9965a4ebf2ea1699f662002fe11-1537x861.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "2f4a4e96-4d45-4edd-b192-a3bad0d25a1f",
+    "ToolName": " Maverick ",
+    "ToolDescription": "Build strong relationships with your customers by utilizing automated personalized videos. We at Maverick assist different businesses like e-commerce brands, online retailers, healthcare, and more with AI and Deep Tech to generate thousands of unique personalized videos. You need to record yourself once, and Maverick will produce thousands of unique customized videos in which you address each consumer by name. So what are you waiting for? Send automated personalized videos to your customers and increase your conversions. \n",
+    "ToolShortDescription": "Send customers personalized videos at scale.  ",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-31T00:00:00",
+    "FavCount": 62,
+    "TagsIndex": [
+      "e-commerce",
+      "audio-editing"
+    ],
+    "ToolCategories": [
+      "e-commerce",
+      "audio editing"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://www.trymaverick.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/df7366b1426f2477203271470c38f01c1ec57fa9-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

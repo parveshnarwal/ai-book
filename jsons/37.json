@@ -1,0 +1,229 @@
+[
+  {
+    "Id": "c61419c3-e213-4e4d-8238-0234288498d6",
+    "ToolName": "Fathom.fm",
+    "ToolDescription": "Fathom.fm is your AI podcast copilot. Get amazing recommendations, share your favorite clips, search inside podcasts, read transcripts, navigate episodes using chapters, and so much more. It's a whole new way to experience podcasts!",
+    "ToolShortDescription": "AI-Powered Podcast Player",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-04T00:00:00",
+    "FavCount": 20,
+    "TagsIndex": [
+      "life-assistant",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "search engine"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://hello.fathom.fm?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/881f7adb5435ebc1a4ec052b81ca9feb77b63707-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "8b9f9091-7bf1-4941-a708-aef53618f186",
+    "ToolName": "Localio",
+    "ToolDescription": "AI Copywriting Tool specifically designed for Digital Agencies and Small Businesses. It makes it fast & easy to create sales-driving content for business websites, Google My Business, Yelp, Facebook Linkedin, Youtube, and more.",
+    "ToolShortDescription": "Jaw-dropping content for any Local Business",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-02-04T00:00:00",
+    "FavCount": 10,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://localio.io?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1fef7068c81dd775eaf55968b4d9fb3a27d658c5-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "53f23223-c403-454d-aeae-41d439c654ab",
+    "ToolName": "MightyGPT",
+    "ToolDescription": "MightyGPT is an AI-driven virtual assistant that helps people tackle mundane, repetitive tasks in businesses and organizations. The platform uses natural language processing, machine learning, and artificial intelligence to automate and manage processes quickly and accurately, And provides this service on WhatsaApp.",
+    "ToolShortDescription": "GPT-3 based chatbot ",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-02-04T00:00:00",
+    "FavCount": 12,
+    "TagsIndex": [
+      "productivity"
+    ],
+    "ToolCategories": [
+      "productivity"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://www.mightygpt.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0477ac489b44c9847da4efd75b8df944365ffeba-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "01bea5d8-a893-487a-88c0-9830232b67ab",
+    "ToolName": "Ebsynth",
+    "ToolDescription": "EbSynth is a free software app that allows you to animate existing footage using just a few styled keyframes. It is perfect for hand-drawn animations that typically would take a long time to animate.",
+    "ToolShortDescription": "Transform Video by Painting Over a Single Frame",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-04T00:00:00",
+    "FavCount": 80,
+    "TagsIndex": [
+      "art-generator",
+      "video-generator"
+    ],
+    "ToolCategories": [
+      "art",
+      "video generator"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://ebsynth.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ce002dd7a5234a33f13913d916d999e9ca29cfab-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "3749a072-0359-4aa5-92ce-12723c1f8f90",
+    "ToolName": "Clippah",
+    "ToolDescription": "With Clippah, you can: \n• Easily convert YouTube videos to vertical TikToks \n• Convert longform videos to shortform candidates with one click \n• Automatically timestamp your YouTube videos\n• More features coming soon",
+    "ToolShortDescription": "Simple video editing tools, powered by artificial intelligence",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-03T00:00:00",
+    "FavCount": 26,
+    "TagsIndex": [
+      "video-editing",
+      "transcriber"
+    ],
+    "ToolCategories": [
+      "video editing",
+      "transcriber"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://www.clippah.co?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/876ed1dd81683aa78ad586ff7ab69d22eefb9c60-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "b40e933e-cd58-45ab-ab1c-9f15b9414236",
+    "ToolName": "MgrWorkbench.ai",
+    "ToolDescription": "Use the phenomenal power of Artificial Intelligence (AI) to speed and simplify some of your most onerous business-writing tasks, to help you effortlessly draft your employee performance reviews, development plans, and business letters.",
+    "ToolShortDescription": "Speed and simplify some of your most onerous business-writing tasks",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-04T00:00:00",
+    "FavCount": 9,
+    "TagsIndex": [
+      "writing-assistant",
+      "human-resources"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "human resources"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://www.mgrworkbench.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3244d2302b821059ac5038202ca171d79f347ec1-1846x920.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "aeb51bec-bf65-462f-a2a1-fafc7c88920a",
+    "ToolName": "SermonGPT",
+    "ToolDescription": "SermonGPT writes a sermon for you based on a prompt and other details like event and the style of the sermon.",
+    "ToolShortDescription": "Write Your Sermon In A Few Seconds",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-03T00:00:00",
+    "FavCount": 17,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://www.sermongpt.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6376a370bec3905329f64345406340ba528459d7-1077x532.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f78a837b-38c5-4a5b-b69d-c7733b0a49aa",
+    "ToolName": "Water",
+    "ToolDescription": "It allows you customize everything about ChatGPT. Integrates with nocode platforms like Airtable and Zapier. \n",
+    "ToolShortDescription": "Build your own custom workflows and ChatGPT bots with no-code.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-02-03T00:00:00",
+    "FavCount": 29,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://drinkwater.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f74f6af8b62e0fdbaab33f07b58c73efaa86b050-1813x901.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "80e99717-9d65-4aea-b012-66af5cb77b76",
+    "ToolName": "Rose AI",
+    "ToolDescription": "A cloud data platform designed to help users find, engage, visualize and share data. Enables integration of external and internal data. Also provides infrastructure tools to clean, analyze, and visualize data in their web application and a data marketplace to preview, buy, and sell data",
+    "ToolShortDescription": "Rose is a cloud data platform designed to help users find, engage, visualize and share data.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-02-03T00:00:00",
+    "FavCount": 18,
+    "TagsIndex": [
+      "finance",
+      "developer-tools",
+      "sql-assistant"
+    ],
+    "ToolCategories": [
+      "finance",
+      "developer tools",
+      "SQL"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://rose.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/df5509236b48b382885beafb10da4f4d99cc4f83-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

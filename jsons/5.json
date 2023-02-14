@@ -1,0 +1,233 @@
+[
+  {
+    "Id": "540fc9ba-235c-47cd-afb4-8cd389f3e451",
+    "ToolName": "Playground AI",
+    "ToolDescription": "Playground AI is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more.",
+    "ToolShortDescription": "Create art, logos, videos, posters with free online AI image creator.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 865,
+    "TagsIndex": [
+      "art-generator",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "art",
+      "search engine"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://playgroundai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fc8c34224a0f5364939cf2ab66fe51f065a37b10-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "4a71d0d8-f26c-4ef5-a408-117356bd7e9d",
+    "ToolName": "AI Data Sidekick",
+    "ToolDescription": "Write SQL, documentation and more 10x faster with our collection of powerful recipes.\n‍Free for individuals and small teams. ",
+    "ToolShortDescription": "Write 10x faster with powerful recipes. Free for individuals & teams.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-17T00:00:00",
+    "FavCount": 447,
+    "TagsIndex": [
+      "sql-assistant"
+    ],
+    "ToolCategories": [
+      "SQL"
+    ],
+    "NewFeatures": [
+      "Browser Extension",
+      "API"
+    ],
+    "WebsiteUrl": "https://www.airops.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/964aeaafdf58f1afdfce2c3f2200347a18ef2f3f-1801x903.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c91bc2f4-a967-4173-a94e-413146bdb3de",
+    "ToolName": "Replit",
+    "ToolDescription": "Replit recently added a feature called Ghostwriter that uses AI to complete code. Write and run code in 50+ languages in your browser with Replit, a powerful IDE, compiler, & interpreter. ",
+    "ToolShortDescription": "Write & run code in 50+ languages with Replit's Ghostwriter AI feature.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 344,
+    "TagsIndex": [
+      "code-assistant"
+    ],
+    "ToolCategories": [
+      "code assistant"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://replit.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2d502dd4f7e4bca13082a5b33eff0b983c9104bf-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "b659721f-5d46-40ab-b35e-37dacae4ba06",
+    "ToolName": "ProductBot",
+    "ToolDescription": "ProductBot is an AI product expert and recommender that assists users in making purchasing decisions. Users can specify their needs, and the tool will suggest related products.",
+    "ToolShortDescription": "Decide what to buy on Amazon and get recommendations based on your preferences.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-14T00:00:00",
+    "FavCount": 10,
+    "TagsIndex": [
+      "e-commerce",
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "e-commerce",
+      "life assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.getproduct.help/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/275839a6f244582882d21c8172d96fb03d62b9eb-1583x811.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "5dbd04be-e185-494f-91b0-4da9370dd62b",
+    "ToolName": "PPLEGPT",
+    "ToolDescription": "Get a PPL workout with AI based on your target area and workout experience.",
+    "ToolShortDescription": "Your next exercise in seconds",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-12T00:00:00",
+    "FavCount": 22,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://pplegpt.vercel.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ef7c32d2cd744bd3a5deb1f4667bf5b20abdd0d2-1633x953.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "af3abb62-0626-4276-bc1f-f421112202f4",
+    "ToolName": "Phind",
+    "ToolDescription": "Search any development related query using natural language and get relevant results. You can customize your search based on time and can toggle display links.",
+    "ToolShortDescription": "The AI search engine for developers.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-11T00:00:00",
+    "FavCount": 48,
+    "TagsIndex": [
+      "code-assistant",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "code assistant",
+      "search engine"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://phind.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f4e109de28e4db0b9474729ae8b7f36e04768a3a-1877x941.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "76fa26c7-1ff1-4acc-a870-9bdc5bdf91e9",
+    "ToolName": "Uberduck",
+    "ToolDescription": "It provides users with tools to create voice-over audio with over 5,000 expressive voices, as well as custom voice clones. It also has APIs to build audio applications and AI-generated raps. There is a case study to demonstrate how it can be used to create personalized media and a waitlist to join the upcoming Uberbots platform.",
+    "ToolShortDescription": "The Open Source Voice AI Community",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-11T00:00:00",
+    "FavCount": 100,
+    "TagsIndex": [
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "text to speech"
+    ],
+    "NewFeatures": [
+      "Discord Community",
+      "Open Source"
+    ],
+    "WebsiteUrl": "https://uberduck.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c753d974c7bf3ebf9902862879cba5a17a60e09f-1844x884.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "ee86c7dc-1bff-48bb-bdc1-1ef975e42c28",
+    "ToolName": "Booom.ai",
+    "ToolDescription": "Generate a fun trivia game that you can play around an entered topic. You can play by yourself or with friends.",
+    "ToolShortDescription": "Generate a trivia game using AI",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-11T00:00:00",
+    "FavCount": 62,
+    "TagsIndex": [
+      "fun-tools",
+      "gaming"
+    ],
+    "ToolCategories": [
+      "fun tools",
+      "gaming"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://joinplayroom.com/games/booom/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8fdceae59c19161f1173a941bf7560459bda7230-1854x939.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "5a4197c3-3b49-4e25-8e5f-055534157709",
+    "ToolName": "Drayk It",
+    "ToolDescription": "Make AI Drake Songs About Anything! Gives you a shareable URL and the option to download your generated song.",
+    "ToolShortDescription": "Make AI Drake Songs About Anything",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-25T00:00:00",
+    "FavCount": 151,
+    "TagsIndex": [
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://drayk.it/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ee89c35b2e6ae41e1cae726d199c4f5906206078-1663x877.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

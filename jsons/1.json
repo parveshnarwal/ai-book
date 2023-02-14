@@ -1,0 +1,235 @@
+[
+  {
+    "Id": "97198ca5-4db9-4768-972b-2004331888a6",
+    "ToolName": "HoppyCopy",
+    "ToolDescription": "Write high-converting emails, 10x faster.\nSave countless hours writing. Use AI to generate powerful copy for hundreds of different email marketing campaigns, drips, newsletters and more.",
+    "ToolShortDescription": "Create high-converting emails quickly with AI-generated copy.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-12T00:00:00",
+    "FavCount": 222,
+    "TagsIndex": [
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "email assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.hoppycopy.co/",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/54634a637e050e329af5bd813409247a6312b0da-1765x934.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "76291196-da25-4a45-a1f2-4095a55eb2bd",
+    "ToolName": "Synthesia",
+    "ToolDescription": "Create AI videos by simply typing in text. Easy to use, cheap and scalable. Make engaging videos with human presenters — directly from your browser. Free demo.",
+    "ToolShortDescription": "Create AI videos from text. Easy, cheap, scalable. Human presenters. Free demo.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 383,
+    "TagsIndex": [
+      "video-generator"
+    ],
+    "ToolCategories": [
+      "video generator"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.synthesia.io/",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d7cbfc8f4ba1e34bf1acb49bd8aa47bc9901eaa8-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "5124d837-f0be-49c4-b922-c879928376d0",
+    "ToolName": "Fliki",
+    "ToolDescription": "Create videos from scripts or blog posts using realistic voices in 2 minutes!\nTransform blog articles into videos. Lifelike Text to Speech Voices. Rich stock media library.\nTrusted by 30k+ content creators from companies like Google, Meta, Bytedance and Upwork.\n",
+    "ToolShortDescription": "Create videos from blog posts in 2 mins",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium",
+      "Deals"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 1520,
+    "TagsIndex": [
+      "text-to-speech",
+      "video-generator"
+    ],
+    "ToolCategories": [
+      "text to speech",
+      "video generator"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://fliki.ai/",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4dc642d29507d2e460bbcf47a815af9846729b70-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "3ff9de94-ba89-4ffe-96a3-3910a5abc1c1",
+    "ToolName": "Piggy To",
+    "ToolDescription": "Create an engaging and shareable webpage in seconds. By entering a prompt, the tool generates 7-10 slides in a mobile-friendly format, saving time and ensuring visually appealing content. Ideal for businesses and individuals, Piggy Magic offers a user-friendly, time-saving solution for creating impactful content. You can also mention their twitter bot with a topic to get a beautiful piggy about that topic within a minute (for example - \"@makeapiggy most popular books\")",
+    "ToolShortDescription": "Create stunning content on your mobile.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-01T00:00:00",
+    "FavCount": 400,
+    "TagsIndex": [
+      "social-media-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "social media assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "Mobile App",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://piggy.to/magic?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ee18186598a943aa2b347c094ab23cd6b2f8084a-1200x628.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "9d0612e3-1772-465b-bcf4-55a41e3d15cf",
+    "ToolName": "Predict AI",
+    "ToolDescription": "Predict is an AI tool that predicts customer responses on creative assets such as attention and cognition with 95% accuracy. It is built on an industry-leading eye-tracking database and validated through neuroscientific methods.",
+    "ToolShortDescription": "Predicts customer responses on creative assets",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-26T00:00:00",
+    "FavCount": 112,
+    "TagsIndex": [
+      "design-assistant",
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant",
+      "social media assistant"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://www.neuronsinc.com/predict?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/07ee9dc39c780f88381b223e632b7c7d35f38684-1722x886.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "bb7c0943-d821-4404-9745-958348db43ea",
+    "ToolName": "Rytr",
+    "ToolDescription": "Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost!",
+    "ToolShortDescription": "AI writing assistant for fast, affordable, high-quality content.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 459,
+    "TagsIndex": [
+      "copywriting-assistant",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting",
+      "email assistant"
+    ],
+    "NewFeatures": [
+      "Browser Extension",
+      "API"
+    ],
+    "WebsiteUrl": "https://rytr.me/",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/5df73d823e03e45fd069394c3dd39ee53731c74c-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "50230d90-ebb7-438f-ac4e-07f3e3245f41",
+    "ToolName": "Cody",
+    "ToolDescription": "Cody is our solution to the limitations of ChatGPT. While ChatGPT is a powerful tool, we needed an AI to work a little bit more like an employee - with the ability to be trained on your specific business, industry, and processes. \n\n✅ Upload any document as source material\n✅ Automate tasks to boost productivity\n✅ See which sources were used for every answer\n✅ Use it for tech support or employee training\n✅ Ask it to brainstorm & give ideas\n",
+    "ToolShortDescription": "The magic of ChatGPT but trained on your business. ",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-30T00:00:00",
+    "FavCount": 172,
+    "TagsIndex": [
+      "startup-assistant",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "startup tools",
+      "productivity"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://www.meetcody.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/be4586dccaedc9fe18f0aa2b61b9b3ef859a1159-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "f73d7447-f89d-4c3a-93b0-d89def2d8d51",
+    "ToolName": "Yaara",
+    "ToolDescription": "Yaara AI will help you generate creative content from a given prompt with improved grammer and flow of existing content. It will help summarize long documents into shorter pieces. Write long-form pieces such as articles, blog posts, or even books.",
+    "ToolShortDescription": "Generate creative content from a given prompt",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium",
+      "Deals"
+    ],
+    "PublishedAt": "2023-01-27T00:00:00",
+    "FavCount": 101,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://yaara.ai/",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c44cc25cc3eb4dc6b4c1a1f43d853e98c8f20704-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "254a911f-66f9-4fd0-99f8-e2121272e8ce",
+    "ToolName": "Dream Interpreter",
+    "ToolDescription": "A dream interpreter built with GPT-3. Ask it the meaning of your dream and it will interpret it for you, allowing you to also upvote or downvote the meaning\n",
+    "ToolShortDescription": "Dream interpreter using GPT-3",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-19T00:00:00",
+    "FavCount": 421,
+    "TagsIndex": [
+      "life-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://dreaminterpreter.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/40dd8a7614b9f323a0697b9d6302bc415a3e59c7-1686x944.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

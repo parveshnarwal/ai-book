@@ -1,0 +1,223 @@
+[
+  {
+    "Id": "0b5b533d-cef6-49db-8124-be104bbd27a2",
+    "ToolName": "Magic Studio",
+    "ToolDescription": "Create stunning visuals in seconds with their AI image editing tools. Remove unwanted things, switch backgrounds or enlarge your pictures - all without Photoshop or Illustrator. Create pictures with words or let AI create stunning profile pictures of you - it’s magic!\n",
+    "ToolShortDescription": "Create stunning visuals in seconds",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-23T00:00:00",
+    "FavCount": 551,
+    "TagsIndex": [
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "image editing"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://magicstudio.com/",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fc97228fcf4214aed2d00b8e62e0bb3e26ed008a-1200x628.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "b7080a5a-d828-4f13-aebd-0fb979eded53",
+    "ToolName": "Morise.ai",
+    "ToolDescription": "Trained with data from the most successful channels, Morise.ai understands exactly what it takes for going viral, while you just have to focus on creating videos",
+    "ToolShortDescription": "AI-powered tools for youtube growth.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-02-06T00:00:00",
+    "FavCount": 22,
+    "TagsIndex": [
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://morise.ai",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7ea177559e2f3066dd5474b565582d5d78504225-1880x891.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "e1ceeea5-c381-4223-9f73-1df8cab78e60",
+    "ToolName": "Namelix",
+    "ToolDescription": "Namelix will generate a short, brandable business name using artificial intelligence. Also great for discovering new domain names :)",
+    "ToolShortDescription": "Generate short, brandable business names & domain names.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 1334,
+    "TagsIndex": [
+      "startup-assistant"
+    ],
+    "ToolCategories": [
+      "startup tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://namelix.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/99cbb3e167cb830687856dd9fa2dc1ae7f2a6a1a-1665x945.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "d77531a9-64ca-4400-afab-e1446899aa19",
+    "ToolName": "Copy.ai",
+    "ToolDescription": "Get great copy that sells. Copy.ai is an AI-powered copywriter that generates high-quality copy for your business. Get started for free, no credit card required! Marketing simplified!",
+    "ToolShortDescription": "AI-powered copywriter for marketing: get started free, no credit card needed!",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 1179,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.copy.ai",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a57107051aee68eaae125e33ba35c8c34df61c65-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "910f6fb8-5545-4eac-a878-cd50a4ac38c6",
+    "ToolName": "Profile Picture AI",
+    "ToolDescription": "Create your perfect profile picture with AI.\nYour profile picture is the first thing people see when they look at your profile. We use artificial intelligence to generate an image of you that looks perfect and captures who you are. You can be anything, anywhere, or anyone!",
+    "ToolShortDescription": "Create perfect profile pic with AI - be anything, anywhere, anyone!",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-10T00:00:00",
+    "FavCount": 660,
+    "TagsIndex": [
+      "avatar-generator"
+    ],
+    "ToolCategories": [
+      "avatars"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.profilepicture.ai",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/59dcd09473d07eddbff3628ff37cf655205a1eaa-1863x939.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "1b74a46c-93b2-4345-8722-c3bf4657fee3",
+    "ToolName": "Looka",
+    "ToolDescription": "Looka Logo Maker combines your logo design preferences with Artificial Intelligence to help you create a custom logo you'll love.",
+    "ToolShortDescription": "Create custom logos with Looka Logo Maker and AI.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium",
+      "Deals"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 1084,
+    "TagsIndex": [
+      "logo-generator"
+    ],
+    "ToolCategories": [
+      "logo generator"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://looka.grsm.io/futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/266b7ff82721aff4031ce5c6ff55f52550acce7a-1665x945.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "18a23c1e-9636-45f0-98b9-e5d9752b3cba",
+    "ToolName": "Writesonic",
+    "ToolDescription": "Writesonic is an AI writer that creates SEO-friendly content for blogs, Facebook ads, Google ads, and Shopify for free. Our paraphrasing tool lets you rephrase entire articles instantly.",
+    "ToolShortDescription": "Create SEO-friendly content with AI for blogs, websites, and articles.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 1373,
+    "TagsIndex": [
+      "seo-assistant",
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "SEO",
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://writesonic.com",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/be837214bd8c2249f9c5ba8e9bb5c7c9cc158bf4-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "o1NTsxvTp9PGcZmR9oGrA8",
+    "ToolName": "Durable",
+    "ToolDescription": "Get your business online in 30 seconds. The AI-powered platform for solo business owners. Generate a website, automate your marketing, and manage your finances.",
+    "ToolShortDescription": "Create a website, automate marketing & manage finances in 30 secs",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium",
+      "Deals"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 680,
+    "TagsIndex": [
+      "finance",
+      "no-code",
+      "startup-assistant"
+    ],
+    "ToolCategories": [
+      "finance",
+      "low-code/no-code",
+      "startup tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://durable.co/",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/51fde55567afcd81d357e7ee63e3777a46b0ed81-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "nCZqvxq1PbHe8K3wCm1ikM",
+    "ToolName": "Adcreative.ai",
+    "ToolDescription": "Generate conversion focused ad and social media post creatives in a matter of seconds. Get better results while saving time.",
+    "ToolShortDescription": "Create conversion-focused ads & posts quickly & easily for better results.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 635,
+    "TagsIndex": [
+      "copywriting-assistant",
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting",
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://free-trial.adcreative.ai/futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f4dfd7dc734935e005e6e7cc8e884c99af99cd74-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

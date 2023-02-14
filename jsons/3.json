@@ -1,0 +1,227 @@
+[
+  {
+    "Id": "71c14f70-6907-422c-8bc6-0bf0cf296116",
+    "ToolName": "Easy-Peasy.AI",
+    "ToolDescription": "Get your copywriting done faster and easier with 🤖 AI tools. You can also use our AI avatar generator to generate avators.\nEasy-Peasy.AI believes that everyone has a story to tell. With our AI copywriting tools, we help you tell your story in the most engaging way possible.",
+    "ToolShortDescription": "AI copywriting tools to help you tell your story in the most engaging way.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-10T00:00:00",
+    "FavCount": 168,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://easy-peasy.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/27cd9553c6ce19c7d2f8998d27bced3a793983c2-1890x944.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "3e3d1e0d-8757-4c4a-855b-5da53e10f1b2",
+    "ToolName": "Notion AI",
+    "ToolDescription": "Leverage the limitless power of AI in any Notion page. Write faster, think bigger, and augment creativity. Like magic!",
+    "ToolShortDescription": "Unlock AI-powered magic in Notion to write faster and think bigger.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-17T00:00:00",
+    "FavCount": 653,
+    "TagsIndex": [
+      "writing-assistant",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://affiliate.notion.so/futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d7830be6707955cca3b832b34098a8108a988748-1847x941.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "ecb416c6-9796-4cb5-abbc-7efbcb76d2a1",
+    "ToolName": "Munch",
+    "ToolDescription": "Automagically Turn long-form vids into data-driven short clips for social media. Munch generates exposure and engagement by harvesting top interest from TikTok, IG, YT, and FB users and applying it to your AI-generated clips.",
+    "ToolShortDescription": "Create short clips from long-form videos to maximize social media exposure",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-23T00:00:00",
+    "FavCount": 420,
+    "TagsIndex": [
+      "video-editing",
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "video editing",
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.getmunch.com/?utm_source=rewardful&via=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/15740143e29db461fedf87542ef0c3b161f2bdad-1720x952.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d5c76431-a667-4ed7-bbc2-9a046fa3ad60",
+    "ToolName": "Codeium",
+    "ToolDescription": "Codeium is the modern coding superpower, a code acceleration toolkit built on cutting edge AI technology.  With easy integration into editors, you can focus on being the best software developer, not the best code monkey.",
+    "ToolShortDescription": "AI-powered code acceleration toolkit to code smarter, not harder.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-18T00:00:00",
+    "FavCount": 894,
+    "TagsIndex": [
+      "code-assistant"
+    ],
+    "ToolCategories": [
+      "code assistant"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.codeium.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/22744355a279725f3f65834096ff898b48bdd116-1851x905.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "51b41eb2-c80f-476b-96b6-6fe2c2fd4285",
+    "ToolName": "Riffusion",
+    "ToolDescription": "Riffusion generates music from text prompts. Try your favorite styles, instruments like saxophone or violin, modifiers like arabic or jamaican, genres like jazz or gospel, sounds like church bells or rain, or any combination",
+    "ToolShortDescription": "Create music from text with styles, instruments, modifiers and genres.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-16T00:00:00",
+    "FavCount": 993,
+    "TagsIndex": [
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "music"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.riffusion.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/67e52836d3db49c9cc2917411f6b0a2743963581-1877x938.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "ab765691-45d9-4613-9a22-5c9e528fc418",
+    "ToolName": "Tome",
+    "ToolDescription": "The future of generative storytelling is here.\nUnlock your best work with Tome's AI-powered storytelling format.",
+    "ToolShortDescription": "Unlock your best work with AI-powered generative storytelling from Tome.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-15T00:00:00",
+    "FavCount": 1134,
+    "TagsIndex": [
+      "storyteller",
+      "presentations",
+      "startup-assistant"
+    ],
+    "ToolCategories": [
+      "story teller",
+      "presentations",
+      "startup tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://beta.tome.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0dff96a9e4930b642880c63ec0af99f74059c96b-1777x881.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "9e7ee636-98ea-4854-bb53-3e940e80e63c",
+    "ToolName": "Mubert",
+    "ToolDescription": "Mubert - The new royalty-free music ecosystem for content creators, brands and developers 🔥. Come See How Our High-Quality Music Can Elevate Your Content ⏩!",
+    "ToolShortDescription": "Royalty-free music ecosystem for content creators, brands & developers.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 463,
+    "TagsIndex": [
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "text to speech"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://mubert.com/",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dfb853f3ef5ad7235361c389fcb8e5d4f6d2a270-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "8f795131-2b62-477f-b6f2-402a8797e050",
+    "ToolName": "Papercup",
+    "ToolDescription": "Papercup translates videos with expressive AI voices, allowing any video to be watched in any language. With AI dubbing, localization is faster and more affordable, allowing content owners and creators to reach large audiences in days without stretching budgets. Use AI to dub your content into multiple different languages, just like our clients Bloomberg, Insider, Jamie Oliver, BBC and Sky News.",
+    "ToolShortDescription": "Automate dubbing with AI in multiple languages",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-25T00:00:00",
+    "FavCount": 141,
+    "TagsIndex": [
+      "video-editing"
+    ],
+    "ToolCategories": [
+      "video editing"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.papercup.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8d872bc148b698554f72d38bc3c2f7e4f0098217-1757x883.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "7821e3db-3b4e-4355-9d58-7b529e0e4dc6",
+    "ToolName": "LongShot",
+    "ToolDescription": "Create blogs that humans and search engines love using Artificial intelligence.\nLongShot is an AI writing assistant that helps you and your team create helpful blogs that rank on Google.",
+    "ToolShortDescription": "AI writing assistant for creating SEO-friendly blogs.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 303,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://longShot.ai?deal=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3efcea049728460777fb9b1bd178ebff38de0b28-1665x945.webp",
+    "ImageFormat": ".webp"
+  }
+]

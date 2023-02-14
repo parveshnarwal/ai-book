@@ -1,0 +1,228 @@
+[
+  {
+    "Id": "82222a08-51a8-4ad5-8fc1-cfadbb14e7b5",
+    "ToolName": "Glass.health",
+    "ToolDescription": "Effective problem representations, also known as diagnostic one-liners, include relevant demographics, pertinent history or epidemiological risk factors, duration and tempo of the illness, as well as key signs and symptoms and key data (laboratory, imaging, physical exam data). When possible, signs, symptoms, and data should be consolidated into a description of a clinical syndrome.",
+    "ToolShortDescription": "Generate a DDx/clinical plan from a short diagnostic problem representation",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-03T00:00:00",
+    "FavCount": 32,
+    "TagsIndex": [
+      "health"
+    ],
+    "ToolCategories": [
+      "healthcare"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://glass.health/ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3bda0da085793e695671d20a81332ff20f4d8659-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "e776babd-9673-4f5e-a7e5-53b839c9f0f9",
+    "ToolName": "SolidGrids",
+    "ToolDescription": "SolidGrids is an AI-powered platform that offers a solution to slow and costly image post-production processes in e-commerce. With SolidGrids, you can generate marketable images in seconds, saving time and resources. The fully automated platform offers seamless integration options to suit your specific needs. It is faster and more cost effective than traditional image post-production methods, providing e-commerce businesses with an efficient and affordable solution. Start using SolidGrids for free today and experience the benefits of AI-powered automation for yourself.",
+    "ToolShortDescription": "Image post-production at scale with AI",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-02-03T00:00:00",
+    "FavCount": 2,
+    "TagsIndex": [
+      "e-commerce",
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "e-commerce",
+      "image editing"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://solidgrids.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a056f8b1b639fd6f9c049aa011fa064fd1e82b1a-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "c922e9c6-371a-4241-a0ff-028369c4497b",
+    "ToolName": "Soundraw",
+    "ToolDescription": "Simply choose the mood, the genre and the length. Their AI will generate beautiful songs for you.",
+    "ToolShortDescription": "Generates free music content related to any genre in minutes.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-03T00:00:00",
+    "FavCount": 27,
+    "TagsIndex": [
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "music"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://soundraw.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/194ba6e8b43dc013a93aca4acd52fead5fdf6674-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "5ccce9db-820b-47be-84c0-c9cd6dd73f1f",
+    "ToolName": "Airgram",
+    "ToolDescription": "Automatically record and transcribe meetings, take meeting notes, assign action items - all in Airgram. Works perfectly with Zoom, Google Meet & Teams.",
+    "ToolShortDescription": "Automate joining, recording, and note-taking with smart AI.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-03T00:00:00",
+    "FavCount": 17,
+    "TagsIndex": [
+      "presentations",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "presentations",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Browser Extension",
+      "Open Source"
+    ],
+    "WebsiteUrl": "https://www.airgram.io/",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/cd46dd272e70fa7e2a077865f06dddc8abed3253-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "01b5355d-a050-4837-bbb2-0ac53b381455",
+    "ToolName": "Hair by AI",
+    "ToolDescription": "We're on a mission to empower women with hairstyle recommendations that are unique to their preferences. We want to remove the uncertainty of choosing the wrong hairstyle and give beauticians better guidance on how their clients want their hair configured.",
+    "ToolShortDescription": "The Ai-Powered Hairstyle Assistant For Women",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-02-03T00:00:00",
+    "FavCount": 5,
+    "TagsIndex": [
+      "fashion-assistant"
+    ],
+    "ToolCategories": [
+      "fashion"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.hairbyai.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d579f198cd3573b3f6e23df63b47ba98435149fb-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "b876c8b8-d5af-4160-b60d-fc9e5623d576",
+    "ToolName": "Rezi",
+    "ToolDescription": "Rezi is a new generation resume builder that completely eliminates the need to write your own resume. Using text generation AI, Rezi will write the perfect resume for you.\n",
+    "ToolShortDescription": "AI based Resume Writer",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-03T00:00:00",
+    "FavCount": 33,
+    "TagsIndex": [
+      "human-resources"
+    ],
+    "ToolCategories": [
+      "human resources"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://www.rezi.ai/ai-resume-builder?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7aa46d9b689b1c29112fd3d1c5a02ab236e206e0-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "616fdc7d-f8f9-4324-ba2c-4265fe091bbf",
+    "ToolName": "Obviously AI",
+    "ToolDescription": "Turn AI into ROI by going from raw data to industry leading predictive models in minutes, not months.",
+    "ToolShortDescription": "The fastest, most precise no-code AI tool ever.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-02-03T00:00:00",
+    "FavCount": 19,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://www.obviously.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1839e18fc5c7feea171ee274bb81708b70caafb6-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "a16a764c-93b7-4eab-ac9f-74fc027d77c3",
+    "ToolName": "BrandBastion Lite",
+    "ToolDescription": "Easily monitor and manage all your social media conversations with BrandBastion Lite! Our AI simplifies comment management by analyzing sentiment, detecting spam and hate speech, and identifying the messages that require a response from your brand.",
+    "ToolShortDescription": "Easily monitor and manage all your social media conversations",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-02-03T00:00:00",
+    "FavCount": 14,
+    "TagsIndex": [
+      "customer-support",
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "customer support",
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.brandbastion.com/lite?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/55b9b8b58b4193165804fb682870b43d67d85c9d-1887x940.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "640004a3-01f1-46bd-91e0-6e63df356932",
+    "ToolName": "LiveAI Bot",
+    "ToolDescription": "Have access to a powerful chatbot that works 24/7 to keep your community engaged and active. Whether you need help generating images, composing tweets, writing code, or even creating articles, LiveAl Bot has got you covered.",
+    "ToolShortDescription": "Powerful chatbot that works 24/7 to keep your community engaged and active",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-02T00:00:00",
+    "FavCount": 51,
+    "TagsIndex": [
+      "life-assistant",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "productivity"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://t.me/chatlive_ai_bot?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4e11d421867242e22d23b8909ee401ac6cb51e63-1896x912.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

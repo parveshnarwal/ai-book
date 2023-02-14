@@ -1,0 +1,233 @@
+[
+  {
+    "Id": "25af7f38-5ada-4ff5-b0b2-7f359f076e07",
+    "ToolName": "Shufti Pro",
+    "ToolDescription": "Award-winning customer onboarding solutions that go beyond standard KYC & AML checks to help your organisation boost conversions, reduce fraud, and stay compliant globally.",
+    "ToolShortDescription": "AI based KYC and AML solution",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-02-07T00:00:00",
+    "FavCount": 15,
+    "TagsIndex": [
+      "finance"
+    ],
+    "ToolCategories": [
+      "finance"
+    ],
+    "NewFeatures": [
+      "API",
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://shuftipro.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9e3d3db31d23c616e856b3fe2c267893269d1257-1908x912.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "5c28d3f1-bb8c-4726-b52d-505f1a45e778",
+    "ToolName": "SketchPro AI",
+    "ToolDescription": "Upload an image, enter the description for the image and enter tags of the image to get your sketches.",
+    "ToolShortDescription": "Render your sketches like a pro, in seconds!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-07T00:00:00",
+    "FavCount": 53,
+    "TagsIndex": [
+      "art-generator",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "art",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://sketchpro.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9ec0c0adbd1a31a0a9745e84a43118dd6fb9fe72-1777x937.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f9974b24-95ce-49a7-80af-3261de8b22af",
+    "ToolName": "Stable Attribution",
+    "ToolDescription": "When an A.I. model is trained to create images from text, it uses a huge dataset of images and their corresponding captions. The model is trained by showing it the captions, and having it try to recreate the images associated with each one, as closely as possible.\nThe model learns both general concepts present in millions of images, like what humans look like, as well as more specific details like textures, environments, poses and compositions which are more uniquely identifiable.",
+    "ToolShortDescription": "A tool which lets anyone find the human creators behind AI generated images",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-07T00:00:00",
+    "FavCount": 36,
+    "TagsIndex": [
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "art"
+    ],
+    "NewFeatures": [
+      "Discord Community",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.stableattribution.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c5a5e76f57934ac13f1c85366b4f87bfc2df5334-1895x914.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "1ccdda10-8ef7-489a-99c4-290ecee8a1c6",
+    "ToolName": "Chatbase",
+    "ToolDescription": "Just upload a pdf and get a link to a GPT based chatbot that can answer any question on it.",
+    "ToolShortDescription": "Build an AI chatbot trained on your data",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-07T00:00:00",
+    "FavCount": 71,
+    "TagsIndex": [
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "education assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.chatbase.co/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a5b64b6acb9288d5c9f380f9e0caa3db4e966a30-1867x844.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "3b156644-06bb-4107-a9ec-a6306fa62e8c",
+    "ToolName": "Iconify AI",
+    "ToolDescription": "Create professional icons for your app/website in seconds. Say goodbye to the hassle and expense of traditional app icon design and let AI design your brand icons.",
+    "ToolShortDescription": "Create professional icons for your app/website in seconds",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-02-07T00:00:00",
+    "FavCount": 26,
+    "TagsIndex": [
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.iconifyai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dd47daa2ecaa112fd16fba163595bb9f9db569d6-1893x902.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c7f2a005-5624-4019-9062-90d413bfaf68",
+    "ToolName": "Ogen AI",
+    "ToolDescription": "Convert links into OG Image / Cover Photo using ChatGPT & Stable Diffusion. Can also view images previously generated.",
+    "ToolShortDescription": "Convert links into OG Image / Cover Photo using ChatGPT & Stable Diffusion",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-07T00:00:00",
+    "FavCount": 36,
+    "TagsIndex": [
+      "developer-tools",
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "social media assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://ogen.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e1615e84e8e97ba524f793f94faa827a9685effd-1880x930.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "8164f9db-16f5-4135-838a-dec939fd3b60",
+    "ToolName": "Spread Positivity Today",
+    "ToolDescription": "Let someone know you appreciate them with a custom note using the magic of AI and see how far the impact of your thoughtfulness can spread.",
+    "ToolShortDescription": "Send a Note. Spread Joy.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-06T00:00:00",
+    "FavCount": 26,
+    "TagsIndex": [
+      "gift-ideas"
+    ],
+    "ToolCategories": [
+      "gift ideas"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://spreadpositivitytoday.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/29a4752d3adc77dc6809f6bc5105dedc8fda93fb-1882x947.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d18321dc-6c19-41f4-9ce7-6deeadb6d5fb",
+    "ToolName": "Neuroflash",
+    "ToolDescription": "Accelerate content creation at scale with the highest-quality AI-generated marketing texts & never stare at a blank page again. Make the best content decisions and get a quantitative measure of your content impact before publishing your next campaign. We offer over 100+ text-types, including our command feature in order to speak directly to the AI.",
+    "ToolShortDescription": "Accelerate content creation at scale",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-06T00:00:00",
+    "FavCount": 14,
+    "TagsIndex": [
+      "image-generator",
+      "copywriting-assistant",
+      "summarizer"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "copywriting",
+      "summarizer"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://neuroflash.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e056501c5bd981ce54ef85378961c1525a0b1631-1893x968.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "9ef26317-9345-4b96-8ed8-6f95c79accbd",
+    "ToolName": "Outline Ninja",
+    "ToolDescription": "An automated infographic maker using A.I. Converts a keyword into an Infographic. It requires a keyword and title to generate the rest of the information. It is a part of Outline Ninja's suite of products.",
+    "ToolShortDescription": "Automated infographic maker based on a keyword and title.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-02-06T00:00:00",
+    "FavCount": 28,
+    "TagsIndex": [
+      "social-media-assistant",
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant",
+      "education assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://outline.ninja/demo-infographic-ninja?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/26a1dff6c399ef877f94f8f7ece99e144a77c7cc-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

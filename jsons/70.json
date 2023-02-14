@@ -1,0 +1,243 @@
+[
+  {
+    "Id": "f8df700f-645f-492e-ae2f-a4232190f712",
+    "ToolName": "LitRPG Adventures",
+    "ToolDescription": "Advanced Tabletop RPG Generators + Content Library\nD&D Backstory Generator? That's not all. Get instant access to over 2 dozen fantasy RPG generators powered by GPT-3 from OpenAI. Members also get access to our growing RPG library full of tabletop RPG content",
+    "ToolShortDescription": "Advanced RPG generators + library of content for D&D and other fantasy RPGs",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-10T00:00:00",
+    "FavCount": 20,
+    "TagsIndex": [
+      "gaming"
+    ],
+    "ToolCategories": [
+      "gaming"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.litrpgadventures.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0ca734d3751072579d883c1b9a077737bebf4009-1570x972.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f831b38d-f253-43df-a5ae-e9ece89287ae",
+    "ToolName": "Inworld",
+    "ToolDescription": "Lifelike AI characters that can carry on open-ended conversations. Ask them anything. Built for gaming, entertainment, and virtual worlds.",
+    "ToolShortDescription": "AI characters that converse & answer questions.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 123,
+    "TagsIndex": [
+      "avatar-generator",
+      "gaming"
+    ],
+    "ToolCategories": [
+      "avatars",
+      "gaming"
+    ],
+    "NewFeatures": [
+      "Discord Community",
+      "API"
+    ],
+    "WebsiteUrl": "https://www.inworld.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dfcf19facd16d239d9a386f94adbe4cd4b9eefa7-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "f7e4177c-794c-4c18-8d9f-48072c58cc95",
+    "ToolName": "DREAM.page",
+    "ToolDescription": "Write and publish with the magic of AI! \nJoin the waitlist now.",
+    "ToolShortDescription": "Write smarter with AI! Join the waitlist now.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-10T00:00:00",
+    "FavCount": 43,
+    "TagsIndex": [
+      "writing-assistant"
+    ],
+    "ToolCategories": [
+      "general writing"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://dream.page/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/bda226beea86a93bef4946825a14d40a16ca8239-826x777.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f702ae52-e24b-4f44-9bbf-be0595de9a50",
+    "ToolName": "Nyx",
+    "ToolDescription": "Images on this website have been generated with AI and are therefore “not real”. The food, animals, landscapes, etc. that you will see do not exist!",
+    "ToolShortDescription": "Collection of AI generated images of food, animals and landscapes",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 126,
+    "TagsIndex": [
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "search engine"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://nyx.gallery/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8b3211391c1598aea7022260fbbb371832f4d611-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "f6438436-c027-410f-8eee-cecab3c0950a",
+    "ToolName": "Adobe Sensei",
+    "ToolDescription": "Creating and offering the ideal customer experience can be complicated tasks. Sensei uses AI and machine learning to make these tasks easier, helping you streamline the creative process, make informed decisions, and target marketing for better results.",
+    "ToolShortDescription": "Use AI to create and offer ideal customer experiences easier and more effective.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 42,
+    "TagsIndex": [
+      "customer-support",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "customer support",
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.adobe.com/br/sensei.html?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3aec00521960d1b2e83e74f69e0ec293ea580358-3765x1711.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "f58547eb-9045-4d26-a861-16527142114a",
+    "ToolName": "Rosebud",
+    "ToolDescription": "AI Generated Visuals\nWe make it easy for you to get the exact visual you need.",
+    "ToolShortDescription": "Create exact visuals",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 255,
+    "TagsIndex": [
+      "design-assistant",
+      "search-engine",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "design assistant",
+      "search engine",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "Discord Community",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.rosebud.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8476ac165a688a285d95a52dfa9e7bdef57e3edf-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "f563de69-5883-459f-a365-dda271098872",
+    "ToolName": "Mirageml",
+    "ToolDescription": "Generate 3D Design, Fast. Simply use text to describe what you want and Mirage's AI powered platform generates 3D meshes and textures.",
+    "ToolShortDescription": "Create 3D designs quickly",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 100,
+    "TagsIndex": [
+      "3D-generator"
+    ],
+    "ToolCategories": [
+      "3D"
+    ],
+    "NewFeatures": [
+      "API",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.mirageml.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0f18d398c00bda8393aad7f757401da028b31a32-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "f4anPLX3tYepkAAQeimfu7",
+    "ToolName": "ParagraphAI",
+    "ToolDescription": "ParagraphAI is an AI Writing App that writes clear, concise, and error-free content.",
+    "ToolShortDescription": "AI Writing App that writes clear, concise, error-free content.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-04T00:00:00",
+    "FavCount": 117,
+    "TagsIndex": [
+      "writing-assistant",
+      "copywriting-assistant",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "copywriting",
+      "email assistant"
+    ],
+    "NewFeatures": [
+      "Mobile App",
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://paragraphai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1f4560890cde43b6eb6c6d0a3d996e6438db85c5-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "f4a94896-0982-4ae9-a32a-aebcc0c0a08e",
+    "ToolName": "Riku.ai",
+    "ToolDescription": "Empowering you to build AI models without code. Use AI through integrations, API, or public share links. Accessible AI for everyone.",
+    "ToolShortDescription": "Build models without code, use AI through integrations, API, or links.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-11T00:00:00",
+    "FavCount": 67,
+    "TagsIndex": [
+      "developer-tools",
+      "no-code"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "low-code/no-code"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://riku.ai/?ref=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0f993000aa4e3037f1b98137b1246dd24d6e94ff-1863x968.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

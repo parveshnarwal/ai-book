@@ -1,0 +1,234 @@
+[
+  {
+    "Id": "d22c1828-e9b8-4a6c-9f25-c2b54217531e",
+    "ToolName": "Xpression Camera",
+    "ToolDescription": "Xpression Camera is an award-winning virtual camera app that allows users to instantly transform into anyone or anything with a face with a single photo without any processing time. xpression camera enables users to redefine their onscreen persona in real-time while chatting on apps like Zoom, live streaming on Twitch, or creating a YouTube video.",
+    "ToolShortDescription": "Transform into anyone/anything with a single photo, no processing time.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium",
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-21T00:00:00",
+    "FavCount": 223,
+    "TagsIndex": [
+      "avatar-generator",
+      "video-generator"
+    ],
+    "ToolCategories": [
+      "avatars",
+      "video generator"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://xpressioncamera.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8a60387368cc268e1cbd781ddf1cc9db9588faaa-1497x926.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "cf46020e-9a97-4cb0-919f-3e4e0752245f",
+    "ToolName": "Helicone",
+    "ToolDescription": "Simplify GPT-3 monitoring with one line of code. To use, replace the base url with the SDK. Add your OpenAI key to Valyr and view requests in the dashboard.\n",
+    "ToolShortDescription": "Monitor GPT-3 with one line of code, add OpenAI key to Valyr for dashboard view.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-24T00:00:00",
+    "FavCount": 100,
+    "TagsIndex": [
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "developer tools"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "API",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://valyr.vercel.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/619f358e968f59c4156f0d4ec8b3ee66ab6588c5-1442x665.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "cbde23eb-9cb0-4840-b7ff-4ef0febeb6f2",
+    "ToolName": "Noty.ai",
+    "ToolDescription": "AI meeting assistant transforming Google Meet into actions, tasks and follow-ups. Features include: Real-time transcription and one-click highlighting. AI summaries and meeting intelligence. Automated Follow-up. \n",
+    "ToolShortDescription": "Transforming Google Meet into actions, tasks & follow-ups",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-26T00:00:00",
+    "FavCount": 100,
+    "TagsIndex": [
+      "summarizer",
+      "transcriber",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "summarizer",
+      "transcriber",
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://noty.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/03a462563589e501c56914e901a27b16d1ca4046-1877x941.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c5a6089d-2266-40b9-beaf-602ad4d484a9",
+    "ToolName": "Ebi.Ai",
+    "ToolDescription": "Reduce call volumes and improve customer experiences with an AI assistant.",
+    "ToolShortDescription": "Reduce call volumes & improve customer experiences with AI assistant.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-27T00:00:00",
+    "FavCount": 52,
+    "TagsIndex": [
+      "customer-support"
+    ],
+    "ToolCategories": [
+      "customer support"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://ebi.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b915fe4de5142f2c284bd57240da3e680c031187-3755x1791.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "c4aceadc-6603-46f8-ad00-6213806d3160",
+    "ToolName": "Robin",
+    "ToolDescription": "Automated cold email outreach, written by GPT. With Robin AI, you can easily and effectively reach out to leads, conduct research, and handle initial outreach - all without the need for a human sales associate.",
+    "ToolShortDescription": "Automate sales outreach with Robin AI - no human needed.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-12-18T00:00:00",
+    "FavCount": 207,
+    "TagsIndex": [
+      "sales-assistant",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "sales",
+      "email assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://www.hellorobin.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e72c79eafde04dbd559b63b2810f7c41176a9bf2-1712x943.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c20b4e78-2468-4ddd-b47e-362b8392fbef",
+    "ToolName": "Elf Help",
+    "ToolDescription": "Holiday gifting inspo.\nElf Help is your ultimate gift-giving assistant, offering creative and personalized suggestions for everyone on your list, all for free.",
+    "ToolShortDescription": "Free personalized gifting ideas for everyone on your list.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-20T00:00:00",
+    "FavCount": 60,
+    "TagsIndex": [
+      "gift-ideas"
+    ],
+    "ToolCategories": [
+      "gift ideas"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://www.elfhelp.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7c15f31ce1ddcfa736fe289272949a990aa86208-1530x873.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "ba6c2454-1eca-4118-b08a-2cc55573aee0",
+    "ToolName": "Felvin",
+    "ToolDescription": "Felvin enables non-devs to create, discover and monetize AI apps. Our no-code tool makes it easy for you to create AI apps and put them on an SEO-optimized gallery for discovery.\n",
+    "ToolShortDescription": "Felvin: Create, Discover & Monetize AI Apps with No-Code Tool.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-12-25T00:00:00",
+    "FavCount": 179,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://felvin.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/bdc0da4f8309eaea869e21f0fb4fd419cbfa10ce-1442x916.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "b6516684-5590-4cc2-9a4c-0a9faceb9b39",
+    "ToolName": "Context",
+    "ToolDescription": "Your favorite content. Transcribed and searchable.\nContext is an AI-powered search engine that can find any moment you're looking for within large collections of audio and video content. You can search content of creators like Mr Beast and MKBHD.",
+    "ToolShortDescription": "Your favorite content. Transcribed and searchable.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-20T00:00:00",
+    "FavCount": 148,
+    "TagsIndex": [
+      "transcriber",
+      "search-engine",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "transcriber",
+      "search engine",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://addcontext.xyz/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/37f6503bca41dcae301a6adde34e66f211e15a66-1606x970.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "b3522cdc-db03-4cff-8a87-6282e70bebc7",
+    "ToolName": "GeniusReview",
+    "ToolDescription": "360° AI Performance Reviews. Save tons of hours by using GeniusReview to get tailored answers to your performance review questions.",
+    "ToolShortDescription": "Automate performance reviews to save time & get tailored answers.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-30T00:00:00",
+    "FavCount": 178,
+    "TagsIndex": [
+      "human-resources"
+    ],
+    "ToolCategories": [
+      "human resources"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://geniusreview.xyz/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f1ebca0d1ad2509cf37e75b0fa00a860e349d74f-1226x810.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

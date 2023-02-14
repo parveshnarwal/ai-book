@@ -1,0 +1,229 @@
+[
+  {
+    "Id": "2404468c-96c1-48a0-a362-7c03bc5ff865",
+    "ToolName": "Outfits AI",
+    "ToolDescription": "Use AI to see what you'd look like in different outfits.",
+    "ToolShortDescription": "Try on endless outfit possibilities!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-02-05T00:00:00",
+    "FavCount": 23,
+    "TagsIndex": [
+      "image-editing",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "image editing",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.outfitsai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/463c16bfcde129641f9ec6c438075c1f277ae1b5-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "381158ba-bc49-4395-90c1-2c320484e341",
+    "ToolName": "Audioshake",
+    "ToolDescription": "Get your Stems for sync licensing, sampling, remastering, remixing, and re-imagining and get the tech used by major labels, publishers, distributors, music supervisors and sync licensing companies",
+    "ToolShortDescription": "Get your tracks split into stems",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-02-05T00:00:00",
+    "FavCount": 10,
+    "TagsIndex": [
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "music"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://indie.audioshake.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3afee1566e8bff9bb3359dcbda8b21be715956c9-1912x868.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "339ba045-7a3c-44e9-90b4-ca3456634651",
+    "ToolName": "Pixelhunter",
+    "ToolDescription": "Cropping each and every image by hand can be tiresome. Pixelhunter utilizes amazing Uploadcare Intelligence API to recognize objects and crop pictures automatically, in a smarter way.",
+    "ToolShortDescription": "Pixel­hunter — free AI image resizer for social media.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-05T00:00:00",
+    "FavCount": 72,
+    "TagsIndex": [
+      "image-editing",
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "image editing",
+      "social media assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://pixelhunter.io?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/40a190339d88d3a292e14daf36d50366eea43f39-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "7e562693-0032-4864-8565-9e13857d8f0d",
+    "ToolName": "Writeseed",
+    "ToolDescription": "Write SEO-optimized marketing copy for blogs, Facebook ads, Google Ads and more to increase clicks, conversions and sales.",
+    "ToolShortDescription": "Create SEO-optimized content for your blog, and website & more.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-02-05T00:00:00",
+    "FavCount": 10,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://writeseed.com/?v=5655?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9ae844a44e35f5c5f0112dfb70d053fefa5c098d-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "9f4f1657-36bf-4482-b8e7-04b28045e343",
+    "ToolName": "Entar.io",
+    "ToolDescription": "Save 5x time with AI-generated replies for social media (LinkedIn, Twitter, Facebook, etc.). Let Entario create comments tailored to each inquiry in seconds.\nCustomize and edit comments in different tones of voice. Works with all major social media platforms.",
+    "ToolShortDescription": "ChatGPT replies for social media",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-02-04T00:00:00",
+    "FavCount": 19,
+    "TagsIndex": [
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://www.entar.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/612ec624a65c201f653e9a298ecf28c8f43606db-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "803c570a-ff8f-433c-a9d2-a5dbe1abe3d4",
+    "ToolName": "Wisecut",
+    "ToolDescription": "Wisecut is an online automatic video editing software that leverages AI and voice recognition to edit videos for you.\nHarness the power of AI to create engaging videos at lightning speed!",
+    "ToolShortDescription": "Video Editing Made Wise",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-04T00:00:00",
+    "FavCount": 29,
+    "TagsIndex": [
+      "video-editing"
+    ],
+    "ToolCategories": [
+      "video editing"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.wisecut.video/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4504ed89973192bd518712df4054298dcd4c7474-1827x975.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d4a7dc8c-b7ab-4548-ab93-c5c7505baf91",
+    "ToolName": "DreamStaging.AI",
+    "ToolDescription": "Unlock Endless Design Possibilities with Artificial Intelligence: AI-Generated Interiors in Minutes for Your Listings and Design Projects. Upload a photo of an empty room and get dozens of professionally designed and furnished interior variations in minutes, across various styles and room types. AI-powered virtual staging can save you a lot of time by automating the process of creating virtual staging designs and allowing you to focus on other aspects of your business",
+    "ToolShortDescription": "AI-powered Virtual Staging solution ",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-04T00:00:00",
+    "FavCount": 14,
+    "TagsIndex": [
+      "real-estate"
+    ],
+    "ToolCategories": [
+      "real estate"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://dreamstaging.ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7ed319f0708eb09325c29d9cf06f3680a3556057-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "47e2398e-c448-4234-856e-60308f4d7d6e",
+    "ToolName": "Linguix",
+    "ToolDescription": "Linguix is an AI writing assistant and grammar checker for content creators and business  professionals. Their Chrome extension offers you sentence rephrasing and checks grammar online in real time on millions of websites used by marketers, salespeople, customer support reps,  and HR professionals. The writing assistant seamlessly integrates with Asana, Google Drive, Gmail, HubSpot, and other business platforms to improve your writing style stress-free. ",
+    "ToolShortDescription": "Fix and rewrite your content on millions of websites to make it more efficient",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-04T00:00:00",
+    "FavCount": 9,
+    "TagsIndex": [
+      "paraphraser",
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "paraphraser",
+      "copywriting"
+    ],
+    "NewFeatures": [
+      "Mobile App",
+      "Browser Extension",
+      "API"
+    ],
+    "WebsiteUrl": "https://linguix.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1a61fff2d9c1c9d4cb1a159a96bdbe1c6fad5869-1842x895.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "1df760b0-94ec-4d52-b3bf-800cfdf00e5a",
+    "ToolName": "Podium",
+    "ToolDescription": "Easily generate transcripts, chapters, shownotes, clips, and more with a drag-n-drop interface. Podcast transcripts, highlights, and chapters aren’t just for the big podcasts—now, they’re for everybody.",
+    "ToolShortDescription": "Your copilot for podcast post-production. ",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-02-04T00:00:00",
+    "FavCount": 17,
+    "TagsIndex": [
+      "summarizer",
+      "transcriber"
+    ],
+    "ToolCategories": [
+      "summarizer",
+      "transcriber"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://podium.page?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/84ec2ed78eba7c879b7971690de7a0946d697417-1881x847.png",
+    "ImageFormat": ".png"
+  }
+]

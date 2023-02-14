@@ -1,0 +1,228 @@
+[
+  {
+    "Id": "be74b0bd-e54a-4795-b2db-6af1600ad299",
+    "ToolName": "UltraBrainstomer",
+    "ToolDescription": "UltraBrainstomer  is a cutting-edge brainstorming tool that harnesses the power of artificial intelligence to help you unlock your creativity and elevate your work. Whether you're in need of business ideas, writing a speech, composing social media posts, or crafting emails,",
+    "ToolShortDescription": "AI tool that turns dull ideas into brilliance in a flash.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-02-05T00:00:00",
+    "FavCount": 27,
+    "TagsIndex": [
+      "writing-assistant",
+      "startup-assistant"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "startup tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://ultrabrainstomer.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/06d5cfc19402ebfc1cdb8d5878ece252060c9386-1902x858.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "84162853-5d91-4864-a9d5-0076e9f51676",
+    "ToolName": "Seo.ai",
+    "ToolDescription": "SEO.ai lets you harness the superpowers of world-leading generative artificial intelligence for generating high-quality SEO keyword research and AI copywriting.",
+    "ToolShortDescription": "Make SEO-enhanced content at lightspeed",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-05T00:00:00",
+    "FavCount": 20,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://seo.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ea37b4301666e9c621cab3525d146b7eddb63945-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "78787759-d5f2-45a7-9366-8da4b04b0d0d",
+    "ToolName": "Doctrina AI",
+    "ToolDescription": "Built on top of the powerful GPT-3 language model from OpenAI, this product is designed to help students and children study better and adapt to the new challenges of remote and online learning. \n",
+    "ToolShortDescription": "Elevate your learning with Doctrina",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-05T00:00:00",
+    "FavCount": 42,
+    "TagsIndex": [
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "education assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.doctrina.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0f51a1ea8dcf26f8a2c879fcf5a858b4abb37056-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "3d204aa6-d9fe-48f2-8dcc-ac857bd78360",
+    "ToolName": "Quick Reply",
+    "ToolDescription": "QuickReply uses advanced algorithms to create and analyze incoming messages and generate relevant, personalized responses in seconds, saving you time and effort.",
+    "ToolShortDescription": "AI-powered replies to your messages with just a few clicks",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-05T00:00:00",
+    "FavCount": 59,
+    "TagsIndex": [
+      "customer-support",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "customer support",
+      "email assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://quickreply.cfd/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/051fa1d4a7ccf14b788405ce5de370b494312b41-4596x2483.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "82664a8c-8d23-4c21-93ff-d6c6591ff035",
+    "ToolName": "Naming Magic",
+    "ToolDescription": "Let GPT-3 brainstorm names for your company or product and find available domain names.",
+    "ToolShortDescription": "Use AI to name your company and find a domain.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-05T00:00:00",
+    "FavCount": 36,
+    "TagsIndex": [
+      "startup-assistant"
+    ],
+    "ToolCategories": [
+      "startup tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.namingmagic.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a26cb262dc5c62e867408b5d0e841ccbd2c252fb-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "1b1a4c17-994d-4fe1-b227-1c6554913392",
+    "ToolName": "GPT For Me",
+    "ToolDescription": "GPTForMe gives you the power of AI to interact with personal or niche content that the public GPT-3 model doesn’t know about. It’s a prototype intended to demonstrate the potential of GPT-3 for personalized use cases.",
+    "ToolShortDescription": "Use GPT-3 to Interact with Any Content. An Experiment with Personalized AI",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-05T00:00:00",
+    "FavCount": 43,
+    "TagsIndex": [
+      "productivity"
+    ],
+    "ToolCategories": [
+      "productivity"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://gptfor.me/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c652c2cdf219a5f0564e7ed1a2bddd77ad48c305-1907x862.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "596948be-bdc0-43b8-b231-8cfcbe034b28",
+    "ToolName": "YOUS",
+    "ToolDescription": "Audio/Video meetings, phone calls, chats, and messages with a built-in AI-based translator. \n",
+    "ToolShortDescription": "Meetings, calls and chats with AI-based translator.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-05T00:00:00",
+    "FavCount": 12,
+    "TagsIndex": [
+      "customer-support"
+    ],
+    "ToolCategories": [
+      "customer support"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "http://yous.ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/eb2b5d0bf0473226cc8f2a7ba36f81b90b66b738-1883x928.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f5fdbba9-97a8-4883-b2ed-34d90a279315",
+    "ToolName": "Mechanic For A Chat",
+    "ToolDescription": "The online troubleshooting mechanic chatbot provides fast, convenient, and expert assistance for car problems 24/7, offering a user-friendly solution for managing vehicle maintenance and health.",
+    "ToolShortDescription": "Enjoy fast, reliable, and expert assistance for your car problems",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-05T00:00:00",
+    "FavCount": 47,
+    "TagsIndex": [
+      "life-assistant",
+      "customer-support"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "customer support"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://mechanic.fora.chat/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b02a0de17c4a2b70f7d8246724fb640e75ce2b5d-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "9f29f5b8-51dd-4739-a577-e1ac3ef437b6",
+    "ToolName": "Logomaster",
+    "ToolDescription": "Trusted by over 3000 startups, professionals and small businesses to generate logos using AI ",
+    "ToolShortDescription": "AI logo maker for your new business.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-02-05T00:00:00",
+    "FavCount": 13,
+    "TagsIndex": [
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://logomaster.ai/de?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2c50338ee1c10f63a0b01bc25a2c4590bd81da47-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

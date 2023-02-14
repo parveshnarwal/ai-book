@@ -1,0 +1,236 @@
+[
+  {
+    "Id": "08e87bef-3c56-4b27-81d4-2ef06da8c912",
+    "ToolName": "Laion",
+    "ToolDescription": "LAION, as a non-profit organization, provides datasets, tools and models to liberate machine learning research. They encourage open public education and a more environment-friendly use of resources by reusing existing datasets and models. ",
+    "ToolShortDescription": "Enables ML research with datasets, tools, models & resources.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-22T00:00:00",
+    "FavCount": 200,
+    "TagsIndex": [
+      "developer-tools",
+      "research-assistant"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "research"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "Discord Community",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://laion.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4fae4bff4242ea7d6c5be36eaa2b8d8115aa0c81-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "02130d23-3f1a-4629-8251-62367ba2aeca",
+    "ToolName": "CheckForAI",
+    "ToolDescription": "Detect AI Written Text in Essays and Emails. Their analysis leverages the combination of Open AI’s existing Roberta-base model for GPT detection, and our own proprietary models.",
+    "ToolShortDescription": "Detect AI text in essays/emails w/ Open AI & proprietary models.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-21T00:00:00",
+    "FavCount": 417,
+    "TagsIndex": [
+      "seo-assistant",
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "SEO",
+      "education assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://checkforai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9fdd7e956d7fe596ef3e94074c13e796e6a7f290-1860x910.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "52476f63-6e88-467c-81a3-ec1487f3fe81",
+    "ToolName": "Analogenie",
+    "ToolDescription": "analogenie is a simple and intuitive tool to generate analogies, improve your arguments, explain complex concepts, and help readers get a better understanding of your content. Along with analogies, users also get relevant gifs. They can download the gifs or directly copy the embed link to add on content",
+    "ToolShortDescription": "Generate analogies, explain concepts, improve arguments, help readers understand.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-20T00:00:00",
+    "FavCount": 160,
+    "TagsIndex": [
+      "writing-assistant"
+    ],
+    "ToolCategories": [
+      "general writing"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://analogenie.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1069759140a8f755b0756054707f4cf088418d3d-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "df605924-1ff6-442e-8999-ac5af10a67f4",
+    "ToolName": "ReleaseNote.AI",
+    "ToolDescription": "Release Notes Simplified with GPT-3.  Just list down your features & updates, and let the AI write your first draft. It even lets you write your release notes in the speech style of Yoda, Sherlock holmes, Eminem and more",
+    "ToolShortDescription": "Automate release notes with GPT-3; write in Yoda, Sherlock, Eminem styles.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-20T00:00:00",
+    "FavCount": 202,
+    "TagsIndex": [
+      "startup-assistant",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "startup tools",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://releasenote.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8ff491ca4d4c1365dddebe5a6914c8e60d37312e-1548x937.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f5285097-ac49-4c79-8476-b4f5016944b1",
+    "ToolName": "Chatty Cat",
+    "ToolDescription": "Ask any question, chat with voice messages & request images from AI on WhatsApp.  ",
+    "ToolShortDescription": "Chat with AI on WhatsApp",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-19T00:00:00",
+    "FavCount": 146,
+    "TagsIndex": [
+      "productivity",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "productivity",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://chattycat.ju.mp/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/add46e64d7719d83331238f981c7d46979ad2bc5-1649x974.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "999a2ad0-620a-4794-8558-a0924f5c9c5a",
+    "ToolName": "OSS Insight",
+    "ToolDescription": "Data Explorer by OSS Insight is a GPT-powered querying tool for GitHub live data exploration. Simply ask your question in natural language, and Data Explore will generate SQL, query the data, and present the results visually.\n",
+    "ToolShortDescription": "GPT-powered querying tool for GitHub live data exploration",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-19T00:00:00",
+    "FavCount": 129,
+    "TagsIndex": [
+      "sql-assistant",
+      "search-engine",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "SQL",
+      "search engine",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://ossinsight.io/explore/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3117a6c5946f20f2aec3a9cc61587b490e46aaaa-1854x920.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "172a08c3-a8bd-4657-9e29-ce7ea482bc1a",
+    "ToolName": "Arxiv Feed",
+    "ToolDescription": "An easily browsable feed of AI research papers taken from Arxiv. Updated regularly.",
+    "ToolShortDescription": "Research papers from Arxiv, updated regularly.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-18T00:00:00",
+    "FavCount": 116,
+    "TagsIndex": [
+      "research-assistant"
+    ],
+    "ToolCategories": [
+      "research"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://arxiv-feed.vercel.app/?utm_source=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/5c63122d36bcf33f1e7e7424001add6251580368-1854x948.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "8c497f78-3d39-4103-b2a0-2c67a1ffac5e",
+    "ToolName": "TwitterBio",
+    "ToolDescription": "Generate your next Twitter bio in seconds. You can use your current bio as an inspiration for the AI to use or just write a few sentences about yourself. You can select a vibe from professional, casual and funny.",
+    "ToolShortDescription": "Generate a Twitter bio in seconds using AI and current bio",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-18T00:00:00",
+    "FavCount": 216,
+    "TagsIndex": [
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.twitterbio.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/501e8c7eafd6ae8c71f3c6d88c68e1dd8f811225-1472x934.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "13281b80-15f9-4707-b750-8b78b68e27ff",
+    "ToolName": "PaperBrain",
+    "ToolDescription": "A platform for you to access and understand research papers.  With paper abstracts and direct pdf links, you'll never have to struggle with tedious downloads again. Built with a GPT assistant to help you all along.",
+    "ToolShortDescription": "Platform to access & understand research papers w/ abstracts & pdfs",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-17T00:00:00",
+    "FavCount": 468,
+    "TagsIndex": [
+      "research-assistant",
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "research",
+      "education assistant"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://www.paperbrain.study/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/366bdc3f28c68f161d8a0d056d2fd0576ffef3ca-1483x883.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

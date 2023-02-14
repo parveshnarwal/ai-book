@@ -1,0 +1,225 @@
+[
+  {
+    "Id": "07724344-5a3d-4090-9e0b-d9f15bbf5cbd",
+    "ToolName": "Magician (Figma)",
+    "ToolDescription": "A magical design tool for Figma powered by AI.\nMagician is a Figma plugin that lets you design with the power of AI to do everything from copywriting to generating unique icons from text. Each magic spell works alongside you to expand your creativity and imagination as you design.\n\n",
+    "ToolShortDescription": "AI-powered Figma plugin for creative design: Magician.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-24T00:00:00",
+    "FavCount": 76,
+    "TagsIndex": [
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://magician.design/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1f76a2a6d58880ee7f00b165a1853d18600cdcd2-1817x923.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "074c3e21-785b-45a7-8681-0b16a9480e9d",
+    "ToolName": "BotDistrikt",
+    "ToolDescription": "BotDistrikt is a complete chatbot solution for your business. ",
+    "ToolShortDescription": "BotDistrikt provides complete chatbot solutions for businesses.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-28T00:00:00",
+    "FavCount": 26,
+    "TagsIndex": [
+      "customer-support"
+    ],
+    "ToolCategories": [
+      "customer support"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.botdistrikt.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/10697e3ba0cf3ade37a74be59489cdb20bb0cca6-3669x1807.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "0723e4a0-6e55-40d1-84f8-dca0a3fabbc0",
+    "ToolName": "MateAI",
+    "ToolDescription": "Generate Copy and Design for your email campaigns, faster.\n🇬🇧 🇮🇹 Available in English, Italian and 5 other languages.",
+    "ToolShortDescription": "Generate, Copy, Design email campaigns in 7 languages.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 44,
+    "TagsIndex": [
+      "sales-assistant",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "sales",
+      "email assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.mateai.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e28c66a791734e87ccb5a47bd34049e3c91e79b8-1665x945.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "05508d0e-84c7-4b82-9e8e-051a6d952605",
+    "ToolName": "Tavus",
+    "ToolDescription": "Meet Tavus, the programmatic personalized video tool made for top-performing product, marketing, and sales teams that want to transform how they build relationships. Record once and discover the power of Tavus as our AI automatically generates personalized videos for audiences large and small.",
+    "ToolShortDescription": "AI-generated personalized videos for product, marketing, & sales teams.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 140,
+    "TagsIndex": [
+      "personalized-videos"
+    ],
+    "ToolCategories": [
+      "personalized videos"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.tavus.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/445d1472f6b0714215a8974e0dca260b734ab785-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "03347b28-e1d5-4d97-8a8e-8cf66a3dea13",
+    "ToolName": "Scalenut",
+    "ToolDescription": "Produce content that serves your business goals in a simple and scalable way. Guided workflow to complete blog in just 5 minutes!",
+    "ToolShortDescription": "Produce content quickly & easily to reach business goals.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-23T00:00:00",
+    "FavCount": 47,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.scalenut.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c572be1e8b9ea5e3c94d6c854fbeb872dc4dd112-3649x1799.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "015bbb27-521e-4029-9956-3bec069c4678",
+    "ToolName": "CodeSquire",
+    "ToolDescription": "AI code writing assistant for data scientists, engineers, and analysts.\nGet code completions and suggestions as you type.",
+    "ToolShortDescription": "AI-powered code assistant for data pros to get code completions & suggestions.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-03T00:00:00",
+    "FavCount": 64,
+    "TagsIndex": [
+      "code-assistant",
+      "sql-assistant"
+    ],
+    "ToolCategories": [
+      "code assistant",
+      "SQL"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://codesquire.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c3fdbe8656071a6e7cf9cdcf641f310a3888f76a-1855x853.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "cbc617f1-b438-4ae9-9c1a-4caa2f54dd96",
+    "ToolName": "Songtell",
+    "ToolDescription": "Songtell is the first ever AI-generated song meanings repository with over 20000 song meanings generated. You can also order a poster with your favourite song's meaning printed on it. Check out their subreddit r/songtell for more details!\n",
+    "ToolShortDescription": "AI-generated song meanings repository with 20000+ meanings & posters.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-17T00:00:00",
+    "FavCount": 121,
+    "TagsIndex": [
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "music"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://songtell.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7d7ce54ecd8356fc32fec870fbe83cc9161bbe46-1757x953.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "6a74afc7-927c-4474-a7f2-8e90f1a8bac3",
+    "ToolName": "Pipl.ai",
+    "ToolDescription": "It is hard to send cold emails at scale. We make it a breeze. Connect unlimited inboxes, enjoy free warm-up for ALL your accounts, built-in email validation and data cleansing, AI-powered sequence & template writer and much more…\n",
+    "ToolShortDescription": "Send cold emails at scale with ease",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-11T00:00:00",
+    "FavCount": 60,
+    "TagsIndex": [
+      "sales-assistant",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "sales",
+      "email assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://pipl.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/717a951662dc85aef0f4c1fcea48285da2bc1db5-1657x972.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "2a73f9b4-ca52-4409-8c34-b33ab348f1f4",
+    "ToolName": "Eleven Labs",
+    "ToolDescription": "Future of Voice. The first platform for generating long-format speech in any voice and in any language. We use AI to bring the most natural and compelling voices to creators and publishers seeking the ultimate storytelling quality.",
+    "ToolShortDescription": "AI-powered platform for creating natural, long-format speech in any language.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-17T00:00:00",
+    "FavCount": 52,
+    "TagsIndex": [
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "text to speech"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "http://elevenlabs.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9019e28ec41d5ca11ebbc33fdf61ddb4730805f2-1782x945.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

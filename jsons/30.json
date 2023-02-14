@@ -1,0 +1,225 @@
+[
+  {
+    "Id": "67459f45-1f1a-4b9a-b888-239898b89ff5",
+    "ToolName": "Getsound",
+    "ToolDescription": "Personalized soundscapes based on current weather conditions. Can be used in places like spas, hotels, resorts, and workspaces. Using 24/7 weather monitoring and physical environment parameters, the app creates soundscapes that are ever-changing and unique to the location. \nAlso offers 20+ soundscapes, such as sunrise, sunset, desert, jungle, ocean, wind, and rain.",
+    "ToolShortDescription": "Welcome to the future of hospitality AI soundscapes.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-02-11T00:00:00",
+    "FavCount": 2,
+    "TagsIndex": [
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "music"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.getsound.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6695b8fa4b1c02b69e5cea89079d4980cc41b69c-1808x946.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "ed1a5a87-f2ae-4d53-be12-5acf5fd24273",
+    "ToolName": "Code GPT",
+    "ToolDescription": "Code GPT is a VS Code Extension with excellent features like StackOverflow support, Explanation, Refactoring, Documentation, Finding Problems, and Unit Testing.",
+    "ToolShortDescription": "Using the official OpenAI API inside VSCode with Code GPT.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-11T00:00:00",
+    "FavCount": 27,
+    "TagsIndex": [
+      "code-assistant"
+    ],
+    "ToolCategories": [
+      "code assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d37f1204a906c08c8bca5df359ce4c76922f7966-1577x857.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "a8273d4a-6013-4f78-88d2-3425a7ef8273",
+    "ToolName": "Ask String",
+    "ToolDescription": "String is a suite of analytic tools that listens and understands. It takes initiatives rather than just taking orders. \nIt goes beyond understanding structured data and can comprehend the nuances of unstructured data. Data analytics is charting a course through uncharted waters, and STRING is the captain of that journey. We’re sailing into a brave new world of exploration, where systems of understanding and intelligent collaboration lie waiting to be discovered.",
+    "ToolShortDescription": "Your last data tool for your every decision.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-02-11T00:00:00",
+    "FavCount": 11,
+    "TagsIndex": [
+      "sql-assistant"
+    ],
+    "ToolCategories": [
+      "SQL"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://www.askstring.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/86a0c3109daa7058e16f9e829dac291e8a70411b-1896x962.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d2c73cbc-ad41-43e3-a53c-a73ee74c2c72",
+    "ToolName": "Roshi AI",
+    "ToolDescription": "Pick any Youtube video or article online and instantly generate summaries, vocabulary lists, questions, and activities for your students.",
+    "ToolShortDescription": "Create lessons in 1 click",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-10T00:00:00",
+    "FavCount": 29,
+    "TagsIndex": [
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "education assistant"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://www.roshi.ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/43d10ea292d36a899a9558d940bc615e34fe203d-1889x949.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "89c4d94c-eaef-48c5-853b-ff07cdde7f12",
+    "ToolName": "ConversAI",
+    "ToolDescription": "ConversAI is the personal AI chat assistant that helps you respond to anything with just one click. Let AI carry the conversation and never run out of interesting things to say!",
+    "ToolShortDescription": "Respond to anything in just one click.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-02-10T00:00:00",
+    "FavCount": 11,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://conversai.co/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e7c399c5955c43fcec56dc3500fd9761c0604d9f-1400x652.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "01bf322c-2ac6-4d57-9ea7-2200b415a8d1",
+    "ToolName": "Post AI",
+    "ToolDescription": "Transform the way you create content with our AI platform. Say goodbye to writer's block and hello to endless possibilities. Experience a new level of efficiency and creativity. Let's bring your ideas to life!",
+    "ToolShortDescription": "Unleash your creativity with AI-powered content creation",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-10T00:00:00",
+    "FavCount": 17,
+    "TagsIndex": [
+      "copywriting-assistant",
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting",
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.postai.pro?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6975d498f8cc3b3db415e3dc84d76a0bcafdb0fd-1388x772.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "76f34808-95e4-49b0-9f9e-0d4f77f72cad",
+    "ToolName": "Img Upscaler",
+    "ToolDescription": "Upscale and enhance your image by using the latest AI technology. Support batch process. Upscale multiple images as simple as TINYPNG compressing them!",
+    "ToolShortDescription": "Smart PNG / JPG Image Upscaler",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-10T00:00:00",
+    "FavCount": 15,
+    "TagsIndex": [
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "image editing"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://imgupscaler.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2d3542f7df528cf7f181c5eed0266d85fe3fcf8a-1866x938.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "1db02a47-a66a-4a30-8848-8963479c2cf0",
+    "ToolName": "OpenAI Text Classifier",
+    "ToolDescription": "The intended use for the AI Text Classifier is to foster conversation about the distinction between human-written and AI-generated content. The results may help, but should not be the sole piece of evidence, when deciding whether a document was generated with AI. The model is trained on human-written text from a variety of sources, which may not be representative of all kinds of human-written text.",
+    "ToolShortDescription": "Here you can check if a text is AI generated",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-10T00:00:00",
+    "FavCount": 22,
+    "TagsIndex": [
+      "seo-assistant",
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "SEO",
+      "education assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://platform.openai.com/ai-text-classifier?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2f73a9212b116a573364c00b6651655e3e20d5e4-1895x934.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "2133214d-8e5a-4d89-93c5-53fca570b2b2",
+    "ToolName": "Teach Anything",
+    "ToolDescription": "Quickly find answers to questions about any topic. You have to write their questions, choose a language, and the difficulty level. After that, they will get the answer.",
+    "ToolShortDescription": "Teach you anything in seconds",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-10T00:00:00",
+    "FavCount": 69,
+    "TagsIndex": [
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "education assistant"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.teach-anything.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d04cb697333b8d8abda0c32f72709300613b1f0c-1280x911.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

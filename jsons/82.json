@@ -1,0 +1,230 @@
+[
+  {
+    "Id": "agSbpvWdegZgP7aJvWzn39",
+    "ToolName": "viable",
+    "ToolDescription": "Automate your qualitative data analysis without compromising quality.",
+    "ToolShortDescription": "Automate qualitative data analysis without sacrificing quality.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-05T00:00:00",
+    "FavCount": 54,
+    "TagsIndex": [
+      "no-code",
+      "customer-support"
+    ],
+    "ToolCategories": [
+      "low-code/no-code",
+      "customer support"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://www.askviable.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4fcbbcd519c415235d0c86c0a56047813fff30b2-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "ae343a29-0b20-4962-a931-d45e6c382679",
+    "ToolName": "Gifts Genie",
+    "ToolDescription": "Genie is an AI-powered birthday gift ideas generator.\nNo more struggling to come up with the perfect gift - just tell the generator a few things about the person and it's generate gift ideas for you.\nIt aims to take the stress out of gift-giving.",
+    "ToolShortDescription": "Genie takes the stress out of gift-giving with AI-powered birthday gift ideas.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-18T00:00:00",
+    "FavCount": 106,
+    "TagsIndex": [
+      "gift-ideas"
+    ],
+    "ToolCategories": [
+      "gift ideas"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://gen.gifts/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3ad2b80fa9b4b07810f50dad9ddc97e834de833a-1436x881.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "ade73caa-0896-4ca9-8f4c-6f307d5d4f1e",
+    "ToolName": "Pipeline AI",
+    "ToolDescription": "Serverless GPU inference for ML models\nPay-per-millisecond API to run ML in production.",
+    "ToolShortDescription": "Run ML models in production with serverless GPU inference.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium",
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-30T00:00:00",
+    "FavCount": 18,
+    "TagsIndex": [
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "developer tools"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "API",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.pipeline.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/570acd11d204a71764cb80ca4472b2a7c853584a-1715x967.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "ad338b0e-7749-40f0-9a5c-2cfa95267086",
+    "ToolName": "Vizcom",
+    "ToolDescription": "See your drawings come to life in seconds, not hours.",
+    "ToolShortDescription": "Draw & watch your creations come alive quickly!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 262,
+    "TagsIndex": [
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.vizcom.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6bdabfc62672c19ceaf54fc00a3c15e65994daf9-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "ac659aa9-403b-4764-a5f5-6e50640e4152",
+    "ToolName": "Splashmusic",
+    "ToolDescription": "Bringing the joy of music making to everyone",
+    "ToolShortDescription": "Sharing the joy of music with all.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 164,
+    "TagsIndex": [
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "text to speech"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://www.splashmusic.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fa6b21f624ac25a947c6fc7923741a547ca9d19d-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "aa693a58-26ee-4083-b3d4-3fa8665271b1",
+    "ToolName": "Playstrict",
+    "ToolDescription": "Let's make your game more successful!\nYou have a great game but don't have the marketing power to scale it up?\nTake your promotion strategy to the next level with the Playstrict Gaming Growth platform.\nAre you ready?",
+    "ToolShortDescription": "Take your game to the next level",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 26,
+    "TagsIndex": [
+      "gaming"
+    ],
+    "ToolCategories": [
+      "gaming"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://playstrict.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/bc6d097435c36bd3e80b98fc974494cbcd63d69d-1147x702.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "aa16b7f1-4a42-41bb-ac1f-871c18350022",
+    "ToolName": "Liner.ai",
+    "ToolDescription": "Liner is a free tool that lets you train your ML models easily. It takes your training data and gives you an easy-to-integrate ML model. No coding or expertise in machine learning required.",
+    "ToolShortDescription": "Free tool to train ML models easily; no coding or ML expertise required.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-03T00:00:00",
+    "FavCount": 105,
+    "TagsIndex": [
+      "developer-tools",
+      "no-code"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://liner.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dc67e1e2d2deea440a6748bba02e4f3ec30f581d-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "aa0e9593-d73c-486d-8741-00c5f8060689",
+    "ToolName": "Cradle",
+    "ToolDescription": "Cradle helps biologists design improved proteins in record time using powerful prediction algorithms and AI design suggestions.",
+    "ToolShortDescription": "Cradle uses AI to help biologists design improved proteins quickly and accurately.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 24,
+    "TagsIndex": [
+      "research-assistant",
+      "health"
+    ],
+    "ToolCategories": [
+      "research",
+      "healthcare"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://cradle.bio/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/43458f966d2a72af5443c8d732e3a2e4b7ed5407-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "a798e853-c27c-4c14-87f1-424622b41546",
+    "ToolName": "Infranodus",
+    "ToolDescription": "Generate Ideas and Insight using AI and Network Thinking.\nInfraNodus combines text analysis, network visualization, and GPT-3 AI to help you study a discourse, enhance your reading, writing, and research workflows.\n\nGet a summary overview of any text from multiple import sources, reveal the main topics and the relations between them, identify the patterns and gaps, discover the right questions to advance your thinking and research.",
+    "ToolShortDescription": "Generate ideas & insights using AI & Network Thinking with InfraNodus.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-02T00:00:00",
+    "FavCount": 36,
+    "TagsIndex": [
+      "sales-assistant"
+    ],
+    "ToolCategories": [
+      "sales"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://infranodus.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/646d5b41f289fe94ca086c025ce77840293bc039-1757x953.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

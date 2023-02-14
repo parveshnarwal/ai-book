@@ -1,0 +1,235 @@
+[
+  {
+    "Id": "f2ce3845-6649-4e4c-8e51-74843abb4aab",
+    "ToolName": "Zevi.ai",
+    "ToolDescription": "Improve business outcomes with an AI-driven search and discovery solution\nGuide your prospects from discovery to conversions with an intent-focused, easy-to-integrate website search engine that helps boost engagement and sales",
+    "ToolShortDescription": "AI-driven search engine boosts engagement & sales, guiding prospects from discovery to conversions.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium",
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-30T00:00:00",
+    "FavCount": 60,
+    "TagsIndex": [
+      "no-code",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "low-code/no-code",
+      "search engine"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.zevi.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/58936f223f696224bb0e6152cdc1b38289d6b095-1826x878.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f1bc5143-b68d-4d28-b47c-9791eec96b71",
+    "ToolName": "Letterdrop",
+    "ToolDescription": "Create 32% more content, faster, with fewer headaches. Letterdrop streamlines and automates your content operations.",
+    "ToolShortDescription": "Create 32% more content faster",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 21,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://letterdrop.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a5d21572e1fc68a69f13585f0e8ec819bf130dc1-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "f178e736-730f-4e37-9796-463d57e6c028",
+    "ToolName": "Leonardo.Ai",
+    "ToolDescription": "Creativity, Revolutionized\nGenerate production-quality assets for your creative projects with AI-driven speed and style-consistency.",
+    "ToolShortDescription": "AI-driven creative production with style-consistency.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-11T00:00:00",
+    "FavCount": 82,
+    "TagsIndex": [
+      "3D-generator",
+      "gaming"
+    ],
+    "ToolCategories": [
+      "3D",
+      "gaming"
+    ],
+    "NewFeatures": [
+      "Waitlist",
+      "Mobile App",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://leonardo.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/434313d9e6c75ffc8c8af500d7eeb9530cd28018-1811x963.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f1263b1b-ad1c-43f6-a2e1-04ab3c139911",
+    "ToolName": "Ideabuddy",
+    "ToolDescription": "Bring your business idea to life.\nAll-in-one business planning software that helps you turn your great idea into a successful business.",
+    "ToolShortDescription": "Launch your business with our easy-to-use planning software.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-30T00:00:00",
+    "FavCount": 226,
+    "TagsIndex": [
+      "startup-assistant"
+    ],
+    "ToolCategories": [
+      "startup tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://ideabuddy.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2587cbf34e28d1e1b64da958d76c012ae4554a32-1747x901.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f012e703-fd71-4911-a2e1-186776ef7684",
+    "ToolName": "Eilla AI",
+    "ToolDescription": "Eilla.ai is an AI-powered assistant that generates high-quality content for your business, blogs, ads, emails and realistic images or art. Get started for free, no credit card required!",
+    "ToolShortDescription": "AI-powered assistant generates content & images. Get started free, no credit card!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-29T00:00:00",
+    "FavCount": 61,
+    "TagsIndex": [
+      "seo-assistant",
+      "image-generator",
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "SEO",
+      "image generator",
+      "copywriting"
+    ],
+    "NewFeatures": [
+      "Browser Extension",
+      "API"
+    ],
+    "WebsiteUrl": "https://eilla.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7034df886b7a63d30605cd4a89a08f6b8778b5cb-1853x907.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "ezxVWREykHNcMuFbB3B9MM",
+    "ToolName": "AI Picasso",
+    "ToolDescription": "Create Art with Powerful AI. It generates an image from the text you enter, just as you expect using an AI called Stable Diffusion. \nAI completes the filled area. You can edit filled areas with prompts.",
+    "ToolShortDescription": "AI creates art from text; edit filled areas with prompts.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-06T00:00:00",
+    "FavCount": 58,
+    "TagsIndex": [
+      "image-editing",
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "image editing",
+      "art"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://aipicasso.studio.site/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/cf07d54a9383d02e6036e49f0ecfa282d857cf10-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "erWpM6wpLbzR51ufcFWWGU",
+    "ToolName": "PrometheanAI",
+    "ToolDescription": "Promethean AI is world's first Artificial Intelligence that works together with Artists, assists them in the process of building virtual worlds and helps creative problem solving by suggesting ideas.",
+    "ToolShortDescription": "Promethean AI helps Artists create virtual worlds and solve creative problems.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 75,
+    "TagsIndex": [
+      "3D-generator"
+    ],
+    "ToolCategories": [
+      "3D"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.prometheanai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dac61f2cd9272e60caceb127c6da12183d724f56-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "ef602afe-0445-4842-a8e6-de27e3c214f0",
+    "ToolName": "Maya",
+    "ToolDescription": "Everyone wins with AI-driven personalization:\ncustomers, banks, and merchants.",
+    "ToolShortDescription": "AI-driven personalization benefits all: customers, banks, merchants.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 17,
+    "TagsIndex": [
+      "customer-support"
+    ],
+    "ToolCategories": [
+      "customer support"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://maya.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f0ad049f318f238ddece3e9c597ac1b2878fa531-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "ef319b16-cf0b-435a-b225-d9635a6d9f2b",
+    "ToolName": "Emergent Drums",
+    "ToolDescription": "Generate unique drum samples using artificial intelligence. Use our breakthrough plugin to generate endless drum samples, all royalty-free.\n",
+    "ToolShortDescription": "Generate drum samples with AI. Use our plugin for endless, royalty-free samples.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-15T00:00:00",
+    "FavCount": 58,
+    "TagsIndex": [
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "music"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://audialab.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4c050baf73c5c35686f85d1df1a899136080d271-1178x934.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "Id": "597b89dd-9c99-4179-ba55-913b55acf191",
+    "ToolName": "EvelynAI",
+    "ToolDescription": "EvelynAI is a tool that brings the power of GPT-3, the state-of-the-art language processing AI, to Telegram. It will help you create tweets, posts, blogs, and more using text prompts.",
+    "ToolShortDescription": "Create content using GPT-3 AI on Telegram.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-20T00:00:00",
+    "FavCount": 88,
+    "TagsIndex": [
+      "life-assistant",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "No Signup Required",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://t.me/EvelynxAI?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/57eaae8476e6d32504bcab4615c12f73bab2a86c-1843x907.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "5a7d199e-c781-4626-a200-5a6db3af00c4",
+    "ToolName": "Legalese Decoder",
+    "ToolDescription": "Simplify Everyday Jargons & Legalese Instantly: Designed to take a legal document as input and output a version of the document that is written in plain language.",
+    "ToolShortDescription": "Simplify legal docs to plain language instantly.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-20T00:00:00",
+    "FavCount": 51,
+    "TagsIndex": [
+      "legal-assistant"
+    ],
+    "ToolCategories": [
+      "legal assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://legalesedecoder.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ed0307776cf7bf179974378b48148034bf18339d-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "3e0f06f9-ff73-4eba-aba4-99ab9c51a18a",
+    "ToolName": "All  Search AI",
+    "ToolDescription": "Search across the contents of 1000s of books. You can adjust the time span from where you want the results to be shown, the genres, the number of results you get as well as the speed and the quality.",
+    "ToolShortDescription": "Search 1000s of books, adjust time span, genres, results, speed & quality.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-20T00:00:00",
+    "FavCount": 182,
+    "TagsIndex": [
+      "research-assistant",
+      "education-assistant",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "research",
+      "education assistant",
+      "search engine"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.allsearch.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2de7b5046fafb4467ac7027eb87411c00ba2fcb1-1610x876.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "774a8b19-0c21-4774-a60a-18d98c1436ee",
+    "ToolName": "TweetMe",
+    "ToolDescription": "The AI Tweet writer that writes like you. Their AI is trained on your own tweets (as well as GPT-3). You need to connect to Twitter & OpenAI, Generate your tweets and then just push it straight to Twitter.\n",
+    "ToolShortDescription": "AI Tweet writer that writes like you, using your tweets & OpenAI GPT-3.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-20T00:00:00",
+    "FavCount": 30,
+    "TagsIndex": [
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://no-code-ai-model-builder.com/tweet-me?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3c3a4de1913e593d102ab795f1400f8568a5eb12-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "0be0e3ca-75b6-4825-bafe-c496e2480d9f",
+    "ToolName": "Skim It",
+    "ToolDescription": "Get an ai summary of any article delivered to your inbox. You just need to email them at go@skimit.ai and they email back a summary within ~10 minutes. They also send you drafts of shareable tweets and a LinkedIn post.",
+    "ToolShortDescription": "AI summary of any article in ~10 mins. Tweets & LinkedIn post included.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-20T00:00:00",
+    "FavCount": 82,
+    "TagsIndex": [
+      "summarizer",
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "summarizer",
+      "social media assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.skimit.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f163d56e4ee400265d0001db062e1ecbe186d9e6-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "355c788f-e832-43af-a48d-4fb84d22d947",
+    "ToolName": "Vowel AI",
+    "ToolDescription": "Automated meeting summaries. Use the power of AI to save time and keep everyone on the same page — minus the manual work. They also have additional features where you can react with emojis, send text messages or bookmark a moment.\n\n",
+    "ToolShortDescription": "Automated meeting summaries with AI, emojis, text messages & bookmarks.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-01-20T00:00:00",
+    "FavCount": 22,
+    "TagsIndex": [
+      "productivity"
+    ],
+    "ToolCategories": [
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://www.vowel.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a96998b4239d6ce9e656107fb60204368e9e28fe-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "e00cc8f5-4a2f-440c-977e-e77cbfa48cd8",
+    "ToolName": "Evoke",
+    "ToolDescription": "Evoke allows devs and businesses building AI apps to avoid expensive cloud setup by hosting AI models on the cloud that are accessible through APIs.\n\nOur stable diffusion API allows users to create AI generated images for their AI apps without cloud setup.",
+    "ToolShortDescription": "Create AI images without cloud setup",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-19T00:00:00",
+    "FavCount": 15,
+    "TagsIndex": [
+      "image-generator",
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "developer tools"
+    ],
+    "NewFeatures": [
+      "API",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://evoke-app.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ef0a0a774dc494adf172c52ef6bf142b53f16628-1872x802.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "cbdb98a5-343c-41e4-9dab-d3ce217f01cb",
+    "ToolName": "Kickresume",
+    "ToolDescription": "Kickresume is an all-in-one career toolbox that helps you create a beautiful resume or cover letter in seconds with the help of AI and customizable templates.  It’s powered by OpenAI’s GPT-3, the world’s most powerful language model, and it can automatically produce text indistinguishable from human writers. Say goodbye to writer’s block. Generate the first draft of your resume or cover letter in seconds.",
+    "ToolShortDescription": "Create a beautiful resume/cover letter in seconds",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-19T00:00:00",
+    "FavCount": 83,
+    "TagsIndex": [
+      "writing-assistant",
+      "human-resources"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "human resources"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://www.kickresume.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/410b324c6b6f186b3ec1db4c9a52c2a92fc7d242-1764x962.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "96dc431c-02bf-48c6-8f0b-0dfc91099882",
+    "ToolName": "Eightify",
+    "ToolDescription": "AI summaries for YouTube. Turn any long YouTube video into a Summary with 8 key ideas. Now you can instantly decide if the video is worth watching. Perfect for 👩‍💼business education, 🎙podcasts, 📺interviews, 📰news, and 👨🏻‍🏫lectures!",
+    "ToolShortDescription": "Summaries for YT: 8 key ideas to decide if video is worth watching.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-19T00:00:00",
+    "FavCount": 70,
+    "TagsIndex": [
+      "summarizer"
+    ],
+    "ToolCategories": [
+      "summarizer"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://www.eightify.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/168329f7fdeb93fad20d43661224a017853df7e8-1497x860.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

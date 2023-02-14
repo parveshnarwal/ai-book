@@ -1,0 +1,226 @@
+[
+  {
+    "Id": "90a432d8-5318-4116-9d65-68b0b1c129d8",
+    "ToolName": "Affable.ai",
+    "ToolDescription": "If you are currently managing Influencer Marketing campaigns manually over excel-files and DMs, Affable's end-to-end influencer marketing platform can help you streamline your entire influencer marketing process.",
+    "ToolShortDescription": "Streamline your Influencer Marketing process with Affable's end-to-end platform.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-22T00:00:00",
+    "FavCount": 29,
+    "TagsIndex": [
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.affable.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dd97feee5da8f07e3508242cfd73c4ff54ec98e7-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "68d17ea7-e9be-47d7-a00a-5e8a7e3cda84",
+    "ToolName": "Hippocratic AI",
+    "ToolDescription": "Free search tool for peer-reviewed medical knowledge. It uses statpearls as the data source. It was downloaded in accordance with the usage policy via FTP.",
+    "ToolShortDescription": "Free search tool for medical knowledge",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-22T00:00:00",
+    "FavCount": 59,
+    "TagsIndex": [
+      "health"
+    ],
+    "ToolCategories": [
+      "healthcare"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://hippocratic-medical-questions.herokuapp.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1ad229f03266dcbb25a45164471c786dcf1f6859-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "18a2d7d6-81b3-40e7-96a6-e6fa7953b41b",
+    "ToolName": "MagicSlides",
+    "ToolDescription": "Create professional presentations quickly and easily with their customizable templates. You just need to choose your title and number of slides.",
+    "ToolShortDescription": "Create professional presentations quickly with customizable templates.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-22T00:00:00",
+    "FavCount": 73,
+    "TagsIndex": [
+      "presentations"
+    ],
+    "ToolCategories": [
+      "presentations"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://www.magicslides.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/917bb57c804d921cd2a037c773fec30722fe3f6d-1200x627.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f7731b30-8348-4951-8fb6-9bf74d7661d0",
+    "ToolName": "Network AI",
+    "ToolDescription": "Grow your network at the speed of AI. Connect with industry professionals with our automated AI networking tool. ",
+    "ToolShortDescription": "Connect with industry professionals",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-22T00:00:00",
+    "FavCount": 62,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.wonsulting.com/networkai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d133654c05e911e002f956bdca6a05710dd80008-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "8575bb44-6f4f-423c-9535-4e2f1f6d0e53",
+    "ToolName": "Studio",
+    "ToolDescription": "Studio's first release is an AI-augmented design app for creating modern websites. It comes with a powerful experience unlike any other: Highlight an area you are stuck on. Marvel as design suggestions appear before your eyes. Speak to it. Watch as multi-step tasks autocomplete themselves. Press one button. Observe as your design adapts to fit all screen sizes.",
+    "ToolShortDescription": "Studio's AI-augmented design app creates modern websites with powerful, interactive features.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-01-22T00:00:00",
+    "FavCount": 115,
+    "TagsIndex": [
+      "design-assistant",
+      "no-code"
+    ],
+    "ToolCategories": [
+      "design assistant",
+      "low-code/no-code"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://studio.design?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/368d4af7e37d1022d969948effbf3d914b0a5826-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "30785322-fbb0-4a89-8e8b-1668bb450f70",
+    "ToolName": "TTSLabs",
+    "ToolDescription": "TTSLabs gives twitch streamers the ability to customize their Text to Speech donations, enable custom voices, add unique sound clips and more! All with the power of AI TTS and seamless integration with Twitch, Streamlabs and Streamelements.",
+    "ToolShortDescription": "TTS customization, custom voices, sound clips & seamless Twitch integration for streamers",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free",
+      "Freemium",
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-22T00:00:00",
+    "FavCount": 44,
+    "TagsIndex": [
+      "audio-editing",
+      "text-to-speech",
+      "gaming"
+    ],
+    "ToolCategories": [
+      "audio editing",
+      "text to speech",
+      "gaming"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://ttslabs.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1f304b45905519cfd4dc040fbce6a2e94ae108e5-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "59ccca26-ead0-4af8-a86a-22ce1409c706",
+    "ToolName": "Midjourney Splitter",
+    "ToolDescription": "Use the MJSplitter to split your Midjourney Grid into single images. You can input the image either by uploading or pasting a link.\nAfter splitting, you can download the images and save them to your computer in JPEG. You can also share your images on social networks.",
+    "ToolShortDescription": "Split Midjourney Grid into single images, download/share on social networks.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-21T00:00:00",
+    "FavCount": 61,
+    "TagsIndex": [
+      "resources",
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "resources",
+      "image editing"
+    ],
+    "NewFeatures": [
+      "Discord Community",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.mjsplitter.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2fd7134208316f2c7b6fb19ce74c8650394dfe59-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "30352acb-1b22-46a5-8728-c7fc2acb30e6",
+    "ToolName": "We Write Cards",
+    "ToolDescription": "The easiest way to create your custom message for any occasion (Birthdays, Weddings, Condolences).",
+    "ToolShortDescription": "Create custom messages for any occasion.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-21T00:00:00",
+    "FavCount": 19,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://wewritecards.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/94fbdddf21183cd44191f5a405feabed1eb6d958-1867x916.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "7045a20f-aca8-47fd-a7ce-f203f898bbd0",
+    "ToolName": "Promptable",
+    "ToolDescription": "Streamline your GPT-3 prompt engineering workflow with Promptable's advanced tools and features. You can also organize your prompts, track changes, evaluate and deploy your prompts. There is also a community associated with it.",
+    "ToolShortDescription": "Streamline GPT-3 prompt engineering, track changes, evaluate & deploy",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-21T00:00:00",
+    "FavCount": 59,
+    "TagsIndex": [
+      "prompts-assistant"
+    ],
+    "ToolCategories": [
+      "prompts"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://promptable.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dfe6a991e574b42816f19381f62a54d3923fefaa-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

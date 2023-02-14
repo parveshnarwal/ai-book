@@ -1,0 +1,224 @@
+[
+  {
+    "Id": "0d8fbf1f-d69f-49dc-8d84-37d1397355cf",
+    "ToolName": "Poly ai",
+    "ToolDescription": "Superhuman Voice Assistants. Answer every call immediately, 24/7. No agents needed.",
+    "ToolShortDescription": "24/7 automated voice assistance, no agents needed.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 97,
+    "TagsIndex": [
+      "customer-support"
+    ],
+    "ToolCategories": [
+      "customer support"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://poly.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/af069a3f4e9a40e72caa5280609d66cd1c060937-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "0d7b077e-3702-4adc-b577-4aa19f01b0dc",
+    "ToolName": "DreamPic.AI",
+    "ToolDescription": "AI-Generated Pictures Starring You\nCreate AI-generated avatars, user pics, and profile pictures for you and your friends. Upload your photos and let AI do the job. Powered by Stable Diffusion and DreamBooth.",
+    "ToolShortDescription": "Create AI-generated avatars with your photos using DreamBooth.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-29T00:00:00",
+    "FavCount": 26,
+    "TagsIndex": [
+      "avatar-generator"
+    ],
+    "ToolCategories": [
+      "avatars"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://dreampic.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/de72fe97c67adad618e2b3e231ee2b5ad2455cb8-1768x959.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "0d256a22-9d2f-4db1-8812-c278bd4038f1",
+    "ToolName": "Pitchgrade",
+    "ToolDescription": "Get instant feedback on your pitch deck, so fundraising becomes the least of your concerns.",
+    "ToolShortDescription": "Get feedback on your pitch deck to ease fundraising worries.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-07T00:00:00",
+    "FavCount": 55,
+    "TagsIndex": [
+      "finance",
+      "startup-assistant"
+    ],
+    "ToolCategories": [
+      "finance",
+      "startup tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://pitchgrade.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2b0ec5afe0ad4c479fc605093fa544300f17a76c-1798x969.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "0c06391f-94ca-4cf8-8c18-7f4d9844060f",
+    "ToolName": "InstaSalesAI",
+    "ToolDescription": "InstaSalesAI is a collection of AI tools for Instagram marketing. You can use it to generate carousel content or marketing hooks.",
+    "ToolShortDescription": "AI tools for Instagram marketing & carousel content creation.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 165,
+    "TagsIndex": [
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://instasalesai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2181f0dea30a3bab251e21d12c9ee3a3d87eafb1-1852x931.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "0b418a46-3eeb-4a06-9348-72a15acd84f0",
+    "ToolName": "Quizgecko",
+    "ToolDescription": "AI-Powered Quiz Question Generator. Make your own quiz using artificial intelligence. Perfect for teachers, e-learning and HR professionals. Or just generate unique trivia questions and answers for fun!\n\nSimple paste text, enter a URL, or upload a file and hit generate. Pick from multiple choice, short answer, or true/false questions.",
+    "ToolShortDescription": "AI-powered quiz generator to make unique trivia questions & answers.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-30T00:00:00",
+    "FavCount": 100,
+    "TagsIndex": [
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "education assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://quizgecko.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8ffe14763d5bd16495e347bbeb384ef0275099ba-1043x943.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "0b205167-0d12-4c68-91d3-ac56ab8d98ce",
+    "ToolName": "Hey, GitHub!",
+    "ToolDescription": "This tool hleps you write code without touching the keyboard. It uses your voice to code without typing by talking with GitHub copilot.",
+    "ToolShortDescription": "Voice-to-code tool helps you code without typing, using GitHub Copilot.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-30T00:00:00",
+    "FavCount": 74,
+    "TagsIndex": [
+      "code-assistant"
+    ],
+    "ToolCategories": [
+      "code assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://githubnext.com/projects/hey-github?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d58e2b45366079f51a23cd7d87d4feddf6cd5000-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "0b178357-6100-43ea-b2f0-f985919e6e67",
+    "ToolName": "CSM",
+    "ToolDescription": "Common Sense Machines provides APIs, interfaces, and open source software to translate multi-modal inputs and experiences into a digital simulator for AI training and content creation. We believe that learning generative world models is a systematic path towards achieving AGI, similar to how a child learns about its world from experience.",
+    "ToolShortDescription": "Translating multi-modal inputs to digital simulators for AI training & AGI.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 30,
+    "TagsIndex": [
+      "developer-tools",
+      "3D-generator"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "3D"
+    ],
+    "NewFeatures": [
+      "Waitlist",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://csm.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9258f24fc1541e22f67b516d369fc786ada82665-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "08c9eecd-655e-4c8b-96d2-691753951a59",
+    "ToolName": "Scenario",
+    "ToolDescription": "AI-generated game assets. Create high-quality, style-consistent, proprietary assets for your games.",
+    "ToolShortDescription": "AI-generated game assets for high-quality, style-consistent games.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-22T00:00:00",
+    "FavCount": 101,
+    "TagsIndex": [
+      "3D-generator",
+      "gaming"
+    ],
+    "ToolCategories": [
+      "3D",
+      "gaming"
+    ],
+    "NewFeatures": [
+      "Waitlist",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.scenario.gg/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/21ecf5bf8b0fccd8d9cfdc2f6d65365e9b25a709-3647x1739.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "08c34699-5b8d-4006-a6d2-e54bfd0b131a",
+    "ToolName": "HireYaY",
+    "ToolDescription": "Never Miss a Qualified Candidate Again.\nCreate engaging job ads with AI. Distribute to millions of job seekers in one click",
+    "ToolShortDescription": "AI-powered job ads reach millions of job seekers quickly and easily.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid",
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-26T00:00:00",
+    "FavCount": 39,
+    "TagsIndex": [
+      "human-resources"
+    ],
+    "ToolCategories": [
+      "human resources"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://hireyay.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9918f20544e1ef41e6f76abc6d066ac8b1b5da28-1813x864.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

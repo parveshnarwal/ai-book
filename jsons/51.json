@@ -1,0 +1,221 @@
+[
+  {
+    "Id": "849f98be-8ce2-4961-b321-a4664531ad2b",
+    "ToolName": "Pickaxe",
+    "ToolDescription": "Pickaxe allows anyone to create tools powered by AI, in minutes, no code required. You can discover AI tools made by the pickaxe community, make your own AI tool and share it and collaborate with the community.",
+    "ToolShortDescription": "Create AI tools in minutes, no code required and share with community.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-21T00:00:00",
+    "FavCount": 74,
+    "TagsIndex": [
+      "resources",
+      "no-code"
+    ],
+    "ToolCategories": [
+      "resources",
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://beta.pickaxeproject.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fd0d7af44888d030c837d7cc5ec5a33a4836f284-1757x892.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c811467e-f31b-4e1b-b9e0-beae9d6aa613",
+    "ToolName": "Pheeds Prompt Silo",
+    "ToolDescription": "Massive collection of prompts and tools for AI art and ChatGPT for easy prompt crafting.",
+    "ToolShortDescription": "AI art & ChatGPT prompts & tools for easy prompt crafting.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-21T00:00:00",
+    "FavCount": 76,
+    "TagsIndex": [
+      "prompts-assistant"
+    ],
+    "ToolCategories": [
+      "prompts"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://pheeds.com/PromptSilo.php?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/770405f1a0fb1145a951236a197cda9fd3c1f2f8-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "87ed6036-c623-4e8a-846c-35d0c64f184b",
+    "ToolName": "Clips AI",
+    "ToolDescription": "Clips AI automatically creates social media clips from long-form videos like podcasts, webinars, and vlogs. This allows content marketing teams to save time and easily increases metrics on socials.",
+    "ToolShortDescription": "Create social media clips from long-form videos, saving time & increasing metrics.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-21T00:00:00",
+    "FavCount": 67,
+    "TagsIndex": [
+      "video-editing",
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "video editing",
+      "social media assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://www.clipsai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2bbf9f9d2a54eae4563df372875b1e6b14cc6bb0-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "adffe5e2-3843-4e1f-aee6-5f53dd88107e",
+    "ToolName": "Valideo",
+    "ToolDescription": "Get the best Amazon Product review with ChatGPT. It has a user-friendly interface, saves hours of your time, and is cost-effective. ",
+    "ToolShortDescription": "Get the best Amazon reviews with ChatGPT",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-21T00:00:00",
+    "FavCount": 33,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.valideo.xyz/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/452da0d6a2c15bc3d72016b482f60e8f308631bc-1826x895.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "341bad0f-1012-4d77-9352-072ae42bcfd1",
+    "ToolName": "AI Pet Avatar",
+    "ToolDescription": "The AI avatar generator for your pet. Get 9 AI generated images, works with any pet and no account required!",
+    "ToolShortDescription": "AI pet avatar generator: 9 images, any pet, no account needed!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-21T00:00:00",
+    "FavCount": 14,
+    "TagsIndex": [
+      "avatar-generator"
+    ],
+    "ToolCategories": [
+      "avatars"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://aipetavatar.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/491c9a3ab7df61eb822833df1b7e7188d3a9067f-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "e39fa900-ec00-404c-8c65-e65d57f9dd9a",
+    "ToolName": "B12.io",
+    "ToolDescription": "B12 is an AI-powered website builder that helps professional service providers create a professional website, streamline business operations, and improve client engagement. It offers a team of experts and an industry-specific website draft generated by AI technology.\n",
+    "ToolShortDescription": "Website builder to create professional websites and streamline operations",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-20T00:00:00",
+    "FavCount": 30,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://b12.io?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9429008db98c2936850d4c86e302ba553135230e-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "af62b475-0e5e-458f-8f1c-6f702bb56274",
+    "ToolName": "Gen Z Translator",
+    "ToolDescription": "A fun AI project that converts any given text to Gen Z slang. The tool would be able to identify words and phrases in the original text and then replace them with their corresponding slang words or phrases. Translated 2000+ sentences into tweets or something, idk.",
+    "ToolShortDescription": "AI project translating text to Gen Z slang, 2000+ sentences converted to tweets.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-20T00:00:00",
+    "FavCount": 66,
+    "TagsIndex": [
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://genztranslator.net/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/01c0fb46b487ebe290f4213185ff336c2eac8780-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "f0561b3c-45bc-491a-a9aa-43ebc70eb149",
+    "ToolName": "Vieutopia",
+    "ToolDescription": "Tested with thousands of different images and text combinations, this app allows you to transform your wildest ideas into creative works of art with no subscription costs or usage limitations.  ",
+    "ToolShortDescription": "Create art from ideas with no cost or limits using this app.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-20T00:00:00",
+    "FavCount": 72,
+    "TagsIndex": [
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "art"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://apps.apple.com/gb/app/vieutopia/id1660264569?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/25afcc02426041546c64d3e227c4e1515e3f43fc-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "18e0d3c1-a39c-480f-96ce-a36271d47316",
+    "ToolName": "TextCortex AI",
+    "ToolDescription": "Hyper charge your writing wherever you need it in your browser. Write better, faster, from everywhere with TextCortex. Available in 25+ languages.\n\nTextCortex is an AI companion that is designed to understand you and your writing needs: it actively presents options on how to make your content more authentic, and assists you in your creative process, from start to finish, like never before.",
+    "ToolShortDescription": "AI companion to help you write better, faster, from anywhere in 25+ languages.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-20T00:00:00",
+    "FavCount": 30,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://textcortex.com/",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/12ac1c9088aaf990124d09dad96bba1326b0b8ed-1672x765.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

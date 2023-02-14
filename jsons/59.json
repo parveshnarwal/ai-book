@@ -1,0 +1,230 @@
+[
+  {
+    "Id": "a32b9c0c-5d9e-4145-bdf6-4da1ec327ed0",
+    "ToolName": "Lunit",
+    "ToolDescription": "Lunit is a public company that develops medical AI software that helps conquer cancer. With cancer, survival is often determined by how early it is caught, and Lunit’s cancer screening AI helps doctors to detect it earlier. Lunit INSIGHT can detect abnormal radiological results with up to 97-99% accuracy on chest x-rays. Many of these abnormalities are invisible to the human eye and would be missed by doctors without Lunit’s help.\n\nLunit SCOPE uses AI to predict treatment responses to help doctors make well-informed decisions about how to treat a patient.",
+    "ToolShortDescription": "Medical AI software to detect cancer earlier & predict treatment responses",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-13T00:00:00",
+    "FavCount": 19,
+    "TagsIndex": [
+      "health"
+    ],
+    "ToolCategories": [
+      "healthcare"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.lunit.io/en?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d5b5a8d6234bec122723c643e07e8bc041492bba-1814x899.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "03ddae93-c641-4ace-984d-1daaa84aeb90",
+    "ToolName": "Shaped",
+    "ToolDescription": "With Shaped, you can build powerful ranking models that understand the content your users are most likely to engage with or buy. You can use this understanding to create personalized discovery pages, feeds, recommendations and marketing communication that your users will love.",
+    "ToolShortDescription": "Create personalized experiences with Shaped's powerful ranking models.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-13T00:00:00",
+    "FavCount": 32,
+    "TagsIndex": [
+      "developer-tools",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "search engine"
+    ],
+    "NewFeatures": [
+      "Waitlist",
+      "API"
+    ],
+    "WebsiteUrl": "https://www.shaped.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/adb4714c5b9fec4578e41a206b3d6271b9f93bda-1765x945.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "85da5b3b-475b-49d2-845a-d8d81929d8c1",
+    "ToolName": "SEO GPT",
+    "ToolDescription": " SEO GPT is a new way to create your SEO on-page and off-page optimizations. Some features include Google-friendly titles and descriptions, pass AI detection, natural language content and analysis of page content.",
+    "ToolShortDescription": "SEO GPT creates on-page/off-page optimizations",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-13T00:00:00",
+    "FavCount": 219,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://seovendor.co/seo-gpt/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6a91d36f50c7b34dc44d14e8a014e9d08ff75c48-1445x952.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "87e45f26-fae9-4164-b2f1-454b447af410",
+    "ToolName": "Befunky",
+    "ToolDescription": "BeFunky Photo Editor lets you apply photo effects, edit photos and create photo collages with collage maker. It has features like cropping, resizing, batch editing, background removal, retouch portraits, one click collage maker, several design templates, millions of stock images and thousands of vector graphics and icons.",
+    "ToolShortDescription": "Edit, collage, effects, cropping, retouch, templates, stock images, vector graphics.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-13T00:00:00",
+    "FavCount": 48,
+    "TagsIndex": [
+      "image-editing",
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "image editing",
+      "design assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.befunky.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8b7eab1e9035a2917f1ec99cb8446cc495fd009b-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "7952cf82-55b4-4b87-b846-445728b602f7",
+    "ToolName": "Bright Eye",
+    "ToolDescription": "Bright Eye is a multipurpose AI app that has multiple tools to satisfy your your interests in AI as a mobile user. Among its tools are art/image generation, code generation, essay and poem generation, and  text extraction and image captioning.\n",
+    "ToolShortDescription": "Multipurpose AI app with tools for generating content and code",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-13T00:00:00",
+    "FavCount": 82,
+    "TagsIndex": [
+      "image-generator",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://apps.apple.com/us/app/bright-eye/id1593932475?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/18e15d3768d1d50a572df6374409331f98e03bea-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "c40a7114-3af5-4001-baf1-4f6faa7d2a92",
+    "ToolName": "BlueWillow",
+    "ToolDescription": "A text to image AI tool that is ran on discord, it is similar to Midjourney. The AI generates crisp quality photos after receiving prompts from users.",
+    "ToolShortDescription": "AI tool on Discord that generates photos from user prompts, similar to Midjourney.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-13T00:00:00",
+    "FavCount": 134,
+    "TagsIndex": [
+      "image-generator"
+    ],
+    "ToolCategories": [
+      "image generator"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.bluewillow.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fb42ad39e395aba74dbb4fc2bb402045a33115aa-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "2fee10bd-becd-4a37-b5bf-b73ec06c6058",
+    "ToolName": "Booth AI",
+    "ToolDescription": "Fast, inexpensive, high-quality images produced via AI with no physical samples required. Easily generate professional-grade product photos by uploading an image of your own product and creating your desired outcome by writing a simple prompt.",
+    "ToolShortDescription": "AI-generated product photos: fast, cheap, high-quality, no samples needed.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-13T00:00:00",
+    "FavCount": 54,
+    "TagsIndex": [
+      "image-generator",
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "design assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://booth.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/255420538484d1af960a1df6bd1c555e363e70aa-1793x932.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c7ae173b-a326-4fe8-822c-a55006e762a8",
+    "ToolName": "Corrector App",
+    "ToolDescription": "Check your text with this online spell checker. Any mistakes you have made or grammar suggestions for altering the writing to flow better will be highlighted. Just click on any of the corrections to transform them into something different. They will also explain the grammar mistakes so that you understand where you have gone wrong.\n\n",
+    "ToolShortDescription": "Check text with online spell checker",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-12T00:00:00",
+    "FavCount": 107,
+    "TagsIndex": [
+      "writing-assistant"
+    ],
+    "ToolCategories": [
+      "general writing"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://corrector.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e92d940bb744416c4d049a3a6021f86f2b710613-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "69abd52c-2337-442f-bd94-f9e44cdb98d6",
+    "ToolName": "Upcat",
+    "ToolDescription": "UpCat is a browser extension that can help Upwork users write A.I-generated cover letters for job applications. \nUse it to enhance your job search on Upwork with personalized proposals and real-time alerts.",
+    "ToolShortDescription": "A.I-generated cover letters & personalized proposals for Upwork job searches.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-12T00:00:00",
+    "FavCount": 45,
+    "TagsIndex": [
+      "writing-assistant",
+      "human-resources"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "human resources"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://upcat.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/87150466dfd7c7947fbd6ad8fbd8af1d7c030a13-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

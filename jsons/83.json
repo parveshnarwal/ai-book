@@ -1,0 +1,235 @@
+[
+  {
+    "Id": "a77ed562-89cd-4878-b575-8693aa0fe433",
+    "ToolName": "Bearly",
+    "ToolDescription": "A very useful AI tool for researchers - It can be used to create a summary, an outline or reword articles. \n",
+    "ToolShortDescription": "Create summaries, outlines, & reword for research articles",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-24T00:00:00",
+    "FavCount": 209,
+    "TagsIndex": [
+      "paraphraser",
+      "summarizer"
+    ],
+    "ToolCategories": [
+      "paraphraser",
+      "summarizer"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://bearly.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c339d9e2d7a592233da4019874ac5d3ad0000dd6-1325x906.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "a6e4a7d7-05e2-4a08-853a-80da979d119b",
+    "ToolName": "Topaz Photo AI",
+    "ToolDescription": "Maximize your image quality, on autopilot. Sharpen, remove noise, and increase the resolution of your photos with tomorrow's technology. Topaz Photo Al supercharges your image quality so you can focus on the creative part of photography.",
+    "ToolShortDescription": "Supercharge your image quality - remove noise, and increase resolution.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 62,
+    "TagsIndex": [
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "image editing"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.topazlabs.com/topaz-photo-ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c2eeb76b9115669d7c8e2a6e6a0c13ba3b368005-3225x1424.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "a5476d3d-b3e5-4b4c-bbc2-0d2657de681c",
+    "ToolName": "Ortto",
+    "ToolDescription": "Ortto AI helps you write high performing email subject lines, engaging SMS and email content from just an outline. It’s intelligence that drives results.",
+    "ToolShortDescription": "Ortto AI creates high-performing emails, SMS, and content",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 38,
+    "TagsIndex": [
+      "sales-assistant",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "sales",
+      "email assistant"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://ortto.com/artificial-intelligence-marketing/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/47954dab0400182ceb2569f7bf9d08f55dd49140-1665x945.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "a476a8e0-13ff-421a-9a89-2dbf2cab597d",
+    "ToolName": "Colossyan",
+    "ToolDescription": "Colossyan Creator makes video creation simple and stress-free. Discover our AI video creator with real actors. Create videos in less than 5 minutes. Start for free here.",
+    "ToolShortDescription": "Create videos with real actors in 5 min.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 51,
+    "TagsIndex": [
+      "video-generator",
+      "personalized-videos"
+    ],
+    "ToolCategories": [
+      "video generator",
+      "personalized videos"
+    ],
+    "NewFeatures": [
+      "Browser Extension",
+      "API"
+    ],
+    "WebsiteUrl": "https://www.colossyan.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a45c3fc430f67d59de94683b807249ddd55ced6c-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "a4321835-d37b-4153-a57b-78e2aa3feda2",
+    "ToolName": "Soreal.AI Studio",
+    "ToolDescription": "The easiest way to get started with AI image generation",
+    "ToolShortDescription": "Start AI image generation quickly and easily.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial",
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-28T00:00:00",
+    "FavCount": 25,
+    "TagsIndex": [
+      "image-generator"
+    ],
+    "ToolCategories": [
+      "image generator"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.soreal.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/84d72dc06ab2a5c2182df7a4eaee3561d3ead0e4-1421x790.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "a3f40050-0840-4c7e-a1a3-bc10eae0aa09",
+    "ToolName": "Anyword",
+    "ToolDescription": "Anyword’s AI writing assistant generates effective copy for anyone. Take the guesswork out of your marketing text with an AI copywriting tool that converts.",
+    "ToolShortDescription": "Take guesswork out of marketing text, converts for effective copy.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 21,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [
+      "API",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://anyword.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/726370305762437203839632b8b21e0e64540274-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "a38d1e72-ad1a-4313-9fef-e1764512b582",
+    "ToolName": "Img2prompt",
+    "ToolDescription": "Get an approximate text prompt, with style, matching an image. (Optimized for stable-diffusion (clip ViT-L/14))",
+    "ToolShortDescription": "Generate text prompt for image, optimized for stable-diffusion (ViT-L/14).",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-23T00:00:00",
+    "FavCount": 60,
+    "TagsIndex": [
+      "prompts-assistant"
+    ],
+    "ToolCategories": [
+      "prompts"
+    ],
+    "NewFeatures": [
+      "API",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://replicate.com/methexis-inc/img2prompt?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/65cee8cceaef0ecfcae50eb6d3aac54c81e2f575-1822x946.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "a2dc6fa5-dacb-4a11-b03f-0d8a34b51983",
+    "ToolName": "Fig AI",
+    "ToolDescription": "A seamless add-on to your existing terminal, Fig integrates with the most popular terminals, shells & IDEs.",
+    "ToolShortDescription": "Seamless terminal add-on for shells, IDEs & popular terminals.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 27,
+    "TagsIndex": [
+      "code-assistant"
+    ],
+    "ToolCategories": [
+      "code assistant"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://fig.io/user-manual/ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ffd76075a2624add0e1dc960cead4dc9df590062-3329x1709.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "a23a8e33-6497-4f84-9fbf-8078eacf9d20",
+    "ToolName": "Creatext",
+    "ToolDescription": "Creatext assists you in researching your prospects and writing hyper-personalized emails & LinkedIn messages in no time.",
+    "ToolShortDescription": "Creatext helps you research & write personalized emails & LinkedIn messages quickly.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 57,
+    "TagsIndex": [
+      "sales-assistant",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "sales",
+      "email assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://www.creatext.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ba9372bc8f96394126451ebf6219bb94ce06cca4-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "Id": "71783932-1b26-446b-8a50-4216000b1223",
+    "ToolName": "Magic Type AI",
+    "ToolDescription": "Magic Type AI writes greetings, poetry, and even rap lyrics! Make a few simple selections and receive personalized writing, especially for you.",
+    "ToolShortDescription": "Write greetings, poetry and rap lyrics using AI.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-27T00:00:00",
+    "FavCount": 285,
+    "TagsIndex": [
+      "gift-ideas",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "gift ideas",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.magictype.ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/34207de2eafc359148e6574c738be9ce6ab81e37-1577x950.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "a835811b-be8a-44c6-92c2-8b7a0b23596b",
+    "ToolName": "AI Reality",
+    "ToolDescription": "AI Reality is a platform that enables you to generate simple augmented reality prototypes using text from AI. We use the power of Stable Diffusion and Open AI to generate an AR experience in a few seconds. Their mission is to massify the use and learning of Augmented Reality through a friendly process thanks to AI. \n",
+    "ToolShortDescription": "Generates AR prototypes from text.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-26T00:00:00",
+    "FavCount": 57,
+    "TagsIndex": [
+      "code-assistant",
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "code assistant",
+      "developer tools"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://aireality.tech/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1e8a3b3f3458f82474df060d5efe242c32fa0246-1867x937.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f545ff54-d410-4536-8e06-856996775c62",
+    "ToolName": "Present AI",
+    "ToolDescription": "Create amazing presentations quickly with AI. Offers a variety of visuals to choose from, including Low Poly, Cyberpunk, Surrealism, Anime, Realism, Memphis Design, Fantasy, and Cartoon. Also allows users to enter their own text to create presentations. ",
+    "ToolShortDescription": "AI presentation maker that offers a variety of visuals.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-25T00:00:00",
+    "FavCount": 69,
+    "TagsIndex": [
+      "presentations"
+    ],
+    "ToolCategories": [
+      "presentations"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://present.yaara.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/511aba8c674aa7c56f6e3b229bdb6c1dcfc5f961-1876x887.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "06b4d003-a2fa-4830-a37a-81bef976a915",
+    "ToolName": "MeetGeek",
+    "ToolDescription": "Meetgeek helps maximize the value of meetings by automatically recording, summarizing, and sharing key highlights with teams. It offers real-time transcription and closed-captioning during meetings, recordings, transcripts, keyword searches, tailored tips, and AI-based notes. Integrations are available with Google Calendar, Microsoft Outlook, Zoom, Microsoft Teams, task management platforms, document repositories, and collaboration tools. There is support for multiple languages and it can send meeting summaries directly to users’ inboxes.",
+    "ToolShortDescription": "Maximize the value of meetings by automatically recording and summarizing it",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-25T00:00:00",
+    "FavCount": 255,
+    "TagsIndex": [
+      "productivity"
+    ],
+    "ToolCategories": [
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://meetgeek.grsm.io/h3c09ouw0l03?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0adb4d1fdb5cf70f8cf82327c8f8e997fbdf1eec-1807x857.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "28a26386-d285-4bf7-bc56-625f092b8ce2",
+    "ToolName": "WatchNow",
+    "ToolDescription": "Get personalized movie and show recommendations. Enter the titles of movies or shows you have watched and enjoyed to get better recommendations",
+    "ToolShortDescription": "Movie and Show Recommendations by AI",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-25T00:00:00",
+    "FavCount": 323,
+    "TagsIndex": [
+      "life-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.watchnowai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6feb83f41b5513317672ac3b2c9f125a64a4066a-1510x690.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "2a4d374b-8464-4620-839c-cf4b6408bbac",
+    "ToolName": "Soofy",
+    "ToolDescription": "Soofy is an AI language-learning app that offers an innovative approach to mastering a new language. With a focus on practice and real-life scenarios, Soofy provides users with features to improve pronunciation, writing, and conversation skills. From writing essays and describing images to making debates and role-playing scenarios with an AI, Soofy offers a wide range of language options and engaging features to help you practice and improve your language skills.",
+    "ToolShortDescription": "AI language-learning app with a focus on practice and real-life scenarios.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-24T00:00:00",
+    "FavCount": 163,
+    "TagsIndex": [
+      "life-assistant",
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "education assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://soofy.io/index/ref?&r=1674589108949x536014008447273100",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9b3aea9b50c4e0dc5321257364cc66ddfa07ed2d-1831x927.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d231f79d-e415-4644-bb79-38a34326d624",
+    "ToolName": "Octane AI",
+    "ToolDescription": "Octane AI’s all-in-one product quiz and zero-party data platform is the #1 way for Shopify brands to increase revenue through personalization.",
+    "ToolShortDescription": "Create engaging experiences, collect customer insights, and personalize the shopping journey.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-24T00:00:00",
+    "FavCount": 48,
+    "TagsIndex": [
+      "e-commerce",
+      "sales-assistant"
+    ],
+    "ToolCategories": [
+      "e-commerce",
+      "sales"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://octaneai.grsm.io/krmx3qtiq2ku?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f87479fc19da890328bdc4700be14715181db4f4-1832x877.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "2c33cc6a-d12e-46f0-adc5-9487a534cf73",
+    "ToolName": "Ordinary People Prompts",
+    "ToolDescription": "Designed to escape the ChatGPT Paradox of Choice. With Ordinary People Prompts, everyone can make use of Conversational Artificial Intelligence. Learn, get inspired by others, create, vote and comment your favorite AI prompts for ordinary people.",
+    "ToolShortDescription": "Create, vote and comment your favorite AI prompts.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-24T00:00:00",
+    "FavCount": 226,
+    "TagsIndex": [
+      "prompts-assistant"
+    ],
+    "ToolCategories": [
+      "prompts"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.ordinarypeopleprompts.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fe12125bf41c81109896a77a7aadb58ffbf03923-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "4ce5ef58-5e31-4527-b2b3-8c47c714fe95",
+    "ToolName": "ChefGPT",
+    "ToolDescription": "ChefGPT.xyz provides AI-powered recipe recommendations based on the ingredients that are available. You can select the ingredients you have, the kitchen tools you have, how much time is available to you, your level of cooking skills and different \"Chef Modes\" such as Gourmet Mode and All-In Mode, which allow users to customize their recipes. ",
+    "ToolShortDescription": "AI-powered recipe recommendations based on various inputs.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-24T00:00:00",
+    "FavCount": 404,
+    "TagsIndex": [
+      "life-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.chefgpt.xyz/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/83d9837a5b04b499b91708f0005903909cf9d995-1018x926.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

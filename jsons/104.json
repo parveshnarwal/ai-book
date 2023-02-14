@@ -1,0 +1,217 @@
+[
+  {
+    "Id": "22769bc6-1569-4edd-9a0e-343b86102ed9",
+    "ToolName": "Dust",
+    "ToolDescription": "Design and Deploy Large Language Model Apps.\nPrompt engineering, re-imagined🔥\nBuilt on years of experience working with large language models.\nWith one goal, help accelerate their deployment.",
+    "ToolShortDescription": "Engineer & deploy large language models faster & smarter.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-15T00:00:00",
+    "FavCount": 119,
+    "TagsIndex": [
+      "developer-tools",
+      "no-code"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://dust.tt/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/aa719e876f9f49427b6382e6a4de272c5dd6428d-1628x972.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "21cf695b-6369-4ae0-8447-ffd2a7c7c27d",
+    "ToolName": "Bertha.ai",
+    "ToolDescription": "The best value AI Copywriting assistant there is - Fact! Get 5,000 Words free forever. Bertha AI - the copywriting assistant for WordPress and beyond.",
+    "ToolShortDescription": "Get 5,000 Words free forever with Bertha AI.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 88,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://bertha.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d35fcf1c6225fac03c8ad7a6c553669f8baecdf1-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "218863e3-293b-4d55-bf9b-805e59255e34",
+    "ToolName": "Beb.ai",
+    "ToolDescription": "Beb.ai  allows you to generate avatars of yourself, animals, or famous characters. Receive endless creative content for your brand. ",
+    "ToolShortDescription": "Create avatars & content for your brand with Beb.ai!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-22T00:00:00",
+    "FavCount": 30,
+    "TagsIndex": [
+      "avatar-generator"
+    ],
+    "ToolCategories": [
+      "avatars"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://beb.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/71c6fdf32c2c0d37d101dd2c0982eb925f4f2713-1829x879.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "1ecd291b-04cc-4f51-9b69-229de06f467b",
+    "ToolName": "ML news",
+    "ToolDescription": "Website that aggregates news related to AI and ML in Japanese.",
+    "ToolShortDescription": "Website for AI/ML news in Japanese.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-11T00:00:00",
+    "FavCount": 19,
+    "TagsIndex": [
+      "resources"
+    ],
+    "ToolCategories": [
+      "resources"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.machine-learning.news/list/general?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7d2a39b143625963dfbc74e76a222855d8d3432a-1774x966.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "1d28f09b-8367-4895-9436-3b0f352e5b8a",
+    "ToolName": "Plask",
+    "ToolDescription": "AI-powered Mocap Animation Tool",
+    "ToolShortDescription": "AI-powered motion capture animation tool for realistic animation.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-10T00:00:00",
+    "FavCount": 55,
+    "TagsIndex": [
+      "3D-generator"
+    ],
+    "ToolCategories": [
+      "3D"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://plask.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3ac6838f6f9aade82a461d4e65bd31cc56521d9d-1871x947.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "1b6558f6-a0c9-4c65-808c-60597e6a071a",
+    "ToolName": "Clickable",
+    "ToolDescription": "Beautiful, brand-consistent, and highly converting ads for all marketing channels. No design experience needed.",
+    "ToolShortDescription": "Create stunning ads with no design experience.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 134,
+    "TagsIndex": [
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://www.clickable.so/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7742de06fafcd1e62e3d5088d824e376c9ebaae0-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "1b53baf9-bec7-44f7-9a39-f33890ea06fa",
+    "ToolName": "WhatTheDiff",
+    "ToolDescription": "Your AI-powered code review assistant.\nSave costly developer time by automating pull request summaries. Open a pull request and get a summary of the changes in seconds. Instantly understand the implications of small pull requests and get a huge headstart on big ones.",
+    "ToolShortDescription": "Code review assistant saves time & provides pull request summaries.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 36,
+    "TagsIndex": [
+      "code-assistant"
+    ],
+    "ToolCategories": [
+      "code assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://whatthediff.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2e020e394abc53119407bd7e8c0c8f8e782cdb5c-1665x945.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "1acb54b3-d022-4d77-94c4-81d00dd1a7a0",
+    "ToolName": "FeedHive",
+    "ToolDescription": "Create, schedule, publish and easily manage your social media content at scale with FeedHive's AI-powered platform. Drag and drop scheduling, automatic generating hashtags and most active timing and superb analytics.",
+    "ToolShortDescription": "Manage social media content at scale with FeedHive's AI-powered platform.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-31T00:00:00",
+    "FavCount": 85,
+    "TagsIndex": [
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.feedhive.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d3d2e65db1a0b8bfdf85c501a6ca4f631c0206a8-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "1ab21017-5b8f-4dd0-8bb6-8978fd8cd211",
+    "ToolName": "SmartScribe",
+    "ToolDescription": "Writing Just Got Easier...\nSmartScribe helps solve the complexities of reading and writing through the use of Artificial Intelligence.",
+    "ToolShortDescription": "SmartScribe uses AI to make reading and writing easier.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-10T00:00:00",
+    "FavCount": 31,
+    "TagsIndex": [
+      "writing-assistant"
+    ],
+    "ToolCategories": [
+      "general writing"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.smartscribe.app/",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/699e71e663dc3a2680b3c79411a4dfdd8e9e50b2-1868x976.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

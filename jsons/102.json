@@ -1,0 +1,221 @@
+[
+  {
+    "Id": "2okZddiK6ptiNBcPgagyec",
+    "ToolName": "VWO",
+    "ToolDescription": "Turn your visitors into paying customers. Set up your first experiment right away.",
+    "ToolShortDescription": "Convert visitors to customers: start experimenting now.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-05T00:00:00",
+    "FavCount": 44,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://vwo.com/testing//?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c5811693289b6033a9786c19fedf8fd2b404e614-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "2f75f289-3fad-4db1-8b28-33c97330250e",
+    "ToolName": "Fabled",
+    "ToolDescription": "The Ultimate AI Story Generator.\nStories created by you, powered by AI.\nWith a single sentence fabled.ai crafts personal illustrated stories, enriched by stunning images.\nTry for free!",
+    "ToolShortDescription": "Create stories with AI, illustrated & enriched with images.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-12-02T00:00:00",
+    "FavCount": 139,
+    "TagsIndex": [
+      "storyteller"
+    ],
+    "ToolCategories": [
+      "story teller"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://fabled.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ea93b0963ba28b2b2880b68caa80c3258657be53-1838x967.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "2efe97a2-827d-4609-99f5-61c5629c5e21",
+    "ToolName": "Neon AI",
+    "ToolDescription": "Create state-of-the-art voice applications with Neon AI's enabling technologies.  The Neon AI SDK integrates advanced AI and Natural Language Understanding into a cohesive software engineering platform. Think Amazon Alexa, Google Home, Apple Siri and Microsoft Cortana - with free open source software. \nThey also have an AI OS for Mycroft Mark II listed on their website. \n",
+    "ToolShortDescription": "Create voice apps: Alexa, Google Home, Siri, Cortana & Mycroft Mark II.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-23T00:00:00",
+    "FavCount": 107,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [
+      "Open Source"
+    ],
+    "WebsiteUrl": "https://neon.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8dec13ce295d92c197b09c9870eca53e6de0c2c0-1787x964.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "2e9defec-b2b4-4688-a7fe-b8fdb58fd08d",
+    "ToolName": "Stenography",
+    "ToolDescription": "Finally. Automatic Documentation.",
+    "ToolShortDescription": "Automated Documentation",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 36,
+    "TagsIndex": [
+      "code-assistant",
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "code assistant",
+      "developer tools"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://stenography.dev/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/538fbba0daaff40e6f9ec81ceadeaa242f7fbd35-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "2e2xbDNzYMmTXkL82kbDex",
+    "ToolName": "TLDR this",
+    "ToolDescription": "TLDR helps you summarize any piece of text into concise, easy to digest content. Free yourself from information overload.",
+    "ToolShortDescription": "Free yourself from info overload: TLDR summarizes text into concise content.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-05T00:00:00",
+    "FavCount": 92,
+    "TagsIndex": [
+      "summarizer"
+    ],
+    "ToolCategories": [
+      "summarizer"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://tldrthis.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/72b0abfe33df46292aba705779f8e56f9707ae33-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "2cdb49f4-e573-43ab-a5a4-8f513bc225c0",
+    "ToolName": "Wellsaidlabs",
+    "ToolDescription": "Beautiful voices at your fingertips with text-to-speech that captivates. Reduce costs and streamline the voice production process.",
+    "ToolShortDescription": "Beautiful voices at your fingertips to captivate & reduce costs.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 52,
+    "TagsIndex": [
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "text to speech"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://wellsaidlabs.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/cdd3e199d39318f3d6b6edda2e87b9a87597d52a-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "2c5f5bb4-7c18-4a55-9b60-4d62221aa753",
+    "ToolName": "Broadn",
+    "ToolDescription": "Follow your curiosity, broaden your horizons.",
+    "ToolShortDescription": "Explore new possibilities and expand your knowledge.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 46,
+    "TagsIndex": [
+      "startup-assistant"
+    ],
+    "ToolCategories": [
+      "startup tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.broadn.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4ee663f084c0eaaf102142b0875e011432ec7a29-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "2b12b442-6550-4874-ad48-1c85664ed19e",
+    "ToolName": "Diagram",
+    "ToolDescription": "Design Smarter. Magical new ways to design products.\n",
+    "ToolShortDescription": "Design smarter with magical new products.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 50,
+    "TagsIndex": [
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://diagram.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8d0ed4df67dd3d9d46abd840ebe12994cab95a41-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "2adb760b-a0ea-4102-a1ef-91614566800e",
+    "ToolName": "HandyPlugins",
+    "ToolDescription": "Handywriter is an AI-powered writing assistant that can help you create content for your WordPress. It can check for plagiarism, and even can fix grammar & spelling errors.",
+    "ToolShortDescription": "AI-powered writing assistant for WordPress",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 37,
+    "TagsIndex": [
+      "writing-assistant"
+    ],
+    "ToolCategories": [
+      "general writing"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://handyplugins.co/handywriter/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3b34d2dc7db845ca43fdad1cbe7113c595d75893-1665x945.webp",
+    "ImageFormat": ".webp"
+  }
+]

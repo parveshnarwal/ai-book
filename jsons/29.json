@@ -1,0 +1,230 @@
+[
+  {
+    "Id": "14a8f0aa-f2d7-48c2-96af-b9a75b8e35f2",
+    "ToolName": "Finalle",
+    "ToolDescription": "Analyze massive streams of real-time data in a snap.\nBe first to understand what's driving the market",
+    "ToolShortDescription": "Financial Intelligence Reimagined",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-12T00:00:00",
+    "FavCount": 46,
+    "TagsIndex": [
+      "finance"
+    ],
+    "ToolCategories": [
+      "finance"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://finalle.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/510d8d58d1fcc564cf0c691771a41689cd592869-1865x941.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "a03d7324-971d-4ea0-84c7-afe91103d96f",
+    "ToolName": "Pix2Pix",
+    "ToolDescription": "Edit videos using prompts. Apply Instruct Pix2Pix Diffusion to a video.\n\n",
+    "ToolShortDescription": "Edit videos using prompts",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-12T00:00:00",
+    "FavCount": 28,
+    "TagsIndex": [
+      "video-editing"
+    ],
+    "ToolCategories": [
+      "video editing"
+    ],
+    "NewFeatures": [
+      "Open Source"
+    ],
+    "WebsiteUrl": "https://huggingface.co/spaces/fffiloni/Pix2Pix-Video?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/bb093a00925378eb83e394b9be7432f89d60ce9d-1849x918.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "5224382d-a40c-4ed2-bc7f-357f5d4e7c7d",
+    "ToolName": "Laxis",
+    "ToolDescription": "Laxis captures conversations intelligently to make your meetings more productive and enjoyable. Simple transcription and personalized templates help you extract insights, action items, and key quotes from (and across!) meetings.",
+    "ToolShortDescription": "Intelligent Meeting Assistant",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-12T00:00:00",
+    "FavCount": 9,
+    "TagsIndex": [
+      "transcriber",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "transcriber",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Mobile App",
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://www.laxis.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/92abdb9241b168dc2b25be13a3c43d298c910431-1526x880.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "99a9a16f-474e-417e-b443-96b9be67571c",
+    "ToolName": "Findly",
+    "ToolDescription": "Get accurate, actionable data insights in minutes, without needing to learn SQL or Python. Ask questions in plain English and see results that are easy to understand.",
+    "ToolShortDescription": "The AI Chatbot for Your Data Warehouse.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-02-12T00:00:00",
+    "FavCount": 6,
+    "TagsIndex": [
+      "sql-assistant"
+    ],
+    "ToolCategories": [
+      "SQL"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://findly.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9232fe2b8f05e12987b9dd0eb5b5e8c936f23a42-1903x945.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "4baa6928-4363-4d65-a6e1-e684a1003f79",
+    "ToolName": "AI is a Joke",
+    "ToolDescription": "Enter a topic and get an AI-generated joke for it. Can also see recent jokes.",
+    "ToolShortDescription": "Enter a topic and it will give you a joke along with an AI generated image",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-12T00:00:00",
+    "FavCount": 33,
+    "TagsIndex": [
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.aiisajoke.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/affe804839c4cc99eaf3b9aeda4845e6f9a73c77-1406x921.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "56b5cf48-85c5-42e8-9822-265b918f97d4",
+    "ToolName": "Remail",
+    "ToolDescription": "Remail is a Chrome extension for gmail that uses artificial intelligence to draft high quality email replies in seconds.\n",
+    "ToolShortDescription": "Compose replies in seconds, not minutes.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-02-11T00:00:00",
+    "FavCount": 10,
+    "TagsIndex": [
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "email assistant"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://remail.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d34537e12acd5c68a2dff5067dcc528f8fed5ff9-1749x862.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "6bc54fd6-2951-4ebf-8574-4b72b71b46ea",
+    "ToolName": "Pliny",
+    "ToolDescription": "Pliny provides a lightweight interface to turn your prompt into a shareable app. Anyone can run your app for free on their own inputs, or remix it to create a new version.",
+    "ToolShortDescription": "Create, share, and remix AI apps.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-11T00:00:00",
+    "FavCount": 11,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://pliny.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ef16ce62841d7d7836340e7074d0f2d84f53d109-1901x946.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "92a356b9-a81e-4f48-89b1-186a47a033f6",
+    "ToolName": "Photo AI",
+    "ToolDescription": "Use this tool to either copycat a photo, create a photoshoot or train a new model.",
+    "ToolShortDescription": "The first AI photographer",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-11T00:00:00",
+    "FavCount": 10,
+    "TagsIndex": [
+      "image-editing",
+      "avatar-generator"
+    ],
+    "ToolCategories": [
+      "image editing",
+      "avatars"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://photoai.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a4be7dc09853401f3150f72df462c85d8650916b-1920x949.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "b5c73c30-6e81-41a2-a056-8ae000f58c8d",
+    "ToolName": "RealFake",
+    "ToolDescription": "Generate high-quality images for your Dating App using only 10 casual photos of yourself. Try for free and you can pay to remove watermarks.",
+    "ToolShortDescription": "Picture perfect dating profile",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-11T00:00:00",
+    "FavCount": 22,
+    "TagsIndex": [
+      "life-assistant",
+      "avatar-generator"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "avatars"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.realfakephotos.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8354f9a6e9fc4b3a4db4140999186839ee7c5263-1759x896.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

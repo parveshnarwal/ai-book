@@ -1,0 +1,228 @@
+[
+  {
+    "Id": "356c1070-d43f-4dbb-ac04-f68348d2336b",
+    "ToolName": "RunPod",
+    "ToolDescription": "Rent Cloud GPUs from $0.2/hour. Save over 80% on GPUs. GPU rental made easy with Jupyter for PyTorch, Tensorflow or any other AI framework.",
+    "ToolShortDescription": "Rent GPUs from $0.2/hour. Save 80%+ with Jupyter for PyTorch, Tensorflow, etc.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-12T00:00:00",
+    "FavCount": 37,
+    "TagsIndex": [
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "developer tools"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://www.runpod.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/aa5b9ef3213e58cdc050f26aa4675976b94fb324-1838x930.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "34c9c6ac-a7db-4c3b-a186-0f159888d397",
+    "ToolName": "PictoDream",
+    "ToolDescription": "Generate images of yourself with AI.\nPut anyone in any style or setting using a simple text description.",
+    "ToolShortDescription": "Create custom images with AI using text descriptions.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-12T00:00:00",
+    "FavCount": 106,
+    "TagsIndex": [
+      "avatar-generator"
+    ],
+    "ToolCategories": [
+      "avatars"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://pictodream.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/94510eb89a4741d16111520a860ce6cbc2fc36d8-1869x940.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "3426d72e-b576-4734-b2c4-5300e126c31a",
+    "ToolName": "Compose",
+    "ToolDescription": "Compose is a free Chrome extension that lets you automate your writing using AI. We shouldn't be spending 40% of our time typing every day: it's time to change the game.",
+    "ToolShortDescription": "Automate writing with AI & save 40% of your time.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 328,
+    "TagsIndex": [
+      "writing-assistant"
+    ],
+    "ToolCategories": [
+      "general writing"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://www.compose.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/458f183e5d7ff16961c6d75412220a568096d5b1-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "32eb2e4a-d405-4ad5-8f27-ce8e5bd5d569",
+    "ToolName": "Contentfries",
+    "ToolDescription": "Get Dozens Of Content Pieces with ContentFries. Create contextual content for weeks or months ahead, faster than ever before.\nThey also have a subtitle creator software - auto-subtitles for 120+ languages and dialects.",
+    "ToolShortDescription": "Create contextual content faster & auto-subtitles in 120+ languages.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-23T00:00:00",
+    "FavCount": 78,
+    "TagsIndex": [
+      "video-editing",
+      "transcriber"
+    ],
+    "ToolCategories": [
+      "video editing",
+      "transcriber"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.contentfries.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0c1b9babeb761d87deb7a9efff05874ae51eba4f-3683x1797.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "32724f69-5a4a-4f72-8040-57ae9694d781",
+    "ToolName": "Free Subtitles AI",
+    "ToolDescription": "Use this free open source app to generate subtitles for movies!",
+    "ToolShortDescription": "Create subtitles for movies with free open source app!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-20T00:00:00",
+    "FavCount": 337,
+    "TagsIndex": [
+      "transcriber"
+    ],
+    "ToolCategories": [
+      "transcriber"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "Discord Community",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://freesubtitles.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4181782423c44357d1aedf6858a5d3c54f32a471-1851x859.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "31ad59de-69fa-4eb5-be97-3d6a5d356cb6",
+    "ToolName": "Luna",
+    "ToolDescription": "Personalize Cold Emails Instantly with Luna.\nAutomated messages are dead these days. Get more replies on your cold emails with Luna - World's first software application that uses AI to suggest new high-quality leads every day and send them the personal emails they deserve.",
+    "ToolShortDescription": "Personalize cold emails with Luna's AI-powered lead suggestions & automated messages.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 57,
+    "TagsIndex": [
+      "sales-assistant",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "sales",
+      "email assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://getluna.dev/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9075be9065a80e354f61428aea9bc2625e494ff6-1665x945.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "319b4c0f-635e-4013-84ae-114f0c6be5c3",
+    "ToolName": "Go Charlie",
+    "ToolDescription": "Create Images, Blogs, Ads, Website Headlines all with the click of a button.",
+    "ToolShortDescription": "Create content with a click.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 112,
+    "TagsIndex": [
+      "image-generator",
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://gocharlie.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4591a64951f24ce36bf7a2a901bfb9e30ce38772-1665x945.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "3141f293-49d1-4d52-9b95-4c0e7954446e",
+    "ToolName": "Durable AI",
+    "ToolDescription": "We’re on a mission to transform access to custom software using explainable AI capable of human-level reasoning and dialogue. We envision a future where custom, flexible, and durable software is democratized and accessible to everyone. ",
+    "ToolShortDescription": "Transform access to custom software using explainable AI for human-level reasoning & dialogue.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 32,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://durable.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8f171104ba38f933f3271e8aad3ac998d33be645-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "309d2962-4f19-4c01-965b-bdc3c471fc67",
+    "ToolName": "FILM",
+    "ToolDescription": "FILM - Frame Interpolation for Large Scene Motion.\nFrames are generated between two existing images (Interpolation) in attempt to create a animation.",
+    "ToolShortDescription": "Generate frames between images to create animation (Interpolation).",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-17T00:00:00",
+    "FavCount": 130,
+    "TagsIndex": [
+      "video-generator"
+    ],
+    "ToolCategories": [
+      "video generator"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "API"
+    ],
+    "WebsiteUrl": "https://replicate.com/google-research/frame-interpolation?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d821bf94c365cb7f5cdf65ab94efb525f4951977-1821x903.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

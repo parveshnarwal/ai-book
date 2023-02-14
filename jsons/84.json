@@ -1,0 +1,223 @@
+[
+  {
+    "Id": "a129262a-6e2a-4ca4-9a79-d1c864cdfd65",
+    "ToolName": "Hama - Image Editing",
+    "ToolDescription": "Erase people or objects from an image in just a second.",
+    "ToolShortDescription": "Erase objects from images quickly.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-22T00:00:00",
+    "FavCount": 233,
+    "TagsIndex": [
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "image editing"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://www.hama.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b17e18151ab786b560dbddd38e5407611244907f-1700x956.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "a0dcf9fc-484c-4a00-9a51-e7287c2042c8",
+    "ToolName": "Windsor",
+    "ToolDescription": "Send a personal video to every single customer so they never forget your brand\nRecord one video, and Windsor's AI sends out millions of personalized copies to your customers.",
+    "ToolShortDescription": "AI sends personalized videos to millions of customers to build brand loyalty.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-25T00:00:00",
+    "FavCount": 83,
+    "TagsIndex": [
+      "personalized-videos"
+    ],
+    "ToolCategories": [
+      "personalized videos"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://windsor.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/52027d13e570fc3bb05d7b166795aff03548f217-1856x953.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "9ztNkrmsW6muap8kchTNN7",
+    "ToolName": "The Simulation",
+    "ToolDescription": "The Simulation is an artificial intelligence-focused metaverse. Powered by sophisticated machine learning, game design, NFTs, and the ERC20 token,\n$SIM",
+    "ToolShortDescription": "AI-focused metaverse powered by ML, game design, NFTs, and $SIM token.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 51,
+    "TagsIndex": [
+      "3D-generator",
+      "gaming"
+    ],
+    "ToolCategories": [
+      "3D",
+      "gaming"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://fablesimulation.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/5772bca9ad5c66502847f1728f3e2259d3598a97-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "9iWYaM5JiBehhBgkroPYT8",
+    "ToolName": "Dreamsands",
+    "ToolDescription": "Dreamsands is a creative marketplace where you can license, collect and share images of AI-generated art you find interesting.",
+    "ToolShortDescription": "AI-generated art licensing, collecting & sharing.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-10T00:00:00",
+    "FavCount": 86,
+    "TagsIndex": [
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "search engine"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://dreamsands.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/40c58cf3ee2b5b671b44b586e39ba98257ee3eb7-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "9fcdedeb-cbbc-44c2-b293-d3b33930023e",
+    "ToolName": "Lobe",
+    "ToolDescription": "Lobe helps you train machine learning models with a free, easy-to-use tool. It Just show it examples of what you want it to learn, and it automatically trains a custom machine-learning model that can be shipped in your app.",
+    "ToolShortDescription": "Train ML models easily with Lobe",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-17T00:00:00",
+    "FavCount": 126,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.lobe.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/48a19ae548b99ceccf63a5eac7424f6dd254fe7c-3443x1667.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "9f418329-0111-4e66-9b49-565e2cdbbf85",
+    "ToolName": "Mutable",
+    "ToolDescription": "Build fast with production quality using AI.",
+    "ToolShortDescription": "Build fast with AI for production-level quality.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 39,
+    "TagsIndex": [
+      "code-assistant",
+      "no-code"
+    ],
+    "ToolCategories": [
+      "code assistant",
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://mutable.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/99ac9f9b2a0291dba4b31bd3a907434a97eeeb8b-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "9e1e8d42-56cc-449f-a6d3-58dfabaf3d88",
+    "ToolName": "WowTo",
+    "ToolDescription": "Create how-to videos and host an engaging video knowledge base in minutes. Build Video Knowledge Base. ",
+    "ToolShortDescription": "Build Video Knowledge Base in Minutes.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-28T00:00:00",
+    "FavCount": 118,
+    "TagsIndex": [
+      "video-generator"
+    ],
+    "ToolCategories": [
+      "video generator"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://wowto.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dcd99e1fda61a363330b3f3005283a0e6401dde4-3781x1685.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "9dc95b8a-d0f3-4efe-aace-d413af91c1b0",
+    "ToolName": "Stock AI",
+    "ToolDescription": "Get the perfect image. Everytime.\nFind exactly the image you need. And if it doesn't exist, we'll create it for you instantly.",
+    "ToolShortDescription": "Get perfect images, or create them instantly.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-07T00:00:00",
+    "FavCount": 100,
+    "TagsIndex": [
+      "image-generator",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "search engine"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.stockai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/200737a16d68740347b3d4712db0dc621366aeca-1912x974.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "9d457d07-75c0-43b1-b2ce-18b6976da4de",
+    "ToolName": "Hotpot.ai",
+    "ToolDescription": "Hotpot helps you create professional graphics and pictures. AI tools allow experts and consumers to spark creativity and automate drudgery. Easy-to-edit templates empower anyone to create device mockups, social media posts, marketing images, app icons, and other work graphics.\n\n",
+    "ToolShortDescription": "Create pro graphics for device mockups, social media, marketing, & more.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-10T00:00:00",
+    "FavCount": 72,
+    "TagsIndex": [
+      "image-generator",
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "design assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://hotpot.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ef7bbec96f8eda991b3617b425893306d680edf9-1835x964.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

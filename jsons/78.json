@@ -1,0 +1,230 @@
+[
+  {
+    "Id": "c6eca4ba-5109-44ed-a634-e8a088f0f75c",
+    "ToolName": "Dreamlike.art",
+    "ToolDescription": "Create stunning original art in seconds with the power of AI.\nMagical AI tools. Create endless original images, modify existing ones, and more.",
+    "ToolShortDescription": "AI-powered tools to create & modify art quickly & easily.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-12T00:00:00",
+    "FavCount": 256,
+    "TagsIndex": [
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "art"
+    ],
+    "NewFeatures": [
+      "Discord Community",
+      "API"
+    ],
+    "WebsiteUrl": "https://dreamlike.art/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/84f75093a12223523ee5a063d81db7cbb571711f-1874x932.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c4fd7ef5-f678-46af-afa5-0e8366cc1887",
+    "ToolName": "AI2image",
+    "ToolDescription": "AI generates your custom image in just a few seconds. You can generate images for your website, blogs or social media from a simple description in English.",
+    "ToolShortDescription": "AI creates custom images from English descriptions in seconds.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-25T00:00:00",
+    "FavCount": 52,
+    "TagsIndex": [
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.ai2image.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6fe8cb0c2af626137c5a6a5cb8678a3757c3fa72-3689x1787.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "c351c797-463e-4345-87b3-36faf062a753",
+    "ToolName": "Jrnylist",
+    "ToolDescription": "Midjourney Prompt Helper.  - Browse dozens of prompts categorized as Art & Illustration or Assets & UIs\nYou can submit your own prompt as well. \n",
+    "ToolShortDescription": "Browse dozens of Art & Illustration or Assets & UIs prompts, submit your own!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-13T00:00:00",
+    "FavCount": 88,
+    "TagsIndex": [
+      "prompts-assistant"
+    ],
+    "ToolCategories": [
+      "prompts"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.jrnylist.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/60792195559c8c270539e2d18f1477dd1ef032fc-1777x910.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c3309622-25f5-4dc5-9933-eb8fdfb8266d",
+    "ToolName": "Imgcreator",
+    "ToolDescription": "Creating images with text.\nGenerate text-based images to help you think and create.",
+    "ToolShortDescription": "Create images with text to inspire creativity.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-09T00:00:00",
+    "FavCount": 48,
+    "TagsIndex": [
+      "image-generator"
+    ],
+    "ToolCategories": [
+      "image generator"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://imgcreator.zmo.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fbc19649476ef4b97fb9b4f94d211d9983461377-1862x864.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c32d9b06-62ef-4670-aebf-47d7bffb1565",
+    "ToolName": "Unbound",
+    "ToolDescription": "Automate content creation for your small business.\nLeverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators.",
+    "ToolShortDescription": "Automate content creation with AI tools. Perfect for small businesses",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-14T00:00:00",
+    "FavCount": 112,
+    "TagsIndex": [
+      "design-assistant",
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant",
+      "copywriting"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://www.unboundcontent.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e4c9355b8f6ffeef2ca6242206c2f45636921be2-1863x953.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c22e3ba8-f85b-43f8-8514-77b60a324f36",
+    "ToolName": "Tinq.ai - NLP API",
+    "ToolDescription": "A set of easy-to-use & cutting-edge NLP APIs.\nPopular APIs: Text Generation - Rewriter/Paraphraser Summarizer\nIntegrate text analysis that is quick and strong into your apps. From topic categorization to sentiment analysis and entity extraction, we've got you covered. Make it happen in a matter of days, not months!\nText analysis: Plagiarism Checker; Custom classifiers; Sentiment Analysis; Named-entity Recognition",
+    "ToolShortDescription": "Cutting-edge NLP APIs",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-20T00:00:00",
+    "FavCount": 34,
+    "TagsIndex": [
+      "writing-assistant",
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "developer tools"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://tinq.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/34a40894d7c3d2b188a595245859f9687eb4b929-1813x946.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "bffea948-8d92-44cb-a2cf-0b4d41ac4ac8",
+    "ToolName": "Typewise",
+    "ToolDescription": "Boosting customer service and sales productivity. Our powerful AI solutions save time & improve communication for both users and companies. Book a demo today!",
+    "ToolShortDescription": "AI solutions save time & improve communication for users & companies.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 25,
+    "TagsIndex": [
+      "customer-support",
+      "sales-assistant"
+    ],
+    "ToolCategories": [
+      "customer support",
+      "sales"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://www.typewise.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c07fd789e21de4ac867cbad2b6f7e299c9821729-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "bfc013df-f1cb-43f7-a733-39528761f219",
+    "ToolName": "Seek",
+    "ToolDescription": "The intelligent data layer.\nAsk your data anything and get answers, instantly",
+    "ToolShortDescription": "Get answers from your data, instantly.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 50,
+    "TagsIndex": [
+      "no-code",
+      "sql-assistant"
+    ],
+    "ToolCategories": [
+      "low-code/no-code",
+      "SQL"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.seek.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/876f5cb9cddddfb900da5a0623e9258cd1144367-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "bf6cf1f6-b56b-4d3e-bf31-87e26c9bc801",
+    "ToolName": "AI Art Apps Database",
+    "ToolDescription": "AI Art Resources, Tools & Inspiration For Designers And Prompt Engineers. Find All You Need For AI Art.",
+    "ToolShortDescription": "AI Art resources, tools & inspiration for designers & engineers.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-24T00:00:00",
+    "FavCount": 202,
+    "TagsIndex": [
+      "resources",
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "resources",
+      "art"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://aiartapps.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dd2e766b10dc2d3ebdda8560e06ca4a4b86952f8-3203x1817.png",
+    "ImageFormat": ".png"
+  }
+]

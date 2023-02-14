@@ -1,0 +1,227 @@
+[
+  {
+    "Id": "792b97ab-9dd7-4ebd-8b9e-6dc3960ab216",
+    "ToolName": "Postaga",
+    "ToolDescription": "Send Cold Email Easier Than Ever Before.",
+    "ToolShortDescription": "Send Cold Emails Easily With Our Tool.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 33,
+    "TagsIndex": [
+      "sales-assistant",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "sales",
+      "email assistant"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://postaga.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f50d846ed59c84069497b09d9e6f5d7c1a44876d-1665x945.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "78eab2d4-0736-44d1-b892-988b0a854fb8",
+    "ToolName": "Galactica",
+    "ToolDescription": "Galactica is an AI trained on humanity's scientific knowledge. You can use it as a new interface to access and manipulate what we know about the universe.\n\n",
+    "ToolShortDescription": "AI-powered interface to access and manipulate scientific knowledge.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 307,
+    "TagsIndex": [
+      "research-assistant"
+    ],
+    "ToolCategories": [
+      "research"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://galactica.org/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/97a1d975d1df1ac33bd7c4288c1c80817b8edda6-845x546.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "78P8JwZH1tWSoWhewJUbGT",
+    "ToolName": "Symbl.ai",
+    "ToolDescription": "Integrate real-time speech-to-text and context understanding. Powered by advanced deep learning models. Enable live captioning, track user intents, generate summaries and more from unstructured conversation data.",
+    "ToolShortDescription": "Integrate speech-to-text & context understanding for live captioning, user intents, summaries & more.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 58,
+    "TagsIndex": [
+      "text-to-speech",
+      "summarizer"
+    ],
+    "ToolCategories": [
+      "text to speech",
+      "summarizer"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://symbl.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c12f9e4cddf594e38bd89ba4d93faf9c6547efd7-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "76e9e3bf-f315-451d-bd78-826990e56cd9",
+    "ToolName": "Perfectly Clear Video",
+    "ToolDescription": "Perfectly Clear Video offers instant, automatic photo corrections & video enhancement. It is the world’s leading provider of automatic image correction and AI video enhancement.",
+    "ToolShortDescription": "Instant, automatic photo & video corrections & AI video enhancement.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 46,
+    "TagsIndex": [
+      "image-editing",
+      "video-editing"
+    ],
+    "ToolCategories": [
+      "image editing",
+      "video editing"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://eyeq.photos/automatic-ai-video-enhancement/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6bcee57289a6aee7f4e90b96b9ad8acb850531e0-3685x1709.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "76db50e7-53fb-46be-95b5-e29e2bfc88da",
+    "ToolName": "WordfixerBot",
+    "ToolDescription": "WordfixerBot is a paraphraser, grammar checker, text summarizer, and text comparison tool.",
+    "ToolShortDescription": "WordfixerBot is a multi-purpose text tool for editing, summarizing, and comparing.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-12T00:00:00",
+    "FavCount": 42,
+    "TagsIndex": [
+      "paraphraser",
+      "summarizer"
+    ],
+    "ToolCategories": [
+      "paraphraser",
+      "summarizer"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.wordfixerbot.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d3e814b567ad4850fa29aa533d679e5e8572136b-1866x949.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "737987d8-9703-45df-bbde-32e45c532785",
+    "ToolName": "Simplified",
+    "ToolDescription": "Simplified AI Writer is a free ai copywriting assistant that generates high-quality content for blogs, articles, product descriptions, websites & social media.",
+    "ToolShortDescription": "Free AI copywriting assistant that generates content for blogs, articles, etc.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 64,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://simplified.com/ai-writer/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b576d9ebfb4788bdf9a50c928136222216259d14-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "730ddc2e-9202-4470-9fe9-68c1f9316ad7",
+    "ToolName": "Scispace",
+    "ToolDescription": "Your AI Copilot to decode any research paper.\nThe quickest way to read and understand scientific literature. Highlight confusing text, math, and tables to get a simple explanation.\nAsk follow-up questions and get instant answers.\nA new way to search and find relevant papers without specifying keywords.",
+    "ToolShortDescription": "Decode research papers, highlight confusing text, and find relevant papers.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-30T00:00:00",
+    "FavCount": 239,
+    "TagsIndex": [
+      "research-assistant"
+    ],
+    "ToolCategories": [
+      "research"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://typeset.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7fca3468c6299b4579ca2028d4e076bf296e9dc4-1862x810.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "72822d99-3242-4d13-8add-8e36064b6546",
+    "ToolName": "Axiom",
+    "ToolDescription": "Axiom is a browser extension that helps you save time by automating website actions and repetitive tasks on any website or web app.",
+    "ToolShortDescription": "Axiom automates website actions & repetitive tasks to save time.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-30T00:00:00",
+    "FavCount": 66,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://axiom.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9268ff3a0e2000cefb9ffa2e81cbd2b39ccad65e-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "723a8171-77fe-4674-a4c2-9b1880fcbacc",
+    "ToolName": "Thekeys",
+    "ToolDescription": "You know what you want to say, you just aren't sure how to say it. Keys helps you say things the right way without changing your intent, or sounding like a bot.",
+    "ToolShortDescription": "Keys helps you express yourself without changing your intent or sounding robotic.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 55,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://www.thekeys.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3e6177e6ff86fc67ba0bc48010b7bc421fd46a9b-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

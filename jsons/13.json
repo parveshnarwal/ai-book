@@ -1,0 +1,221 @@
+[
+  {
+    "Id": "jdZ7Je6VsXPVJdAkySuXEP",
+    "ToolName": "Namecheap Logo Maker",
+    "ToolDescription": "Simply answer a handful of questions and get hundreds of logos to download for free.",
+    "ToolShortDescription": "Answer questions, get free logos to download",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-13T00:00:00",
+    "FavCount": 902,
+    "TagsIndex": [
+      "logo-generator"
+    ],
+    "ToolCategories": [
+      "logo generator"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.namecheap.com/logo-maker/app/new/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e2631bf1e7df8a5794aba11a645a5eb6d1f10072-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "iJrFBTkhAwcw8WB7rex6DS",
+    "ToolName": "Creaitor AI",
+    "ToolDescription": "Creaitor helps you write content in a more powerful, emotionally expressive way.",
+    "ToolShortDescription": "Create content with more power & emotion using Creaitor.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-03T00:00:00",
+    "FavCount": 153,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://www.creaitor.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b41bd26a54be32e07615d8f9656c3fe3eb79a23c-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "fd0ffad9-1b2a-479b-b767-05b11f929a10",
+    "ToolName": "Pixela AI",
+    "ToolDescription": "AI Generated Game Textures. All of these images were generated with a Stable Diffusion Algorithm. Upload your generated texture to share with the community!",
+    "ToolShortDescription": "AI-generated game textures. Share yours with the community!",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-18T00:00:00",
+    "FavCount": 436,
+    "TagsIndex": [
+      "3D-generator"
+    ],
+    "ToolCategories": [
+      "3D"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://pixela.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/99b272735fd5fcfa7e50c251261245cc01075250-1808x810.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "fb3bf8db-767f-4e52-9fbb-b204b0a13ab2",
+    "ToolName": "Fy! Studio",
+    "ToolDescription": "Turn your ideas into unique wall art. \nJust type in your ideas, and we'll turn them into a never seen before piece of wall art.",
+    "ToolShortDescription": "Create unique wall art from your ideas!",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-29T00:00:00",
+    "FavCount": 724,
+    "TagsIndex": [
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "art"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.iamfy.co/studio?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b39d458c80db14eaf64bb169c6f67bfee10c2d87-1896x978.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f6d308fc-9ed7-401b-a386-2603097b3385",
+    "ToolName": "Validator AI",
+    "ToolDescription": "AI business validator for any idea. Validate and receive constructive feedback on any startup idea, powered by AI.\nIt first lists out potential struggles you may encounter when running the business and then gives it's overall feedback about your business idea.",
+    "ToolShortDescription": "Get feedback to validate & improve startup ideas",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-30T00:00:00",
+    "FavCount": 720,
+    "TagsIndex": [
+      "startup-assistant"
+    ],
+    "ToolCategories": [
+      "startup tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.validatorai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b1b42662178203190ec7adca78d2da0bf19cdb91-1863x793.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "efc14214-ce96-4647-87c1-e375265a5870",
+    "ToolName": "Tabnine",
+    "ToolDescription": "Whether you’re part of a team, or a developer working on your own, Tabnine will help you write code faster – all in your favorite IDE.",
+    "ToolShortDescription": "Tabnine helps developers write code faster, in any IDE.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium",
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 238,
+    "TagsIndex": [
+      "code-assistant"
+    ],
+    "ToolCategories": [
+      "code assistant"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.tabnine.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/93db1ad4a6019078f336f202d3814e1c15a55218-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "efae8c38-1e46-4f3f-82da-f367ec25a1bc",
+    "ToolName": "Glasp",
+    "ToolDescription": "Glasp is a social web highlighter that people can use to highlight and organize quotes and ideas from the web without switching back and forth between screens, and access other like-minded people’s learning at the same time. Leave your digital legacy for humanity, while working for yourself. \nThey also provide a tool that summarizes Youtube videos.",
+    "ToolShortDescription": "Highlight & organize web quotes and access like-minded people's learning",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 539,
+    "TagsIndex": [
+      "writing-assistant",
+      "memory-assistant"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "memory"
+    ],
+    "NewFeatures": [
+      "Browser Extension",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://glasp.co/ai-writing?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8398fe18d54ef608c9b796a35a2b576d2d9e6128-1700x848.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "e6188491-e191-4435-a072-d02364482765",
+    "ToolName": "Cowriter",
+    "ToolDescription": "Cowriter is an AI writing tool that can help you speed up and inspire your writing by generating content for you. All you need to do is ask, and Cowriter will take care of the rest. \n\nWith Cowriter's editor, you can generate creative blog posts, essays, headlines, images, or any other content in minutes, all optimized, especially for marketing and creative use. In addition, Cowriter can help you improve your content by rewriting it to be more engaging, shortening it to be more simplified, etc.",
+    "ToolShortDescription": "AI copywriter creates inspiring content quickly.",
+    "Verified": true,
+    "VerifiedReason": "Social Proof",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-31T00:00:00",
+    "FavCount": 101,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://cowriter.org/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/15fc30e9ff82ea1c48498925362ecab552e23536-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "e2f1e991-4932-4402-8980-33ce95f5dde7",
+    "ToolName": "Avatar AI",
+    "ToolDescription": "Create your own AI-generated avatars.",
+    "ToolShortDescription": "Generate unique digital identities",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-06T00:00:00",
+    "FavCount": 242,
+    "TagsIndex": [
+      "avatar-generator"
+    ],
+    "ToolCategories": [
+      "avatars"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://avatarai.me/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c9d9268416cdd345e1e09ca81a1171a619e8c367-1391x696.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

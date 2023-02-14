@@ -1,0 +1,220 @@
+[
+  {
+    "Id": "640604d3-c7b6-411c-80d4-0e996fab31a1",
+    "ToolName": "Contenda",
+    "ToolDescription": "A unified content repository that repurposes technical content better and faster than an agency",
+    "ToolShortDescription": "Unified content repository for faster, better repurposing of technical content.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 43,
+    "TagsIndex": [
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://contenda.co/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/34808afe95de0e1bef543cd6faaeac9c01ebb47e-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "64044592-7ec0-4e2f-9a05-078f73ab4a90",
+    "ToolName": "Whisper",
+    "ToolDescription": "Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multi-task model that can perform multilingual speech recognition as well as speech translation and language identification.",
+    "ToolShortDescription": "Multi-task speech recognition, translation, language ID",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 177,
+    "TagsIndex": [
+      "developer-tools",
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "text to speech"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "API"
+    ],
+    "WebsiteUrl": "https://github.com/openai/whisper?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/5135c1bb987ee723dca0282ee1fbd27e6955f905-2973x2253.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "64031204-b298-4142-a26d-76b752e2f1f1",
+    "ToolName": "Diffusion Land",
+    "ToolDescription": "Diffusion Land allows you to use various AI models to generate images. They also have several prebuilt concepts that you can use to generate certain types of images. \n",
+    "ToolShortDescription": "Use various AI models to generate images",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-15T00:00:00",
+    "FavCount": 82,
+    "TagsIndex": [
+      "image-generator",
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "art"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://diffusion.land/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/333ff01660416c9f2087e17230dcc265ae9c950d-1659x538.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "63c6f3fd-4744-420d-8cac-31881988ca19",
+    "ToolName": "Writer",
+    "ToolDescription": "Discover Writer, the AI writing platform for teams. Craft clear, consistent, and on-brand content everywhere. Try it free today.",
+    "ToolShortDescription": "AI writing platform for teams to craft clear, consistent content. Try it free!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 54,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://writer.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a400c6f52ab0842d37d5dd4309933aa430ce45a6-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "63312606-2835-41c9-bc85-33ea03b80366",
+    "ToolName": "Audioread",
+    "ToolDescription": "Turn your reads into podcasts. Listen to any article, PDF, email, etc in your podcast app.",
+    "ToolShortDescription": "Turn your reads into podcasts: listen to any article, PDF, email, etc.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-24T00:00:00",
+    "FavCount": 43,
+    "TagsIndex": [
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "text to speech"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://audioread.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4ee76fed97ea64441b7feecfdac70860a9ee9127-1771x970.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "630e7c13-e011-45c7-9ecb-e9ee9c67cb0a",
+    "ToolName": "Audiolabs",
+    "ToolDescription": "Platform to turn your podcast into short-form videos ideal for TikTok, YouTube Shorts and Reels. Reach new podcast listeners and drive business outcomes 🎙️Publishing video clips on short-form platforms acts as a “hook” for listeners to discover your inventory and tune in to the full episode or other marketing goals\n",
+    "ToolShortDescription": "Turn podcast into short-form videos ideal for Tiktok, YT Shorts and Reels",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-19T00:00:00",
+    "FavCount": 117,
+    "TagsIndex": [
+      "social-media-assistant",
+      "video-generator"
+    ],
+    "ToolCategories": [
+      "social media assistant",
+      "video generator"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.audiolabs.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d6510cb9736e41bf268ced72bce0ec07461089b1-1571x972.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "62c1b1e0-bfe6-4b08-aadc-3eeb89d30b7e",
+    "ToolName": "Tattoos AI",
+    "ToolDescription": "Create the perfect tattoo design with your personal\nAI-powered tattoo artist\nIf you have an idea for a tattoo but can't find the right design, let our AI generate one within seconds. It lets you create the perfect design based on what you like, and it will give you unlimited options so that there's something for everyone.",
+    "ToolShortDescription": "Create the perfect tattoo design with AI-powered personalization.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-07T00:00:00",
+    "FavCount": 89,
+    "TagsIndex": [
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.tattoosai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9ef5653f4b57723e1ea9d5f20fce7e09bfb62349-1905x969.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "628433ec-0978-4fe9-8d29-b5044c29f12a",
+    "ToolName": "Resemble",
+    "ToolDescription": "AI voice generator with voice cloning for text to speech.",
+    "ToolShortDescription": "AI voice generator with voice cloning for TTS.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 73,
+    "TagsIndex": [
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "text to speech"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.resemble.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1d6164386b40799bb139298a914fd96c7c2828af-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "60cb7323-1701-44e8-a6b9-2d94c6a63a24",
+    "ToolName": "Daydrm.ai",
+    "ToolDescription": "AI tool for creative advertising ideas. \nConcepts-on-demand for creatives and agencies. A large language model trained on human-written creative advertising campaigns.",
+    "ToolShortDescription": "Concepts on-demand for creatives and agencies",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-22T00:00:00",
+    "FavCount": 79,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.daydrm.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c7869b2730293639316dec6f2252fc7befc693ed-3627x1693.png",
+    "ImageFormat": ".png"
+  }
+]

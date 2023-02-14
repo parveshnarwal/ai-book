@@ -1,0 +1,230 @@
+[
+  {
+    "Id": "6c8e4977-4934-4fc1-9061-3131e2c5562d",
+    "ToolName": "Kwirk",
+    "ToolDescription": "Kwirk is a cutting-edge office program that offers a suite of improved productivity tools supported by AI. It has an effective summary tool that can quickly offer a succinct and thorough summary of any text. Also provides a personal AI coach who offers real-time feedback on your text and a logical block-based document management system. There are translation services included as well and it supports all file types and languages.",
+    "ToolShortDescription": "Office Tool with AI Support",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-02-13T00:00:00",
+    "FavCount": 3,
+    "TagsIndex": [
+      "productivity"
+    ],
+    "ToolCategories": [
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://kwirk.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/198a65d58d2c4530fd800fbe0ad3d43f2971d634-1920x942.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f71a5a46-a661-465d-8fff-a73bdfb341bb",
+    "ToolName": "NocodeBooth",
+    "ToolDescription": "NocodeBooth is a Nocode web app template which allows you allows you to launch your own AI Image Generation Platform with payments and fully responsive design.",
+    "ToolShortDescription": "Nocode AI Avatar Platform Template",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-02-13T00:00:00",
+    "FavCount": 8,
+    "TagsIndex": [
+      "developer-tools",
+      "avatar-generator"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "avatars"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://www.nocodebooth.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d4143c9ea4eaac8b2201fe289da42d91953e28d2-1768x952.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "0ff4e515-1eba-49ad-ae02-06b208924732",
+    "ToolName": "CustomGPT",
+    "ToolDescription": "CustomGPT enables companies to design their own unique AI-powered chatbots. With its simple setup, OpenAI-powered features, and flexibility to share the bot with private, public, or protected access, CustomGPT offers businesses a potent way to boost productivity, enhance customer satisfaction, and gain a competitive edge. It has features like seamless Sitemap integration when ingesting content.",
+    "ToolShortDescription": "A tool to create your own customized AI-powered chatbots.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-02-13T00:00:00",
+    "FavCount": 17,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://customgpt.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ea349653e25d82c512b5bd7df96422eb85a4bf05-1817x949.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "3a73f90b-78aa-49d3-ad38-25474dec3dcf",
+    "ToolName": "Casper AI",
+    "ToolDescription": "A tool for professionals to simplify their workflow by summarizing articles, creating content and sharing insights with stakeholders\n\nUnlock the power of AI with Casper's Chrome Extension. Casper streamlines your workflow with insights and summaries, utilizing OpenAI's GPT.\n\nWhether you're preparing for an exam, conducting due diligence on an investment, working on a major deal, or trying to stay on top of new legislation, Casper will make your job easier.",
+    "ToolShortDescription": "Simplify your workflow by summarizing articles and creating content",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-13T00:00:00",
+    "FavCount": 25,
+    "TagsIndex": [
+      "summarizer",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "summarizer",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Browser Extension",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://chrome.google.com/webstore/detail/casper-ai/fgfiokgecpkambjildjleljjcihnocel?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f625f56d82f33bff4f28962cebc6388807ad7c6d-1550x837.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "88ffe01d-3b2c-466a-bb94-3991c9bfb567",
+    "ToolName": "Decoherence",
+    "ToolDescription": "Create AI animations and synchronize them with your music. Write your prompts, choose your effect, set it to audio channels, and create your story today. There are two tiers of pricing - $10 for a top up or $30/month.",
+    "ToolShortDescription": "Create AI animations and synchronize them with your music.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-02-13T00:00:00",
+    "FavCount": 8,
+    "TagsIndex": [
+      "video-generator"
+    ],
+    "ToolCategories": [
+      "video generator"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.decoherence.co/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f938ee92d63cc178206da7d08d524c9e6ac0da4d-1857x947.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "62355445-02cf-474e-8099-d02d252ed8a0",
+    "ToolName": "Libraire",
+    "ToolDescription": "The largest library of AI-generated images. Search through 10M images and prompts generated with Stable Diffusion.",
+    "ToolShortDescription": "10M AI-generated images & prompts for searchable library.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-22T00:00:00",
+    "FavCount": 140,
+    "TagsIndex": [
+      "art-generator",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "art",
+      "search engine"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://libraire.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c8d7eeebd3d52a40fac2f3355fcf96692a91ab87-3403x1755.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "aff6bffa-4ddf-46c4-8530-00c8fb287579",
+    "ToolName": "Vizard",
+    "ToolDescription": "Anyone can turn existing video assets into high conversion content. Save up to 80% of your time and budget in video production. No editing experience required.",
+    "ToolShortDescription": "Create professional-looking webinar recordings with a few clicks",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-12T00:00:00",
+    "FavCount": 35,
+    "TagsIndex": [
+      "video-editing"
+    ],
+    "ToolCategories": [
+      "video editing"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://vizard.ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/834200f983ad0112301bf47580df50c3a82269c2-1881x949.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "23746ad1-2d0f-4354-8ba4-8a87c2f4bd84",
+    "ToolName": "QuickVid.Ai",
+    "ToolDescription": "QuickVid helps YouTubers create engaging branded Youtube shorts effortlessly. Clone your voice and likeness to grow faster on Youtube",
+    "ToolShortDescription": "Generate Youtube shorts 10x faster with ai",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-12T00:00:00",
+    "FavCount": 23,
+    "TagsIndex": [
+      "video-editing",
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "video editing",
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://quickvid.ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c7e97ce6d8723f6f163b90273cff2e115bc63562-1873x956.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "efff9c87-0f49-42a5-99c8-e3081072212a",
+    "ToolName": "Code Snippets AI",
+    "ToolDescription": "Build your snippets library with the power of AI. Harness the power of GPT3, collaborate with your team and build your secure code snippets library.\n",
+    "ToolShortDescription": "AI Powered code snippets library",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-12T00:00:00",
+    "FavCount": 5,
+    "TagsIndex": [
+      "code-assistant",
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "code assistant",
+      "developer tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://codesnippets.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2210ad8c29a1cc906f778fbd50165dcfab0c86df-1849x872.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

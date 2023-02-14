@@ -1,0 +1,215 @@
+[
+  {
+    "Id": "898e5e78-071e-4df9-8ed9-aeb624b8d41f",
+    "ToolName": "IQuit.ai",
+    "ToolDescription": "Generates resignation letters for you. They have several examples on their site as well.",
+    "ToolShortDescription": "AI-generated resignation letters.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-23T00:00:00",
+    "FavCount": 13,
+    "TagsIndex": [
+      "human-resources"
+    ],
+    "ToolCategories": [
+      "human resources"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://iquit.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6264c6e23e8e23b7ca2101ce8c28e09501865dd6-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "ba5c4b7d-6c3c-4e4a-88fd-39ba35d16379",
+    "ToolName": "VocAI",
+    "ToolDescription": "Shulex is an AI-powered reviews and feedback analysis platform that helps Amazon sellers and product managers gain product and customer insights from e-commerce reviews and feedback. ",
+    "ToolShortDescription": "AI-powered reviews and feedback analysis platform",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-23T00:00:00",
+    "FavCount": 25,
+    "TagsIndex": [
+      "customer-support"
+    ],
+    "ToolCategories": [
+      "customer support"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.voc.ai/?utm_source=fp&utm_medium=fp?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a3a718ccfa60be82249673f9ca3b81c5367278b7-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "10da89ec-7273-48be-9d90-feccc7a9e7d6",
+    "ToolName": "Gimme Summary AI",
+    "ToolDescription": "Gimme Summary AI is a free Chrome extension that uses ChatGPT to summarize articles on the web. It is 100% free and privacy friendly. It also has a keyboard shortcut function. ",
+    "ToolShortDescription": "Use AI to summarize articles on the web.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-23T00:00:00",
+    "FavCount": 104,
+    "TagsIndex": [
+      "summarizer"
+    ],
+    "ToolCategories": [
+      "summarizer"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://gimmesummary.ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d976d88291c3b43a0d785419b8d6ac666f8ee56f-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "5214548d-3145-4e2b-b727-a8d8cdf7d8df",
+    "ToolName": "ExperAI",
+    "ToolDescription": "ExperAI generates an expert for you based on a prompt you give them and allows you to chat with them.",
+    "ToolShortDescription": "Have a conversation with an AI generated expert.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-23T00:00:00",
+    "FavCount": 136,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.experai.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3ee2eab181dbc4ef05470589ccd894d4c3110adb-1876x886.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "73bccd7e-4464-476f-b887-2e1f19e0bc02",
+    "ToolName": "AI Pencil",
+    "ToolDescription": "AI-based software, Sketch AI, allows users to create stunning artwork with the help of powerful tools, import and export their favorite drawings, and transform their art into any medium or style.",
+    "ToolShortDescription": "AI-Powered Drawing Tool",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-23T00:00:00",
+    "FavCount": 94,
+    "TagsIndex": [
+      "art-generator",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "art",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://apps.apple.com/us/app/ai-pencil/id6444737491?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8d98923d0ab394cf4b6da5677149ec3278bcce46-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "145cf18e-f0d3-46fb-b2e9-7b427d84d6d2",
+    "ToolName": "To Teach AI",
+    "ToolDescription": "With the help of artificial intelligence, create personalized learning experiences for you and your class in seconds.\n\n",
+    "ToolShortDescription": "Create personalized learning experiences for you and your class",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-23T00:00:00",
+    "FavCount": 53,
+    "TagsIndex": [
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "education assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.to-teach.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/86dd777c788ff70a2032d4d8e433ec9217a93eda-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "4258211c-a440-40ed-b569-748877409c98",
+    "ToolName": "TradeUI",
+    "ToolDescription": "TradeUI provides an array of powerful A.I data-driven tools to help traders find better trades, improve win rate and profit, including options flow, technical analysis, trading signals and more. TradeUI also provides real-time alerts as notable events take place on the markets.",
+    "ToolShortDescription": "Leverage Machine learning and real time data to empower your trades",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-23T00:00:00",
+    "FavCount": 98,
+    "TagsIndex": [
+      "finance"
+    ],
+    "ToolCategories": [
+      "finance"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://tradeui.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/43339d5da0610664c6acd655b68f968c32b2123e-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "70974bec-356f-45d7-b60f-fad55275b425",
+    "ToolName": "MixPeek",
+    "ToolDescription": "Mixpeek is an intelligence layer on top of your object store like S3. Using NLP, it grants you an “understanding” of your non-text files with just a GET /search API call. You can set it up with a single line of code.",
+    "ToolShortDescription": " Intelligence layer on top of your object store",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-23T00:00:00",
+    "FavCount": 11,
+    "TagsIndex": [
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "developer tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://mixpeek.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/643caea39454f3784395d0a34504b03ab5ea3003-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "e2ee3d4a-3723-415d-9442-2fb910c59833",
+    "ToolName": "Olli.ai",
+    "ToolDescription": "Olli is a company that creates tools to help teams access the power of data. Their products make data work as easy as talking to a colleague, allowing users to quickly and easily extract insights and save time. They have the vision of making data accessible to everyone and are supported by major investors.",
+    "ToolShortDescription": "Your team’s AI data analyst. Answer questions and create charts 10x faster",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-01-22T00:00:00",
+    "FavCount": 28,
+    "TagsIndex": [
+      "sql-assistant"
+    ],
+    "ToolCategories": [
+      "SQL"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://www.olli.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6bd57a05241524d3fc972cacdd890367245f2866-1836x932.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

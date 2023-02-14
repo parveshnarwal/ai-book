@@ -1,0 +1,228 @@
+[
+  {
+    "Id": "b223c20a-7abc-4d53-bc9b-b0662e8dd765",
+    "ToolName": "Repl AI",
+    "ToolDescription": "Chrome extension to create meaningful Twitter replies with AI. Replai.so is the easiest way to connect with the community, look clever, funny, professional on social media, appear smarter and grow your audience with 10x less effort. You can find it on the chrome webstore. ",
+    "ToolShortDescription": "Create meaningful Twitter replies",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-24T00:00:00",
+    "FavCount": 105,
+    "TagsIndex": [
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://replai.so/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e251cdf9e39319622207a570a88f09c4d993e941-1852x921.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "a63f385b-b636-4f19-9539-a28f729c9d9d",
+    "ToolName": "PromptBase",
+    "ToolDescription": "Find top prompts, produce better results, save on API costs, sell your own prompts. DALL·E, GPT-3, Midjourney, Stable Diffusion Prompt Marketplace. ",
+    "ToolShortDescription": "Find top prompts and save on API costs",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-27T00:00:00",
+    "FavCount": 203,
+    "TagsIndex": [
+      "prompts-assistant",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "prompts",
+      "search engine"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://promptbase.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f19b4a38bb79b884960e28e6e08fb8d26aa3bc33-3797x1767.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "a3703a1e-8911-4728-ab04-e950eed477fb",
+    "ToolName": "ChatGPT Writer",
+    "ToolDescription": "Free Chrome extension that uses ChatGPT AI to generate emails or replies based on a few keywords you input. Currently supported for Gmail. Supports all popular languages, simply mention it in the text prompt.",
+    "ToolShortDescription": "Generate emails/replies based on keywords",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-26T00:00:00",
+    "FavCount": 732,
+    "TagsIndex": [
+      "email-assistant",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "email assistant",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://chatgptwriter.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8c4d1f902b8a2de017171cbf82e952f1ac45b498-1742x850.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "a3584d48-3a85-4529-98fa-eeac4c16a404",
+    "ToolName": "BedtimeStory AI",
+    "ToolDescription": "Create personalized, instant bedtime stories in seconds. Generate a story about your child, including some family members as characters, and add a genre, story style, moral, and much more – generated using artificial intelligence. Their open library has 5000+ stories. Explore all the stories created by the community. You can like stories, bookmark them into your collections, re-mix* them, share with friends, read to your kids.\n",
+    "ToolShortDescription": "Create personalized bedtime stories",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-26T00:00:00",
+    "FavCount": 187,
+    "TagsIndex": [
+      "storyteller"
+    ],
+    "ToolCategories": [
+      "story teller"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.bedtimestory.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/31955ae36d1d3824175b26f7e39290f6860bb095-1882x886.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "a26b8aa0-fad5-4d64-a12c-a7c9685931af",
+    "ToolName": "Generated Photos",
+    "ToolDescription": "Enhance your creative works with photos generated completely by AI. Find model images through our sorted and tagged app, or integrate images via API.",
+    "ToolShortDescription": "AI-generated photos for creative works. App & API for sorted & tagged images.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-27T00:00:00",
+    "FavCount": 131,
+    "TagsIndex": [
+      "image-generator",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "search engine"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://generated.photos/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/58e88ffe1ce534d5ec8ae40da5dd799f16423301-3773x1793.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "9dead4d8-3868-4786-b7e1-5c7128b2b868",
+    "ToolName": "Paperade",
+    "ToolDescription": "Paperade is the first AI-powered tool that generates commercial use cases and company ideas from over 100 million academic papers and research studies. It's like having a PhD in startup ideas.",
+    "ToolShortDescription": "AI-powered tool to generate startup ideas from 100M+ academic papers.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-23T00:00:00",
+    "FavCount": 153,
+    "TagsIndex": [
+      "startup-assistant"
+    ],
+    "ToolCategories": [
+      "startup tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.paperade.co/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8031eda65e02ef1fd8cef0adf5b25832de12e4b0-1780x850.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "94406f65-bda9-4701-ba56-bc2bb0d4497a",
+    "ToolName": "Instantly",
+    "ToolDescription": "Instantly helps you generate more replies & more revenue. Scale your outreach campaigns through unlimited email sending accounts, unlimited warmups, and smart AI.",
+    "ToolShortDescription": "Automate outreach campaigns for more replies & revenue",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-27T00:00:00",
+    "FavCount": 171,
+    "TagsIndex": [
+      "sales-assistant",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "sales",
+      "email assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://instantly.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e093b4092f72b445394f908136a38c50cf460796-3709x1811.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "92a9dbae-c3a0-4c7f-8c0f-b1513355cc3c",
+    "ToolName": "Whisper Memos",
+    "ToolDescription": "Whisper Memos is an app that records your voice and sends you an email with the transcription a few minutes later. Use it to record quick thoughts, reminders and daily journal entries.",
+    "ToolShortDescription": "Record voice, get transcription emailed in minutes.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-19T00:00:00",
+    "FavCount": 90,
+    "TagsIndex": [
+      "transcriber",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "transcriber",
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://whispermemos.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8aa4bf24ca144e249a692543e8b6892de62b2182-1853x951.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "90fca259-93a9-48dc-b9eb-86f4a4d8c7ee",
+    "ToolName": "Quicklines",
+    "ToolDescription": "Quicklines automatically creates personalized ice breakers to inject inside cold emails. Upload a CSV, wait 3 minutes, and receive the sheet with lines written. Put those lines into the first sentence of cold emails, and watch your responses increase 3x-7x.",
+    "ToolShortDescription": "Automate cold emails: upload CSV and get personalized ice breakers",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-29T00:00:00",
+    "FavCount": 72,
+    "TagsIndex": [
+      "sales-assistant",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "sales",
+      "email assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.quicklines.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8b293228827c900aff1987a8e3c8a35d49705a5c-1870x936.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

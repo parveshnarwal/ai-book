@@ -1,0 +1,233 @@
+[
+  {
+    "Id": "70bd9293-a049-4c24-9a0e-043aa7144d61",
+    "ToolName": "Darrow AI",
+    "ToolDescription": "Darrow's AI-Powered Justice Intelligence Platform scans real world data to detect harmful events, determine the number of victims, predict the legislative outcome, and assess the financial value of a case. Top litigators partner with Darrow to access high-value, meritorious cases.\n\n",
+    "ToolShortDescription": "Access high-value legal cases by scanning real world data.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-14T00:00:00",
+    "FavCount": 16,
+    "TagsIndex": [
+      "legal-assistant"
+    ],
+    "ToolCategories": [
+      "legal assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.darrow.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fabcf5ab3244e8d5f34f7308ad6f52b90f2b85cd-1514x918.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c763d577-be8f-479e-8e0c-17a1132bab60",
+    "ToolName": "Airtest",
+    "ToolDescription": "Generate Unit Tests using AI. Supports several languages including Typescript and Python. Also supports various testing frameworks like Mocha and Jest",
+    "ToolShortDescription": "Generate Unit Tests; Supports Typescript, Python, Mocha, Jest.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-14T00:00:00",
+    "FavCount": 64,
+    "TagsIndex": [
+      "code-assistant",
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "code assistant",
+      "developer tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.airtest.dev/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/36088f2000e13da33e0cc3ecc58417ff8a6606c6-1902x940.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c0e13a3d-787f-4240-9ae1-83d8c7a7d222",
+    "ToolName": "AssemblyAI",
+    "ToolDescription": "Transcribe and understand audio with State-of-the-Art AI models. Automatic Speech Recognition (ASR), Natural Language Processing (NLP), and AI Speech-to-Text.",
+    "ToolShortDescription": "Transcribe audio with AI models: ASR, NLP, Speech-to-Text.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-14T00:00:00",
+    "FavCount": 23,
+    "TagsIndex": [
+      "developer-tools",
+      "transcriber"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "transcriber"
+    ],
+    "NewFeatures": [
+      "API",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.assemblyai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0e4ac14ff556993b27c96d67ce4b752112c81e56-1822x946.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "525fd4b5-8eeb-47db-8a5a-04a7c129cd52",
+    "ToolName": "Coach Marlee",
+    "ToolDescription": "Coach Marlee by Fingerprint For Success is an AI coach that uses science-based coaching methods.\nEveryone with internet access can now afford life-changing coaching that the world's top performers, CEOs, celebrities and leaders have used as the secret fuel for their success for decades.",
+    "ToolShortDescription": "AI coach using science-based methods to help everyone achieve success.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free",
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-14T00:00:00",
+    "FavCount": 61,
+    "TagsIndex": [
+      "life-assistant",
+      "human-resources"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "human resources"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.fingerprintforsuccess.com/for-individuals?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/190f87e7c510ca0f6bd72cac083785b46c978670-1848x955.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c99cc409-fc61-4819-9272-51c297e166e1",
+    "ToolName": "TextGPT",
+    "ToolDescription": "With TextGPT you can easily access OpenAI’s GPT and Dall-E 2 through text messaging, receiving quick and accurate answers to any question you may have and generating realistic images with a simple text. After signing up, you can text your questions/prompts to a specific number",
+    "ToolShortDescription": "Text questions/prompts to get quick, accurate answers.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-14T00:00:00",
+    "FavCount": 51,
+    "TagsIndex": [
+      "image-generator",
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "life assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://textgpt.net/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/51ec8a9b64566b7deb04e534d8f30d1f23d61a0f-1812x888.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "faa60ec3-3bdb-4326-8d64-668a9fab03bc",
+    "ToolName": "Checklist.gg",
+    "ToolDescription": "checklist.gg is an AI-driven checklists, processes and SOPs management tool designed to help organizations to get things done right every time.",
+    "ToolShortDescription": "AI-driven checklists, processes & SOPs management tool",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-14T00:00:00",
+    "FavCount": 42,
+    "TagsIndex": [
+      "productivity"
+    ],
+    "ToolCategories": [
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://checklist.gg/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d9880aac107a4f164ea7fdf920a62998617f1d53-1733x896.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "fda5c76b-abd6-454d-a9dc-5d6ed54127f9",
+    "ToolName": "Iris.ai",
+    "ToolDescription": "A comprehensive platform for all your research processing. Smart search and a wide range of smart filters, reading list analysis, auto-generated summaries, autonomous extraction and systematizing of data.",
+    "ToolShortDescription": "Smart search & filters, auto-summaries, data extraction & systematizing.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-14T00:00:00",
+    "FavCount": 65,
+    "TagsIndex": [
+      "research-assistant",
+      "summarizer",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "research",
+      "summarizer",
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://iris.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dfc5e60c228847f7109bca202f07609cf2a2e056-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "863516c8-cfb1-48db-ae14-235c83dfc2ec",
+    "ToolName": "Imaiger",
+    "ToolDescription": "AI image search tool for generated art and images. Search millions of art and images generated with cutting-edge artificial intelligence technology.",
+    "ToolShortDescription": "AI image search tool for generated art & images; millions of AI-generated images.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-14T00:00:00",
+    "FavCount": 63,
+    "TagsIndex": [
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "search engine"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://imaiger.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/115f1045bc31233d3c404682ee3855be2f58a90b-1729x772.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "8ab0fff9-fea6-4cd4-9d3b-80174c01fd7e",
+    "ToolName": "PlaylistAI",
+    "ToolDescription": "Create playlists from AI prompts, images, videos, and your most-listened-to music.",
+    "ToolShortDescription": "Create playlists from AI, images, videos, and your favs.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-13T00:00:00",
+    "FavCount": 60,
+    "TagsIndex": [
+      "life-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://www.playlistai.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1d414ba8bb4037283c0625c62d9e090a3dcc9b00-1678x925.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

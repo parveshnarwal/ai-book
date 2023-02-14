@@ -1,0 +1,227 @@
+[
+  {
+    "Id": "868f630d-09a8-4fee-909f-9be89eca97d1",
+    "ToolName": "Stocknews AI",
+    "ToolDescription": "Stock News curated by AI. Can search from 100+ sources.",
+    "ToolShortDescription": "Stock News curated by AI. Can search from 100+ sources.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-16T00:00:00",
+    "FavCount": 143,
+    "TagsIndex": [
+      "finance"
+    ],
+    "ToolCategories": [
+      "finance"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://stocknewsai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7e7b4aafb0afc569339618909a14260dc0fec3ae-1861x937.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "a469c15b-0782-45d1-be4a-923fc010f15e",
+    "ToolName": "AI Pickup Lines",
+    "ToolDescription": "AI-generated pickup lines based on just a keyword! You can also buy a database of all the pickup lines generated on the site.",
+    "ToolShortDescription": "AI-generated pickup lines.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-16T00:00:00",
+    "FavCount": 50,
+    "TagsIndex": [
+      "life-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.aipickuplines.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/abed0ca9273875f585645c32eae6c1650e064613-1794x893.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "0ff7143a-0b26-4e64-b22f-dc65c4528125",
+    "ToolName": "theGist",
+    "ToolDescription": "Summarize any Slack channel or thread in one click.\ntheGist algorithm goes over the conversation, and instantly creates a short summary for you.",
+    "ToolShortDescription": "Get a quick summary of any Slack channel or thread with theGist.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-16T00:00:00",
+    "FavCount": 25,
+    "TagsIndex": [
+      "summarizer",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "summarizer",
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.thegist.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d9e3a9f906f3807fed8445d98bd9f74f02d46220-1757x856.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "894d58ba-4e86-4d51-abfc-e6ebacbcb61f",
+    "ToolName": "AI Cards",
+    "ToolDescription": "Holiday Cards generated using AI. Can input your company name, the occasion, how you want your message to sound, and describe the image to be displayed.",
+    "ToolShortDescription": "Create custom holiday cards with AI",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-16T00:00:00",
+    "FavCount": 74,
+    "TagsIndex": [
+      "life-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://designstripe.com/ai-cards/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d216a17203e938cbacb03f31edaf0745db5750d6-1245x803.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d2f337d2-9659-4bc1-aeb9-e66e80ccc046",
+    "ToolName": "Photor AI",
+    "ToolDescription": "Photor AI is a tool that uses advanced image recognition and machine learning technology to analyze and select the best images for professional or personal use on platforms like Linkedin, social media and dating apps. It helps you present the best version of yourself.\n",
+    "ToolShortDescription": "Present the best version of yourself with advanced image recognition and ML.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-16T00:00:00",
+    "FavCount": 105,
+    "TagsIndex": [
+      "life-assistant",
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://photor.io/photoscore?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4d2a70c9eefc9fcd452db250ffbd38f3d58d031c-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "4c7e0390-595a-4fc2-b70d-b5308437ce32",
+    "ToolName": "Genie AI",
+    "ToolDescription": "GenieAI is a web application that uses Artificial intelligence to generate titles, descriptions, tags, and thumbnail ideas for your content. ",
+    "ToolShortDescription": "GenieAI creates content ideas using AI to save time.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-16T00:00:00",
+    "FavCount": 29,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://genieai-app.vercel.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8e0919ff915e54d4f4d3757f39d8b9bf60276a62-1764x900.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "74d84510-0c1c-4336-a368-db36957d7edd",
+    "ToolName": "LangoTalk",
+    "ToolDescription": "Learn Spanish, English, French, German, Dutch, or Italian 6x faster by chatting with AI. ",
+    "ToolShortDescription": "Learn 6 languages 6x faster with AI chat.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-16T00:00:00",
+    "FavCount": 126,
+    "TagsIndex": [
+      "life-assistant",
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "education assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.langotalk.org/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d5601c6faa160c8b5759230115454a25d3de363d-1815x846.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "4e196d83-322c-4ae8-8d8c-8a9a4aa2e9fd",
+    "ToolName": "blubi.ai",
+    "ToolDescription": "Build interactive AI-driven chatbots on top of your content and give your audience a taste of interactive learning. blubi helps you to increase engagement, make the content interactive and showcase value in a immersive way.",
+    "ToolShortDescription": "Create interactive AI-driven chatbots to increase engagement & showcase value.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-01-16T00:00:00",
+    "FavCount": 18,
+    "TagsIndex": [
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "text to speech"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://blubi.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/bc1a06283111b846da13fe8a1524936a3d111b8b-1082x836.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "570c0520-7a4c-4b4b-931b-ad121864ba55",
+    "ToolName": "PrepAI",
+    "ToolDescription": "PrepAI will generate question-and-answer sets and categorize them based on an uploaded PDF, DocX, or a video URL. You can edit questions and add more when needed.",
+    "ToolShortDescription": "Generate Q&A sets from PDFs, DocX, or videos; edit & add questions.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-16T00:00:00",
+    "FavCount": 60,
+    "TagsIndex": [
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "education assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.prepai.in/us/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8701b61444d4054c2da0931474aad85605479b98-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "Id": "756ca5e5-3642-4eba-a137-4861c5452fe0",
+    "ToolName": "Flair AI",
+    "ToolDescription": "AI Design Tool for Branded Content. You can use it to generate great product photos for your advertisements or other content.",
+    "ToolShortDescription": "AI Design Tool for creating branded product photos for ads/content.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-12T00:00:00",
+    "FavCount": 240,
+    "TagsIndex": [
+      "image-generator",
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "design assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://flair.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f0b12d9fde55060410b4a8b0189b1b755bc13647-1690x863.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d827edcf-a2b2-4963-a8ff-4292e59a3d02",
+    "ToolName": "Apple Books",
+    "ToolDescription": "Audiobooks narrated by a text-to-speech AI are now available via Apple’s Books. \nInitially only available for romance and fiction books, where they list two available digital voices: Madison and Jackson.",
+    "ToolShortDescription": "AI-narrated audiobooks now available on Apple Books",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-11T00:00:00",
+    "FavCount": 46,
+    "TagsIndex": [
+      "life-assistant",
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "text to speech"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.apple.com/in/apple-books/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b532d534a15ea29a509f1d1b201a08d5846ff3c3-1335x875.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "b1d93bc4-e90b-49fd-8a47-3702de2e2dd7",
+    "ToolName": "NeevaAI",
+    "ToolDescription": "NeevaAI provides authentic, real-time AI search. It combines the power of AI with a search stack to give you fast, accurate, and up-to-date results. And, it provides sources where the information was pulled from.",
+    "ToolShortDescription": "AI-powered search with real-time, accurate results and source info.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-10T00:00:00",
+    "FavCount": 99,
+    "TagsIndex": [
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "search engine"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://neeva.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/26963cea8319c9878eaaa9bf121037957e75959a-1641x932.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "4cec7804-2cd0-4e51-9945-a0286b4f2139",
+    "ToolName": "Shuffll",
+    "ToolDescription": "Shuffll is a cutting-edge video production platform that uses AI technology to streamline the creation process. Our platform allows businesses to easily create high-quality, personalized video content in a fraction of the time it would take using traditional methods.",
+    "ToolShortDescription": "AI-powered video production platform for fast, personalized content creation.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-10T00:00:00",
+    "FavCount": 140,
+    "TagsIndex": [
+      "video-editing",
+      "video-generator"
+    ],
+    "ToolCategories": [
+      "video editing",
+      "video generator"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://shuffll.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6cb7ba21a0e2eebb3ada35dcbbb246862e02ffb4-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "f9258cbe-1754-4db0-a0d7-4fcc08a49ab3",
+    "ToolName": "Tiledesk",
+    "ToolDescription": "Combine Free Live Chat with Open-Source Chatbots to boost ROI. Integrate Chatbots with WhatsApp or other channels to have one inbox for all communications.",
+    "ToolShortDescription": "Combine Chatbots & Live Chat for boosted ROI, one inbox for all channels.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-09T00:00:00",
+    "FavCount": 73,
+    "TagsIndex": [
+      "no-code",
+      "customer-support"
+    ],
+    "ToolCategories": [
+      "low-code/no-code",
+      "customer support"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "Discord Community",
+      "API"
+    ],
+    "WebsiteUrl": "https://tiledesk.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/91f93f824b8511651d1566649d3eac420a68cb08-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "8f8aaafe-f177-4559-888a-c3ccff488d52",
+    "ToolName": "Krisp",
+    "ToolDescription": "Krisp’s AI-powered solution removes background noise and echo from meetings, leaving only human voice. Has features like noise & echo cancellation, widget, insights and call summary.",
+    "ToolShortDescription": "Krisp's AI removes background noise & echo from meetings",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium",
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-08T00:00:00",
+    "FavCount": 218,
+    "TagsIndex": [
+      "audio-editing",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "audio editing",
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://krisp.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3e1260aee0769c695de989cea3c6237bddcb7f6f-2965x1491.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "d1a5fcb0-fcc8-4696-8368-33692c24368f",
+    "ToolName": "Amazon CodeWhisperer",
+    "ToolDescription": "Amazon CodeWhisperer is a machine learning (ML)–powered service that helps improve developer productivity by generating code recommendations based on their comments in natural language and code in the integrated development environment (IDE).\n",
+    "ToolShortDescription": "Write code faster with ML-powered code recommendations.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-07T00:00:00",
+    "FavCount": 201,
+    "TagsIndex": [
+      "code-assistant",
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "code assistant",
+      "developer tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://aws.amazon.com/codewhisperer/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a4c87221bbd05cb78c662a25d733c745c225ca96-1821x948.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "5ad45b10-8b1a-4c81-ba81-19aed8faf09e",
+    "ToolName": "Socratic by Google",
+    "ToolDescription": "Get unstuck in your academic problems like Science, Math, Literature, Social Studies and more with help from Google's AI and also get visual explanations of important concepts in each subject.",
+    "ToolShortDescription": "Get unstuck in academics with Google's AI and visual explanations.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-04T00:00:00",
+    "FavCount": 414,
+    "TagsIndex": [
+      "research-assistant"
+    ],
+    "ToolCategories": [
+      "research"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://socratic.org/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a9bdcee6c9ee5e8a6f0d662eb038ba04bed3ef37-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "npwQ5dvQzYXxjnx8b945V1",
+    "ToolName": "Talk To Books",
+    "ToolDescription": "A new way to explore ideas and discover books. Make a statement or ask a question to browse passages from books using experimental AI.",
+    "ToolShortDescription": "Explore books with AI",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-03T00:00:00",
+    "FavCount": 804,
+    "TagsIndex": [
+      "experiments",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "experiments",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://books.google.com/talktobooks/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4fe760a5e0e5191d3465685b2ab24b1e82068544-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

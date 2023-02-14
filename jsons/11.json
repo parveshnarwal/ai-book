@@ -1,0 +1,240 @@
+[
+  {
+    "Id": "aacf45c5-1219-4f30-ae2f-1abb6f3bd19b",
+    "ToolName": "MidJourney Prompt Helper",
+    "ToolDescription": "An open-source tool that makes it easy for people to explore styles, and complex MidJourney prompts, visually.",
+    "ToolShortDescription": "Explore styles & complex prompts, visually.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-16T00:00:00",
+    "FavCount": 483,
+    "TagsIndex": [
+      "prompts-assistant"
+    ],
+    "ToolCategories": [
+      "prompts"
+    ],
+    "NewFeatures": [
+      "Open Source"
+    ],
+    "WebsiteUrl": "https://prompt.noonshot.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/32b6306f266d8dbd3f9cd9a793cb9ce2d9ec202c-1863x922.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "9ae3ba25-b3ae-4eac-adb9-735d1125bf3c",
+    "ToolName": "fast.ai",
+    "ToolDescription": "fast.ai is a non-profit research group focused on deep learning and artificial intelligence. They have several useful courses on their website. ",
+    "ToolShortDescription": "Non-profit research group focused on DL & AI, offering useful courses.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-16T00:00:00",
+    "FavCount": 232,
+    "TagsIndex": [
+      "developer-tools",
+      "resources",
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "resources",
+      "education assistant"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "API"
+    ],
+    "WebsiteUrl": "https://www.fast.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fb3bb03d259a8804b8414e52b58a07c557cdbea7-1882x920.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "9a23a8d0-d57c-45ad-b89a-c7cb61a9a15b",
+    "ToolName": "VidIq",
+    "ToolDescription": "VidIQ is a SaaS product designed to help YouTube creators find topics and keywords for their videos. VidIQ's AI features include personalized prompts for your next video, view prediction count, and predictive analytics. ",
+    "ToolShortDescription": "Find topics & keywords for YT, with personalized prompts & analytics.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-16T00:00:00",
+    "FavCount": 160,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://vidiq.com/futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/77459cc0963d126b22d2437ede9091a55a0617bd-1815x934.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c103ff2d-1079-46c9-8a98-1aec77f54738",
+    "ToolName": "Woebot Health",
+    "ToolDescription": "Woebot is your personal mental health ally that helps you get back to feeling like yourself. Backed by clinical research, powered by AI.\n\n",
+    "ToolShortDescription": "AI-powered mental health ally backed by clinical research.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-15T00:00:00",
+    "FavCount": 255,
+    "TagsIndex": [
+      "life-assistant",
+      "health"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "healthcare"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://woebothealth.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3f561561ab4b402868cad1abcace1d35dd5cc480-1842x974.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f451fbb7-81e1-48b5-909d-e8494f90ae54",
+    "ToolName": "This Model Does Not Exist",
+    "ToolDescription": "Ailice is an AI-generated influencer! A new photo of her gets posted every 15 minutes. Vote for your favorite and help decide which one she posts on Instagram each day.",
+    "ToolShortDescription": "Alice is an AI-generated influencer! Vote to decide her Instagram posts.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-14T00:00:00",
+    "FavCount": 222,
+    "TagsIndex": [
+      "experiments",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "experiments",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.thismodeldoesnotexist.co/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/5d17f58565ebaf442a492bc2125111aada2aac4e-1841x897.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "4434c1cb-0f26-4487-91ec-b3d305a3e488",
+    "ToolName": "Superhuman",
+    "ToolDescription": "AI powered email inbox. Claims to automatically sort important email based on behavioral patterns, allows you to set reminders and holds you to them. Adds open rate tracker + undo send feature. \n",
+    "ToolShortDescription": "AI-powered inbox: auto-sorts, sets reminders, tracks open rates, undo send.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-14T00:00:00",
+    "FavCount": 131,
+    "TagsIndex": [
+      "email-assistant",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "email assistant",
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://superhuman.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ed34d4632a4660ec8446ebe132ea1346301c4138-1616x934.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "463eddbb-f9ac-4ba6-b254-cc4a3120a4f3",
+    "ToolName": "IdeasAI",
+    "ToolDescription": "Ideas on this page are 100% generated by OpenAI's GPT-3, an artificially intelligent deep learning model, without human involvement, and trained by you and 1,457,521+ other people who liked or disliked ideas",
+    "ToolShortDescription": "AI-generated ideas, trained by 1.5M+ people who liked/disliked them",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-14T00:00:00",
+    "FavCount": 512,
+    "TagsIndex": [
+      "startup-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "startup tools",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://ideasai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/181982912bf3cb839702ca07446943d8f6054efa-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "39c92330-0089-414f-8306-7a5d99c98a04",
+    "ToolName": "AutoRegex",
+    "ToolDescription": "This website uses AI to automate generating Regex. It can also translate a given Regex to English. ",
+    "ToolShortDescription": "AI-powered Regex generator & English translator.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-13T00:00:00",
+    "FavCount": 88,
+    "TagsIndex": [
+      "code-assistant",
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "code assistant",
+      "developer tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.autoregex.xyz/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0f3b13bf42f47436e641ceb20aeac88c6ec8eb86-1244x897.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f8615a72-d50f-4ea2-85a7-20775691e2be",
+    "ToolName": "AI Experiments",
+    "ToolDescription": "AI Experiments is a showcase by Google for simple experiments that make it easier for anyone to start exploring machine learning, through pictures, drawings, language, music, and more. You can find tools like TalkToBooks and TeachableMachine here.",
+    "ToolShortDescription": "Explore ML through pictures, drawings, language and music",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-12T00:00:00",
+    "FavCount": 189,
+    "TagsIndex": [
+      "resources",
+      "experiments"
+    ],
+    "ToolCategories": [
+      "resources",
+      "experiments"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://experiments.withgoogle.com/collection/ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/daf655bcd4cd1517a5371b7f150ca62476012b54-1639x838.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

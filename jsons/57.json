@@ -1,0 +1,228 @@
+[
+  {
+    "Id": "749a28fe-e952-463e-b9c0-19249f2efa89",
+    "ToolName": "AppIcons AI",
+    "ToolDescription": "AI-generated mobile app icons for both Android and iOS platforms. No image editing software or technical skills are required. Can generate 6 different designs and can select one to crop and preview. You can then upscale and download it.",
+    "ToolShortDescription": "Generate AI-created app icons for Android/iOS",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-16T00:00:00",
+    "FavCount": 60,
+    "TagsIndex": [
+      "developer-tools",
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "design assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://appicons.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8bd8cdbe433abafa1341c29d75c08cbef8d00830-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "548a87ce-9dc7-468b-9f6a-b097d8613834",
+    "ToolName": "ExplainPaper",
+    "ToolDescription": "Get an explanation of confusing text on research papers by highlighting them. You can upload a paper and save papers as well.",
+    "ToolShortDescription": "Get explanations of research papers by highlighting & uploading/saving them.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-15T00:00:00",
+    "FavCount": 116,
+    "TagsIndex": [
+      "research-assistant"
+    ],
+    "ToolCategories": [
+      "research"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.explainpaper.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9853e24d51399c68a20216df4661a2672fda9854-1897x959.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "fa8d7a27-4019-463d-a7b6-d87abccc2c75",
+    "ToolName": "Edaly",
+    "ToolDescription": "AI Powered EdTech SaaS enabling educators and learners to connect globally with remote education. Edaly brings the credibility and authenticity of online exams and test via live proctoring with smart AI algorithm. It also empower parents to explore their child potential talents and skills and uses AI to predict their optimal career path.",
+    "ToolShortDescription": "AI-Powered EdTech SaaS connecting educators, learners, and parents globally",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-15T00:00:00",
+    "FavCount": 31,
+    "TagsIndex": [
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "education assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://edaly.co/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ae25eeeb119fa7d1ebcb843b54485fa67ec51580-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "945bd30d-4547-4012-bc64-6bdcb0e7cf7d",
+    "ToolName": "Keywrds.ai",
+    "ToolDescription": "Keywrds.ai is a keyword research and content ideation tool utilizing GPT. Built to be able to find niche relevant keywords, as well a generate questions, topics and blog post outlines. With Keywrds.ai you can scrape the Google 'People Also Ask' questions and automatically generate answers for them.",
+    "ToolShortDescription": "Keyword research & content ideation tool w/ GPT, scraping & answer generation.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-15T00:00:00",
+    "FavCount": 58,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://keywrds.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/480e6e09bc0b74b41d4b1746e8b6e07f43c34304-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "397c8523-88e8-49a6-82d4-391ec75b6d92",
+    "ToolName": "Phraser",
+    "ToolDescription": "Phraser is a collaborative creative AI tool. Use it to easily create a wide range of creations, including photos, gadgets, clothing, art, designs, and render-style images.",
+    "ToolShortDescription": "Create art, designs, photos, gadgets, clothing & render-style images",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-15T00:00:00",
+    "FavCount": 37,
+    "TagsIndex": [
+      "image-generator",
+      "resources",
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "resources",
+      "art"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://phraser.tech/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e7fddd34899bbb097077acf181bf8ad25ebcc6db-1178x895.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "5becd3bc-6aeb-413d-aa23-c35d80195bdf",
+    "ToolName": "getaiway",
+    "ToolDescription": "Instantly create your personalised travel plan, using AI. Curates some premade travel plans as well.",
+    "ToolShortDescription": "Create personalized travel plans with AI, or use premade plans.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-15T00:00:00",
+    "FavCount": 116,
+    "TagsIndex": [
+      "life-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://getaiway.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e6fac8bedceb5f2f9acdd1f8f23f00ac9dc86455-1886x922.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "b4d6dfb7-7f05-48f8-82ca-e4ad0cddf40f",
+    "ToolName": "PatentPal",
+    "ToolDescription": "Generative AI for Intellectual Property.\nAutomate mechanical writing in your patent applications.",
+    "ToolShortDescription": "Generative AI for Intellectual Property.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-14T00:00:00",
+    "FavCount": 70,
+    "TagsIndex": [
+      "legal-assistant"
+    ],
+    "ToolCategories": [
+      "legal assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://patentpal.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7d1a4003fadfe59fd11aa0fff8f8d6c5273a83db-1805x922.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f83663dd-f3fd-4f08-b138-dc9f1ec16c86",
+    "ToolName": "AweMyFace",
+    "ToolDescription": "AweMyFace is a skincare app and AI-powered guide to perfect skin. Take a photo of your face and our artificial intelligence will find acne and show the percentage of the affected area of each zone: forehead, temples, T-zone, nose, cheeks and chin. Any micro change that is difficult to notice even with the closest eye will not pass by the attention of our skincare AI. You will always have an objective picture of the changes. Their AI detects acne with 99.1% accuracy.\n\n",
+    "ToolShortDescription": "Skincare app & AI-powered guide to perfect skin with 99.1% accuracy.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-14T00:00:00",
+    "FavCount": 44,
+    "TagsIndex": [
+      "life-assistant",
+      "health"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "healthcare"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://apps.apple.com/app/apple-store/id1621101995?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ecf0e8bf1e08da6c816de9472b1321c302a4639d-1029x910.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "cdea0a72-c5ce-49a6-b78d-a36a065eb921",
+    "ToolName": "Aide",
+    "ToolDescription": "Identify common issues and use AI suggested solutions for fast responses and happy users. It visualizes issues for you and provides models that improve over time.",
+    "ToolShortDescription": "AI-driven issue visualization & solutions for fast, accurate responses & improved user satisfaction.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-01-14T00:00:00",
+    "FavCount": 18,
+    "TagsIndex": [
+      "customer-support"
+    ],
+    "ToolCategories": [
+      "customer support"
+    ],
+    "NewFeatures": [
+      "Waitlist",
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://aide.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/873b95bbc2b38275652f8fb847b977bf015ca5eb-1834x951.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

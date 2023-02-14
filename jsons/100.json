@@ -1,0 +1,225 @@
+[
+  {
+    "Id": "392e3888-1007-4a2f-8542-363d7748ed04",
+    "ToolName": "Podcastle",
+    "ToolDescription": "The One-Stop Shop for Broadcast Storytelling. Great AI tool for podcasters or anyone who deals with long-form video creation.\nStudio-quality recording, AI-powered editing, and seamless exporting – all in a single web-based platform.",
+    "ToolShortDescription": "Studio-quality recording, AI-powered editing and exporting for broadcasts.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-24T00:00:00",
+    "FavCount": 53,
+    "TagsIndex": [
+      "audio-editing"
+    ],
+    "ToolCategories": [
+      "audio editing"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://podcastle.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7fc6252917cc34da6d44a6e26e9697e23414d2b1-1817x910.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "386ca323-d30b-47d7-ad5e-3e6418f06d70",
+    "ToolName": "Rephrase",
+    "ToolDescription": "Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.",
+    "ToolShortDescription": "Hyper-personalized video creation at scale for engagement & efficiency.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 39,
+    "TagsIndex": [
+      "personalized-videos"
+    ],
+    "ToolCategories": [
+      "personalized videos"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.rephrase.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/cc4c6f77358d3f72eeec7314880dca9b769753be-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "3863aaf1-be73-44e9-bbf0-0465f45045c0",
+    "ToolName": "Debuild",
+    "ToolDescription": "Build web apps lightning fast.",
+    "ToolShortDescription": "Create web apps quickly with ease.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 159,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://debuild.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c30a661a6fc358b4caa6d895452353ba4184671c-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "38505eb3-98dc-479f-b74e-1e9a46b08e0f",
+    "ToolName": "Teleporthq",
+    "ToolDescription": "TeleportHQ is the collaborative front-end platform with integrated UI development and content modelling tools. A powerful visual builder to create and publish your headless static websites instantly.",
+    "ToolShortDescription": "Collaborative front-end platform for UI development",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-30T00:00:00",
+    "FavCount": 55,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://teleporthq.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f8e92d32a81543e1b6bcff336fc296a514323ba0-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "378253a5-0ee8-41b2-b2d1-1d44c63bd5ca",
+    "ToolName": "Explore AI",
+    "ToolDescription": "Semantic search engine powered by AI. Search for answers directly inside thousands of YouTube videos, free-of-cost, easy-to-navigate and fast.",
+    "ToolShortDescription": "AI-powered semantic search engine for fast answers in YouTube videos.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-03T00:00:00",
+    "FavCount": 183,
+    "TagsIndex": [
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "search engine"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://exploreai.vercel.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7326dc934d664c63226151186af900c8cd251ab6-1280x800.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "36f9f9f9-b26f-4340-8e7e-3cca4f433b51",
+    "ToolName": "Moonbeam Exchange",
+    "ToolDescription": "Moonbeam Exchange is a data science platform that leverages over 100 data sources to provide intelligence and insight to the entire innovation ecosystem.",
+    "ToolShortDescription": "Data science platform providing intelligence & insight from 100+ sources.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 25,
+    "TagsIndex": [
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "developer tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://moonbeam.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9f67762ee339a65a4edb0ef6a5b00fdf45a92747-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "36d652bf-e3fa-46fd-8799-bfd1ba24ed39",
+    "ToolName": "Artflow ai",
+    "ToolDescription": "Effortlessly turn ideas into Animated Stories & let the Creativity flow.\nArtflow.ai lets you create your own, unique Animated Stories with original characters using assets generated with AI.",
+    "ToolShortDescription": "Animated Stories with AI-generated assets & original characters",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-30T00:00:00",
+    "FavCount": 318,
+    "TagsIndex": [
+      "storyteller"
+    ],
+    "ToolCategories": [
+      "story teller"
+    ],
+    "NewFeatures": [
+      "Mobile App",
+      "Discord Community",
+      "API"
+    ],
+    "WebsiteUrl": "https://artflow.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2b012faa80b02b5f74e6acdf118f0673e9b9fb8b-1848x962.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "3689bb00-ee3f-4ccf-8c18-856193f8a1c3",
+    "ToolName": "WebCopilot",
+    "ToolDescription": "Write your Notion pages with AI. Just start and let the AI write for you. Speed up your writing process and focus on what matters.",
+    "ToolShortDescription": "AI-assisted writing to speed up your Notion pages creation",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-20T00:00:00",
+    "FavCount": 239,
+    "TagsIndex": [
+      "writing-assistant"
+    ],
+    "ToolCategories": [
+      "general writing"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://www.webcopilot.co/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c9e1498958f3c16444bbfd5f6a1f9d7079b66e41-1852x907.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "36806051-1743-4371-998a-93430b428dbe",
+    "ToolName": "Text Generator Plugin",
+    "ToolDescription": "Text Generator is an open-source AI Assistant Tool that brings the power of Generative Artificial Intelligence to the power of knowledge creation and organization in Obsidian.\n\nFor example, use Text Generator to generate ideas, attractive titles, summaries, outlines, and whole paragraphs based on your knowledge database.\n\nThe possibilities are endless!",
+    "ToolShortDescription": "AI Assistant Tool for knowledge creation & organization in Obsidian.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-30T00:00:00",
+    "FavCount": 154,
+    "TagsIndex": [
+      "writing-assistant",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Open Source"
+    ],
+    "WebsiteUrl": "https://text-gen.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/62e5479e62f0a74d6037fc9d439721904b6d0be0-1611x817.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

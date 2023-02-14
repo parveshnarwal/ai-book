@@ -1,0 +1,226 @@
+[
+  {
+    "Id": "1aae229d-bfe8-498e-a82b-30534da811f1",
+    "ToolName": "AI Time Machine",
+    "ToolDescription": "Upload photos of yourself to create incredible AI-generated images. Travel through history with the AI Time Machine.\n",
+    "ToolShortDescription": "Create AI-generated images & time travel with AI Time Machine.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium",
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-22T00:00:00",
+    "FavCount": 116,
+    "TagsIndex": [
+      "avatar-generator",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "avatars",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.myheritage.com/ai-time-machine?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9a7300dcf64b7ae73bdb2f8f629c39e3282c0c99-3741x1729.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "1UmpiTFJ5DZVbFwwr22wCp",
+    "ToolName": "Dreamer",
+    "ToolDescription": "Integration Stable Diffusion in Notion to AI generate images with a new slash command.",
+    "ToolShortDescription": "Integrate Notion w/ AI to generate images w/ slash command.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-11T00:00:00",
+    "FavCount": 16,
+    "TagsIndex": [
+      "image-generator"
+    ],
+    "ToolCategories": [
+      "image generator"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://slashdreamer.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/46595f6f84e1aeea4d63ddedbf12f7154571bbbc-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "1SCmtL44TC3C3rth3PEGcv",
+    "ToolName": "Type Studio",
+    "ToolDescription": "Type Studio is a text-based video editor that takes your video and transcribes it into text automatically. They also have quick tools for video editing, subtitles, podcast, repurposing, and recording.",
+    "ToolShortDescription": "Automated video-to-text transcription & quick video editing tools.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-27T00:00:00",
+    "FavCount": 76,
+    "TagsIndex": [
+      "video-editing",
+      "transcriber"
+    ],
+    "ToolCategories": [
+      "video editing",
+      "transcriber"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.typestudio.co/tool/video-to-text/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d42f2c501ced9c40436d177602b2836624372cf3-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "1EQN1oXuoKKvJoga4BPKvj",
+    "ToolName": "Chai",
+    "ToolDescription": "Mobile app that allows you to build and deploy an AI chatbot to thousands of users. Chat with AI.",
+    "ToolShortDescription": "Build and deploy AI chatbot. Chat with AI.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-30T00:00:00",
+    "FavCount": 85,
+    "TagsIndex": [
+      "fun-tools",
+      "gaming"
+    ],
+    "ToolCategories": [
+      "fun tools",
+      "gaming"
+    ],
+    "NewFeatures": [
+      "Mobile App",
+      "API"
+    ],
+    "WebsiteUrl": "https://chai.ml/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1e63dc3735434a1cf06014bfc3a564636ced844a-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "19e45084-37c1-43b8-9ff7-60cd4ba161bb",
+    "ToolName": "Writewithlaika",
+    "ToolDescription": "Magical Machine Learning for Writers",
+    "ToolShortDescription": "ML for writers to create magical stories!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 50,
+    "TagsIndex": [
+      "writing-assistant"
+    ],
+    "ToolCategories": [
+      "general writing"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://www.writewithlaika.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/490a16b8cabbef371d9c8ab5167ca8f568a643f5-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "18741aec-2031-43e1-affa-a60089bb0560",
+    "ToolName": "Rephrasely",
+    "ToolDescription": "Paraphrasing is a natural part of the writing process as it helps you clarify your thinking and suit your words to your audience. Using a Rephrasely helps structure and streamline this work, and our paraphrase tool offers 20 modes, many of them free, for accomplishing just this. The 20 modes we offer are diverse, including a summarize tool, a free grammar checker, a mode to simplify text, and a sentence shortener. ",
+    "ToolShortDescription": "Paraphrase tool with 20 modes to help clarify thinking & suit words to audience.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium",
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-26T00:00:00",
+    "FavCount": 52,
+    "TagsIndex": [
+      "paraphraser"
+    ],
+    "ToolCategories": [
+      "paraphraser"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://rephrasely.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7a23ac79da27787ab4c87c0963a46e6116039996-1845x939.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "17fa216e-ad72-49fa-9b72-da1f61b229ad",
+    "ToolName": "Hairgen AI",
+    "ToolDescription": "Ever wonder how you would look with a hair transplant?\nGet a preview of how you would look before you spend thousands on a FUE/FUT procedure. See your hairline lowered with AI right now.",
+    "ToolShortDescription": "See your new hairline with AI before getting a hair transplant.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-13T00:00:00",
+    "FavCount": 9,
+    "TagsIndex": [
+      "avatar-generator"
+    ],
+    "ToolCategories": [
+      "avatars"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.hairgen.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b12d4223d5ee322c7f97ddee23ca3bb0e8f4a190-1795x940.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "17d3f5f7-6468-4717-8bd5-d633e2daf75e",
+    "ToolName": "Subtxt",
+    "ToolDescription": "Subtxt is the only intelligent outliner that works with your writer's intuition, not against it.",
+    "ToolShortDescription": "Intelligent outliner that works with your writer's intuition.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 59,
+    "TagsIndex": [
+      "storyteller"
+    ],
+    "ToolCategories": [
+      "story teller"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://subtxt.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b6d24cf8ad09428f72303b5e363f321cd23583df-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "17ae7b08-6036-4cfe-9e79-ff19e5aeb47e",
+    "ToolName": "Xokind",
+    "ToolDescription": "Powerful AI agents for Customer Support, Travel, & Sales. XOKind offers an AI platform for product & data teams to leverage Machine Learning and large AI models via a simple API endpoint.",
+    "ToolShortDescription": "Platform for ML & large AI models via API endpoint for Customer Support, Travel, & Sales.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 26,
+    "TagsIndex": [
+      "customer-support",
+      "sales-assistant"
+    ],
+    "ToolCategories": [
+      "customer support",
+      "sales"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.xokind.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ea561662b240747c23ff7b33b871972c8ee30cd6-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

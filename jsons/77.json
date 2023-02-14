@@ -1,0 +1,228 @@
+[
+  {
+    "Id": "cc7af4e2-4153-4599-b901-7df83e5839fe",
+    "ToolName": "AskCodi",
+    "ToolDescription": "Write Syntax, Comments, and Tests. Faster. Easier. Better. AskCodi is made keeping in mind the needs of developers to avoid redundant tasks, therefore resulting in less time spent on development and more time to execute.",
+    "ToolShortDescription": "Help developers write syntax, comments, and tests faster, easier, and better.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-23T00:00:00",
+    "FavCount": 31,
+    "TagsIndex": [
+      "code-assistant"
+    ],
+    "ToolCategories": [
+      "code assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.askcodi.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/26c16a667c32050b1dc4a5e53cc0f6d4c326e735-3777x1761.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "cbcf9252-fc29-40cc-a9bf-99ce647577b5",
+    "ToolName": "Visio Studio",
+    "ToolDescription": "Advanced background removal tool, powered by computer vision technology. Visio Studio allows you to edit and optimise your pictures directly from your phone. ",
+    "ToolShortDescription": "Advanced background removal & photo editing from your phone.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 35,
+    "TagsIndex": [
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "image editing"
+    ],
+    "NewFeatures": [
+      "Browser Extension",
+      "API"
+    ],
+    "WebsiteUrl": "https://visio.studio/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f70af63c394dfaf099dbf9def45922a5092ddca3-3779x1717.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "cWeNuEh6UnqgLJfjTk7VhX",
+    "ToolName": "Soundful",
+    "ToolDescription": "Soundful empowers creators to generate royalty free tracks at the click of a button. The quality of Soundful music is so rich, you won’t believe it was made with AI.",
+    "ToolShortDescription": "Royalty-free music with a click of a button",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-21T00:00:00",
+    "FavCount": 105,
+    "TagsIndex": [
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "music"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://soundful.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/38af1ce585de1a31ed38b89893491ad7d2b5c70a-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "c9b5ea62-e676-4d90-ac95-a8b44644ebef",
+    "ToolName": "IllostrationAI",
+    "ToolDescription": "Create AI-generated illustrations. Uniqueness in seconds.\nWe're currently in public beta. Sign up to get early access.\n\n",
+    "ToolShortDescription": "Create unique AI-generated illustrations. Get early access in public beta.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-28T00:00:00",
+    "FavCount": 70,
+    "TagsIndex": [
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "design assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://www.illostration.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/61fefb1cd33aeedc50010735eaf20dede15be448-1739x961.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c8b8d5a1-ce02-4330-9136-8e35b826eda0",
+    "ToolName": "Stylized",
+    "ToolDescription": "Professional product photos in seconds.\nStylized uses artificial intelligence to create stunning product photos and editorials - no studio required",
+    "ToolShortDescription": "AI-powered product photos in seconds - no studio needed!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-07T00:00:00",
+    "FavCount": 88,
+    "TagsIndex": [
+      "image-generator"
+    ],
+    "ToolCategories": [
+      "image generator"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://stylized.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/5b194901e6b7f1f73c1f3259d34ae5fdda6b78ae-1816x946.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c7898727-6944-4ec1-88d2-a210c97f1883",
+    "ToolName": "Vidyo.ai",
+    "ToolDescription": "Make short videos from long ones instantly.\nUse powerful AI to create short clips from your existing videos ✨ Save 90% time and effort.",
+    "ToolShortDescription": "Create short clips from long videos, save 90% time and effort.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-30T00:00:00",
+    "FavCount": 95,
+    "TagsIndex": [
+      "video-editing"
+    ],
+    "ToolCategories": [
+      "video editing"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://vidyo.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/534ab98403024e68d9ebcdffffd468e9eb59e888-1868x966.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c768b0c3-ad26-4a3e-946e-5c8330fcceee",
+    "ToolName": "Wordtune",
+    "ToolDescription": "Wordtune is the ultimate AI writing tool that rewrites, rephrases, and rewords your writing! Trusted by over 1,000,000 users, Wordtune strengthens articles, academic papers, essays, emails and any other online content.",
+    "ToolShortDescription": "Writing tool that rewrites, rephrases & rewords content.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 284,
+    "TagsIndex": [
+      "writing-assistant",
+      "summarizer"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "summarizer"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.wordtune.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/bfa1a04e860a46b77c310d6fb878c17a196f0b82-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "c7557112-5f7b-4685-a30b-6e7c4bfa1473",
+    "ToolName": "Consensus",
+    "ToolDescription": "Consensus is a search engine that uses AI to instantly extract, aggregate, and distill findings directly from scientific research.  ",
+    "ToolShortDescription": "Search engine that extracts, aggregates, and distills scientific research.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 396,
+    "TagsIndex": [
+      "research-assistant",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "research",
+      "search engine"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://consensus.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7069ec6b740aac124b4646f973982b4a1c586923-3339x1589.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "c73eed94-5d7a-43e0-9028-4b6fd33bce5a",
+    "ToolName": "Amper",
+    "ToolDescription": "Amper’s mission is to enable anyone to express themselves creatively through music regardless of their background, expertise, or access to resources. Amper builds tools powered by our Creative AI to help people create and customize original music. They also provide an API that you can use to create your own products.",
+    "ToolShortDescription": "Create music with AI-powered tools & an API.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-18T00:00:00",
+    "FavCount": 68,
+    "TagsIndex": [
+      "developer-tools",
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "music"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://score.ampermusic.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b27ed80894a7ab7ae3c00ab5258735e294b4b0d7-1719x859.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

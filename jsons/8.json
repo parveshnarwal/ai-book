@@ -1,0 +1,235 @@
+[
+  {
+    "Id": "f3b2c872-154a-4879-816a-20430af4049a",
+    "ToolName": "Facial Assessment Tool",
+    "ToolDescription": "A facial assessment tool by Qoves Studio that uses machine learning to analyze your face like a clinician and suggests cosmetics improvements to your routine.",
+    "ToolShortDescription": "Use ML to analyze your face and get cosmetic suggestions.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-31T00:00:00",
+    "FavCount": 111,
+    "TagsIndex": [
+      "life-assistant",
+      "health"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "healthcare"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://qoves.com/facial-assessment-tool/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/50af08e6164071cc8a0226b7218dc43fdd9520a0-1120x841.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "dcb250de-c8bb-4403-b7d7-99b9ca26bf3f",
+    "ToolName": "Automata",
+    "ToolDescription": "Automata uses AI to repurpose blogs, news, & videos into LinkedIn posts, Twitter threads, and email content.",
+    "ToolShortDescription": "AI-powered Content Repurposing",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-31T00:00:00",
+    "FavCount": 69,
+    "TagsIndex": [
+      "copywriting-assistant",
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting",
+      "social media assistant"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://byautomata.io?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1f4c3665a364715983d7b32a99d4ccdad6a3348b-1808x921.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f50ccb38-0cb7-49a5-9cad-3363544b90ba",
+    "ToolName": "Namy ai",
+    "ToolDescription": "Namy is a simple tool to generate some domain name ideas for your business or brand. Simply enter a few details about your product or brand and hit “Generate!“. The tool will give you a list of fitting domain names, and also tell you if they’re registered or not. Namy uses the Namecheap API to check which domains have already been registered",
+    "ToolShortDescription": "Simple tool to generate domain name ideas",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-31T00:00:00",
+    "FavCount": 223,
+    "TagsIndex": [
+      "startup-assistant"
+    ],
+    "ToolCategories": [
+      "startup tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required",
+      "API"
+    ],
+    "WebsiteUrl": "https://namy.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c2394b1c9fc31359ab4cc7ccfbe5a7441d3e7b58-1716x940.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "3180567d-126e-46a3-90f1-151d5f4ac686",
+    "ToolName": "GymGenie",
+    "ToolDescription": "GymGenie is an AI-powered web application that provides customized workout routines based on individual gym goals. It utilizes advanced algorithms and machine learning techniques to generate personalized exercise plans, offering a unique and convenient solution for people looking to achieve their fitness goals. With its innovative approach and growing demand for accessible fitness solutions, GymGenie presents a great opportunity for individuals looking to enter the health and wellness space.",
+    "ToolShortDescription": "Create custom workout routines based on individual gym goals",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-31T00:00:00",
+    "FavCount": 230,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://gymgenie.vercel.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ab368207033ad636cbca8cbd947fcff7ba9d06ab-1088x972.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "5fdb3ac9-c40b-4dc9-954f-91a190a6db10",
+    "ToolName": "Cleanup.pictures",
+    "ToolDescription": "A retouch technology used to remove any unwanted objects from photos (object removal). It can be used to remove an unwanted person. It used to work with a clone tool like the inpaint, but using artificial intelligence gives much better results today.",
+    "ToolShortDescription": "Remove any unwanted objects from photos ",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-30T00:00:00",
+    "FavCount": 125,
+    "TagsIndex": [
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "image editing"
+    ],
+    "NewFeatures": [
+      "API",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://cleanup.pictures/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3976aed74abd849643723d92c5b5a88ef974c0c9-1882x965.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "052cdf89-4989-4048-ad8d-f2ff61381c2b",
+    "ToolName": "Journeai",
+    "ToolDescription": "Hyper personalized trip recommendations with google map integration. Whether you like antique stores or skydiving, taking small kids, crossing the Sahara desert or going on a road trip... This app can build you just the right trip to any place in the world in seconds.",
+    "ToolShortDescription": "Build your next travel itinerary from plain text",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-29T00:00:00",
+    "FavCount": 195,
+    "TagsIndex": [
+      "life-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://journeai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4b68007120a6819739c751d09e010f9420677b6c-1463x1172.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "8c70e8b0-087e-4b80-8b9b-18e35c54e5dc",
+    "ToolName": "Article Fiesta",
+    "ToolDescription": "An AI writer to help you create articles for your website or blog. All you need to provide is your keyword, and we will take care of the rest. Our AI robot will create long-form, SEO-ready articles ready to be published on your site today. Don't bother with other sites which just write content. Article Fiesta adds rich, royalty-free images, SEO in article ranking features, and can even auto-build internal links from within the article to your website content. Try us free. No credit card needed.",
+    "ToolShortDescription": "Create articles for your website or blog by just providing a keyword",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial",
+      "Deals"
+    ],
+    "PublishedAt": "2023-01-28T00:00:00",
+    "FavCount": 44,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://articlefiesta.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/5e6aa678cc824def14b9b18b54b556305310754a-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "8b912acd-b8e8-4249-8552-3a5dc071b25a",
+    "ToolName": "Gooey.AI",
+    "ToolDescription": "A low-code platform to discover, tweak and compose AI workflows. Offers a unified billing layer to enable API access to the latest Generative AI models (e.g. OpenAI’s GPT3 + DallE, Lots of Stable Diffusion image models, Voice generators, LipSync, InstructPix2Pix, etc) plus more paid APIs such as social profile lookups and SEO APIs. Tweak a workflow and then immediately use it as an API in your own app.  Prototype how AI will integrate with your own site/app. ",
+    "ToolShortDescription": "Prototype how AI will integrate with your own site/app.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-28T00:00:00",
+    "FavCount": 62,
+    "TagsIndex": [
+      "developer-tools",
+      "no-code"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://gooey.ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4a51f1bddd6c487a33ecc61a2721da6dc23f2c09-1827x892.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "8aa6d906-34f0-4804-8050-a1ae9dd0bdc1",
+    "ToolName": "Moji Writing Assistant ",
+    "ToolDescription": "Powered by GPT-3, Moji helps you write better content faster and with less effort.\n\nOne of the standout features of our app is the text-to-image feature. This tool allows you to turn your written words into visually stunning images, perfect for social media or to add a little extra oomph to your blog post.\n\nAlong with this, you are also able to make your own music using this app.\n",
+    "ToolShortDescription": "Create better content faster and with less effort.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium",
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-28T00:00:00",
+    "FavCount": 83,
+    "TagsIndex": [
+      "writing-assistant",
+      "image-generator",
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "image generator",
+      "music"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://apps.apple.com/us/app/moji-writing-assistant/id6443924609?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d53586d9c24503f77ca4d81e506e557728f7742f-1177x893.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

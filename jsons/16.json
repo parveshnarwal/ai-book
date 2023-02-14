@@ -1,0 +1,218 @@
+[
+  {
+    "Id": "90ddc143-a5eb-40f1-912f-8c474ce66757",
+    "ToolName": "CopyMonkey",
+    "ToolDescription": "CopyMonkey generates and optimizes Amazon listings in seconds. AI helps place all of the important keywords in your Amazon listing to get you ranking organically on the first page.",
+    "ToolShortDescription": "Optimize Amazon listings to rank on first page in seconds.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 271,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://copymonkey.ai",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/89747ccf8c4523f3a38403c7cdc7156ff21de0cb-1665x945.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "906bae37-23f7-40f8-b56c-6149ecf6dd89",
+    "ToolName": "Heyday",
+    "ToolDescription": "Heyday is an AI-powered memory assistant that resurfaces content you forgot about while you browse the web. Remember more of what you learn. Automatically. ",
+    "ToolShortDescription": "AI-powered memory assistant that resurfaces content",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid",
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-30T00:00:00",
+    "FavCount": 196,
+    "TagsIndex": [
+      "memory-assistant"
+    ],
+    "ToolCategories": [
+      "memory"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://heyday.xyz/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/547355234b9631e28f7569e947f098e0517ea0cd-1796x902.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "8801c38a-c4dd-42ab-b06b-dae8dce2d58f",
+    "ToolName": "Murf AI",
+    "ToolDescription": "Go from text to speech with a versatile AI voice generator\nAI-enabled, real people's voices\nMake studio-quality voiceovers in minutes. Use Murf’s lifelike AI voices for podcasts, videos, and all your professional presentations\n\n",
+    "ToolShortDescription": "Create studio-quality voiceovers with AI-generated, real people's voices.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-30T00:00:00",
+    "FavCount": 178,
+    "TagsIndex": [
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "text to speech"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://murf.ai/?lmref=Ooighw",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d02772f185d575971672e190690ef8d0a2215ab4-1858x932.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "850ccfbe-f9d8-4285-a8ce-99ed937716dd",
+    "ToolName": "Roboflow",
+    "ToolDescription": "Give your software a sense of sight.\nWith a few images, you can train a working computer vision model in the afternoon.",
+    "ToolShortDescription": "Train a computer vision model in an afternoon with images.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-08T00:00:00",
+    "FavCount": 54,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://roboflow.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6440e1f7c6674ddbaed320f2640038c621b05dab-1846x862.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "7d323dc7-e3c4-4fc5-9592-c6df95d4413e",
+    "ToolName": "Channel",
+    "ToolDescription": "Ask a question in English (natural language) and automatically generate the SQL, answers and visualisations you need. Collaborate with team mates to quickly create dashboards and then explore your data further with Channel’s suggested questions.",
+    "ToolShortDescription": "Automate data exploration with natural language questions",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-04T00:00:00",
+    "FavCount": 97,
+    "TagsIndex": [
+      "sql-assistant"
+    ],
+    "ToolCategories": [
+      "SQL"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://www.usechannel.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/01c69dfd68604265e2036a967f435b4905479a18-1892x782.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "79d51004-840e-4fcc-80c1-d3804735d36f",
+    "ToolName": "DallE-2",
+    "ToolDescription": "DALL·E  2 can create original, realistic images and art from a text description. It can combine concepts, attributes, and styles.",
+    "ToolShortDescription": "Create realistic images from text, combining concepts and styles.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-17T00:00:00",
+    "FavCount": 895,
+    "TagsIndex": [
+      "image-generator"
+    ],
+    "ToolCategories": [
+      "image generator"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://openai.com/dall-e-2/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1cca013eba633e9c48234774a0d0cdc5ee7a6d34-1580x963.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "76c8d0ce-d0b8-447f-ab08-eaaf87c8e886",
+    "ToolName": "Runwayml",
+    "ToolDescription": "Discover advanced video editing capabilities to take your creations to the next level.",
+    "ToolShortDescription": "Unlock advanced video editing to elevate your creations.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 307,
+    "TagsIndex": [
+      "video-editing"
+    ],
+    "ToolCategories": [
+      "video editing"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://runwayml.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/31790ec63f8bb3f18c519f0a03c24042668f76b6-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "70ecd8c6-9227-4caf-8e58-2e1582a89241",
+    "ToolName": "echowin",
+    "ToolDescription": "Automate Incoming Calls With AI.\nGet a new phone number or bring your existing one. Your customers will call our AI-powered system that will help them get the answers they need, perform business tasks or connect them to the right person if needed. You can focus on running your business while we handle the calls!",
+    "ToolShortDescription": "Automate incoming calls with AI",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-29T00:00:00",
+    "FavCount": 227,
+    "TagsIndex": [
+      "customer-support"
+    ],
+    "ToolCategories": [
+      "customer support"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://echo.win/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/bf0217fd20225aaaa7a9fb5f31e44752abd0835e-1900x948.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "6ff5551d-ce61-44b5-8361-9ef37aeb2c05",
+    "ToolName": "Excel Formula Bot",
+    "ToolDescription": "Transform your text instructions into Excel formulas in seconds with the help of AI.\nStop wasting hours creating Excel formulas. Experience the full power of Excel & Google Sheets AI formula generators to solve problems in seconds.",
+    "ToolShortDescription": "Create Excel formulas in seconds with AI-powered formula generators.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-06T00:00:00",
+    "FavCount": 508,
+    "TagsIndex": [
+      "spreadsheet-assistant"
+    ],
+    "ToolCategories": [
+      "spreadsheets"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://excelformulabot.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/354fd3c5dae7c0f8ab827f078309f5d88d820a69-861x667.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

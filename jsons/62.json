@@ -1,0 +1,241 @@
+[
+  {
+    "Id": "cb397e0a-6756-4361-91e8-f2282ca36962",
+    "ToolName": "CoolAIid",
+    "ToolDescription": "Interior design ideas using AI. Whether you're looking to decorate or just need a little inspiration, we'll generate unique ideas using AI.",
+    "ToolShortDescription": "Get unique interior design ideas using AI.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-10T00:00:00",
+    "FavCount": 50,
+    "TagsIndex": [
+      "real-estate"
+    ],
+    "ToolCategories": [
+      "real estate"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://coolaiid.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d61fed2733147439acfb8018c3936b7170cda0f6-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "0dbdf83b-eacb-4fb7-9aa1-40079c3e7562",
+    "ToolName": "Summate",
+    "ToolDescription": "Experimental AI tool that summarizes web articles. The site uses Full-Text RSS for article extraction and OpenAI for article summarization.",
+    "ToolShortDescription": "AI tool summarizing web articles using Full-Text RSS & OpenAI.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-09T00:00:00",
+    "FavCount": 81,
+    "TagsIndex": [
+      "research-assistant",
+      "summarizer"
+    ],
+    "ToolCategories": [
+      "research",
+      "summarizer"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://summate.it/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2ad0529b1db636e6f080cfc40a39f8817a510768-1319x880.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "fbca1717-9421-46f3-a13d-227fe9cb5ae3",
+    "ToolName": "Bria",
+    "ToolDescription": "Integrate Bria’s AI-powered API to automate and scale the creation of video and images.",
+    "ToolShortDescription": "Integrate Bria's API to automate video/image creation at scale.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-09T00:00:00",
+    "FavCount": 39,
+    "TagsIndex": [
+      "developer-tools",
+      "image-editing",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "image editing",
+      "search engine"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://bria.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e9c5df1714c232cb65e0e4fbd62af2509c767cfe-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "31e3dcd8-d3a8-4b5d-9a71-1c85a845b472",
+    "ToolName": "PolitePost",
+    "ToolDescription": "PolitePost rewrites your emails to be courteous, polite and safe for work. Perfect for when you are feeling frustrated writing emails and need an AI to keep you polite!",
+    "ToolShortDescription": "PolitePost helps you write polite, safe emails with AI assistance.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-09T00:00:00",
+    "FavCount": 151,
+    "TagsIndex": [
+      "email-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "email assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://politepost.net/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6d22a2ae1c9cd7328df6a6a0af463c6f0402dcfd-1869x975.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "bdf29dfc-3a21-449a-92ee-2eeb14531c40",
+    "ToolName": "Nuclia",
+    "ToolDescription": "Nuclia automatically indexes your unstructured data from any internal and external source, providing optimized search results. It can handle video and audio transcription, image content extraction, and document parsing.",
+    "ToolShortDescription": "Nuclia indexes unstructured data from any source",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-09T00:00:00",
+    "FavCount": 52,
+    "TagsIndex": [
+      "developer-tools",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "search engine"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "API",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://nuclia.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9b988ab86f1daea4f96cf43e5dbef5111dac30a5-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "e125460c-6029-4e15-a0cf-c1c160cd175e",
+    "ToolName": "Maverick",
+    "ToolDescription": "Maverick is a code completion tool powered by AI. Built at Yurts, Maverick focuses on delivering the best code completion on your local machine without reaching out to any APIs or knowledge bases.",
+    "ToolShortDescription": "Code completion tool for local machines, no APIs or knowledge bases needed.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-09T00:00:00",
+    "FavCount": 47,
+    "TagsIndex": [
+      "code-assistant"
+    ],
+    "ToolCategories": [
+      "code assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://marketplace.visualstudio.com/items?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/54635ec26cce2107a4549ca1962e5298b09ecaeb-1689x938.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "bbed35d3-69ca-41c2-b354-5434927b762e",
+    "ToolName": "Rationale",
+    "ToolDescription": "Rationale is an app that helps entrepreneurs and managers in making tough decisions. Simply enter your pending decision and their AI powered app will list pros and cons or generate a SWOT analysis to help you weigh your options",
+    "ToolShortDescription": "AI-powered app to help entrepreneurs & managers make decisions",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-09T00:00:00",
+    "FavCount": 124,
+    "TagsIndex": [
+      "startup-assistant",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "startup tools",
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://rationale.jina.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/80afaa5ee7a0d586661126c8a4374575eb2f8694-1111x726.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "095743bc-b7ef-4ca3-965f-5beccfd079c9",
+    "ToolName": "Ferret",
+    "ToolDescription": "Ferret’s unparalleled AI app, combined with world class information, provides you with exclusive relationship intelligence that can help you avoid high-risk individuals and spot promising opportunities.",
+    "ToolShortDescription": "Spot high-risk/promising opportunities with exclusive relationship intelligence.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-09T00:00:00",
+    "FavCount": 47,
+    "TagsIndex": [
+      "life-assistant",
+      "legal-assistant",
+      "human-resources"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "legal assistant",
+      "human resources"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://www.ferret.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8c236342bdb24c3c6ead06e2ac406ea4bd4a89ab-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "1f0f3011-1287-442a-ac40-23c865eb9491",
+    "ToolName": "FlowGPT",
+    "ToolDescription": "FlowGPT: Share, discover, and learn about the most useful ChatGPT prompts that help you streamline your tasks and increase productivity.",
+    "ToolShortDescription": "Share, discover & learn useful ChatGPT prompts to increase productivity.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-08T00:00:00",
+    "FavCount": 270,
+    "TagsIndex": [
+      "resources",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "resources",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://flowgpt.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8bf437ba51b32cee65fd365384e20dfce6db5cd3-1816x982.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "Id": "acd30c9b-73ca-4ad6-a484-66accaa994d1",
+    "ToolName": "PromptBox",
+    "ToolDescription": "Organise, edit, and save your AI prompts across different AI tools. Offers features like saving to prompt using right click. ",
+    "ToolShortDescription": "Organize, edit, and save AI prompts across tools with right-click saving.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-11T00:00:00",
+    "FavCount": 42,
+    "TagsIndex": [
+      "prompts-assistant"
+    ],
+    "ToolCategories": [
+      "prompts"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://www.promptbox.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/39bccdddcd6feba7a6c7f9991fbd0e974d539f7f-1389x951.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "4d01b063-06a4-4f12-82c4-86f855d872c1",
+    "ToolName": "Everypixel",
+    "ToolDescription": "A search engine powered by AI that indexes 50 paid and free stock image websites, and allows users to search through a massive database of stock photos in seconds.\nYou can also search by image and variety of search filters giving you the ability to search by color, orientation and image type. You can also compare image prices from various websites and search by author.\n",
+    "ToolShortDescription": "AI-powered search engine indexes 50+ stock image websites",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-11T00:00:00",
+    "FavCount": 118,
+    "TagsIndex": [
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "search engine"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://www.everypixel.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fa7356f41b33d9d26045ffa47cd3b413cf6215a1-1900x869.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "57a952c1-b6c6-4861-b407-14f72ae851f8",
+    "ToolName": "Gling",
+    "ToolDescription": "Gling is an AI tool made for video content creators. Their AI will cut silences and bad takes for you so you can focus on your YouTube videos.",
+    "ToolShortDescription": "Cut silences & bad takes, freeing up time to create videos.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-10T00:00:00",
+    "FavCount": 171,
+    "TagsIndex": [
+      "video-editing"
+    ],
+    "ToolCategories": [
+      "video editing"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.gling.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f580585e973da84aafa3f655d5ad6745ae44c4b8-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "47692b82-f7b3-44b7-b252-c16a8e36a2cc",
+    "ToolName": "LiveReacting AI",
+    "ToolDescription": "Elevate your live shows with our AI host. Save time and money while providing an interactive and engaging experience for your audience.",
+    "ToolShortDescription": "AI host elevates live shows, saving time & money while engaging audiences.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-10T00:00:00",
+    "FavCount": 30,
+    "TagsIndex": [
+      "avatar-generator",
+      "video-generator",
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "avatars",
+      "video generator",
+      "education assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.livereacting.com/ai-host-for-live-stream?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0abb4d3c4ff14317208965ed4df95eda6eafb601-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "38c9614d-99fd-4f06-b12b-8a9071462ef7",
+    "ToolName": "RestorePhotos",
+    "ToolDescription": "Restoring old photos using AI for everyone.\nHave old and blurry face photos? Let our AI restore them so those memories can live on. 100% free – restore your photos today.",
+    "ToolShortDescription": "Restore old and blurry photos with AI",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-10T00:00:00",
+    "FavCount": 255,
+    "TagsIndex": [
+      "image-editing",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "image editing",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.restorephotos.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/da8d76121a093ed2ed044836068f35e68325b634-1762x936.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "73111d39-2006-42de-a516-ae81952f297f",
+    "ToolName": "Steno",
+    "ToolDescription": "Your favorite podcasts, fully transcribed\nDiscover, reference, and read along as you listen.",
+    "ToolShortDescription": "Listen & read your favorite podcasts with full transcripts.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-10T00:00:00",
+    "FavCount": 101,
+    "TagsIndex": [
+      "transcriber",
+      "search-engine",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "transcriber",
+      "search engine",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://steno.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e4f3d61943dab63e81bfd9622436f1136b685c53-1854x931.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "deff93ed-74c4-432b-9afe-0b326a68d22c",
+    "ToolName": "ExplainThis",
+    "ToolDescription": "A chrome extension that can explain concepts to you in plain language. The AI assistant provides a summary of the entire page with a single click. This is useful when you don't have much time or want a concise summary of the content.",
+    "ToolShortDescription": "AI assistant provides page summary with one click, useful for quick understanding.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-01-10T00:00:00",
+    "FavCount": 53,
+    "TagsIndex": [
+      "summarizer"
+    ],
+    "ToolCategories": [
+      "summarizer"
+    ],
+    "NewFeatures": [
+      "Waitlist",
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://explainthis.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b73ca213f6667512fc7a576a9d1c6bd523eae748-1698x926.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "11041562-31db-45c9-b09c-dc4f06c5fe52",
+    "ToolName": "AIHelperBot",
+    "ToolDescription": "Build SQL queries instantly with AI. Build SQL queries without prior SQL knowledge. Join 1000s of others and start boosting your SQL proficiency and productivity. Also supports NoSQL databases like MongoDB.",
+    "ToolShortDescription": "Build SQL queries with AI. Supports NoSQL databases too.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-10T00:00:00",
+    "FavCount": 17,
+    "TagsIndex": [
+      "sql-assistant"
+    ],
+    "ToolCategories": [
+      "SQL"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://aihelperbot.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/99ca8e9f4fe22787c229adfe63c4f87648c03a54-1750x949.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d614dd72-e36b-42a3-9f31-9763289b085e",
+    "ToolName": "PromptLayer",
+    "ToolDescription": "PromptLayer is the first platform that allows you to track, and manage your GPT prompt engineering. PromptLayer acts a middleware between your code and OpenAI’s python library. \nPromptLayer records all your OpenAI API requests, allowing you to search and explore request history in the PromptLayer dashboard.",
+    "ToolShortDescription": "Middleware that tracks & manages prompt engineering.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-10T00:00:00",
+    "FavCount": 69,
+    "TagsIndex": [
+      "developer-tools",
+      "prompts-assistant"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "prompts"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://promptlayer.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/792bae776ab4a2bed13f151ddeea24920dd64eb5-1868x934.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

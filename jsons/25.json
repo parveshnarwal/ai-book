@@ -1,0 +1,232 @@
+[
+  {
+    "Id": "34b83305-c282-49a2-a85f-2f1b78845664",
+    "ToolName": "Reface AI",
+    "ToolDescription": "An AI app to face-swap in GIFs and videos. Their AI Avatar feature allows the creation of high-quality artwork-like portraits (available on iOS & Android). Upload 10 photos, and wait for an hour. Get 48 unique artworks with yourself as the main character in various art styles — from superheroes to cyberpunk.\n",
+    "ToolShortDescription": "Face-swap in GIFs & videos, creating artworks of yourself in various styles.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-26T00:00:00",
+    "FavCount": 136,
+    "TagsIndex": [
+      "avatar-generator",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "avatars",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://hey.reface.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/71f70f5bdbb4d4688e83d19f56f47118fab83b4c-1835x931.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "2f4def1a-7ad2-4dac-916e-081ba61eee34",
+    "ToolName": "Kailua Labs",
+    "ToolDescription": "Build powerful multimodal search into your app.\nUse our API to easily search your images, video, audio, and more with AI.",
+    "ToolShortDescription": "Search images, video, audio & more with AI using our API.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-22T00:00:00",
+    "FavCount": 35,
+    "TagsIndex": [
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "search engine"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://app.kailualabs.com/image-search?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dde0b70224ba7c6e6a4a1c5e0f9111253904343e-1674x915.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "2c5ce41f-acbe-467e-b2a2-725ffa8be62b",
+    "ToolName": "AnyPod",
+    "ToolDescription": "AI search engines built for creators. Search through your favourite podcast like My First Million easily. You can also submit a form adding your podcast.",
+    "ToolShortDescription": "AI search engine for creators",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-23T00:00:00",
+    "FavCount": 137,
+    "TagsIndex": [
+      "transcriber",
+      "search-engine",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "transcriber",
+      "search engine",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.anypod.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a5b3b7ebef0b1944d0fe381b607d265944d95867-1692x936.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "2c158137-4809-43b4-b313-bcd8c3400fb6",
+    "ToolName": "Promptist",
+    "ToolDescription": "Promptist is a prompt interface for Stable Diffusion v1-4 that optimizes user input into model-preferred prompts. The online demo at Hugging Face Spaces is using CPU, so slow generation speed would be expected. Please load the model locally with GPUs for faster generation.",
+    "ToolShortDescription": "Optimizes user input for Stable Diffusion v1-4",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-21T00:00:00",
+    "FavCount": 120,
+    "TagsIndex": [
+      "prompts-assistant"
+    ],
+    "ToolCategories": [
+      "prompts"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "API"
+    ],
+    "WebsiteUrl": "https://huggingface.co/spaces/microsoft/Promptist?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6b4835c0b33bc26e139890ffc75bc488b3663d42-1858x919.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "29c514a1-083d-400e-b67f-6d7041f02bff",
+    "ToolName": "Merlin",
+    "ToolDescription": "Merlin gives you the power of OpenAI’s ChatGPT on all your favourite websites. Ex: Gmail, g-sheets, Twitter, Linkedin, etc. Anywhere you search or write online. With Merlin you can quickly edit your emails, write twitter replies or create excel formulas.",
+    "ToolShortDescription": "Merlin gives you AI-powered writing & editing on any website.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-29T00:00:00",
+    "FavCount": 544,
+    "TagsIndex": [
+      "productivity"
+    ],
+    "ToolCategories": [
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://merlin.foyer.work/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/81ecc96700c0998c12c4d4c3d79428bbb65f7923-1290x714.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "28c9e4f8-09b6-4f6b-b798-06ce0f6f4c96",
+    "ToolName": "Whisper AI",
+    "ToolDescription": "It's an AI-powered hearing aid. With AI, it learns and adjusts to different hearing situations, like a noisy shopping market or family gathering. It provides regular software upgrades from new features to sound processing.",
+    "ToolShortDescription": "AI-powered hearing aid adjusts to different hearing situations",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-28T00:00:00",
+    "FavCount": 48,
+    "TagsIndex": [
+      "health"
+    ],
+    "ToolCategories": [
+      "healthcare"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://whisper.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b2c7c7a0604760e77942379f073b57cf90800d8c-1777x870.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "27bc57fe-e430-49c9-af8e-1231bfc06d83",
+    "ToolName": "Oracle",
+    "ToolDescription": "Oracle has got all your answers. Save time and effort by getting instant answers from Oracle. Ask Oracle can connect and answer questions from Slack, Docs, and Notion.",
+    "ToolShortDescription": "Get instant answers from Oracle on Slack, Docs, and Notion.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-12-19T00:00:00",
+    "FavCount": 70,
+    "TagsIndex": [
+      "productivity"
+    ],
+    "ToolCategories": [
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://askoracle.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0c3121d88d072da7330b7f406f149949fa819cba-1380x954.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "2710f976-b25b-4ba3-8ff5-a894465144cc",
+    "ToolName": "Mentioned",
+    "ToolDescription": "Influencer outreach & link building on auto-pilot.\nWe scan your content to identify people and companies you've mentioned, then, send email campaigns to let them know.",
+    "ToolShortDescription": "Automated influencer outreach & link building",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-19T00:00:00",
+    "FavCount": 118,
+    "TagsIndex": [
+      "seo-assistant",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "SEO",
+      "email assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.mentioned.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d5380862336137f52dcc94ba68cd7d47d96e924f-1660x954.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "25a1ca50-270b-4f5f-8844-5baf6c4cfdc0",
+    "ToolName": "Speechify",
+    "ToolDescription": "Get your text spoken by celebrities like Gwyneth Paltrow and Snoop Dogg. \nText to speech for Chrome, iOS, Android, & Mac.",
+    "ToolShortDescription": "TTS for Chrome, iOS, Android, & Mac with celebrity voices.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-25T00:00:00",
+    "FavCount": 332,
+    "TagsIndex": [
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "text to speech"
+    ],
+    "NewFeatures": [
+      "Mobile App",
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://speechify.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b338bec6e4bdee66310d11cefea5dfd04e2ab8ca-1865x948.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

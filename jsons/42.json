@@ -1,0 +1,228 @@
+[
+  {
+    "Id": "90804cf7-3466-47c8-90f7-27f30154d8d9",
+    "ToolName": "Møbel",
+    "ToolDescription": "Upload a photo of your room, and an AI will generate different variations of the picture, complete with different furniture arrangements, color schemes, and decor options. You can then browse through the variations and find inspiration for your next decorating project.",
+    "ToolShortDescription": "Create customized interior design variations.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-31T00:00:00",
+    "FavCount": 28,
+    "TagsIndex": [
+      "real-estate"
+    ],
+    "ToolCategories": [
+      "real estate"
+    ],
+    "NewFeatures": [
+      "Open Source"
+    ],
+    "WebsiteUrl": "https://mobel.app?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/22bb2f069d58ec03ee44915dc23d371f4e9233bd-1538x972.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "875a1b6b-0272-4c24-81a3-e3208bb5a53f",
+    "ToolName": "Sagify",
+    "ToolDescription": "A command-line tool to train and deploy Machine Learning/Deep Learning models on AWS SageMaker in a few simple steps!",
+    "ToolShortDescription": "Command-line tool to train and deploy ML/DL models on AWS SageMaker",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-31T00:00:00",
+    "FavCount": 40,
+    "TagsIndex": [
+      "developer-tools",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Open Source"
+    ],
+    "WebsiteUrl": "https://kenza-ai.github.io/sagify/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0eeed1ef212f025fbb8382722ceb8b899b937028-1887x942.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "adb5d5b5-d591-4139-a0fe-69a828ad522c",
+    "ToolName": "Gamma.ai",
+    "ToolDescription": "Gamma.AI developed an AI-powered cloud DLP that could connect across all cloud collaboration applications in one click, prepackaged with out-of-the-box ML-powered data classification profiles and offering the industry's best data detection",
+    "ToolShortDescription": "AI-powered cloud DLP that connects across all cloud collaboration applications",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-31T00:00:00",
+    "FavCount": 5,
+    "TagsIndex": [
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "developer tools"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://gamma.ai?utm_source=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/af06cde46c01bfd27f1e13fb8f86bf39692784b6-1617x842.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "76af3063-9842-41bc-ada7-36e6ad5a225b",
+    "ToolName": "Supercreator",
+    "ToolDescription": "Create an original video script from an article you wrote online. Use existing scripts that are relevant to your audience. Easily customize scripts to better match your desired style\n\n",
+    "ToolShortDescription": "Create short form videos 10X times faster with AI! ",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-30T00:00:00",
+    "FavCount": 41,
+    "TagsIndex": [
+      "video-editing"
+    ],
+    "ToolCategories": [
+      "video editing"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "http://supercreator.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a26a014324b9b289bf843e542f9cb0de4ead25fb-1597x957.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "ed2566b1-b3b1-4f8a-abc5-c525c66d57ad",
+    "ToolName": "Mindgrasp",
+    "ToolDescription": "Mindgrasp instantly creates accurate notes and answers questions from any Document, PDF, YouTube Video, Zoom Meeting, Webinar Recording, Podcast and much more!",
+    "ToolShortDescription": "Instantly create accurate notes and answers questions from any document",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-30T00:00:00",
+    "FavCount": 73,
+    "TagsIndex": [
+      "education-assistant",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "education assistant",
+      "productivity"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://mindgrasp.ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0b7084373da8ee592dc6f3499ad28f13959365ec-1878x942.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "8512a859-381d-4bcc-b39c-a1b4fe46d09a",
+    "ToolName": "Lexii.ai",
+    "ToolDescription": "Lexii.ai is an AI search assistant that answers questions and cites sources. It is powered by GPT-3, a cutting-edge natural language processing technology. Lexii can provide you with accurate, up-to-date information on any topic.",
+    "ToolShortDescription": "AI search assistant that answers questions and cites sources.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-30T00:00:00",
+    "FavCount": 81,
+    "TagsIndex": [
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "search engine"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://lexii.ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/91029dbbb0c4e141b31a9c658d19740fcb79634f-1875x923.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "49208af5-ce85-4a38-acbe-8a59bf263403",
+    "ToolName": "Procys",
+    "ToolDescription": "Extract data from your invoices automatically using Procys. Save time spent processing documents manually through our smart, automated processes.",
+    "ToolShortDescription": "Invoice Processing Powered by AI",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-30T00:00:00",
+    "FavCount": 13,
+    "TagsIndex": [
+      "no-code",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "low-code/no-code",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://procys.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/849186441f7cb768d685d77ba734c44dbc2eec89-1770x825.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "9d448571-53c1-4beb-be72-deae15f749e3",
+    "ToolName": "Better Synonyms",
+    "ToolDescription": "A convenient way to find better synonyms for words in a specific context. It enables you to search for synonyms that will fit more naturally in a sentence, making it easier to convey their desired meaning.",
+    "ToolShortDescription": "A convenient way to find better synonyms for words in a specific context.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-30T00:00:00",
+    "FavCount": 78,
+    "TagsIndex": [
+      "paraphraser"
+    ],
+    "ToolCategories": [
+      "paraphraser"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.bettersynonyms.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dc420f37904eb34866e3f48f91683d24d24fb773-1881x928.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "491b8e4e-e7c7-4344-ba39-f12ff27949fd",
+    "ToolName": "Marmof",
+    "ToolDescription": "AI-powered writing tool that helps you create content in just a few seconds. With Marmof, you can create compelling and informative content 10X faster and more efficiently.",
+    "ToolShortDescription": "Create compelling and informative content 10X faster and more efficiently",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial",
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-30T00:00:00",
+    "FavCount": 24,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://www.marmof.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/266c4151d5513c43495781468f35c3abe2231239-1568x961.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "Id": "720ebaea-54b1-4120-b198-688c306805cc",
+    "ToolName": "Sonify",
+    "ToolDescription": "Sonify innovates at the intersection of audio, data and emerging technologies. We design and develop audio-first products and data-driven solutions.",
+    "ToolShortDescription": "Sonify creates audio-first products and data-driven solutions",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 25,
+    "TagsIndex": [
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "music"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.sonify.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7574b9e8dd7fd0e4f47c3ddb9854973de2ca017b-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "71dd198e-0f58-4f9e-86c7-15fd717c70bb",
+    "ToolName": "Qatalog",
+    "ToolDescription": "A Bespoke Operating System for Work. Qatalog is a project management/collaboration AI tool allowing seamless management of people, operations, and knowledge.",
+    "ToolShortDescription": "AI-powered project mgmt/collab tool for people, ops, & knowledge.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-06T00:00:00",
+    "FavCount": 39,
+    "TagsIndex": [
+      "human-resources",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "human resources",
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://qatalog.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3ff318c147d5eb7d6f347a05aaf04870f08528d7-1856x931.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "714fc67b-4375-4362-b2c9-1e6910723bd4",
+    "ToolName": "Continual",
+    "ToolDescription": "Operational AI for the Modern Data Stack.\nContinual is the leading operational AI platform for the modern data stack. Build predictive models that never stop improving without complex engineering. Try it for free.",
+    "ToolShortDescription": "Operational AI platform for modern data stack",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 18,
+    "TagsIndex": [
+      "code-assistant",
+      "sql-assistant"
+    ],
+    "ToolCategories": [
+      "code assistant",
+      "SQL"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://continual.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/18735315e541d850ce308d84cefbb411d3d2dae8-1433x724.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "7056d3eb-1a6e-4693-b8a1-0fa42aa2a39f",
+    "ToolName": "Kaizan",
+    "ToolDescription": "Kaizan is a Client Intelligence Platform for Client Success teams to retain and grow revenue",
+    "ToolShortDescription": "Kaizan helps Client Success teams retain and grow revenue.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 11,
+    "TagsIndex": [
+      "customer-support"
+    ],
+    "ToolCategories": [
+      "customer support"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://kaizan.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/13c5557107e6332792850f287dc0ce54a32a9f96-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "7047f21b-76fa-4b99-a565-d5316717b437",
+    "ToolName": "Cleanvoice AI",
+    "ToolDescription": "Stop wasting hours editing your podcast.\nCleanvoice is an artificial intelligence which removes filler sounds, stuttering and mouth sounds from your podcast or audio recording.",
+    "ToolShortDescription": "Cleanvoice AI quickly edits your podcast, removing filler sounds and more.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-14T00:00:00",
+    "FavCount": 148,
+    "TagsIndex": [
+      "audio-editing"
+    ],
+    "ToolCategories": [
+      "audio editing"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://cleanvoice.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/92b34ec3bab936084baf2030496d9af423475dea-1784x963.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "6tM9nNQa6yHks8EzGojub8",
+    "ToolName": "unbounce",
+    "ToolDescription": "Ideate, iterate, and write  custom, high-quality, engaging professional copy. Between the web app, handy desktop app and Chrome extension, bring Smart Copy with you across your favorite tools.",
+    "ToolShortDescription": "Ideate, iterate, write custom copy: web app, desktop app, Chrome extension.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium",
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-07T00:00:00",
+    "FavCount": 49,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://unbounce.com/product/smart-copy//?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6108719eadcf774616c80f1603244319a95c2080-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "6f9e3168-3095-4fc2-b819-a572b30514f4",
+    "ToolName": "PICLY : AI generated spot the difference",
+    "ToolDescription": "Easy and Simple.\nAI-generated Spot the Difference\nTap the area you want, AI makes it for you.",
+    "ToolShortDescription": "AI-generated Spot the Difference Game",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-08T00:00:00",
+    "FavCount": 80,
+    "TagsIndex": [
+      "gaming"
+    ],
+    "ToolCategories": [
+      "gaming"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.picly.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b5ee6455dec4b2cbc805496b4af2a1e2a7c22d42-1852x931.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "6e33e7fd-98fa-430c-87b2-5f6a2192b6af",
+    "ToolName": "LuciaAI",
+    "ToolDescription": "An advanced AI writing assistant. Lucia uses the latest and most advanced artificial intelligence technology. With Lucia, you can write faster and better than ever before.",
+    "ToolShortDescription": "AI writing assistant for faster, better writing.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-25T00:00:00",
+    "FavCount": 61,
+    "TagsIndex": [
+      "writing-assistant",
+      "paraphraser"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "paraphraser"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://luciaai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9e79e360e66924a0ea1e9018645e754cdf97ca01-3715x1737.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "6ce83bcc-c1d9-4340-a050-62bef50526b8",
+    "ToolName": "Editby",
+    "ToolDescription": "Do you find yourself struggling to come up with interesting tweets?\nStart writing like famous Twitter accounts using AI, so you don't have to worry about writer's block anymore.",
+    "ToolShortDescription": "Use AI to write tweets like famous accounts",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-24T00:00:00",
+    "FavCount": 48,
+    "TagsIndex": [
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.editby.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8b9e4350511509f1803bd6a972ae43aec2b3a8bb-3779x1769.png",
+    "ImageFormat": ".png"
+  }
+]

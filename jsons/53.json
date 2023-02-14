@@ -1,0 +1,225 @@
+[
+  {
+    "Id": "e8dc3d3c-d2db-4179-8dd9-e39685ad62b3",
+    "ToolName": "Censius",
+    "ToolDescription": "Censius is an AI Observability Platform that helps organizations of all scales confidently make their machine learning models work in production. The company launched its flagship AI observability platform that helps bring accountability and explainability to data science projects. A comprehensive ML monitoring solution helps proactively monitor entire ML pipelines to detect and fix ML issues such as drift, skew, data integrity, and data quality issues.",
+    "ToolShortDescription": "Observability Platform helps organizations confidently deploy ML models",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-19T00:00:00",
+    "FavCount": 14,
+    "TagsIndex": [
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "developer tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://censius.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2719051f5a6e6b94d18dc7e03ffed2f7ce8563fb-1890x918.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "91c9e1c1-ff8b-47d3-a5b2-02a107ddf727",
+    "ToolName": "Missive",
+    "ToolDescription": "Get more done with Missive, the email collaboration & management tool for productive teams now supercharged by AI. The OpenAI integration allows for quick drafting, replying, translating & more! Plus, use your own token & pay only for what you need.",
+    "ToolShortDescription": "AI-powered email collaboration & management for productive teams.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-19T00:00:00",
+    "FavCount": 8,
+    "TagsIndex": [
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "email assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://missiveapp.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e035148fa0afdd6a45eea5e9d464aa29f838647b-1788x953.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "7b6799e8-fdf3-4127-8ff3-80f0e03682b9",
+    "ToolName": "Meet Millie",
+    "ToolDescription": "Meet Millie gives you the perfect pickup line, customized to your crush's interests.",
+    "ToolShortDescription": "Get the perfect pickup line for your crush with Meet Millie.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-19T00:00:00",
+    "FavCount": 26,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.meetmillie.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4c49eed83cd8660c770b5a24dbef87842b9a4ae8-1805x919.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "5e899ddd-9938-43a4-b287-e660f97ce924",
+    "ToolName": "Komo Search",
+    "ToolDescription": "Komo Search leverages generative AI to put your search journeys first, instead of a laundry list of links. [Chat] Deep dive, brainstorm or discuss topics. [Explore] See what the community is talking about. [Search] Get quick answers or links to resources.",
+    "ToolShortDescription": "Generative AI for deep dives, brainstorming and exploring",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-19T00:00:00",
+    "FavCount": 43,
+    "TagsIndex": [
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "search engine"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://komo.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9ecfe71c258f5336e3006a6ece1e415158bb8f80-1919x950.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "b9cd697d-0401-435e-9dbd-ee4345c0a49c",
+    "ToolName": "Kili",
+    "ToolDescription": "Craft personalised experiences without using code. Can be used by content creators, company knowledge, e-commerce and customer service.",
+    "ToolShortDescription": "Create personalized experiences without coding",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-19T00:00:00",
+    "FavCount": 33,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.kili.so/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/bcc481dde6ceeefd9fcaedde8f6ffff2f3334465-1813x906.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "2edfadc5-375d-4570-a254-2c894bcb6e29",
+    "ToolName": "Papers GPT",
+    "ToolDescription": "Enables you to feed any scientific papers into GPT to give it deep customized knowledge. Currently a proof-of-concept UX of the end goal of connecting arbitrary data. ",
+    "ToolShortDescription": "Feed scientific papers into GPT for deep customized knowledge & arbitrary data connection.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-19T00:00:00",
+    "FavCount": 153,
+    "TagsIndex": [
+      "research-assistant",
+      "experiments"
+    ],
+    "ToolCategories": [
+      "research",
+      "experiments"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://jessezhang.org/llmdemo?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4e5cc8fbd20cc7958f5779bf0b24cf2ea76a14be-1876x911.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "70e872ff-4a5f-4d3f-99e4-77d282c09789",
+    "ToolName": "Reflect AI",
+    "ToolDescription": "Mirror the way your mind works by associating notes through backlinks. Reflect builds you a second brain that you can reference anytime. Can now use  Artificial Intelligence directly within Reflect to drastically improve your note-taking and writing. ",
+    "ToolShortDescription": "Create a second brain to take notes & write with AI-powered backlinks.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-19T00:00:00",
+    "FavCount": 40,
+    "TagsIndex": [
+      "memory-assistant"
+    ],
+    "ToolCategories": [
+      "memory"
+    ],
+    "NewFeatures": [
+      "Browser Extension",
+      "API",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://reflect.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/303399d5323b24161a636f24220c91acfe39718d-1869x925.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "3bd1a4c2-b556-49be-b649-4e4d5b6c8a00",
+    "ToolName": "MagicForm",
+    "ToolDescription": "Train your very own AI salesperson in less than 3 minutes to build trust and increase your site conversions by 20% through real time conversations.",
+    "ToolShortDescription": "Train AI salesperson to boost conversions 20% in 3 mins",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-18T00:00:00",
+    "FavCount": 150,
+    "TagsIndex": [
+      "no-code",
+      "sales-assistant"
+    ],
+    "ToolCategories": [
+      "low-code/no-code",
+      "sales"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.magicform.ai?utm_source=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/567bf61515c154514c7dda977edc4e14184b8ad9-1807x871.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c9138add-3c87-4d72-b975-632e6448e813",
+    "ToolName": "PromptStacks",
+    "ToolDescription": "They offer a suite of free vetted prompts curated for large language models such as ChatGPT and delivered through prompt engineering so that you can spend your time on important things. There's also a community associated with it where you can see the top voted prompts, submit prompts or join their discord.",
+    "ToolShortDescription": "Free, vetted prompts for large language models, plus a community to join.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-18T00:00:00",
+    "FavCount": 69,
+    "TagsIndex": [
+      "prompts-assistant"
+    ],
+    "ToolCategories": [
+      "prompts"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.promptstacks.com/?utm_source=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6aae88eae3d6b0b2df426ee45d2c75527cec9f9b-1882x930.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

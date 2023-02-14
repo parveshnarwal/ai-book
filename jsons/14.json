@@ -1,0 +1,226 @@
+[
+  {
+    "Id": "e17d0adc-7861-4e24-9e25-5f84cf3df7a9",
+    "ToolName": "Boomy",
+    "ToolDescription": "Make instant music and share it with the world. Create original songs in seconds, even if you've never made music before. Get paid for every listen on platforms like Spotify, TikTok, YouTube, and 40+ others worldwide.",
+    "ToolShortDescription": "Create music & get paid for every listen on 40+ platforms worldwide.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 855,
+    "TagsIndex": [
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "music"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://boomy.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/218fb2b5cd475cd2ab6d3649f723a6be57ed44c0-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "ddda02ca-db24-4fba-82da-3a876d6109a8",
+    "ToolName": "Copymatic",
+    "ToolDescription": "Generate Content & Copy In Seconds with AI\nUse AI to boost your traffic and save hours of work. Automatically write unique, engaging and high-quality copy or content: from long-form blog posts or landing pages to digital ads in seconds.",
+    "ToolShortDescription": "Automate content creation with AI to save time and increase traffic.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial",
+      "Paid"
+    ],
+    "PublishedAt": "2022-12-02T00:00:00",
+    "FavCount": 259,
+    "TagsIndex": [
+      "seo-assistant",
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "SEO",
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://copymatic.ai",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a26e92018dc7c01dc0d85d16ed83782f5dadc860-1896x797.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d4531364-2297-436c-be0c-98072158532d",
+    "ToolName": "Softr Studio",
+    "ToolDescription": "Build custom apps for your business, as easy as lego.\nGenerate images and copy within Softr with just one click using their AI.\nTurn your Airtable or Google Sheets into client portals, partner apps or internal tools.",
+    "ToolShortDescription": "Build custom apps from Airtable/Google Sheets with lego-level ease.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium",
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-22T00:00:00",
+    "FavCount": 401,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://softrplatformsgmbh.grsm.io/4a8exk97h4m7?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2f9e5f607c323133e7aed9239b8a56e38a69f20c-1880x888.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d247e6db-eb85-4489-b58f-71a91a295b2c",
+    "ToolName": "MovieToEmoji",
+    "ToolDescription": "A fun app that converts movie names to their corresponding emojis!",
+    "ToolShortDescription": "App converts movie names to emojis!",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-18T00:00:00",
+    "FavCount": 193,
+    "TagsIndex": [
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://movietoemoji.netlify.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/369eb94be1b5cc749ed427fcb988dd568af131ad-1244x738.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d1081d5c-f6e7-4b38-b67c-bbca1f1b5d87",
+    "ToolName": "Perplexity AI",
+    "ToolDescription": "Perplexity AI is an AI search engine. It is a demo inspired by OpenAI WebGPT, not a commercial product. They use large language models (OpenAI API) and search engines. Also answers Twitter graph queries by translating natural language to SQL code.",
+    "ToolShortDescription": "Perplexity AI is a demo AI search engine inspired by OpenAI WebGPT",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-10T00:00:00",
+    "FavCount": 233,
+    "TagsIndex": [
+      "research-assistant",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "research",
+      "search engine"
+    ],
+    "NewFeatures": [
+      "Discord Community",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.perplexity.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/92858aaa1a8f880f532c31bb7a109ece94cac1a5-1865x959.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c7beaddd-f16a-4e85-9185-fd353d1ee704",
+    "ToolName": "Suggest Gift",
+    "ToolDescription": "Are you struggling to find the perfect gift for a loved one? Look no further! Our tool uses the latest AI technology to help you discover the perfect present. Say goodbye to the stress of gift-giving and let our technology do the work for you.",
+    "ToolShortDescription": "Find the perfect gift and say goodbye to gift-giving stress!",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-07T00:00:00",
+    "FavCount": 336,
+    "TagsIndex": [
+      "gift-ideas"
+    ],
+    "ToolCategories": [
+      "gift ideas"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://suggest.gift/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b6c22ac880f66582992193daec04f2d8f9b1bd46-1668x871.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "c4e67d1d-752d-497d-a143-eb2988f63828",
+    "ToolName": "Podcast",
+    "ToolDescription": "The AI-generated podcast. There are 2 podcasts on it - Lex Fridman interviews Richard Feynman and Joe Rogan interviews Steve Jobs.",
+    "ToolShortDescription": "AI-generated podcast featuring Feynman & Jobs interviews.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 451,
+    "TagsIndex": [
+      "research-assistant"
+    ],
+    "ToolCategories": [
+      "research"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://podcast.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/689248e5548da38a27a4611a7f55f8eac214158d-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "c1f4e4a5-86ce-4fb4-ad4c-0be8758fe0de",
+    "ToolName": "Copilot",
+    "ToolDescription": "Your AI pair programmer. GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.",
+    "ToolShortDescription": "AI pair programmer that suggests code & functions in real-time from your editor.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium",
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 344,
+    "TagsIndex": [
+      "code-assistant"
+    ],
+    "ToolCategories": [
+      "code assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://github.com/features/copilot?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c43d5d7960323bc2ce331ac9cbe962fca8783cd7-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "c0477b1a-6757-4388-a8e1-0bb4b24d179a",
+    "ToolName": "StockImg AI",
+    "ToolDescription": "Text to design service with AI.\nGenerate logos, stock images, posters, book covers, and more designs using AI.",
+    "ToolShortDescription": "AI-powered design service for logos, images, posters, book covers, and more.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial",
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-29T00:00:00",
+    "FavCount": 199,
+    "TagsIndex": [
+      "image-generator",
+      "design-assistant"
+    ],
+    "ToolCategories": [
+      "image generator",
+      "design assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://stockimg.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d26dece586aba0c6f60615312bc35894b08d1ba9-1863x913.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

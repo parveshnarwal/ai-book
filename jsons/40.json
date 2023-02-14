@@ -1,0 +1,229 @@
+[
+  {
+    "Id": "8763a030-4282-4521-95fe-2a8d9c130724",
+    "ToolName": "AISEO",
+    "ToolDescription": "AISEO is the ultimate solution for anyone looking to supercharge their writing skills. With cutting-edge artificial intelligence technology, AISEO makes it easier than ever to convert your ideas into compelling, well-written blogs. Simply input your thoughts and let AISEO do the rest. With a single click, AISEO will produce high-quality, SEO-optimized content that engages and informs your audience. Whether you're a busy professional looking to save time, or someone seeking to improve your writing abilities, AISEO is the perfect tool for you.",
+    "ToolShortDescription": "AI writing assistant, AI Copywriting & Content Generator",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-02-02T00:00:00",
+    "FavCount": 9,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://aiseo.ai/?fpr=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4819bc8ef171104090083662a9fc7e0656d510b7-1897x871.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "0c3f875a-f8ca-4509-8c7c-2f683016c1cf",
+    "ToolName": "Artifact News",
+    "ToolDescription": "A personalized news feed driven by artificial intelligence. Currently in a private beta and requires users to enter their phone number in order to receive a text invite link. ",
+    "ToolShortDescription": "A personalized news feed driven by artificial intelligence",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-02-02T00:00:00",
+    "FavCount": 14,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://artifact.news/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7fb007e76ce02d1e7c00be6a69dafac11799143d-1887x967.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "8393527a-a69d-4a08-a24b-b20046bfd727",
+    "ToolName": "ChatGenius",
+    "ToolDescription": "Experience the future of conversation with Chat Genius - the GPT-based AI chatbot app that provides  smart and seamless conversations to create your own virtual assistant, personalized to your liking. Choose a name and gender, and let your assistant help you with various tasks, answer your questions and even converse with you.",
+    "ToolShortDescription": "The Smartest GPT-based AI Chatbot App",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-02T00:00:00",
+    "FavCount": 75,
+    "TagsIndex": [
+      "life-assistant",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "productivity"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://chatgenius.tech/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/65782174ec0f0503f53e903a5198e21173a7766a-1920x871.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "0c2a2893-4e02-4256-ab36-caf726b306ca",
+    "ToolName": "Steamship",
+    "ToolDescription": "Steamship is a low-code library that allows you to build and deploy AI Prompt APIs quickly. You can install the Python library, customize their API with a few lines of code, and deploy and share it with a single command. They offer free plans with a limit of 500 API calls and 200,000 characters / 40 MB of plugin (LLM) usage, as well as support and debugging help.",
+    "ToolShortDescription": "Build and deploy Prompt APIs in seconds.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-02T00:00:00",
+    "FavCount": 18,
+    "TagsIndex": [
+      "prompts-assistant",
+      "no-code"
+    ],
+    "ToolCategories": [
+      "prompts",
+      "low-code/no-code"
+    ],
+    "NewFeatures": [
+      "API",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://www.steamship.com/build/prompt-apis?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0a8c7eb512494bec0fa5c17060b913a1da87cfdb-1872x971.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "a321358c-6977-4017-a346-1846c5e315f2",
+    "ToolName": "Juice",
+    "ToolDescription": "Juice allows GPUs to become fully network attached. Scale up and down your development with no setup time and no commitment to the underlying machine or stack - just connect to a GPU as if it was plugged into your PCIe slot directly. Bare-metal performance on both graphical and ML tasks over **standard networking**! Take advantage of GPU's natural load-balancing telemetry and make GPUs sharable across multiple clients and tasks. \n\n",
+    "ToolShortDescription": "Squeeze all the Juice out of your GPUs and make them Network Attached.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-01T00:00:00",
+    "FavCount": 9,
+    "TagsIndex": [
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "developer tools"
+    ],
+    "NewFeatures": [
+      "Discord Community",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.juicelabs.co?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/11ec1744bb4f7e59fb572e4a91b38a0ef3111800-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "cd4e8ee8-db97-4654-89c5-da1bc2e7149b",
+    "ToolName": "Voicemaker",
+    "ToolDescription": "Create audio files for commercial use. Offers features such as voice effects, pauses, speed, pitch, and volume settings, as well as industry-leading features and a developer API. Has 1.1 million users in over 120 countries and has converted over 100 million characters into voiceovers so far.",
+    "ToolShortDescription": "Create audio files for your commercial use",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-01T00:00:00",
+    "FavCount": 43,
+    "TagsIndex": [
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "text to speech"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://voicemaker.in/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c8acc05bb14a9e716b0c28f452825b55095f3753-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "a01d8eb3-47d9-4b85-a68f-ad9ebd374cdb",
+    "ToolName": "Charm",
+    "ToolDescription": "Charm can generate, transform, and analyze any text data in Google Sheets. Use it for data cleaning, content generation, feedback categorization and other use cases.",
+    "ToolShortDescription": "Generate, transform, and analyse any text data in Google Sheets.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-02-01T00:00:00",
+    "FavCount": 20,
+    "TagsIndex": [
+      "spreadsheet-assistant"
+    ],
+    "ToolCategories": [
+      "spreadsheets"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://charm.shubhro.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7b92e644be713d24969c0b31c36dcfe36e8e00ce-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "d786bc6f-7221-4276-8a0c-82e655d0b937",
+    "ToolName": "Delibr",
+    "ToolDescription": "Harness the endless potential of AI.\nSupercharge your productivity with guidance and help writing. Features include dynamic templates, writing help, feedback revision and writeups. AI tool for product and project managers",
+    "ToolShortDescription": " Epic documents that connect across the PM process.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-02-01T00:00:00",
+    "FavCount": 6,
+    "TagsIndex": [
+      "productivity"
+    ],
+    "ToolCategories": [
+      "productivity"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://www.delibr.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/94d81cd1697b3bb161f407b56f91327e5fc38a51-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "026e7d34-2e5a-4baf-8fa2-24270e12bc56",
+    "ToolName": "Kayyo",
+    "ToolDescription": "AI trainer will analyze your movements and provide personalized feedback and recommendations to help you take your training to the next level. Personalized training plans and exercises tailored to your goals and abilities. Detailed video demonstrations and instructions for each exercise. Progress tracking to help you monitor your improvement. Virtual sparring partner to practice your skills in a simulated fight",
+    "ToolShortDescription": " AI MMA trainer",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-01T00:00:00",
+    "FavCount": 38,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://apps.apple.com/us/app/kayyo-ai-mma-trainer/id1635789596?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ef1c7b5744df712cb2a1fd8207461d1172af6fb9-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

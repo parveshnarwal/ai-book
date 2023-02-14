@@ -1,0 +1,234 @@
+[
+  {
+    "Id": "57a52e5e-af0e-4b7e-8aa8-2b85f77182bc",
+    "ToolName": "Chatbotkit",
+    "ToolDescription": "The simplest way to build advanced AI chat bots.\nOur platform makes it easy for developers and non-developers alike to build chatbots that can communicate with users in natural language.",
+    "ToolShortDescription": "Build advanced AI chatbots quickly and easily with our platform.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-08T00:00:00",
+    "FavCount": 42,
+    "TagsIndex": [
+      "developer-tools",
+      "no-code"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "low-code/no-code"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://chatbotkit.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/280e56f2c279d088816495114e3d9f4700e571b3-1871x973.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "1b0c2379-70e5-402e-be39-ab3f3f7c9977",
+    "ToolName": "Predis",
+    "ToolDescription": "Predis.ai is an AI-powered content generator that helps create stunning social media posts in seconds. It offers a variety of features such as idea generation, engagement prediction, content recommendation, hashtag recommendation, and creatives suggestion.",
+    "ToolShortDescription": "AI-powered content generator for stunning social media posts in seconds.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial",
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-08T00:00:00",
+    "FavCount": 77,
+    "TagsIndex": [
+      "social-media-assistant"
+    ],
+    "ToolCategories": [
+      "social media assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://predis.ai?ref=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b5258addd68905e3beb16b1e552c1907dabf9d8e-1885x957.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "ee2dcba9-7f06-4fba-90be-33084339ffe8",
+    "ToolName": "GptDuck",
+    "ToolDescription": "Question answering against any Github repository. Input a Github repository, we will download it to the server and create embeddings against the code. Repos need to be public, <200 files, and <100MB.",
+    "ToolShortDescription": "Analyze public repos <200 files, <100MB for Q&A.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-08T00:00:00",
+    "FavCount": 35,
+    "TagsIndex": [
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "developer tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.gptduck.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/35b53c25cb34af11d95ad5c1fbd01a0b193679c0-1596x979.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "0abfa37d-07fa-4be7-a032-d1514656fd15",
+    "ToolName": "Buildt",
+    "ToolDescription": "AI-powered search to find code by searching for what it does, not just what it is. \nOnce you find the part of the codebase their AI allows you to make changes simply by describing what you want",
+    "ToolShortDescription": "AI-powered search to find & modify code by describing what it does.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-08T00:00:00",
+    "FavCount": 127,
+    "TagsIndex": [
+      "code-assistant",
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "code assistant",
+      "developer tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.buildt.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b1cd00f9b09f3dc13d9394019fb8dea378819e7b-1754x893.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "0742103a-ef62-4e63-bc21-4ad0cd56da7f",
+    "ToolName": "AskThee",
+    "ToolDescription": "Ask a question to a big thinker, artist, or scientist. Currently features personalities like Aristotle, Asimov, Carl Sagan etc.",
+    "ToolShortDescription": "Ask a question to a big thinker, artist, or scientist.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-08T00:00:00",
+    "FavCount": 88,
+    "TagsIndex": [
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://askthee.vercel.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fad09b2407b7a3036f9830f8d174dd1e1abd128e-1522x732.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "b6a67678-8e82-4e9f-a210-199d0f403365",
+    "ToolName": "AskNow",
+    "ToolDescription": "Ask famous personalities anything and get an AI summarised answer with references. Features personalities like Elon Musk, Naval Ravikant, Paul Graham, Serena Williams etc.",
+    "ToolShortDescription": "Ask famous people questions & get AI-summarized answers",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-08T00:00:00",
+    "FavCount": 103,
+    "TagsIndex": [
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.asknow.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9340ec85dc4bff9c34072e765479d3a140ebbd68-1875x964.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "fc8447cf-6c81-420a-8046-2274464413f3",
+    "ToolName": "HTTPie AI",
+    "ToolDescription": "Generate API requests using plain language. HTTPie is making APIs simple\nand intuitive for those building the tools of our time.",
+    "ToolShortDescription": "HTTPie simplifies API requests with plain language for modern developers.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-08T00:00:00",
+    "FavCount": 115,
+    "TagsIndex": [
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "developer tools"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "Discord Community",
+      "API",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://httpie.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0fa1bd48fbc589f77411f5527c222db63efeefbe-1873x952.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "1ceadf54-3bdf-4dcb-928b-a5f0c9cb8792",
+    "ToolName": "Nostalgia Photo",
+    "ToolDescription": "Nostalgia Photo brings old photos back to life with the latest cutting-edge Artificial Intelligence. Get maximum resolution in a few clicks and a few cents.",
+    "ToolShortDescription": "Bring old photos back to life with AI. Get max resolution in clicks & cents.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-07T00:00:00",
+    "FavCount": 38,
+    "TagsIndex": [
+      "image-editing",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "image editing",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.nostalgia.photo/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8f7b1e22c9d590c83c7821bb84d5e5195dfc6e40-1601x964.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "dd52bfa5-8c4d-4560-9bdc-a1dfac314117",
+    "ToolName": "Write Me A Cover Letter",
+    "ToolDescription": "Generate a cover letter in seconds using AI. Just upload your CV, share a link to the job you want, and we'll do the rest.",
+    "ToolShortDescription": "Create a cover letter quickly with AI. Upload CV, share job link, done!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-07T00:00:00",
+    "FavCount": 63,
+    "TagsIndex": [
+      "life-assistant",
+      "human-resources"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "human resources"
+    ],
+    "NewFeatures": [
+      "Discord Community",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://writemeacoverletter.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fe43dd8a59e7cfc06b4bbd5b8c1b5004536fb088-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

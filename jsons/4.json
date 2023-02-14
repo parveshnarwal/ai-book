@@ -1,0 +1,233 @@
+[
+  {
+    "Id": "61a17df6-d32f-42f0-b15a-7e3f00588c4f",
+    "ToolName": "Jasper",
+    "ToolDescription": "Create content 10x faster with artificial intelligence. Jasper is the highest quality AI copywriting tool with over 3,000 5-star reviews. Best for writing blog posts, social media content, and marketing copy.",
+    "ToolShortDescription": "Create content 10x faster with AI-powered copywriting tool",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 457,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://jasper.ai?source=partner&fpr=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/cfd9366784a7fda98637b46b46d03631667a0839-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "1d9bd010-fb72-446d-8506-3857bd58ea7e",
+    "ToolName": "WolframAlpha",
+    "ToolDescription": "Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledgebase, and AI technology. Geared towards the subjects of Mathematics, Science & Technology, Society & Culture, and Everyday Life.",
+    "ToolShortDescription": "Compute expert-level answers in Math, Science, Society, Culture & Everyday Life",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-04T00:00:00",
+    "FavCount": 357,
+    "TagsIndex": [
+      "research-assistant",
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "research",
+      "education assistant"
+    ],
+    "NewFeatures": [
+      "API",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.wolframalpha.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c708ae77a25d7a22aaff1acdbb416b0dfc43d7b1-1866x922.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d0f87a67-7010-4a91-a3e5-54925141e867",
+    "ToolName": "Browse AI",
+    "ToolDescription": "The easiest way to extract and monitor data from any website. Train a robot in 2 minutes. No coding required. \n ",
+    "ToolShortDescription": "Train a robot to extract & monitor data from any website, no coding needed.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-29T00:00:00",
+    "FavCount": 1000,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://browse.ai",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/58a31a2c1b65575ad7ef96be70a15677c8120922-3733x1681.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "25e582b4-2a9e-4ce6-b43a-1b7fc7560310",
+    "ToolName": "Midjourney",
+    "ToolDescription": "AI art generator based on Stable Diffusion.\nTheir website describes them as \"an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.\" ",
+    "ToolShortDescription": "AI lab exploring new mediums to expand human imagination.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 1095,
+    "TagsIndex": [
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "art"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.midjourney.com/home/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/afda32dcc5d187ec74c83b1a1480a99e591bde0f-1196x681.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "e58eeb8b-739d-492c-aa67-80e934e7d732",
+    "ToolName": "ChatGPT",
+    "ToolDescription": "ChatGPT: Optimizing Language Models for Dialogue.\nThe dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.",
+    "ToolShortDescription": "ChatGPT optimizes language models for dialogue",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-02T00:00:00",
+    "FavCount": 2529,
+    "TagsIndex": [
+      "productivity",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "productivity",
+      "search engine"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://chat.openai.com/chat?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/cb14850c361821a3f5d89231709be3a11205e1d7-1347x911.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "ff45bfb6-7f4d-4515-bacf-79ee3f42d8e0",
+    "ToolName": "CAPTURELAB",
+    "ToolDescription": "At CAPTURELAB, we auto-fetch your Twitch content as soon as you've signed up. When you're done streaming, our AI will process your content using Computer Vision, detect your best gaming moments, and present them to you for editing. Use the platform to edit, download your video files, and post them on social media to grow your audience.",
+    "ToolShortDescription": "CAPTURELAB auto-detects your best gaming moments with AI!",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-03T00:00:00",
+    "FavCount": 20,
+    "TagsIndex": [
+      "video-editing",
+      "social-media-assistant",
+      "gaming"
+    ],
+    "ToolCategories": [
+      "video editing",
+      "social media assistant",
+      "gaming"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://capturelab.gg?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9c6a06c76e01f7fdc94e8a4189c997f6f5337a53-1878x966.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "5e9d5cfe-74f9-4f30-bebd-af030259661e",
+    "ToolName": "Taskade",
+    "ToolDescription": "A magical list to break down complexities and map out your collective mind. Unlock your collaborative brain and connect tasks, notes, and teams, in one unified workspace.\n",
+    "ToolShortDescription": "Build a Second Brain for Your Team.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-29T00:00:00",
+    "FavCount": 128,
+    "TagsIndex": [
+      "productivity",
+      "memory-assistant"
+    ],
+    "ToolCategories": [
+      "productivity",
+      "memory"
+    ],
+    "NewFeatures": [
+      "Browser Extension",
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://www.taskade.com/",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/786c182b4fa48436feaa916a2b8ab54723761272-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "d18c3381-885a-4de3-aa67-6bb26a22a31c",
+    "ToolName": "Moonbeam",
+    "ToolDescription": "Moonbeam's AI will give you everything you need to write killer long form content. Become 2x Better at Writing in 10 Minutes.",
+    "ToolShortDescription": "Moonbeam's AI helps you write better long form content in 10 minutes.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-13T00:00:00",
+    "FavCount": 512,
+    "TagsIndex": [
+      "seo-assistant"
+    ],
+    "ToolCategories": [
+      "SEO"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://gomoonbeam.com-io",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/33a90aa17d03d8ca27ede8c53aff254ee86dca26-1665x945.webp",
+    "ImageFormat": ".webp"
+  },
+  {
+    "Id": "1fa8a46a-d65e-44b8-baf0-e8ed63036f44",
+    "ToolName": "NightCafe Studio",
+    "ToolDescription": "AI  Art Generator. Create amazing artworks using the power of Artificial Intelligence.",
+    "ToolShortDescription": "AI-generated artworks to explore creative possibilities.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-11-22T00:00:00",
+    "FavCount": 722,
+    "TagsIndex": [
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "art"
+    ],
+    "NewFeatures": [
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://creator.nightcafe.studio/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/44a038fd590c77e3b7de120ca860a8657cccfda5-1872x973.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

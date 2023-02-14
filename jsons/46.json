@@ -1,0 +1,227 @@
+[
+  {
+    "Id": "a9f6aff0-0569-45dc-9ad7-de52c0121e78",
+    "ToolName": "SmartScout",
+    "ToolDescription": "AI Listing Architect (Powered by SmartScout) is an AI-powered tool that helps Amazon sellers optimize their product listings for search engine optimization (SEO) by using data and keywords that are already ranking well on Amazon. Additionally, it provides recommendations to make the listing more engaging. The tool generates optimized listings by analyzing this data and incorporating relevant keywords into the listing.",
+    "ToolShortDescription": "Optimize their product listings for search engine optimization",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-27T00:00:00",
+    "FavCount": 26,
+    "TagsIndex": [
+      "developer-tools",
+      "sales-assistant"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "sales"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.smartscout.com/ai-listing-architect?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4e656a47fa87be3df0432254903eb0fc5f0a6bbd-1825x906.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "434e8073-4029-4caf-9989-d3fc4b15f7e5",
+    "ToolName": "Motionit.ai",
+    "ToolDescription": "Use artificial intelligence to generate stunning slides and videos for a wide range of purposes, including startup pitch decks, conference presentations, and more.",
+    "ToolShortDescription": "Use AI to generate stunning slides and videos for a wide range of purposes",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-26T00:00:00",
+    "FavCount": 77,
+    "TagsIndex": [
+      "presentations"
+    ],
+    "ToolCategories": [
+      "presentations"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.motionit.ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/af5fd7f12735f6116a3cafde0feb4d0d1af9bb36-1870x898.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "d8af5950-b64b-499c-b104-4a3e565cd3f6",
+    "ToolName": "Glow AI",
+    "ToolDescription": "Introducing Glow AI, your personalized skincare solution. Our web app generates custom skincare routines tailored to your skin type and budget. ",
+    "ToolShortDescription": "Your personalized skincare solution",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-26T00:00:00",
+    "FavCount": 67,
+    "TagsIndex": [
+      "life-assistant",
+      "health"
+    ],
+    "ToolCategories": [
+      "life assistant",
+      "healthcare"
+    ],
+    "NewFeatures": [
+      "Open Source"
+    ],
+    "WebsiteUrl": "https://glowai.xyz/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8fd873c0d73615455fa245f75d14c1ebf164d70b-862x723.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f34a8754-764d-465c-9af3-ada35998424b",
+    "ToolName": "Sales Stack",
+    "ToolDescription": "SalesStack enables you to train your own A.I. to communicate with your clients across all channels. ",
+    "ToolShortDescription": "Train your own A.I. to communicate with your clients ",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-25T00:00:00",
+    "FavCount": 24,
+    "TagsIndex": [
+      "sales-assistant"
+    ],
+    "ToolCategories": [
+      "sales"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://salesstack.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fba9ff5b24921a4714df7d52cadf117919dffba5-1456x846.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "9e1adb05-c97a-43f1-bb2d-e4ec98778fe2",
+    "ToolName": "Dystr",
+    "ToolDescription": "Dystr helps mechanical & electrical engineers write and run code in the cloud seamlessly without software experience. The product allows users to write and run code in cloud ready environments, nearly eliminating the need for any knowledge of Python or even how to provision cloud environments like Google Cloud, Microsoft Azure or Amazon’s AWS.\n\nIt includes natural language code manipulation using Generative AI, triggers and scheduled tasks, and remote cloud environments that are provisioned as needed. This enables technical, hardware & manufacturing focused engineers the ability to conduct analysis more quickly and efficiently, and to automate tasks they otherwise couldn’t. ",
+    "ToolShortDescription": "Dystr helps mechanical & electrical engineers write and run code in the cloud seamlessly without software experience.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-26T00:00:00",
+    "FavCount": 27,
+    "TagsIndex": [
+      "developer-tools",
+      "no-code"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://dystr.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d3af98f5395c669993da22d43b0fc54723b51a7d-1796x921.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "ad4a9a60-c865-49d5-aa91-d0b91177c4f0",
+    "ToolName": "Hot Reach AI",
+    "ToolDescription": "Convert more strangers to customers. Sending personalized intros is great, but stop wasting time writing them! Hot Reach AI increases your reply conversion from cold emails at scale by personalizing introductions using Artificial Intelligence and LinkedIn data.",
+    "ToolShortDescription": "Increase your reply conversion from cold emails at scale by personalizing introductions. ",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-26T00:00:00",
+    "FavCount": 41,
+    "TagsIndex": [
+      "sales-assistant",
+      "email-assistant"
+    ],
+    "ToolCategories": [
+      "sales",
+      "email assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.hotreachai.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1cb6c2796436ef39823bec553624a494f926a286-1846x918.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "201919b3-448b-4375-a59f-d9f7dae6b38c",
+    "ToolName": "Prisms AI",
+    "ToolDescription": "Prisms is a no-code platform for building AI-powered apps. By harnessing the power of large language models such as GPT3, DALL-E, and Stable Diffusion, you can connect data sources and user inputs to create their app. You can then deploy your app directly from Prisms with a pre-built UI, or  use Prisms as a backend to build their own frontend. Prisms is launching in 2023, and those interested can get on the waitlist. They can also check out what the Prisms community has built.",
+    "ToolShortDescription": "The no-code platform for building AI‑powered apps",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-26T00:00:00",
+    "FavCount": 67,
+    "TagsIndex": [
+      "no-code"
+    ],
+    "ToolCategories": [
+      "low-code/no-code"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://prisms.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2f8111e2962e90860a3d0648df99fc0afb702b5d-1852x881.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "a3fbe1b2-159b-4f04-b2e0-47a7e6ccf86f",
+    "ToolName": "Coin Identifier Coin Snap",
+    "ToolDescription": "Coin Identifier Coin Snap is a powerful mobile application that utilizes AI-driven image recognition technology to accurately identify any coin within seconds.",
+    "ToolShortDescription": "Accurately identify any coin within seconds.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-01-26T00:00:00",
+    "FavCount": 32,
+    "TagsIndex": [
+      "education-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "education assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://apps.apple.com/US/app/id1664318416?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9353b4c7c330ffb8240e202edc89ad912d1d785d-1077x935.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "50b166fa-8bb1-4c6d-8d9b-cb6c77df0fc1",
+    "ToolName": "Petals",
+    "ToolDescription": "Open source tool for running large language models like BLOOM-176B collaboratively — you load a small part of the model, then team up with people serving the other parts to run inference or fine-tuning.\n",
+    "ToolShortDescription": "Open source tool for running LLMs collaboratively",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-26T00:00:00",
+    "FavCount": 23,
+    "TagsIndex": [
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "developer tools"
+    ],
+    "NewFeatures": [
+      "Open Source"
+    ],
+    "WebsiteUrl": "https://petals.ml/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/43f764fac8860edfb176711a452fd333dd5675d6-943x866.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

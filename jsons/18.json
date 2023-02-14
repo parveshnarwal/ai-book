@@ -1,0 +1,229 @@
+[
+  {
+    "Id": "30143ac4-49bd-4283-9007-b15e29d2db9b",
+    "ToolName": "Adobe Podcast",
+    "ToolDescription": "Provides 2 free quick tools to enhance audio for your content. Enhance speech- Enhance speech by removing all background noise and echo.\nMic Check - Unlock quality sound from your microphone.\nThe main product promises to provide AI-powered audio recording and editing, all on the web and is under waitlist.",
+    "ToolShortDescription": "AI-powered audio recording & editing, free quick tools",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-12-24T00:00:00",
+    "FavCount": 327,
+    "TagsIndex": [
+      "audio-editing"
+    ],
+    "ToolCategories": [
+      "audio editing"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://podcast.adobe.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f3612868b2f9d6230869fa10324566fd4d265b3d-1762x788.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "2f2b8ea0-54cc-4786-a0f4-edd27345886d",
+    "ToolName": "Harmonai",
+    "ToolDescription": "We are a community-driven  organization releasing open-source generative audio tools to make music production more accessible and fun for everyone",
+    "ToolShortDescription": "Community-driven org releasing open-source audio tools.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 449,
+    "TagsIndex": [
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "music"
+    ],
+    "NewFeatures": [
+      "Open Source"
+    ],
+    "WebsiteUrl": "https://www.harmonai.org/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9e2d59dcc58ff0124fb09cad9dc265b6cfdea3b4-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "2d9ff49c-4931-4b45-ab7d-5c34607e57cd",
+    "ToolName": "TutorAI",
+    "ToolDescription": "Tutor AI is an AI-powered learning platform. You can enter any topic and it will provide you with various options you can use to learn about that topic.",
+    "ToolShortDescription": "AI-powered learning platform; enter topic, get learning options.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2022-12-02T00:00:00",
+    "FavCount": 910,
+    "TagsIndex": [
+      "education-assistant",
+      "gaming"
+    ],
+    "ToolCategories": [
+      "education assistant",
+      "gaming"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.tutorai.me/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6e44b719a15419bd315246e16c12216c2240ab69-1902x967.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "2c2e2151-30a5-403f-98b9-0f06de16d79e",
+    "ToolName": "Coqui",
+    "ToolDescription": "Coqui, Freeing Speech.",
+    "ToolShortDescription": "Free speech platform for everyone",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 111,
+    "TagsIndex": [
+      "text-to-speech"
+    ],
+    "ToolCategories": [
+      "text to speech"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://coqui.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f1e21885729b2395f63a38be2c842b255a277b87-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "287eba76-75b2-49dd-bde7-890e6942f686",
+    "ToolName": "GET3D (Nvidia)",
+    "ToolDescription": "A Generative Model of High Quality 3D Textured Shapes Learned from Images.",
+    "ToolShortDescription": "Generative 3D Textured Shapes from Images.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-27T00:00:00",
+    "FavCount": 291,
+    "TagsIndex": [
+      "3D-generator"
+    ],
+    "ToolCategories": [
+      "3D"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://nv-tlabs.github.io/GET3D/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/426898c1f8231d1d7b9e153e8d60b8b590563077-3613x1811.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "22010f49-468f-4c09-871f-c08c1c3da5f8",
+    "ToolName": "Endel",
+    "ToolDescription": "Personalized soundscapes to help you focus, relax, and sleep. Backed by neuroscience.",
+    "ToolShortDescription": "Custom soundscapes for focus, relaxation & sleep.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 257,
+    "TagsIndex": [
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "music"
+    ],
+    "NewFeatures": [
+      "Mobile App",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://endel.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/66270aaebf1d3edef14d74e765d452dfb6132ec5-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "152ee7e4-4868-4ca4-b896-cec21bcc5a99",
+    "ToolName": "Stable Horde",
+    "ToolDescription": "A crowdsourced distributed cluster of Stable Diffusion workers.\nAlso provides a client interface requiring no installation and no technical expertise",
+    "ToolShortDescription": "Crowdsourced cluster of Stable Diffusion workers.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-16T00:00:00",
+    "FavCount": 226,
+    "TagsIndex": [
+      "image-generator"
+    ],
+    "ToolCategories": [
+      "image generator"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://stablehorde.net/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0befac3977af1e9d2ecc60f7890b3e34921e5fae-1880x762.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "13fcb54c-d551-4325-a093-c3b2fd7c8904",
+    "ToolName": "Hypotenuse ai",
+    "ToolDescription": "Turn a few keywords into original, insightful articles, product descriptions and social media copy with AI copywriting—all in just minutes. Try it free today.",
+    "ToolShortDescription": "AI copywriting creates original content in minutes.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 344,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://hypotenuse.ai/&ref=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ad0cb6a14372d11e5e06267399d5712b9ffb0c3d-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "0fe543f0-67a0-4dcb-8c25-54a569b7a66d",
+    "ToolName": "Andi",
+    "ToolDescription": "Andi is search for the next generation using generative AI. Instead of just links, Andi gives you answers - like talking with a smart friend.",
+    "ToolShortDescription": "Andi gives answers, like talking to a smart friend, using AI.",
+    "Verified": true,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 1337,
+    "TagsIndex": [
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "search engine"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://andisearch.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6732f8ece2335beca9e6862c60b3a12abbccd06d-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

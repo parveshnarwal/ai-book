@@ -1,0 +1,223 @@
+[
+  {
+    "Id": "44d982a3-47b2-4979-89b3-07eda3f53e87",
+    "ToolName": "Sku Fetch",
+    "ToolDescription": "List products from wholesale and retail suppliers to multiple marketplaces, such as Amazon, Ebay, Shopify, Walmart, Newegg, Facebook etc. and harness the power of AI to rewrite/expand/change/summarize title and/or description and update images. Sku Fetch also uses AI to fetch hard to get product pages from retailers. ",
+    "ToolShortDescription": "eCommerce Product Listing Service",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-02-06T00:00:00",
+    "FavCount": 13,
+    "TagsIndex": [
+      "sales-assistant",
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "sales",
+      "copywriting"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://skufetch.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/94d5429c4f6f59ce48fc6925fae5a52197028cf8-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "582b12cc-13fb-4b79-a74e-adbb44d70238",
+    "ToolName": "Magic Form",
+    "ToolDescription": "With Magic Form, you only need to provide the text, and we will automatically create a quiz for you right inside Google Forms. ",
+    "ToolShortDescription": "Text to Quiz in one click.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-06T00:00:00",
+    "FavCount": 26,
+    "TagsIndex": [
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "education assistant"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://www.magicform.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8561594fb1e8f417caf435e74c8b5636f135d8ec-1200x627.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "2d7d648e-ac2e-4ca3-bcb6-97c3b7da120d",
+    "ToolName": "Batch GPT",
+    "ToolDescription": "Perform daily tasks such as classification, transformation, parsing, translation, copywriting and learning 10x faster using advanced Artificial Intelligence.",
+    "ToolShortDescription": "Batch Process Your Data With AI",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-06T00:00:00",
+    "FavCount": 20,
+    "TagsIndex": [
+      "no-code",
+      "productivity"
+    ],
+    "ToolCategories": [
+      "low-code/no-code",
+      "productivity"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://batchgpt.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/91c45b2380ffa69a05dc775b1dc436f294db8e93-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "ef8ea0c5-dfd5-4c38-99d8-5b7d174bcc31",
+    "ToolName": "Rephrase AI",
+    "ToolDescription": "Rephrase.ai's deep tech generative AI technology creates a professional-quality video with real human avatars for content generation and business communications. Innumerable video variants can be rendered with single live-action footage of a person with just the text script as input.",
+    "ToolShortDescription": "Generative AI, Text to Video platform",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2023-02-06T00:00:00",
+    "FavCount": 23,
+    "TagsIndex": [
+      "personalized-videos"
+    ],
+    "ToolCategories": [
+      "personalized videos"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.rephrase.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c329ebbeed9d2c3e5d9ae6493c239f1d97dcfc90-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "af250119-0826-4b86-9392-7d9bc851d00a",
+    "ToolName": "AuthorAI",
+    "ToolDescription": "At AuthorAI we are reimagining the authoring experience powered by AI. We are exploring how state of the art in AI can enhance the creative authoring flow as it applies to creating apps, books, blogs, sites, data, designs, reports, etc.",
+    "ToolShortDescription": "Enhance your creative authoring flow, leaving the plumbing to AuthorAI",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-06T00:00:00",
+    "FavCount": 34,
+    "TagsIndex": [
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "developer tools"
+    ],
+    "NewFeatures": [
+      "Open Source",
+      "API",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.authorai.org?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/bb7ef85fe1221048d6bbffd35ab585618c9bd230-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "a52aecce-6160-43bd-b09a-089f8c797032",
+    "ToolName": "PlaylistAI",
+    "ToolDescription": "PlaylistAI is an app that helps people create their own playlists. It can generate playlists from AI prompts, images, videos, and music they already like. It's features include turning any music festival poster into a playlist, identifying songs in TikToks and other videos, and creating your own music festival lineup. It has been featured in various publications like FastCompany, TechCrunch, and MusicRadar. It was previously known as LineupSupply.",
+    "ToolShortDescription": "GPT-3 for playlists - make Spotify and Apple Music playlists with AI",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-06T00:00:00",
+    "FavCount": 25,
+    "TagsIndex": [
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "music"
+    ],
+    "NewFeatures": [
+      "Mobile App",
+      "Discord Community"
+    ],
+    "WebsiteUrl": "https://playlistai.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d6105154a71298f46b6533d1ca3ce289bb3597f6-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "9696ae00-8b66-4ffb-87be-37d6c6d6c283",
+    "ToolName": "A.V. Mapping",
+    "ToolDescription": "Find your music from video, images, and text with AI in 3 steps.\nUpload video, choose recommendations, and pay for contracts. \nThat’s all users need to do. Compared with the 6 months duration, A.V. Mapping hopes it can be the most helpful AI for creators.",
+    "ToolShortDescription": "AI Recommends Video’s Music with License. Benefits to musicians ",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-06T00:00:00",
+    "FavCount": 12,
+    "TagsIndex": [
+      "music-generator"
+    ],
+    "ToolCategories": [
+      "music"
+    ],
+    "NewFeatures": null,
+    "WebsiteUrl": "https://avmapping.co/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6bd176f38e8ea41d78bf4ad6a96f70df9c2080f0-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "780ba12f-0978-443d-8756-b067f921008d",
+    "ToolName": "YouTube Summarized",
+    "ToolDescription": "This Chrome extension enables you to summarize YouTube videos of any length using your OpenAI key. It is very useful for creating notes or finding the main points of a video without having to watch it.",
+    "ToolShortDescription": "Chrome extension for summarizing almost any YouTube video",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-04T00:00:00",
+    "FavCount": 99,
+    "TagsIndex": [
+      "summarizer"
+    ],
+    "ToolCategories": [
+      "summarizer"
+    ],
+    "NewFeatures": [
+      "Browser Extension",
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://youtubesummarized.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7f4babe160027ac2b8cbcb34b59d866b26a51a47-1213x628.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "02fe815a-a04e-41e3-aa90-6912ceb5e144",
+    "ToolName": "TheoAssist",
+    "ToolDescription": "Bible Companion, Sermon From Bullet Points, Bible Teaching, Bible Q & A, Prayer Assist",
+    "ToolShortDescription": "Bible Companion",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-05T00:00:00",
+    "FavCount": 6,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://theoassist.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/664861818bc0bb932e17544a73dc1ad5c58b80c2-1680x876.png",
+    "ImageFormat": ".png"
+  }
+]

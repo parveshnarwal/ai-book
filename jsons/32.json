@@ -1,0 +1,232 @@
+[
+  {
+    "Id": "5fc9790c-85cc-4367-8d5b-111752070c18",
+    "ToolName": "Kaiber.ai",
+    "ToolDescription": "Kaiber.ai is an amazing tool that allows you to animate your photos and bring your memories to life. This incredible technology uses artificial intelligence to bring your photos to life in a unique and exciting way. With just a few simple steps, you can turn your still photos into dynamic moving masterpieces. Kaiber.ai makes it easy to relive your favorite moments and keep your memories forever. Whether you're looking to create a special video to share on social media, or just want to keep your memories in a fun and innovative way, Kaiber.ai is the perfect tool for you.",
+    "ToolShortDescription": "Kaiber.ai is an AI tool that animates photos and creates videos",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-08T00:00:00",
+    "FavCount": 31,
+    "TagsIndex": [
+      "video-generator"
+    ],
+    "ToolCategories": [
+      "video generator"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://kaiber.ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/edb3176fb9b5890e31aec47407528a9df90e2d2d-1576x949.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "b0aca1aa-6555-40e7-a94a-51a200de96ba",
+    "ToolName": "Cleanup",
+    "ToolDescription": "Pictures of any size can be imported and edited in cleanup.pictures, artificial intelligence advanced editing tools, background removal, image upgrading, etc.",
+    "ToolShortDescription": "An advanced AI-Based editing tool",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-08T00:00:00",
+    "FavCount": 30,
+    "TagsIndex": [
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "image editing"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://cleanup.pictures?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2a9706093845a16dd0d4bc44a0d875dd1dd7bf55-1878x948.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f077f8d9-302e-4d36-a6a7-002203ac86c1",
+    "ToolName": "Newswriter.ai",
+    "ToolDescription": "Newswriter.ai is an AI-powered press release writing tool that helps you create compelling, eye-catching press releases in minutes. Using GPT-3 OpenAI technology, Newswriter provides two services: writing a press release from scratch, or improving an existing press release. You can also access Newsworthy's news marketing tools to get more eyes on your news by distributing it to Google News and 500+ other websites.",
+    "ToolShortDescription": "Use AI to write press releases",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-08T00:00:00",
+    "FavCount": 58,
+    "TagsIndex": [
+      "copywriting-assistant"
+    ],
+    "ToolCategories": [
+      "copywriting"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://newswriter.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1120f8f3fce39f099311f92118f1aee9e59d17d8-1202x630.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "07ae9ddc-7344-4799-b74f-3762076b3a2e",
+    "ToolName": "Ask an AI",
+    "ToolDescription": "Whether you have a simple question or a more complex request, askan.ai is here to help.",
+    "ToolShortDescription": "Get quick and accurate answers",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-07T00:00:00",
+    "FavCount": 23,
+    "TagsIndex": [
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "search engine"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.askan.ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/138bc0face85a74c831c33033ed755c6acde44d2-1861x768.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "f0121b3d-109f-4232-8bdd-2a6dd68cb4a7",
+    "ToolName": "Hacker AI",
+    "ToolDescription": "An AI that hacks you to secure your applications. Use for cybersecurity professionals and anyone else who writes code.\nHacker AI detects vulnerabilities in source code. Free with a freemium API releasing soon. Made by https://twitter.com/chaignc",
+    "ToolShortDescription": "Hacker AI detects vulnerabilities in source code.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-08T00:00:00",
+    "FavCount": 60,
+    "TagsIndex": [
+      "code-assistant",
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "code assistant",
+      "developer tools"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://hacker-ai.online?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f28224b3f30f43ea65568cfca1f90b41bb662f3a-1881x923.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "ab5dde96-bcf8-47eb-9823-dceacdf7db23",
+    "ToolName": "Promptly",
+    "ToolDescription": "Are you tired of staring at a blank screen, wondering what to write next? Do you want to save time and increase your productivity without sacrificing quality in your writing? Look no further, because the answer to your problems is here - Promptly, the super chrome plugin that offers predefined prompts for AI writing software.\n\nWith its user-friendly interface and innovative features, Promptly is changing the game for writers everywhere. Whether you're a blogger, copywriter, or content creator, this plugin will make your life easier and help you produce exceptional writing in a fraction of the time.",
+    "ToolShortDescription": "Predefined prompts for AI writing software.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-02-08T00:00:00",
+    "FavCount": 40,
+    "TagsIndex": [
+      "prompts-assistant"
+    ],
+    "ToolCategories": [
+      "prompts"
+    ],
+    "NewFeatures": [
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://chrome.google.com/webstore/detail/promptly/cbbcphmidjdoikocpbjohadbncadphkh?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0589bf302889dec2ab2e172a20dae89be25e2e2d-1909x974.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "7da98cc1-7dcb-4b91-b7c5-610cd65929ea",
+    "ToolName": "WatermarkRemover.io",
+    "ToolDescription": "WatermarkRemover.io is an AI-powered tool that automatically removes translucent watermarks from images in a matter of seconds. We allow people from all over the world to benefit from the strength of our product for both personal and professional purposes.",
+    "ToolShortDescription": "Get rid of the watermarks from your images",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-08T00:00:00",
+    "FavCount": 22,
+    "TagsIndex": [
+      "image-editing"
+    ],
+    "ToolCategories": [
+      "image editing"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://www.watermarkremover.io/?utm_source=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/5e120c8c43ed7c5833e75c8688a03117e7cdd51e-1815x847.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "98827a5a-1ef2-4e76-b3e7-3af1828b82f7",
+    "ToolName": "Remini",
+    "ToolDescription": "Remini uses innovative, state-of-the-art AI technology to transform your old photos and videos into HD masterpieces. The technology detects all the facial details and reconstructs them with a stunning degree of sharpness and accuracy. With Remini you can make all types of images up to 2x bigger. From photos to drawings, paintings to digital art, logos to product images. Remini can handle it. Available on mobile as well as web.",
+    "ToolShortDescription": "Upscale and enhance your old, blurry, and low-quality photos and videos. ",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-02-08T00:00:00",
+    "FavCount": 9,
+    "TagsIndex": [
+      "image-editing",
+      "avatar-generator"
+    ],
+    "ToolCategories": [
+      "image editing",
+      "avatars"
+    ],
+    "NewFeatures": [
+      "Mobile App"
+    ],
+    "WebsiteUrl": "https://remini.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f034cd3669fc37560fe2496787730d99195d1b46-1823x953.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "691e2e74-c030-40aa-a214-bcdd4b797287",
+    "ToolName": "Outboundify",
+    "ToolDescription": "Stop sending generic, impersonal emails that get lost in the inbox.\nOur finetuned models analyze and learns from sales data, to identify the best leads and create targeted, highly-effective outreach campaigns.\n\n",
+    "ToolShortDescription": "Easily create hyper-personalized emails",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2023-02-07T00:00:00",
+    "FavCount": 17,
+    "TagsIndex": [
+      "customer-support",
+      "sales-assistant"
+    ],
+    "ToolCategories": [
+      "customer support",
+      "sales"
+    ],
+    "NewFeatures": [
+      "API",
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://www.outboundify.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/362cdffdc704dab041ab86f771386a261fa785af-1897x933.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

@@ -1,0 +1,229 @@
+[
+  {
+    "Id": "58dYWW3A8J3TVLKthV8P9e",
+    "ToolName": "Writely",
+    "ToolDescription": "Making the art of writing accessible to all. Whether you need to cut down on your words, elaborate further or simply rephrase a sentence, Writely can help!",
+    "ToolShortDescription": "Making writing easier for everyone",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-05T00:00:00",
+    "FavCount": 41,
+    "TagsIndex": [
+      "writing-assistant",
+      "paraphraser",
+      "summarizer"
+    ],
+    "ToolCategories": [
+      "general writing",
+      "paraphraser",
+      "summarizer"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.writelyai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/bdd59b58c480f39608a307923b2fcc1e49bff4bf-1680x876.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "57cc5d70-7469-431e-a467-890d6d3ffdac",
+    "ToolName": "Pictory",
+    "ToolDescription": "Pictory is a video marketing tool that automatically creates short, highly sharable branded videos from long form content. Turn your scripts and blog posts into engaging videos on auto-pilot.",
+    "ToolShortDescription": "Create engaging videos from scripts & blog posts.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-12-31T00:00:00",
+    "FavCount": 120,
+    "TagsIndex": [
+      "video-editing"
+    ],
+    "ToolCategories": [
+      "video editing"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://pictory.ai?ref=vivek73",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2a7460da0b81791a3858f2a78a1b456bf592ef69-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "55afc926-649b-4fac-ba9d-a29e86efe2d7",
+    "ToolName": "Scholarcy",
+    "ToolDescription": "Save hundreds of hours by reading summaries of large articles powered by AI. Extracts the key facts, figures and references in seconds.",
+    "ToolShortDescription": "Save time & get key facts from articles with AI-powered summaries.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-01T00:00:00",
+    "FavCount": 172,
+    "TagsIndex": [
+      "research-assistant",
+      "education-assistant"
+    ],
+    "ToolCategories": [
+      "research",
+      "education assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.scholarcy.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/87d2c292de6b12c1013df643de2486f5ca2dc8ef-1920x977.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "558e1982-abf1-43a3-84c1-0002e2308632",
+    "ToolName": "FashionAdvisorAI",
+    "ToolDescription": "Ask Questions & Get Answers from FashionAdvisorAI. It uses artificial intelligence to help you find answers to your fashion queries. Use it to always dress your best.",
+    "ToolShortDescription": "Get fashion advice from AI. Ask questions & dress your best!",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2022-11-25T00:00:00",
+    "FavCount": 143,
+    "TagsIndex": [
+      "fashion-assistant"
+    ],
+    "ToolCategories": [
+      "fashion"
+    ],
+    "NewFeatures": [
+      "No Signup Required"
+    ],
+    "WebsiteUrl": "https://www.fashionadvisorai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/70044d696bc72749621cb996822b6d126f59ab4e-3777x1767.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "5524541a-ef89-44bd-8e35-318ada24e084",
+    "ToolName": "Glean",
+    "ToolDescription": "Know what your company knows, instantly. Glean searches across all your company's apps to help you find exactly what you need and discover the things you should know.",
+    "ToolShortDescription": "Glean insights from all your company's apps quickly and easily.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free Trial"
+    ],
+    "PublishedAt": "2022-11-04T00:00:00",
+    "FavCount": 46,
+    "TagsIndex": [
+      "productivity",
+      "search-engine"
+    ],
+    "ToolCategories": [
+      "productivity",
+      "search engine"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.glean.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d601174b4ff2b83f40d99da3109a7e67e517f063-1920x1080.png",
+    "ImageFormat": ".png"
+  },
+  {
+    "Id": "54de74d7-d91b-4859-954e-0471c70e7b2e",
+    "ToolName": "Industrial Data Labs",
+    "ToolDescription": "Embedding A.I. in BOM workflows.\nInside Sales Teams spend countless hours manually entering data from bill of material spreadsheets to quoting systems and ERPs.\n\nOur industry-trained A.I. automates this manual process allowing your sales team to spend more time selling.",
+    "ToolShortDescription": "A.I. automates manual BOM data entry, freeing up sales teams to focus on selling.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2022-11-29T00:00:00",
+    "FavCount": 17,
+    "TagsIndex": [
+      "sales-assistant"
+    ],
+    "ToolCategories": [
+      "sales"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://industrialdatalabs.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7927e70bb82a75cd851e2cc37f8810df79cae43f-1795x924.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "545d5f0b-c365-41b6-ba13-290d4c968c36",
+    "ToolName": "AIDuh",
+    "ToolDescription": "Chrome extension that cuts your writing time by 98% with AI-powered responses.\n",
+    "ToolShortDescription": "AI-powered Chrome extension cuts writing time by 98%.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-09T00:00:00",
+    "FavCount": 38,
+    "TagsIndex": [
+      "writing-assistant"
+    ],
+    "ToolCategories": [
+      "general writing"
+    ],
+    "NewFeatures": [
+      "Waitlist",
+      "Browser Extension"
+    ],
+    "WebsiteUrl": "https://aiduh.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0535bdcc514d782325ec976ab15276aa612cb349-1855x941.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "543e3406-b8c7-4a06-8f99-90a57713ce69",
+    "ToolName": "SyntheticAIdata",
+    "ToolDescription": "Accelerate Your Vision AI Model Creation.\nSynthetic data is an inexpensive alternative to real world data that is used to train and improve AI models. In order to train accurate AI models, a large amount of data is needed. With use of realistic 3D models you can easily create synthetic data for AI classification and object detection.",
+    "ToolShortDescription": "Create synthetic data for AI models with realistic 3D models",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Contact for Pricing"
+    ],
+    "PublishedAt": "2022-11-23T00:00:00",
+    "FavCount": 24,
+    "TagsIndex": [
+      "developer-tools"
+    ],
+    "ToolCategories": [
+      "developer tools"
+    ],
+    "NewFeatures": [
+      "Waitlist"
+    ],
+    "WebsiteUrl": "https://syntheticaidata.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c926d9adefa014a01e87d45352c3ed702ed90787-1555x944.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "52a302eb-43ee-43a8-9ad7-f5cd732c0919",
+    "ToolName": "Neural.love Art Generator",
+    "ToolDescription": "Free AI Art Generator that's generated over 5 million images. Imagine: you create a stunning masterpiece by throwing 2-3 words to AI. It's not SciFi anymore.\n",
+    "ToolShortDescription": "AI creates art from your words: 5M+ images made.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium",
+      "Free"
+    ],
+    "PublishedAt": "2022-11-20T00:00:00",
+    "FavCount": 132,
+    "TagsIndex": [
+      "art-generator"
+    ],
+    "ToolCategories": [
+      "art"
+    ],
+    "NewFeatures": [
+      "API"
+    ],
+    "WebsiteUrl": "https://neural.love/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c46827f6ac384583fcd006e84e0dadb70ae5f10c-1529x834.jpg",
+    "ImageFormat": ".jpg"
+  }
+]

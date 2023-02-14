@@ -1,0 +1,219 @@
+[
+  {
+    "Id": "97a0b966-8372-43cd-8ab6-6f5f32108273",
+    "ToolName": "VoicePen AI",
+    "ToolDescription": "Convert audio content into blog posts, using AI.\nUse VoicePen to easily turn podcasts, webinars, or tutorials into blog posts for wider reach and accessibility.",
+    "ToolShortDescription": "Convert audio content into blog posts",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-28T00:00:00",
+    "FavCount": 33,
+    "TagsIndex": [
+      "transcriber"
+    ],
+    "ToolCategories": [
+      "transcriber"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://voicepen.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/95bf5f9bd250ca18619089bd294325a455a3de24-1741x952.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "ce2fa784-ac8f-4632-9811-63ba2684908b",
+    "ToolName": "Kadoa",
+    "ToolDescription": "Kadoa is an LLM-powered tool that can understand the structure of any website and extract the desired data in the format you want.",
+    "ToolShortDescription": "Effortless Data Extraction in Seconds.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Freemium"
+    ],
+    "PublishedAt": "2023-01-27T00:00:00",
+    "FavCount": 47,
+    "TagsIndex": [
+      "developer-tools",
+      "no-code"
+    ],
+    "ToolCategories": [
+      "developer tools",
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.kadoa.co?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/10fa5ef2ad2090bc78186fe9f5908dfee4e99cf0-1812x857.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "6e328e6d-2df7-40ed-8cc9-b5e923a936bf",
+    "ToolName": "Welma",
+    "ToolDescription": "Welma uses AI to simplify complex sentences and paragraphs, making them easy to understand. Whether you're reading an academic paper, a news article, or even a novel, Welma will help you make sense of the text and retain the information.",
+    "ToolShortDescription": "Simplify complex sentences and paragraphs, making them easy to understand.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-27T00:00:00",
+    "FavCount": 93,
+    "TagsIndex": [
+      "life-assistant"
+    ],
+    "ToolCategories": [
+      "life assistant"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://welma.org/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/10cc8f1a52d272cee28c969a48e6287a77cd4417-1227x895.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "20e6e673-d079-4256-9aa1-8c88123e0413",
+    "ToolName": "Visily AI",
+    "ToolDescription": "Visily enables teams with diverse design backgrounds to create stunning wireframes and prototypes at light speed. Boasting a wide range of AI-powered features, Visily also has pre-designed templates, prototyping, and collaborative features to make designing an easy & intuitive experience.",
+    "ToolShortDescription": "Design stunning app wireframes at light speed",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-27T00:00:00",
+    "FavCount": 139,
+    "TagsIndex": [
+      "design-assistant",
+      "no-code"
+    ],
+    "ToolCategories": [
+      "design assistant",
+      "low-code/no-code"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.visily.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2d7707719b39c6c0e2f85c6a3c4351a381fed734-1872x921.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "25f19f3b-357d-42ca-a5e5-679c715bcabc",
+    "ToolName": "BoozyBlend",
+    "ToolDescription": "The best cocktail recipes customized for you with AI. Generate a recipe based on ingredients and your preference for sweetness, type of glass, and theme.",
+    "ToolShortDescription": "AI-generated cocktail recipes",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-27T00:00:00",
+    "FavCount": 55,
+    "TagsIndex": [
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://boozyblend.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4eb0a5165a00652a99c5f841480a7a9d59891761-1795x917.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "41cb15ae-79e3-4050-a636-413f8577d0ba",
+    "ToolName": "Sybill",
+    "ToolDescription": "Sybill generates accurate, human-like sales call summaries based on the conversation and the buyer's emotional reactions. Follow up effectively, hit on the precise areas of interest, and say goodbye to taking notes for CRM.",
+    "ToolShortDescription": "Generates accurate, human-like sales call summaries",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-27T00:00:00",
+    "FavCount": 16,
+    "TagsIndex": [
+      "sales-assistant",
+      "summarizer"
+    ],
+    "ToolCategories": [
+      "sales",
+      "summarizer"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.sybill.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9d0c225905519792b42c250b048f56c88d6bb4d7-1282x675.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "e06bdc1c-2f03-4d56-90b5-680aa84bc6b1",
+    "ToolName": "Viral Post Generator",
+    "ToolDescription": "Generate Viral Posts for LinkedIn. Has settings for event, inspirational quote and cringe level.",
+    "ToolShortDescription": "Generate Viral Posts for LinkedIn",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Free"
+    ],
+    "PublishedAt": "2023-01-27T00:00:00",
+    "FavCount": 140,
+    "TagsIndex": [
+      "social-media-assistant",
+      "fun-tools"
+    ],
+    "ToolCategories": [
+      "social media assistant",
+      "fun tools"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://viralpostgenerator.taplio.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d26167d2a3d8666fa73c56afab81d78be7e3b661-826x960.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "e3cf7dec-54e4-4518-a9fe-bc92ed64f1dc",
+    "ToolName": "Sana Labs",
+    "ToolDescription": "Sana’s AI-powered learning platform helps pioneering companies share knowledge, learn fast, automate admin and perform 10x faster.",
+    "ToolShortDescription": "AI-powered learning platform for pioneering companies",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-27T00:00:00",
+    "FavCount": 17,
+    "TagsIndex": [
+      "productivity",
+      "memory-assistant"
+    ],
+    "ToolCategories": [
+      "productivity",
+      "memory"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://www.sanalabs.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/15af0618fca2a49be6694872e3e64cf1323522ce-1777x942.jpg",
+    "ImageFormat": ".jpg"
+  },
+  {
+    "Id": "26abc64c-64eb-4c62-b64a-4810045071a8",
+    "ToolName": "Level AI",
+    "ToolDescription": "Level AI is the next-level contact center intelligence platform. Our AI-first SaaS helps companies uncover customer insights and drive business outcomes. Level AI enables omnichannel optimization by analyzing customer experience, assisting agent performance, and automating contact center operations. ",
+    "ToolShortDescription": "Next-level contact center intelligence platform.",
+    "Verified": false,
+    "VerifiedReason": "Recommended",
+    "Pricing": [
+      "Paid"
+    ],
+    "PublishedAt": "2023-01-27T00:00:00",
+    "FavCount": 7,
+    "TagsIndex": [
+      "customer-support"
+    ],
+    "ToolCategories": [
+      "customer support"
+    ],
+    "NewFeatures": [],
+    "WebsiteUrl": "https://thelevel.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia#",
+    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/624c6e4657002a70ff8858ca6bd342c7ecdb0693-1776x947.jpg",
+    "ImageFormat": ".jpg"
+  }
+]
