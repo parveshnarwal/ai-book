@@ -42,7 +42,7 @@
       "memory"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://heyday.xyz/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://heyday.xyz/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/547355234b9631e28f7569e947f098e0517ea0cd-1796x902.jpg",
     "ImageFormat": ".jpg"
   },
@@ -90,7 +90,7 @@
     "NewFeatures": [
       "API"
     ],
-    "WebsiteUrl": "https://roboflow.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://roboflow.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6440e1f7c6674ddbaed320f2640038c621b05dab-1846x862.jpg",
     "ImageFormat": ".jpg"
   },
@@ -115,7 +115,7 @@
     "NewFeatures": [
       "Waitlist"
     ],
-    "WebsiteUrl": "https://www.usechannel.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.usechannel.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/01c69dfd68604265e2036a967f435b4905479a18-1892x782.jpg",
     "ImageFormat": ".jpg"
   },
@@ -140,7 +140,7 @@
     "NewFeatures": [
       "API"
     ],
-    "WebsiteUrl": "https://openai.com/dall-e-2/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://openai.com/dall-e-2/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1cca013eba633e9c48234774a0d0cdc5ee7a6d34-1580x963.jpg",
     "ImageFormat": ".jpg"
   },
@@ -163,7 +163,7 @@
       "video editing"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://runwayml.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://runwayml.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/31790ec63f8bb3f18c519f0a03c24042668f76b6-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -188,7 +188,7 @@
     "NewFeatures": [
       "Waitlist"
     ],
-    "WebsiteUrl": "https://echo.win/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://echo.win/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/bf0217fd20225aaaa7a9fb5f31e44752abd0835e-1900x948.jpg",
     "ImageFormat": ".jpg"
   },
@@ -211,7 +211,7 @@
       "spreadsheets"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://excelformulabot.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://excelformulabot.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/354fd3c5dae7c0f8ab827f078309f5d88d820a69-861x667.jpg",
     "ImageFormat": ".jpg"
   }

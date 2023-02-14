@@ -20,7 +20,7 @@
     "NewFeatures": [
       "Browser Extension"
     ],
-    "WebsiteUrl": "https://www.hama.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.hama.app/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b17e18151ab786b560dbddd38e5407611244907f-1700x956.jpg",
     "ImageFormat": ".jpg"
   },
@@ -45,7 +45,7 @@
     "NewFeatures": [
       "API"
     ],
-    "WebsiteUrl": "https://windsor.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://windsor.io/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/52027d13e570fc3bb05d7b166795aff03548f217-1856x953.jpg",
     "ImageFormat": ".jpg"
   },
@@ -72,7 +72,7 @@
     "NewFeatures": [
       "Waitlist"
     ],
-    "WebsiteUrl": "https://fablesimulation.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://fablesimulation.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/5772bca9ad5c66502847f1728f3e2259d3598a97-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -95,7 +95,7 @@
       "search engine"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://dreamsands.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://dreamsands.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/40c58cf3ee2b5b671b44b586e39ba98257ee3eb7-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -118,7 +118,7 @@
       "low-code/no-code"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.lobe.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.lobe.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/48a19ae548b99ceccf63a5eac7424f6dd254fe7c-3443x1667.png",
     "ImageFormat": ".png"
   },
@@ -143,7 +143,7 @@
       "low-code/no-code"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://mutable.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://mutable.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/99ac9f9b2a0291dba4b31bd3a907434a97eeeb8b-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -166,7 +166,7 @@
       "video generator"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://wowto.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://wowto.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dcd99e1fda61a363330b3f3005283a0e6401dde4-3781x1685.png",
     "ImageFormat": ".png"
   },
@@ -191,7 +191,7 @@
       "search engine"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.stockai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.stockai.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/200737a16d68740347b3d4712db0dc621366aeca-1912x974.jpg",
     "ImageFormat": ".jpg"
   },
@@ -216,7 +216,7 @@
       "design assistant"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://hotpot.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://hotpot.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ef7bbec96f8eda991b3617b425893306d680edf9-1835x964.jpg",
     "ImageFormat": ".jpg"
   }

@@ -20,7 +20,7 @@
     "NewFeatures": [
       "Waitlist"
     ],
-    "WebsiteUrl": "https://contenda.co/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://contenda.co/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/34808afe95de0e1bef543cd6faaeac9c01ebb47e-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -48,7 +48,7 @@
       "Open Source",
       "API"
     ],
-    "WebsiteUrl": "https://github.com/openai/whisper?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://github.com/openai/whisper",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/5135c1bb987ee723dca0282ee1fbd27e6955f905-2973x2253.png",
     "ImageFormat": ".png"
   },
@@ -73,7 +73,7 @@
       "art"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://diffusion.land/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://diffusion.land/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/333ff01660416c9f2087e17230dcc265ae9c950d-1659x538.jpg",
     "ImageFormat": ".jpg"
   },
@@ -96,7 +96,7 @@
       "SEO"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://writer.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://writer.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a400c6f52ab0842d37d5dd4309933aa430ce45a6-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -119,7 +119,7 @@
       "text to speech"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://audioread.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://audioread.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4ee76fed97ea64441b7feecfdac70860a9ee9127-1771x970.jpg",
     "ImageFormat": ".jpg"
   },
@@ -144,7 +144,7 @@
       "video generator"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.audiolabs.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.audiolabs.io/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d6510cb9736e41bf268ced72bce0ec07461089b1-1571x972.jpg",
     "ImageFormat": ".jpg"
   },
@@ -167,7 +167,7 @@
       "fun tools"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.tattoosai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.tattoosai.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9ef5653f4b57723e1ea9d5f20fce7e09bfb62349-1905x969.jpg",
     "ImageFormat": ".jpg"
   },
@@ -190,7 +190,7 @@
       "text to speech"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.resemble.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.resemble.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1d6164386b40799bb139298a914fd96c7c2828af-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -213,7 +213,7 @@
       "copywriting"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.daydrm.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.daydrm.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c7869b2730293639316dec6f2252fc7befc693ed-3627x1693.png",
     "ImageFormat": ".png"
   }

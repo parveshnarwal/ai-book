@@ -20,7 +20,7 @@
     "NewFeatures": [
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://glass.health/ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://glass.health/ai",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3bda0da085793e695671d20a81332ff20f4d8659-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -47,7 +47,7 @@
     "NewFeatures": [
       "API"
     ],
-    "WebsiteUrl": "https://solidgrids.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://solidgrids.com",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a056f8b1b639fd6f9c049aa011fa064fd1e82b1a-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -72,7 +72,7 @@
     "NewFeatures": [
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://soundraw.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://soundraw.io/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/194ba6e8b43dc013a93aca4acd52fead5fdf6674-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -123,7 +123,7 @@
       "fashion"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.hairbyai.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.hairbyai.com",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d579f198cd3573b3f6e23df63b47ba98435149fb-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -146,7 +146,7 @@
       "human resources"
     ],
     "NewFeatures": null,
-    "WebsiteUrl": "https://www.rezi.ai/ai-resume-builder?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.rezi.ai/ai-resume-builder",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7aa46d9b689b1c29112fd3d1c5a02ab236e206e0-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -171,7 +171,7 @@
     "NewFeatures": [
       "API"
     ],
-    "WebsiteUrl": "https://www.obviously.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.obviously.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1839e18fc5c7feea171ee274bb81708b70caafb6-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -196,7 +196,7 @@
       "social media assistant"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.brandbastion.com/lite?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.brandbastion.com/lite",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/55b9b8b58b4193165804fb682870b43d67d85c9d-1887x940.jpg",
     "ImageFormat": ".jpg"
   },
@@ -221,7 +221,7 @@
       "productivity"
     ],
     "NewFeatures": null,
-    "WebsiteUrl": "https://t.me/chatlive_ai_bot?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://t.me/chatlive_ai_bot",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4e11d421867242e22d23b8909ee401ac6cb51e63-1896x912.jpg",
     "ImageFormat": ".jpg"
   }

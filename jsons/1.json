@@ -97,7 +97,7 @@
       "Mobile App",
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://piggy.to/magic?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://piggy.to/magic/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ee18186598a943aa2b347c094ab23cd6b2f8084a-1200x628.jpg",
     "ImageFormat": ".jpg"
   },
@@ -124,7 +124,7 @@
     "NewFeatures": [
       "API"
     ],
-    "WebsiteUrl": "https://www.neuronsinc.com/predict?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.neuronsinc.com/predict/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/07ee9dc39c780f88381b223e632b7c7d35f38684-1722x886.jpg",
     "ImageFormat": ".jpg"
   },
@@ -177,7 +177,7 @@
       "productivity"
     ],
     "NewFeatures": null,
-    "WebsiteUrl": "https://www.meetcody.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.meetcody.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/be4586dccaedc9fe18f0aa2b61b9b3ef859a1159-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -228,7 +228,7 @@
     "NewFeatures": [
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://dreaminterpreter.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://dreaminterpreter.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/40dd8a7614b9f323a0697b9d6302bc415a3e59c7-1686x944.jpg",
     "ImageFormat": ".jpg"
   }

@@ -20,9 +20,7 @@
     "NewFeatures": [
       "Browser Extension"
     ],
-    "WebsiteUrl": "https://www.web3summary.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
-    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/62850307daa08616fdb0090ab6f98555265c3a66-1876x943.jpg",
-    "ImageFormat": ".jpg"
+    "WebsiteUrl": "https://www.web3summary.com/
   },
   {
     "Id": "6ff9e8cf-9cf8-46d1-9e73-ea41cf5575e6",
@@ -45,8 +43,7 @@
       "sales"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://sellesta.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
-    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/493789c7071542ecd8a60d4ad1411c2502b3a778-1833x927.jpg",
+    "WebsiteUrl": "https://sellesta.ai/"ImageUrl": "https: //cdn.sanity.io/images/u0v1th4q/production/493789c7071542ecd8a60d4ad1411c2502b3a778-1833x927.jpg",
     "ImageFormat": ".jpg"
   },
   {
@@ -70,8 +67,7 @@
     "NewFeatures": [
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://snape.springworks.in/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
-    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/91f081a6561cf882ca5e02948e3ced13bcacd201-1848x951.jpg",
+    "WebsiteUrl": "https://snape.springworks.in/"ImageUrl": "https: //cdn.sanity.io/images/u0v1th4q/production/91f081a6561cf882ca5e02948e3ced13bcacd201-1848x951.jpg",
     "ImageFormat": ".jpg"
   },
   {
@@ -97,18 +93,11 @@
     "NewFeatures": [
       "Browser Extension"
     ],
-    "WebsiteUrl": "https://www.hirepeople.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
-    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2cff6645bf89657e895c9cbea1499392bf5388dd-1846x926.jpg",
+    "WebsiteUrl": "https://www.hirepeople.com/"ImageUrl": "https: //cdn.sanity.io/images/u0v1th4q/production/2cff6645bf89657e895c9cbea1499392bf5388dd-1846x926.jpg",
     "ImageFormat": ".jpg"
   },
   {
-    "Id": "72e10b91-30a1-4799-a48a-dc9a2d0fc194",
-    "ToolName": "Sivi",
-    "ToolDescription": "A graphic design tool that uses artificial intelligence to quickly and easily create product banners, Google display ads, Facebook ads, and other visual designs. It enables users to quickly create original compositions, limitless variations, and designs that look professional.  It helps creating visually appealing ads that convert more effectively and quickly for marketers, business owners, content writers, and e-commerce managers.",
-    "ToolShortDescription": "A tool to turn your text into full visual designs.",
-    "Verified": false,
-    "VerifiedReason": "Recommended",
-    "Pricing": [
+    "Id": "72e10b91-30a1-4799-a48a-dc9a2d0fc19"Pricing": [
       "Contact for Pricing"
     ],
     "PublishedAt": "2023-02-14T00:00:00",
@@ -120,23 +109,16 @@
       "design assistant"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://sivi.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
-    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9387bfd5f3cdca79862a2fe891f5eaa3c496d596-1866x909.jpg",
+    "WebsiteUrl": "https://sivi.ai/"ImageUrl": "https: //cdn.sanity.io/images/u0v1th4q/production/9387bfd5f3cdca79862a2fe891f5eaa3c496d596-1866x909.jpg",
     "ImageFormat": ".jpg"
   },
   {
-    "Id": "83ba2c27-c72e-4627-8811-293ea50f4353",
-    "ToolName": "Evolup",
-    "ToolDescription": "A tool that makes it simple for users to start their own affiliate store. Strong artificial intelligence, Amazon synchronisation, cutting-edge SEO features, hosting and installation of the solution, and more are all made available. Additionally, it has a full dashboard for managing SEO, automatic product import, and availability and price synchronisation. Evolup offers monthly or annual plans, as well as a 7-day free trial with no credit card or commitment necessary.",
-    "ToolShortDescription": "Create and manage amazon affiliate stores.",
-    "Verified": false,
+    "Id": "83ba2c27-c72e-4627-8811-"ToolDescription": "A tool that makes it simple for users to start their own affiliate store. Strong artificial intelligence, Amazon synchronisation, cutting-edge SEO features, hosting and installation of the solution, and more are all made available. Additionally, it has a full dashboard for managing SEO, automatic product import, and availability and price synchronisation. Evolup offers monthly or annual plans, as well as a 7-day free trial with no credit card or commitment necessary.","ToolShortDescription": "Create"Verified": false,
     "VerifiedReason": "Recommended",
     "Pricing": [
       "Free Trial"
     ],
-    "PublishedAt": "2023-02-14T00:00:00",
-    "FavCount": 4,
-    "TagsIndex": [
+    "PublishedAt": "2023-02-14T00:0"FavCount": 4,"TagsIndex": [
       "e-commerce",
       "seo-assistant"
     ],
@@ -145,14 +127,13 @@
       "SEO"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.evolup.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
-    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2dce97223da639a0fd327ddc9f36694af32c17b2-1875x954.jpg",
+    "WebsiteUrl": "https://www.evolup.com/"ImageUrl": "https: //cdn.sanity.io/images/u0v1th4q/production/2dce97223da639a0fd327ddc9f36694af32c17b2-1875x954.jpg",
     "ImageFormat": ".jpg"
   },
   {
     "Id": "257555b2-1840-4a69-aa0d-ac489404f7a8",
     "ToolName": "Mokker",
-    "ToolDescription": "AI background replacement for instant professional product photos from a single product image.",
+    "ToolDescription": "AI background replmage.",
     "ToolShortDescription": "AI Background  Replacement",
     "Verified": false,
     "VerifiedReason": "Recommended",
@@ -168,55 +149,41 @@
       "image editing"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://mokker.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
-    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/886172494b90de027c70508fd3dc7bf2e87094ac-1616x906.jpg",
+    "WebsiteUrl": "https://mokker.ai/"ImageUrl": "https: //cdn.sanity.io/images/u0v1th4q/production/886172494b90de027c70508fd3dc7bf2e87094ac-1616x906.jpg",
     "ImageFormat": ".jpg"
   },
   {
     "Id": "f02c9927-3054-4ba6-a7ec-10d2f055e0ed",
     "ToolName": "Contentinator",
-    "ToolDescription": "Populate your designs with realistic content of virtually anything — through the power of AI 🤖\n✍️ Text — Upgrade your placeholder text, or just let it write for you.\n🌄 Images — Generate high quality images straight from a text prompt.\n\n",
-    "ToolShortDescription": "AI content generation directly in Figma",
-    "Verified": false,
-    "VerifiedReason": "Recommended",
-    "Pricing": [
-      "Paid",
-      "Free Trial"
-    ],
-    "PublishedAt": "2023-02-13T00:00:00",
-    "FavCount": 6,
-    "TagsIndex": [
-      "design-assistant"
-    ],
-    "ToolCategories": [
-      "design assistant"
-    ],
-    "NewFeatures": [],
-    "WebsiteUrl": "https://www.figma.com/community/plugin/1184099018479632867/Contentinator?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
-    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4e7a50004598c506175ce9dc5480788a9cc33bb2-1435x805.jpg",
-    "ImageFormat": ".jpg"
-  },
-  {
-    "Id": "48465109-7d83-49d1-93a6-082c2c7281cd",
-    "ToolName": "Postly",
-    "ToolDescription": "A complete social media marketing platform enabling users to plan, design, and distribute campaigns at a large scale. It has copywriting, digital ads, emails, image and video editors, link shorteners, approval workflow, and one-click publishing features. Additionally, a bulk upload choice is offered. Postly assists businesses and marketers in increasing engagement, conversions, and marketing campaigns.",
-    "ToolShortDescription": "Design and publish your social media marketing campaigns at scale.",
-    "Verified": false,
-    "VerifiedReason": "Recommended",
-    "Pricing": [
-      "Freemium"
-    ],
-    "PublishedAt": "2023-02-13T00:00:00",
-    "FavCount": 9,
-    "TagsIndex": [
-      "social-media-assistant"
-    ],
-    "ToolCategories": [
-      "social media assistant"
-    ],
-    "NewFeatures": [],
-    "WebsiteUrl": "https://postly.ai?fpr=4bhq6",
-    "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/106538eef2991694c2b62a4701d973fe74889aea-1540x858.jpg",
-    "ImageFormat": ".jpg"
-  }
+    "ToolDescription": "Populate yourer of AI 🤖\n✍️ Text — Upgrade your placeholder text, or just let it write for you.\n🌄 Images — Generate high quality images straight from a text prompt.\n\n",
+    "ToolShortDescription": "AI conte"Verified": false,"VerifiedReason": "Recommended","Pricing": ["Paid","Free Trial"
+  ],
+  "PublishedAt": "2023-02-13T00:00:"FavCount": 6,"TagsIndex": ["design-assistant"
+],
+"ToolCategories": [
+  "design assistant"
+],
+"NewFeatures": [],
+"WebsiteUrl": "https://www.figma.com//cdn.sanity.io/images/u0v1th4q/production/4e7a50004598c506175ce9dc5480788a9cc33bb2-1435x805.jpg",
+"ImageFormat": ".jpg"
+},
+{
+"Id": "48465109-7d83-49d1-93a6-082c2c7281cd",
+"ToolName": "Postly",
+"ToolDescription": "A complete social media marketing platform enabling users to plan, design, and distribute campaigns at a large scale. It has copywriting, digital ads, emails, image and video editors, link shorteners, approval workflow, and one-click publishing features. Additionally, a bulk upload choice is offered. Postly assists businesses and marketers in increasing engagement, conversions, and marketing campaigns.",
+"ToolShortDescription": "Design and publish your social media marketing campaigns at sc"Verified": false,"VerifiedReason": "Recommended","Pricing": ["Freemium"
+],
+"PublishedAt": "2023-02-13T00:00:00",
+"FavCount": 9,
+"TagsIndex": [
+"social-media-assistant"
+],
+"ToolCategories": [
+"social media assistant"
+],
+"NewFeatures": [],
+"WebsiteUrl": "https://postly.ai?fpr=4bhq6",
+"ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/106538eef2991694c2b62a4701d973fe74889aea-1540x858.jpg",
+"ImageFormat": ".jpg"
+}
 ]

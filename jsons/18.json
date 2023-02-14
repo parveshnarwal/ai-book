@@ -20,7 +20,7 @@
     "NewFeatures": [
       "Waitlist"
     ],
-    "WebsiteUrl": "https://podcast.adobe.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://podcast.adobe.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f3612868b2f9d6230869fa10324566fd4d265b3d-1762x788.jpg",
     "ImageFormat": ".jpg"
   },
@@ -45,7 +45,7 @@
     "NewFeatures": [
       "Open Source"
     ],
-    "WebsiteUrl": "https://www.harmonai.org/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.harmonai.org/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9e2d59dcc58ff0124fb09cad9dc265b6cfdea3b4-1920x1080.png",
     "ImageFormat": ".png"
   },
@@ -70,7 +70,7 @@
       "gaming"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.tutorai.me/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.tutorai.me/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6e44b719a15419bd315246e16c12216c2240ab69-1902x967.jpg",
     "ImageFormat": ".jpg"
   },
@@ -96,7 +96,7 @@
       "Open Source",
       "Discord Community"
     ],
-    "WebsiteUrl": "https://coqui.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://coqui.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f1e21885729b2395f63a38be2c842b255a277b87-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -122,7 +122,7 @@
       "Open Source",
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://nv-tlabs.github.io/GET3D/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://nv-tlabs.github.io/GET3D/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/426898c1f8231d1d7b9e153e8d60b8b590563077-3613x1811.png",
     "ImageFormat": ".png"
   },
@@ -148,7 +148,7 @@
       "Mobile App",
       "Discord Community"
     ],
-    "WebsiteUrl": "https://endel.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://endel.io/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/66270aaebf1d3edef14d74e765d452dfb6132ec5-1920x1080.png",
     "ImageFormat": ".png"
   },
@@ -174,7 +174,7 @@
       "Open Source",
       "Discord Community"
     ],
-    "WebsiteUrl": "https://stablehorde.net/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://stablehorde.net/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0befac3977af1e9d2ecc60f7890b3e34921e5fae-1880x762.jpg",
     "ImageFormat": ".jpg"
   },
@@ -197,7 +197,7 @@
       "copywriting"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://hypotenuse.ai/&ref=futurepedia",
+    "WebsiteUrl": "https://hypotenuse.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ad0cb6a14372d11e5e06267399d5712b9ffb0c3d-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -222,7 +222,7 @@
     "NewFeatures": [
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://andisearch.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://andisearch.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6732f8ece2335beca9e6862c60b3a12abbccd06d-1680x876.png",
     "ImageFormat": ".png"
   }

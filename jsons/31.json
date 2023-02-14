@@ -20,7 +20,7 @@
     "NewFeatures": [
       "Browser Extension"
     ],
-    "WebsiteUrl": "https://chatonai.org/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://chatonai.org/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e9f78b96987fbe25cb445946c9b12cd439e68ba0-1692x946.jpg",
     "ImageFormat": ".jpg"
   },
@@ -43,7 +43,7 @@
       "social media assistant"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://tweetmonk.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://tweetmonk.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ec7fe79a8e19ddd63a4745dcecec5fb38b34541f-1859x919.jpg",
     "ImageFormat": ".jpg"
   },
@@ -71,7 +71,7 @@
       "Open Source",
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://github.com/samim23/polymath?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://github.com/samim23/polymath",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/03ce8e3d66744714247fa60b7c40b996b3a53237-921x597.jpg",
     "ImageFormat": ".jpg"
   },
@@ -96,7 +96,7 @@
     "NewFeatures": [
       "Waitlist"
     ],
-    "WebsiteUrl": "https://www.getcargo.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.getcargo.io/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/33facf68b87d0c6bd0ebea16a346ff6b9c9e2d67-1551x860.jpg",
     "ImageFormat": ".jpg"
   },
@@ -121,7 +121,7 @@
     "NewFeatures": [
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://www.duinocodegenerator.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.duinocodegenerator.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/16e36c17b04b042dfe04afe6fb5cc702f290f2be-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -146,7 +146,7 @@
       "education assistant"
     ],
     "NewFeatures": null,
-    "WebsiteUrl": "https://tinystorie.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://tinystorie.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f663e49704357d874256e93977510c473811580a-1349x717.jpg",
     "ImageFormat": ".jpg"
   },
@@ -171,7 +171,7 @@
     "NewFeatures": [
       "Waitlist"
     ],
-    "WebsiteUrl": "https://embra.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://embra.app/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/acc9211a96c47f132d9a377024aa6ff680442027-1752x957.jpg",
     "ImageFormat": ".jpg"
   },
@@ -196,7 +196,7 @@
     "NewFeatures": [
       "Open Source"
     ],
-    "WebsiteUrl": "https://mindsdb.com/natural-language-processing-in-databases?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://mindsdb.com/natural-language-processing-in-databases",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3bc5827a8384f1ac0c45e605fa89ee8dc4b6bac3-1826x895.jpg",
     "ImageFormat": ".jpg"
   },
@@ -219,7 +219,7 @@
       "productivity"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.askcorpora.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.askcorpora.com",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8500a565fcdff96cacf3e1ad41d04e8a9aa8b788-1781x900.jpg",
     "ImageFormat": ".jpg"
   }

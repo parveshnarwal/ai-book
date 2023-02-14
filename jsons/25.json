@@ -22,7 +22,7 @@
     "NewFeatures": [
       "Mobile App"
     ],
-    "WebsiteUrl": "https://hey.reface.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://hey.reface.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/71f70f5bdbb4d4688e83d19f56f47118fab83b4c-1835x931.jpg",
     "ImageFormat": ".jpg"
   },
@@ -47,7 +47,7 @@
     "NewFeatures": [
       "API"
     ],
-    "WebsiteUrl": "https://app.kailualabs.com/image-search?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://app.kailualabs.com/image-search",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/dde0b70224ba7c6e6a4a1c5e0f9111253904343e-1674x915.jpg",
     "ImageFormat": ".jpg"
   },
@@ -74,7 +74,7 @@
       "fun tools"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.anypod.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.anypod.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a5b3b7ebef0b1944d0fe381b607d265944d95867-1692x936.jpg",
     "ImageFormat": ".jpg"
   },
@@ -100,7 +100,7 @@
       "Open Source",
       "API"
     ],
-    "WebsiteUrl": "https://huggingface.co/spaces/microsoft/Promptist?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://huggingface.co/spaces/microsoft/Promptist",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6b4835c0b33bc26e139890ffc75bc488b3663d42-1858x919.jpg",
     "ImageFormat": ".jpg"
   },
@@ -126,7 +126,7 @@
       "Open Source",
       "Browser Extension"
     ],
-    "WebsiteUrl": "https://merlin.foyer.work/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://merlin.foyer.work/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/81ecc96700c0998c12c4d4c3d79428bbb65f7923-1290x714.jpg",
     "ImageFormat": ".jpg"
   },
@@ -149,7 +149,7 @@
       "healthcare"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://whisper.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://whisper.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b2c7c7a0604760e77942379f073b57cf90800d8c-1777x870.jpg",
     "ImageFormat": ".jpg"
   },
@@ -174,7 +174,7 @@
     "NewFeatures": [
       "Waitlist"
     ],
-    "WebsiteUrl": "https://askoracle.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://askoracle.app/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0c3121d88d072da7330b7f406f149949fa819cba-1380x954.jpg",
     "ImageFormat": ".jpg"
   },
@@ -199,7 +199,7 @@
       "email assistant"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.mentioned.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.mentioned.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d5380862336137f52dcc94ba68cd7d47d96e924f-1660x954.jpg",
     "ImageFormat": ".jpg"
   },
@@ -225,7 +225,7 @@
       "Mobile App",
       "Browser Extension"
     ],
-    "WebsiteUrl": "https://speechify.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://speechify.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b338bec6e4bdee66310d11cefea5dfd04e2ab8ca-1865x948.jpg",
     "ImageFormat": ".jpg"
   }

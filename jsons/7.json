@@ -23,7 +23,7 @@
       "API",
       "Discord Community"
     ],
-    "WebsiteUrl": "https://platform.openai.com/playground?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://platform.openai.com/playground",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/07088feeaaadb9261ff821d59aed40b1fe16acf2-1898x961.jpg",
     "ImageFormat": ".jpg"
   },
@@ -50,7 +50,7 @@
     "NewFeatures": [
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://wtfdoesthiscompanydo.vercel.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://wtfdoesthiscompanydo.vercel.app/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4f427a8c1cbc84941feb896bd956fa418e4b8b3f-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -77,7 +77,7 @@
       "education assistant"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.humata.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.humata.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7693139299ce48f707146e71a920a890771ccc72-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -102,7 +102,7 @@
     "NewFeatures": [
       "Browser Extension"
     ],
-    "WebsiteUrl": "https://my.brain.fm/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://my.brain.fm/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/040133d60dddf4e73549bfe947ac8def9bec6ca3-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -127,7 +127,7 @@
       "fun tools"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.mapsgpt.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.mapsgpt.com",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0a6652819ee8b78e384fd308a80c1a2e8f59374e-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -150,7 +150,7 @@
       "fun tools"
     ],
     "NewFeatures": null,
-    "WebsiteUrl": "https://www.myheritage.fr/deep-nostalgia?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.myheritage.fr/deep-nostalgia",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/126629c8ac5066ac009e1c5635578e3dcd5b72cb-1628x895.jpg",
     "ImageFormat": ".jpg"
   },
@@ -175,7 +175,7 @@
     "NewFeatures": [
       "API"
     ],
-    "WebsiteUrl": "https://app.yoodli.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://app.yoodli.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4c0871d865b637a4b8483ce768b1c65c80285eb4-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -202,7 +202,7 @@
     "NewFeatures": [
       "API"
     ],
-    "WebsiteUrl": "https://app.pebblely.com?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://app.pebblely.com",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6f9a81457df2df9a668be051dedfc56ac0abaea5-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -230,7 +230,7 @@
       "No Signup Required",
       "Open Source"
     ],
-    "WebsiteUrl": "https://cron-ai.vercel.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://cron-ai.vercel.app/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/955053e9e3f9eee0d95c9e4663528f0741469e91-1680x876.png",
     "ImageFormat": ".png"
   }

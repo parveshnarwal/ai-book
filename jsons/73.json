@@ -21,7 +21,7 @@
       "Browser Extension",
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://jokelub.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://jokelub.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7cdb9a2c46701189f378b6be28a71b6b5e5f2508-1680x889.webp",
     "ImageFormat": ".webp"
   },
@@ -46,7 +46,7 @@
     "NewFeatures": [
       "API"
     ],
-    "WebsiteUrl": "https://supermeme.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://supermeme.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a2ebe04468996caea354760491355a53cbbbb984-1855x936.jpg",
     "ImageFormat": ".jpg"
   },
@@ -69,7 +69,7 @@
       "copywriting"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://contents.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://contents.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/046332f648dfbc45bbc5912693a00fd6f80dabf9-3787x1735.png",
     "ImageFormat": ".png"
   },
@@ -92,7 +92,7 @@
       "audio editing"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.audiostrip.co.uk/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.audiostrip.co.uk/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fbeb4cbe4dc0834082bac3e4f8b7f26221faeede-1553x858.jpg",
     "ImageFormat": ".jpg"
   },
@@ -115,7 +115,7 @@
       "design assistant"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "http://patterned.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "http://patterned.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1c6875db9d53c0b289a3b9da3b59c1eead0056d0-1677x947.jpg",
     "ImageFormat": ".jpg"
   },
@@ -139,7 +139,7 @@
       "SEO"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://bramework.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://bramework.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fdcba947d840a9ac034b3c1695636cd8393f3f89-3679x1657.png",
     "ImageFormat": ".png"
   },
@@ -187,7 +187,7 @@
       "fashion"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://ca.la/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://ca.la/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7131ff8f71cbb24a834abe1c842ca138aa9330ef-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -210,7 +210,7 @@
       "developer tools"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://mintlify.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://mintlify.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8238249bc09c31442ed324d3838c8630ca4c36fc-1680x876.png",
     "ImageFormat": ".png"
   }

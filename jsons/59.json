@@ -18,7 +18,7 @@
       "healthcare"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.lunit.io/en?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.lunit.io/en",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d5b5a8d6234bec122723c643e07e8bc041492bba-1814x899.jpg",
     "ImageFormat": ".jpg"
   },
@@ -46,7 +46,7 @@
       "Waitlist",
       "API"
     ],
-    "WebsiteUrl": "https://www.shaped.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.shaped.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/adb4714c5b9fec4578e41a206b3d6271b9f93bda-1765x945.jpg",
     "ImageFormat": ".jpg"
   },
@@ -69,7 +69,7 @@
       "SEO"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://seovendor.co/seo-gpt/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://seovendor.co/seo-gpt/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6a91d36f50c7b34dc44d14e8a014e9d08ff75c48-1445x952.jpg",
     "ImageFormat": ".jpg"
   },
@@ -94,7 +94,7 @@
       "design assistant"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.befunky.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.befunky.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8b7eab1e9035a2917f1ec99cb8446cc495fd009b-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -121,7 +121,7 @@
     "NewFeatures": [
       "Mobile App"
     ],
-    "WebsiteUrl": "https://apps.apple.com/us/app/bright-eye/id1593932475?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://apps.apple.com/us/app/bright-eye/id1593932475",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/18e15d3768d1d50a572df6374409331f98e03bea-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -146,7 +146,7 @@
     "NewFeatures": [
       "Discord Community"
     ],
-    "WebsiteUrl": "https://www.bluewillow.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.bluewillow.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fb42ad39e395aba74dbb4fc2bb402045a33115aa-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -171,7 +171,7 @@
       "design assistant"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://booth.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://booth.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/255420538484d1af960a1df6bd1c555e363e70aa-1793x932.jpg",
     "ImageFormat": ".jpg"
   },
@@ -196,7 +196,7 @@
     "NewFeatures": [
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://corrector.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://corrector.app/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e92d940bb744416c4d049a3a6021f86f2b710613-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -223,7 +223,7 @@
     "NewFeatures": [
       "Browser Extension"
     ],
-    "WebsiteUrl": "https://upcat.app/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://upcat.app/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/87150466dfd7c7947fbd6ad8fbd8af1d7c030a13-1680x876.png",
     "ImageFormat": ".png"
   }

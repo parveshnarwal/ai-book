@@ -20,7 +20,7 @@
     "NewFeatures": [
       "Open Source"
     ],
-    "WebsiteUrl": "https://prompt.noonshot.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://prompt.noonshot.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/32b6306f266d8dbd3f9cd9a793cb9ce2d9ec202c-1863x922.jpg",
     "ImageFormat": ".jpg"
   },
@@ -50,7 +50,7 @@
       "Open Source",
       "API"
     ],
-    "WebsiteUrl": "https://www.fast.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.fast.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/fb3bb03d259a8804b8414e52b58a07c557cdbea7-1882x920.jpg",
     "ImageFormat": ".jpg"
   },
@@ -75,7 +75,7 @@
     "NewFeatures": [
       "Browser Extension"
     ],
-    "WebsiteUrl": "https://vidiq.com/futurepedia",
+    "WebsiteUrl": "https://vidiq.com",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/77459cc0963d126b22d2437ede9091a55a0617bd-1815x934.jpg",
     "ImageFormat": ".jpg"
   },
@@ -102,7 +102,7 @@
     "NewFeatures": [
       "Mobile App"
     ],
-    "WebsiteUrl": "https://woebothealth.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://woebothealth.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3f561561ab4b402868cad1abcace1d35dd5cc480-1842x974.jpg",
     "ImageFormat": ".jpg"
   },
@@ -129,7 +129,7 @@
     "NewFeatures": [
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://www.thismodeldoesnotexist.co/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.thismodeldoesnotexist.co/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/5d17f58565ebaf442a492bc2125111aada2aac4e-1841x897.jpg",
     "ImageFormat": ".jpg"
   },
@@ -154,7 +154,7 @@
       "productivity"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://superhuman.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://superhuman.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ed34d4632a4660ec8446ebe132ea1346301c4138-1616x934.jpg",
     "ImageFormat": ".jpg"
   },
@@ -181,7 +181,7 @@
     "NewFeatures": [
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://ideasai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://ideasai.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/181982912bf3cb839702ca07446943d8f6054efa-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -206,7 +206,7 @@
       "developer tools"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.autoregex.xyz/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.autoregex.xyz/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0f3b13bf42f47436e641ceb20aeac88c6ec8eb86-1244x897.jpg",
     "ImageFormat": ".jpg"
   },
@@ -233,7 +233,7 @@
     "NewFeatures": [
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://experiments.withgoogle.com/collection/ai?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://experiments.withgoogle.com/collection/ai",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/daf655bcd4cd1517a5371b7f150ca62476012b54-1639x838.jpg",
     "ImageFormat": ".jpg"
   }

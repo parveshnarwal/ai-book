@@ -22,7 +22,7 @@
     "NewFeatures": [
       "Waitlist"
     ],
-    "WebsiteUrl": "https://flair.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://flair.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f0b12d9fde55060410b4a8b0189b1b755bc13647-1690x863.jpg",
     "ImageFormat": ".jpg"
   },
@@ -47,7 +47,7 @@
       "text to speech"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.apple.com/in/apple-books/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.apple.com/in/apple-books/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/b532d534a15ea29a509f1d1b201a08d5846ff3c3-1335x875.jpg",
     "ImageFormat": ".jpg"
   },
@@ -72,7 +72,7 @@
     "NewFeatures": [
       "Browser Extension"
     ],
-    "WebsiteUrl": "https://neeva.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://neeva.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/26963cea8319c9878eaaa9bf121037957e75959a-1641x932.jpg",
     "ImageFormat": ".jpg"
   },
@@ -97,7 +97,7 @@
       "video generator"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://shuffll.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://shuffll.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6cb7ba21a0e2eebb3ada35dcbbb246862e02ffb4-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -126,7 +126,7 @@
       "Discord Community",
       "API"
     ],
-    "WebsiteUrl": "https://tiledesk.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://tiledesk.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/91f93f824b8511651d1566649d3eac420a68cb08-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -152,7 +152,7 @@
       "productivity"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://krisp.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://krisp.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3e1260aee0769c695de989cea3c6237bddcb7f6f-2965x1491.png",
     "ImageFormat": ".png"
   },
@@ -177,7 +177,7 @@
       "developer tools"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://aws.amazon.com/codewhisperer/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://aws.amazon.com/codewhisperer/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a4c87221bbd05cb78c662a25d733c745c225ca96-1821x948.jpg",
     "ImageFormat": ".jpg"
   },
@@ -202,7 +202,7 @@
     "NewFeatures": [
       "Mobile App"
     ],
-    "WebsiteUrl": "https://socratic.org/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://socratic.org/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/a9bdcee6c9ee5e8a6f0d662eb038ba04bed3ef37-1920x977.png",
     "ImageFormat": ".png"
   },
@@ -229,7 +229,7 @@
     "NewFeatures": [
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://books.google.com/talktobooks/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://books.google.com/talktobooks/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4fe760a5e0e5191d3465685b2ab24b1e82068544-1680x876.png",
     "ImageFormat": ".png"
   }

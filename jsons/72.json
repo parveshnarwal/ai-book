@@ -20,7 +20,7 @@
     "NewFeatures": [
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://you.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://you.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/eb88a11678eaef6b5a000bba8c8ca7d216eda678-1920x1080.png",
     "ImageFormat": ".png"
   },
@@ -46,7 +46,7 @@
       "API",
       "Discord Community"
     ],
-    "WebsiteUrl": "https://www.designify.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.designify.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/2c5c84677d1b7d0bcc1e10f84eeb71c716f6c989-3757x1707.png",
     "ImageFormat": ".png"
   },
@@ -73,7 +73,7 @@
     "NewFeatures": [
       "Discord Community"
     ],
-    "WebsiteUrl": "https://lexica.art/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://lexica.art/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3b25373c8764758897e37dd4e7a8291ced00e2c0-1920x1080.png",
     "ImageFormat": ".png"
   },
@@ -98,7 +98,7 @@
     "NewFeatures": [
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://aisocialbio.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://aisocialbio.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ee4c3e2583aaff10425b3cd87c7d932121a6d795-1665x945.webp",
     "ImageFormat": ".webp"
   },
@@ -123,7 +123,7 @@
     "NewFeatures": [
       "Browser Extension"
     ],
-    "WebsiteUrl": "https://www.othersideai.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.othersideai.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/338a5f2db652f38cbe65cf64d57c554def9c6df6-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -146,7 +146,7 @@
       "low-code/no-code"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.mutinyhq.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.mutinyhq.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ba6b96a67d3e43b1dac3cc08d6b9bcee9b1524b4-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -169,7 +169,7 @@
       "email assistant"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.magicreach.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.magicreach.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/43adc1008062542267448ab47c0778ecf3a807c5-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -194,7 +194,7 @@
     "NewFeatures": [
       "Discord Community"
     ],
-    "WebsiteUrl": "https://www.aiva.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.aiva.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/47b4e4047d799b16bdc7b02177ea9f883e574062-1920x1080.png",
     "ImageFormat": ".png"
   },
@@ -219,7 +219,7 @@
     "NewFeatures": [
       "API"
     ],
-    "WebsiteUrl": "https://www.symanto.com/get-in-touch/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.symanto.com/get-in-touch/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1b4d6e4158f897d1c9cc37ad2d80e4ee57c39ee1-1714x891.jpg",
     "ImageFormat": ".jpg"
   }

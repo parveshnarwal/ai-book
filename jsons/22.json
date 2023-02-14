@@ -20,7 +20,7 @@
     "NewFeatures": [
       "Browser Extension"
     ],
-    "WebsiteUrl": "https://replai.so/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://replai.so/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e251cdf9e39319622207a570a88f09c4d993e941-1852x921.jpg",
     "ImageFormat": ".jpg"
   },
@@ -45,7 +45,7 @@
       "search engine"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://promptbase.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://promptbase.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f19b4a38bb79b884960e28e6e08fb8d26aa3bc33-3797x1767.png",
     "ImageFormat": ".png"
   },
@@ -73,7 +73,7 @@
       "Open Source",
       "Browser Extension"
     ],
-    "WebsiteUrl": "https://chatgptwriter.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://chatgptwriter.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8c4d1f902b8a2de017171cbf82e952f1ac45b498-1742x850.jpg",
     "ImageFormat": ".jpg"
   },
@@ -96,7 +96,7 @@
       "story teller"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.bedtimestory.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.bedtimestory.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/31955ae36d1d3824175b26f7e39290f6860bb095-1882x886.jpg",
     "ImageFormat": ".jpg"
   },
@@ -123,7 +123,7 @@
     "NewFeatures": [
       "API"
     ],
-    "WebsiteUrl": "https://generated.photos/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://generated.photos/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/58e88ffe1ce534d5ec8ae40da5dd799f16423301-3773x1793.png",
     "ImageFormat": ".png"
   },
@@ -146,7 +146,7 @@
       "startup tools"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.paperade.co/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.paperade.co/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8031eda65e02ef1fd8cef0adf5b25832de12e4b0-1780x850.jpg",
     "ImageFormat": ".jpg"
   },
@@ -171,7 +171,7 @@
       "email assistant"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://instantly.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://instantly.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/e093b4092f72b445394f908136a38c50cf460796-3709x1811.png",
     "ImageFormat": ".png"
   },
@@ -196,7 +196,7 @@
       "productivity"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://whispermemos.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://whispermemos.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8aa4bf24ca144e249a692543e8b6892de62b2182-1853x951.jpg",
     "ImageFormat": ".jpg"
   },
@@ -221,7 +221,7 @@
       "email assistant"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.quicklines.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.quicklines.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8b293228827c900aff1987a8e3c8a35d49705a5c-1870x936.jpg",
     "ImageFormat": ".jpg"
   }

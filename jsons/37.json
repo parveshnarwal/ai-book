@@ -22,7 +22,7 @@
     "NewFeatures": [
       "Mobile App"
     ],
-    "WebsiteUrl": "https://hello.fathom.fm?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://hello.fathom.fm",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/881f7adb5435ebc1a4ec052b81ca9feb77b63707-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -45,7 +45,7 @@
       "copywriting"
     ],
     "NewFeatures": null,
-    "WebsiteUrl": "https://localio.io?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://localio.io",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/1fef7068c81dd775eaf55968b4d9fb3a27d658c5-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -68,7 +68,7 @@
       "productivity"
     ],
     "NewFeatures": null,
-    "WebsiteUrl": "https://www.mightygpt.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.mightygpt.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0477ac489b44c9847da4efd75b8df944365ffeba-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -93,7 +93,7 @@
       "video generator"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://ebsynth.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://ebsynth.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ce002dd7a5234a33f13913d916d999e9ca29cfab-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -120,7 +120,7 @@
     "NewFeatures": [
       "Waitlist"
     ],
-    "WebsiteUrl": "https://www.clippah.co?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.clippah.co",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/876ed1dd81683aa78ad586ff7ab69d22eefb9c60-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -145,7 +145,7 @@
       "human resources"
     ],
     "NewFeatures": null,
-    "WebsiteUrl": "https://www.mgrworkbench.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.mgrworkbench.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/3244d2302b821059ac5038202ca171d79f347ec1-1846x920.jpg",
     "ImageFormat": ".jpg"
   },
@@ -170,7 +170,7 @@
     "NewFeatures": [
       "Waitlist"
     ],
-    "WebsiteUrl": "https://www.sermongpt.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.sermongpt.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/6376a370bec3905329f64345406340ba528459d7-1077x532.jpg",
     "ImageFormat": ".jpg"
   },
@@ -195,7 +195,7 @@
     "NewFeatures": [
       "Waitlist"
     ],
-    "WebsiteUrl": "https://drinkwater.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://drinkwater.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/f74f6af8b62e0fdbaab33f07b58c73efaa86b050-1813x901.jpg",
     "ImageFormat": ".jpg"
   },
@@ -222,7 +222,7 @@
       "SQL"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://rose.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://rose.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/df5509236b48b382885beafb10da4f4d99cc4f83-1680x876.png",
     "ImageFormat": ".png"
   }

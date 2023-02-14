@@ -20,7 +20,7 @@
     "NewFeatures": [
       "API"
     ],
-    "WebsiteUrl": "https://www.runpod.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.runpod.io/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/aa5b9ef3213e58cdc050f26aa4675976b94fb324-1838x930.jpg",
     "ImageFormat": ".jpg"
   },
@@ -43,7 +43,7 @@
       "avatars"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://pictodream.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://pictodream.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/94510eb89a4741d16111520a860ce6cbc2fc36d8-1869x940.jpg",
     "ImageFormat": ".jpg"
   },
@@ -68,7 +68,7 @@
     "NewFeatures": [
       "Browser Extension"
     ],
-    "WebsiteUrl": "https://www.compose.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.compose.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/458f183e5d7ff16961c6d75412220a568096d5b1-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -93,7 +93,7 @@
       "transcriber"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.contentfries.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.contentfries.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0c1b9babeb761d87deb7a9efff05874ae51eba4f-3683x1797.png",
     "ImageFormat": ".png"
   },
@@ -120,7 +120,7 @@
       "Discord Community",
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://freesubtitles.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://freesubtitles.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4181782423c44357d1aedf6858a5d3c54f32a471-1851x859.jpg",
     "ImageFormat": ".jpg"
   },
@@ -145,7 +145,7 @@
       "email assistant"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://getluna.dev/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://getluna.dev/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9075be9065a80e354f61428aea9bc2625e494ff6-1665x945.webp",
     "ImageFormat": ".webp"
   },
@@ -170,7 +170,7 @@
       "copywriting"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://gocharlie.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://gocharlie.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4591a64951f24ce36bf7a2a901bfb9e30ce38772-1665x945.webp",
     "ImageFormat": ".webp"
   },
@@ -195,7 +195,7 @@
     "NewFeatures": [
       "Waitlist"
     ],
-    "WebsiteUrl": "https://durable.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://durable.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8f171104ba38f933f3271e8aad3ac998d33be645-1920x1080.png",
     "ImageFormat": ".png"
   },
@@ -221,7 +221,7 @@
       "Open Source",
       "API"
     ],
-    "WebsiteUrl": "https://replicate.com/google-research/frame-interpolation?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://replicate.com/google-research/frame-interpolation",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d821bf94c365cb7f5cdf65ab94efb525f4951977-1821x903.jpg",
     "ImageFormat": ".jpg"
   }

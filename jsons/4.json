@@ -18,7 +18,7 @@
       "copywriting"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://jasper.ai?source=partner&fpr=futurepedia",
+    "WebsiteUrl": "https://jasper.ai",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/cfd9366784a7fda98637b46b46d03631667a0839-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -46,7 +46,7 @@
       "API",
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://www.wolframalpha.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.wolframalpha.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c708ae77a25d7a22aaff1acdbb416b0dfc43d7b1-1866x922.jpg",
     "ImageFormat": ".jpg"
   },
@@ -92,7 +92,7 @@
       "art"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.midjourney.com/home/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.midjourney.com/home/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/afda32dcc5d187ec74c83b1a1480a99e591bde0f-1196x681.jpg",
     "ImageFormat": ".jpg"
   },
@@ -119,7 +119,7 @@
     "NewFeatures": [
       "API"
     ],
-    "WebsiteUrl": "https://chat.openai.com/chat?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://chat.openai.com/chat",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/cb14850c361821a3f5d89231709be3a11205e1d7-1347x911.jpg",
     "ImageFormat": ".jpg"
   },
@@ -148,7 +148,7 @@
     "NewFeatures": [
       "Discord Community"
     ],
-    "WebsiteUrl": "https://capturelab.gg?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://capturelab.gg",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/9c6a06c76e01f7fdc94e8a4189c997f6f5337a53-1878x966.jpg",
     "ImageFormat": ".jpg"
   },
@@ -226,7 +226,7 @@
     "NewFeatures": [
       "Discord Community"
     ],
-    "WebsiteUrl": "https://creator.nightcafe.studio/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://creator.nightcafe.studio/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/44a038fd590c77e3b7de120ca860a8657cccfda5-1872x973.jpg",
     "ImageFormat": ".jpg"
   }

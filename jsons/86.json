@@ -20,7 +20,7 @@
     "NewFeatures": [
       "Mobile App"
     ],
-    "WebsiteUrl": "https://neural.cam/studio/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://neural.cam/studio/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/8d80027cd5b89c8b6be0f24f208a160a7ea9a66a-1665x930.webp",
     "ImageFormat": ".webp"
   },
@@ -47,7 +47,7 @@
     "NewFeatures": [
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://tweetemote.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://tweetemote.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/58ba72afbfc5ecb2f4f8b7e914ca8e81a9506e4e-1181x770.png",
     "ImageFormat": ".png"
   },
@@ -70,7 +70,7 @@
       "productivity"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://reclaim.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://reclaim.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4203b790464ce84d3fa203cbea2772542a5abfc4-1796x897.jpg",
     "ImageFormat": ".jpg"
   },
@@ -97,7 +97,7 @@
     "NewFeatures": [
       "Discord Community"
     ],
-    "WebsiteUrl": "https://www.krea.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.krea.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c623c68ca85e7607da81a70981da66111f6e9718-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -124,7 +124,7 @@
     "NewFeatures": [
       "Waitlist"
     ],
-    "WebsiteUrl": "https://opus.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://opus.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/35b50e7848831d15765d9118df9344f292793113-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -149,7 +149,7 @@
       "memory"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://mem.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://mem.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/723cd7df5c11b4664fcf1934c940032b9e080990-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -176,7 +176,7 @@
     "NewFeatures": [
       "API"
     ],
-    "WebsiteUrl": "https://nanonets.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://nanonets.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/44e9614523bc5b2b26029a3254a1062b9c1f213f-1871x942.jpg",
     "ImageFormat": ".jpg"
   },
@@ -201,7 +201,7 @@
       "email assistant"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://www.lavender.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.lavender.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7e696b35aad64de220df16c424db9486e7fd6baa-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -225,7 +225,7 @@
       "SEO"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://topicmojo.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://topicmojo.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/d284b9f868063b3a6b034e6490b8fb20fe1758a9-1871x881.jpg",
     "ImageFormat": ".jpg"
   }

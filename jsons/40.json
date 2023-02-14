@@ -20,7 +20,7 @@
     "NewFeatures": [
       "Browser Extension"
     ],
-    "WebsiteUrl": "https://aiseo.ai/?fpr=futurepedia",
+    "WebsiteUrl": "https://aiseo.ai/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/4819bc8ef171104090083662a9fc7e0656d510b7-1897x871.png",
     "ImageFormat": ".png"
   },
@@ -45,7 +45,7 @@
     "NewFeatures": [
       "Waitlist"
     ],
-    "WebsiteUrl": "https://artifact.news/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://artifact.news/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7fb007e76ce02d1e7c00be6a69dafac11799143d-1887x967.jpg",
     "ImageFormat": ".jpg"
   },
@@ -72,7 +72,7 @@
     "NewFeatures": [
       "Mobile App"
     ],
-    "WebsiteUrl": "https://chatgenius.tech/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://chatgenius.tech/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/65782174ec0f0503f53e903a5198e21173a7766a-1920x871.png",
     "ImageFormat": ".png"
   },
@@ -100,7 +100,7 @@
       "API",
       "Discord Community"
     ],
-    "WebsiteUrl": "https://www.steamship.com/build/prompt-apis?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.steamship.com/build/prompt-apis",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/0a8c7eb512494bec0fa5c17060b913a1da87cfdb-1872x971.jpg",
     "ImageFormat": ".jpg"
   },
@@ -126,7 +126,7 @@
       "Discord Community",
       "No Signup Required"
     ],
-    "WebsiteUrl": "https://www.juicelabs.co?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.juicelabs.co",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/11ec1744bb4f7e59fb572e4a91b38a0ef3111800-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -151,7 +151,7 @@
     "NewFeatures": [
       "API"
     ],
-    "WebsiteUrl": "https://voicemaker.in/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://voicemaker.in/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/c8acc05bb14a9e716b0c28f452825b55095f3753-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -174,7 +174,7 @@
       "spreadsheets"
     ],
     "NewFeatures": [],
-    "WebsiteUrl": "https://charm.shubhro.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://charm.shubhro.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/7b92e644be713d24969c0b31c36dcfe36e8e00ce-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -197,7 +197,7 @@
       "productivity"
     ],
     "NewFeatures": null,
-    "WebsiteUrl": "https://www.delibr.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://www.delibr.com/",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/94d81cd1697b3bb161f407b56f91327e5fc38a51-1680x876.png",
     "ImageFormat": ".png"
   },
@@ -222,7 +222,7 @@
     "NewFeatures": [
       "Mobile App"
     ],
-    "WebsiteUrl": "https://apps.apple.com/us/app/kayyo-ai-mma-trainer/id1635789596?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "WebsiteUrl": "https://apps.apple.com/us/app/kayyo-ai-mma-trainer/id1635789596",
     "ImageUrl": "https://cdn.sanity.io/images/u0v1th4q/production/ef1c7b5744df712cb2a1fd8207461d1172af6fb9-1680x876.png",
     "ImageFormat": ".png"
   }
